@@ -1,0 +1,74 @@
+minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+23,0.9009999847412109,0.26799999237060546,Serhou Guirassy,RightFoot,SavedShot,St. Pauli,Borussia Dortmund,Pascal Groß,0.06496751308441162
+24,0.97,0.40599998474121096,Pascal Groß,RightFoot,SavedShot,St. Pauli,Borussia Dortmund,Karim Adeyemi,0.4367899000644684
+33,0.9290000152587891,0.4620000076293945,Serhou Guirassy,Head,Goal,St. Pauli,Borussia Dortmund,Marcel Sabitzer,0.4553661048412323
+38,0.885,0.5,Serhou Guirassy,RightFoot,SavedShot,St. Pauli,Borussia Dortmund,,0.75777667760849
+46,0.7980000305175782,0.6029999923706054,Julian Brandt,LeftFoot,SavedShot,St. Pauli,Borussia Dortmund,Daniel Svensson,0.04090199992060661
+66,0.884000015258789,0.7230000305175781,Waldemar Anton,RightFoot,Goal,St. Pauli,Borussia Dortmund,Felix Nmecha,0.03027993254363537
+73,0.8980000305175782,0.36,Julian Brandt,RightFoot,Goal,St. Pauli,Borussia Dortmund,Pascal Groß,0.29798123240470886
+79,0.9219999694824219,0.585,Ramy Bensebaini,Head,MissedShots,St. Pauli,Borussia Dortmund,Daniel Svensson,0.018830502405762672
+15,0.9519999694824218,0.3089999961853027,Serhou Guirassy,RightFoot,MissedShots,Borussia Dortmund,Union Berlin,Yan Couto,0.05793808773159981
+22,0.8669999694824219,0.3529999923706055,Serhou Guirassy,RightFoot,SavedShot,Borussia Dortmund,Union Berlin,,0.3209680914878845
+35,0.77,0.29200000762939454,Yan Couto,RightFoot,BlockedShot,Borussia Dortmund,Union Berlin,,0.016811449080705643
+36,0.9269999694824219,0.5120000076293946,Serhou Guirassy,Head,BlockedShot,Borussia Dortmund,Union Berlin,Julian Brandt,0.06014404445886612
+38,0.9359999847412109,0.44599998474121094,Serhou Guirassy,LeftFoot,BlockedShot,Borussia Dortmund,Union Berlin,Julian Brandt,0.1443481147289276
+38,0.955,0.41700000762939454,Serhou Guirassy,Head,SavedShot,Borussia Dortmund,Union Berlin,,0.04649146646261215
+43,0.9459999847412109,0.5059999847412109,Serhou Guirassy,RightFoot,Goal,Borussia Dortmund,Union Berlin,Yan Couto,0.5765080451965332
+55,0.7709999847412109,0.46799999237060547,Serhou Guirassy,RightFoot,SavedShot,Borussia Dortmund,Union Berlin,Ramy Bensebaini,0.0786830335855484
+57,0.86,0.51,Serhou Guirassy,LeftFoot,Goal,Borussia Dortmund,Union Berlin,Maximilian Beier,0.36873137950897217
+78,0.865999984741211,0.35900001525878905,Marcel Sabitzer,RightFoot,MissedShots,Borussia Dortmund,Union Berlin,Julian Ryerson,0.09275935590267181
+80,0.865999984741211,0.5529999923706055,Felix Nmecha,RightFoot,Goal,Borussia Dortmund,Union Berlin,,0.06939111649990082
+0,0.9009999847412109,0.31,Karim Adeyemi,RightFoot,SavedShot,FC Heidenheim,Borussia Dortmund,Yan Couto,0.04901126027107239
+15,0.8080000305175781,0.3970000076293945,Pascal Groß,LeftFoot,BlockedShot,FC Heidenheim,Borussia Dortmund,Yan Couto,0.054188258945941925
+20,0.955999984741211,0.5770000076293945,Serhou Guirassy,RightFoot,SavedShot,FC Heidenheim,Borussia Dortmund,Pascal Groß,0.1410423219203949
+23,0.9590000152587891,0.4929999923706055,Serhou Guirassy,Head,SavedShot,FC Heidenheim,Borussia Dortmund,Daniel Svensson,0.593508243560791
+30,0.899000015258789,0.3390000152587891,Karim Adeyemi,LeftFoot,MissedShots,FC Heidenheim,Borussia Dortmund,Yan Couto,0.06515311449766159
+32,0.9319999694824219,0.5220000076293946,Serhou Guirassy,Head,Goal,FC Heidenheim,Borussia Dortmund,Julian Ryerson,0.42974451184272766
+35,0.96,0.700999984741211,Karim Adeyemi,LeftFoot,SavedShot,FC Heidenheim,Borussia Dortmund,Ramy Bensebaini,0.06002861261367798
+47,0.870999984741211,0.33799999237060546,Karim Adeyemi,LeftFoot,MissedShots,FC Heidenheim,Borussia Dortmund,,0.060302335768938065
+50,0.9159999847412109,0.5159999847412109,Maximilian Beier,RightFoot,Goal,FC Heidenheim,Borussia Dortmund,Karim Adeyemi,0.5338009595870972
+50,0.8440000152587891,0.46799999237060547,Pascal Groß,RightFoot,BlockedShot,FC Heidenheim,Borussia Dortmund,Felix Nmecha,0.09672945737838745
+55,0.88,0.7240000152587891,Maximilian Beier,RightFoot,MissedShots,FC Heidenheim,Borussia Dortmund,Daniel Svensson,0.05020385608077049
+64,0.9280000305175782,0.40799999237060547,Yan Couto,RightFoot,MissedShots,FC Heidenheim,Borussia Dortmund,Daniel Svensson,0.13035613298416138
+67,0.865,0.4620000076293945,Serhou Guirassy,RightFoot,SavedShot,FC Heidenheim,Borussia Dortmund,Jobe Bellingham,0.11274655908346176
+77,0.874000015258789,0.5770000076293945,Carney Chukwuemeka,RightFoot,MissedShots,FC Heidenheim,Borussia Dortmund,Felix Nmecha,0.12792575359344482
+82,0.82,0.575999984741211,Felix Nmecha,RightFoot,MissedShots,FC Heidenheim,Borussia Dortmund,Jobe Bellingham,0.07104624062776566
+89,0.9519999694824218,0.41200000762939454,Serhou Guirassy,RightFoot,SavedShot,FC Heidenheim,Borussia Dortmund,Cole Campbell,0.14615820348262787
+89,0.8690000152587891,0.4379999923706055,Cole Campbell,LeftFoot,BlockedShot,FC Heidenheim,Borussia Dortmund,Carney Chukwuemeka,0.1280488818883896
+1,0.8169999694824219,0.3509999847412109,Karim Adeyemi,LeftFoot,MissedShots,Borussia Dortmund,Wolfsburg,Marcel Sabitzer,0.039023950695991516
+4,0.8,0.4879999923706055,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,Wolfsburg,,0.032525233924388885
+4,0.7780000305175782,0.5929999923706055,Karim Adeyemi,LeftFoot,MissedShots,Borussia Dortmund,Wolfsburg,,0.031897708773612976
+19,0.7419999694824219,0.38099998474121094,Karim Adeyemi,LeftFoot,Goal,Borussia Dortmund,Wolfsburg,Julian Ryerson,0.017140233889222145
+27,0.9019999694824219,0.65,Karim Adeyemi,LeftFoot,MissedShots,Borussia Dortmund,Wolfsburg,Serhou Guirassy,0.09967022389173508
+33,0.9330000305175781,0.4829999923706055,Maximilian Beier,Head,MissedShots,Borussia Dortmund,Wolfsburg,Julian Ryerson,0.47105878591537476
+43,0.88,0.62,Maximilian Beier,RightFoot,SavedShot,Borussia Dortmund,Wolfsburg,,0.12484392523765564
+46,0.7869999694824219,0.39099998474121095,Karim Adeyemi,RightFoot,MissedShots,Borussia Dortmund,Wolfsburg,Marcel Sabitzer,0.04067346081137657
+46,0.899000015258789,0.47900001525878905,Maximilian Beier,Head,SavedShot,Borussia Dortmund,Wolfsburg,Julian Ryerson,0.06550386548042297
+54,0.9080000305175782,0.5379999923706055,Daniel Svensson,Head,MissedShots,Borussia Dortmund,Wolfsburg,Marcel Sabitzer,0.1239154189825058
+74,0.9569999694824218,0.5729999923706055,Felix Nmecha,Head,SavedShot,Borussia Dortmund,Wolfsburg,Julian Ryerson,0.11287656426429749
+86,0.9419999694824219,0.33299999237060546,Serhou Guirassy,RightFoot,BlockedShot,Borussia Dortmund,Wolfsburg,Julian Brandt,0.08937974274158478
+22,0.865999984741211,0.3370000076293945,Karim Adeyemi,LeftFoot,BlockedShot,Mainz 05,Borussia Dortmund,Nico Schlotterbeck,0.05140088498592377
+22,0.8919999694824219,0.4379999923706055,Yan Couto,Head,MissedShots,Mainz 05,Borussia Dortmund,Ramy Bensebaini,0.06090633198618889
+22,0.77,0.7030000305175781,Ramy Bensebaini,LeftFoot,SavedShot,Mainz 05,Borussia Dortmund,,0.010632534511387348
+26,0.9669999694824218,0.549000015258789,Daniel Svensson,LeftFoot,Goal,Mainz 05,Borussia Dortmund,Julian Brandt,0.7246509790420532
+32,0.9180000305175782,0.4329999923706055,Marcel Sabitzer,Head,MissedShots,Mainz 05,Borussia Dortmund,Yan Couto,0.042543210089206696
+39,0.8590000152587891,0.47200000762939454,Karim Adeyemi,LeftFoot,Goal,Mainz 05,Borussia Dortmund,Julian Brandt,0.48125776648521423
+47,0.8719999694824219,0.3120000076293945,Marcel Sabitzer,RightFoot,BlockedShot,Mainz 05,Borussia Dortmund,Karim Adeyemi,0.10971636325120926
+69,0.7609999847412109,0.7090000152587891,Julian Brandt,RightFoot,BlockedShot,Mainz 05,Borussia Dortmund,,0.04927666857838631
+87,0.8430000305175781,0.43200000762939456,Julian Brandt,RightFoot,MissedShots,Mainz 05,Borussia Dortmund,Fabio Silva,0.10687120258808136
+91,0.8630000305175781,0.45599998474121095,Julian Brandt,RightFoot,SavedShot,Mainz 05,Borussia Dortmund,Fabio Silva,0.1179347038269043
+3,0.9290000152587891,0.5029999923706054,Ramy Bensebaini,Head,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,Daniel Svensson,0.06143856421113014
+13,0.7880000305175782,0.3110000038146973,Marcel Sabitzer,RightFoot,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,,0.019685331732034683
+22,0.875999984741211,0.485,Yan Couto,LeftFoot,Goal,Borussia Dortmund,RasenBallsport Leipzig,Serhou Guirassy,0.10465109348297119
+41,0.7030000305175781,0.5459999847412109,Yan Couto,RightFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,,0.00944508332759142
+41,0.7809999847412109,0.40900001525878904,Waldemar Anton,LeftFoot,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,,0.019689226523041725
+47,0.7869999694824219,0.39099998474121095,Felix Nmecha,RightFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,Karim Adeyemi,0.028006160631775856
+50,0.8880000305175781,0.5359999847412109,Serhou Guirassy,RightFoot,SavedShot,Borussia Dortmund,RasenBallsport Leipzig,Yan Couto,0.0816744863986969
+52,0.7030000305175781,0.5120000076293946,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,Waldemar Anton,0.015467294491827488
+62,0.7819999694824219,0.6359999847412109,Karim Adeyemi,LeftFoot,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,Maximilian Beier,0.011883648112416267
+63,0.8619999694824219,0.3129999923706055,Marcel Sabitzer,RightFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,,0.07040929049253464
+81,0.8640000152587891,0.49400001525878906,Jobe Bellingham,RightFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,Pascal Groß,0.10113649815320969
+86,0.78,0.5120000076293946,Marcel Sabitzer,RightFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,Daniel Svensson,0.03682573139667511
+87,0.9269999694824219,0.38299999237060545,Julian Brandt,Head,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,Daniel Svensson,0.036440808326005936
+89,0.7780000305175782,0.5,Ramy Bensebaini,RightFoot,SavedShot,Borussia Dortmund,RasenBallsport Leipzig,,0.023986004292964935
+90,0.9769999694824218,0.7,Pascal Groß,RightFoot,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,,0.04924097657203674

@@ -1,0 +1,118 @@
+minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+3,0.9409999847412109,0.24700000762939453,Michael Olise,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Serge Gnabry,0.05909460783004761
+10,0.899000015258789,0.29399999618530276,Konrad Laimer,RightFoot,SavedShot,Bayern Munich,RasenBallsport Leipzig,Harry Kane,0.28661295771598816
+15,0.785,0.5579999923706055,Serge Gnabry,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Harry Kane,0.03585360199213028
+24,0.8640000152587891,0.43200000762939456,Harry Kane,RightFoot,MissedShots,Bayern Munich,RasenBallsport Leipzig,Joshua Kimmich,0.12117602676153183
+26,0.879000015258789,0.35400001525878905,Michael Olise,RightFoot,Goal,Bayern Munich,RasenBallsport Leipzig,,0.06916379928588867
+31,0.879000015258789,0.45799999237060546,Luis Díaz,RightFoot,Goal,Bayern Munich,RasenBallsport Leipzig,Serge Gnabry,0.4198751151561737
+35,0.784000015258789,0.28700000762939454,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,,0.058959171175956726
+35,0.924000015258789,0.32799999237060545,Harry Kane,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,,0.05382798612117767
+39,0.8340000152587891,0.5620000076293945,Serge Gnabry,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Luis Díaz,0.10655874013900757
+41,0.914000015258789,0.43,Michael Olise,LeftFoot,Goal,Bayern Munich,RasenBallsport Leipzig,Serge Gnabry,0.43276408314704895
+50,0.9359999847412109,0.5790000152587891,Leon Goretzka,Head,MissedShots,Bayern Munich,RasenBallsport Leipzig,Joshua Kimmich,0.08298436552286148
+59,0.7569999694824219,0.3990000152587891,Michael Olise,LeftFoot,MissedShots,Bayern Munich,RasenBallsport Leipzig,Joshua Kimmich,0.03839855641126633
+63,0.955,0.5870000076293945,Harry Kane,RightFoot,Goal,Bayern Munich,RasenBallsport Leipzig,Luis Díaz,0.6798102855682373
+73,0.85,0.7190000152587891,Harry Kane,RightFoot,Goal,Bayern Munich,RasenBallsport Leipzig,Luis Díaz,0.05273452028632164
+77,0.9259999847412109,0.6270000076293946,Harry Kane,LeftFoot,Goal,Bayern Munich,RasenBallsport Leipzig,Kim Min-Jae,0.3288537859916687
+79,0.76,0.40299999237060546,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,RasenBallsport Leipzig,Sacha Boey,0.034763552248477936
+80,0.8,0.20299999237060548,Joshua Kimmich,RightFoot,MissedShots,Bayern Munich,RasenBallsport Leipzig,Michael Olise,0.017178764566779137
+86,0.81,0.2510000038146973,Lennart Karl,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Luis Díaz,0.044700074940919876
+91,0.945,0.32099998474121094,Lennart Karl,RightFoot,SavedShot,Bayern Munich,RasenBallsport Leipzig,,0.3787173926830292
+2,0.8080000305175781,0.33099998474121095,Michael Olise,LeftFoot,SavedShot,Augsburg,Bayern Munich,,0.26495444774627686
+5,0.8480000305175781,0.4779999923706055,Konrad Laimer,LeftFoot,BlockedShot,Augsburg,Bayern Munich,,0.0708450973033905
+11,0.774000015258789,0.295,Serge Gnabry,RightFoot,MissedShots,Augsburg,Bayern Munich,,0.014599351212382317
+15,0.8530000305175781,0.705,Luis Díaz,RightFoot,MissedShots,Augsburg,Bayern Munich,Michael Olise,0.034382812678813934
+27,0.9159999847412109,0.4779999923706055,Serge Gnabry,Head,Goal,Augsburg,Bayern Munich,Harry Kane,0.40905410051345825
+32,0.8490000152587891,0.265,Michael Olise,LeftFoot,SavedShot,Augsburg,Bayern Munich,Konrad Laimer,0.03736910969018936
+39,0.845,0.625999984741211,Josip Stanisic,LeftFoot,MissedShots,Augsburg,Bayern Munich,,0.07055993378162384
+46,0.8880000305175781,0.6509999847412109,Leon Goretzka,RightFoot,SavedShot,Augsburg,Bayern Munich,Harry Kane,0.10144813358783722
+47,0.885,0.5429999923706055,Michael Olise,RightFoot,Goal,Augsburg,Bayern Munich,Harry Kane,0.29185524582862854
+48,0.925,0.4570000076293945,Luis Díaz,LeftFoot,Goal,Augsburg,Bayern Munich,Konrad Laimer,0.5405349731445312
+50,0.9069999694824219,0.38799999237060545,Konrad Laimer,RightFoot,SavedShot,Augsburg,Bayern Munich,Harry Kane,0.4404054880142212
+55,0.8040000152587891,0.34,Michael Olise,LeftFoot,BlockedShot,Augsburg,Bayern Munich,Luis Díaz,0.033771343529224396
+66,0.9590000152587891,0.705,Luis Díaz,LeftFoot,MissedShots,Augsburg,Bayern Munich,Serge Gnabry,0.07014427334070206
+76,0.89,0.355,Michael Olise,LeftFoot,SavedShot,Augsburg,Bayern Munich,,0.347354531288147
+76,0.8130000305175781,0.3770000076293945,Sacha Boey,LeftFoot,MissedShots,Augsburg,Bayern Munich,,0.04310408607125282
+86,0.965999984741211,0.585,Dayotchanculle Upamecano,Head,SavedShot,Augsburg,Bayern Munich,Joshua Kimmich,0.1107073575258255
+93,0.9019999694824219,0.44799999237060545,Luis Díaz,RightFoot,BlockedShot,Augsburg,Bayern Munich,Michael Olise,0.13505972921848297
+93,0.9230000305175782,0.46099998474121096,Luis Díaz,RightFoot,BlockedShot,Augsburg,Bayern Munich,,0.15179112553596497
+101,0.9169999694824219,0.6120000076293945,Luis Díaz,RightFoot,SavedShot,Augsburg,Bayern Munich,Joshua Kimmich,0.1338035762310028
+102,0.860999984741211,0.4879999923706055,Michael Olise,LeftFoot,BlockedShot,Augsburg,Bayern Munich,Raphael Guerreiro,0.10896261781454086
+1,0.8959999847412109,0.18299999237060546,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Hamburger SV,,0.0640980675816536
+2,0.9019999694824219,0.2510000038146973,Serge Gnabry,RightFoot,Goal,Bayern Munich,Hamburger SV,Konrad Laimer,0.028756460174918175
+8,0.9259999847412109,0.3770000076293945,Aleksandar Pavlovic,RightFoot,Goal,Bayern Munich,Hamburger SV,Harry Kane,0.3829314112663269
+12,0.8090000152587891,0.5170000076293946,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Hamburger SV,Harry Kane,0.14097371697425842
+20,0.9769999694824218,0.6079999923706054,Luis Díaz,RightFoot,SavedShot,Bayern Munich,Hamburger SV,Harry Kane,0.15121322870254517
+25,0.885,0.5,Harry Kane,RightFoot,Goal,Bayern Munich,Hamburger SV,,0.75777667760849
+28,0.7719999694824219,0.6659999847412109,Luis Díaz,RightFoot,Goal,Bayern Munich,Hamburger SV,Joshua Kimmich,0.021683216094970703
+30,0.919000015258789,0.605,Luis Díaz,LeftFoot,MissedShots,Bayern Munich,Hamburger SV,Konrad Laimer,0.40657147765159607
+32,0.9059999847412109,0.7430000305175781,Serge Gnabry,RightFoot,BlockedShot,Bayern Munich,Hamburger SV,Konrad Laimer,0.03272626921534538
+37,0.6519999694824219,0.435,Luis Díaz,RightFoot,SavedShot,Bayern Munich,Hamburger SV,Serge Gnabry,0.011147848330438137
+38,0.7809999847412109,0.4209999847412109,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Hamburger SV,Luis Díaz,0.04358614608645439
+40,0.8119999694824219,0.4909999847412109,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Hamburger SV,Harry Kane,0.07174289971590042
+45,0.905,0.27299999237060546,Joshua Kimmich,RightFoot,MissedShots,Bayern Munich,Hamburger SV,Konrad Laimer,0.06038498133420944
+46,0.86,0.27700000762939453,Konrad Laimer,RightFoot,BlockedShot,Bayern Munich,Hamburger SV,Joshua Kimmich,0.05126333609223366
+56,0.79,0.3290000152587891,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Hamburger SV,Nicolas Jackson,0.026065977290272713
+61,0.8680000305175781,0.44299999237060544,Harry Kane,RightFoot,Goal,Bayern Munich,Hamburger SV,Michael Olise,0.34382808208465576
+65,0.749000015258789,0.33,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Hamburger SV,Joshua Kimmich,0.028384042903780937
+70,0.9490000152587891,0.3039999961853027,Nicolas Jackson,RightFoot,SavedShot,Bayern Munich,Hamburger SV,Joshua Kimmich,0.08011694252490997
+70,0.9519999694824218,0.495,Tom Bischof,Head,MissedShots,Bayern Munich,Hamburger SV,,0.1170239970088005
+75,0.7330000305175781,0.5259999847412109,Tom Bischof,LeftFoot,MissedShots,Bayern Munich,Hamburger SV,,0.05679963156580925
+84,0.8540000152587891,0.43200000762939456,Lennart Karl,LeftFoot,MissedShots,Bayern Munich,Hamburger SV,Konrad Laimer,0.11756458878517151
+89,0.7930000305175782,0.6909999847412109,Michael Olise,RightFoot,BlockedShot,Bayern Munich,Hamburger SV,Joshua Kimmich,0.042540665715932846
+15,0.769000015258789,0.624000015258789,Harry Kane,LeftFoot,SavedShot,Hoffenheim,Bayern Munich,,0.020495837554335594
+31,0.8430000305175781,0.195,Lennart Karl,LeftFoot,SavedShot,Hoffenheim,Bayern Munich,Luis Díaz,0.01456537190824747
+40,0.7380000305175781,0.6270000076293946,Nicolas Jackson,RightFoot,SavedShot,Hoffenheim,Bayern Munich,Konrad Laimer,0.017673851922154427
+43,0.894000015258789,0.40900001525878904,Harry Kane,RightFoot,Goal,Hoffenheim,Bayern Munich,Lennart Karl,0.04941040650010109
+45,0.8769999694824219,0.6709999847412109,Lennart Karl,LeftFoot,MissedShots,Hoffenheim,Bayern Munich,,0.06939181685447693
+45,0.8130000305175781,0.435,Sacha Boey,LeftFoot,BlockedShot,Hoffenheim,Bayern Munich,Lennart Karl,0.07183824479579926
+47,0.885,0.5,Harry Kane,RightFoot,Goal,Hoffenheim,Bayern Munich,,0.75777667760849
+50,0.8619999694824219,0.7019999694824218,Luis Díaz,RightFoot,BlockedShot,Hoffenheim,Bayern Munich,Harry Kane,0.05402826890349388
+54,0.9119999694824219,0.6359999847412109,Luis Díaz,RightFoot,MissedShots,Hoffenheim,Bayern Munich,Lennart Karl,0.1164604127407074
+76,0.885,0.5,Harry Kane,RightFoot,Goal,Hoffenheim,Bayern Munich,,0.75777667760849
+87,0.8140000152587891,0.500999984741211,Harry Kane,RightFoot,BlockedShot,Hoffenheim,Bayern Munich,Konrad Laimer,0.08595159649848938
+91,0.805,0.4209999847412109,Michael Olise,LeftFoot,BlockedShot,Hoffenheim,Bayern Munich,,0.12616683542728424
+94,0.9080000305175782,0.3,Konrad Laimer,RightFoot,SavedShot,Hoffenheim,Bayern Munich,Luis Díaz,0.07795281708240509
+94,0.8,0.6370000076293946,Harry Kane,RightFoot,BlockedShot,Hoffenheim,Bayern Munich,Tom Bischof,0.044198181480169296
+97,0.8880000305175781,0.664000015258789,Luis Díaz,RightFoot,SavedShot,Hoffenheim,Bayern Munich,,0.05231855437159538
+97,0.8809999847412109,0.40900001525878904,Luis Díaz,RightFoot,ShotOnPost,Hoffenheim,Bayern Munich,Konrad Laimer,0.31731316447257996
+98,0.7959999847412109,0.5070000076293946,Joshua Kimmich,RightFoot,SavedShot,Hoffenheim,Bayern Munich,Luis Díaz,0.03442394360899925
+98,0.9640000152587891,0.3240000152587891,Serge Gnabry,RightFoot,Goal,Hoffenheim,Bayern Munich,,0.04811817407608032
+2,0.8630000305175781,0.5670000076293945,Harry Kane,LeftFoot,MissedShots,Bayern Munich,Werder Bremen,Michael Olise,0.09415905922651291
+4,0.9069999694824219,0.5359999847412109,Harry Kane,RightFoot,SavedShot,Bayern Munich,Werder Bremen,Michael Olise,0.12198439985513687
+7,0.8640000152587891,0.47700000762939454,Luis Díaz,Head,MissedShots,Bayern Munich,Werder Bremen,Sacha Boey,0.026412157341837883
+8,0.5709999847412109,0.115,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Werder Bremen,Dayotchanculle Upamecano,0.008207477629184723
+15,0.75,0.37,Leon Goretzka,RightFoot,BlockedShot,Bayern Munich,Werder Bremen,,0.018147943541407585
+21,0.9130000305175782,0.4979999923706055,Jonathan Tah,RightFoot,Goal,Bayern Munich,Werder Bremen,Michael Olise,0.09066862612962723
+25,0.88,0.6329999923706054,Harry Kane,LeftFoot,SavedShot,Bayern Munich,Werder Bremen,Leon Goretzka,0.10024191439151764
+37,0.8159999847412109,0.49599998474121093,Tom Bischof,LeftFoot,BlockedShot,Bayern Munich,Werder Bremen,,0.07089948654174805
+38,0.960999984741211,0.4929999923706055,Harry Kane,RightFoot,BlockedShot,Bayern Munich,Werder Bremen,Leon Goretzka,0.7798081040382385
+40,0.7719999694824219,0.27299999237060546,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Werder Bremen,Tom Bischof,0.024591464549303055
+44,0.885,0.5,Harry Kane,RightFoot,Goal,Bayern Munich,Werder Bremen,,0.75777667760849
+46,0.735999984741211,0.34299999237060547,Serge Gnabry,RightFoot,SavedShot,Bayern Munich,Werder Bremen,Konrad Laimer,0.02463690936565399
+53,0.7140000152587891,0.49200000762939455,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Werder Bremen,Harry Kane,0.01588713936507702
+60,0.8119999694824219,0.34299999237060547,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Werder Bremen,Tom Bischof,0.04103138670325279
+62,0.874000015258789,0.36400001525878906,Sacha Boey,RightFoot,BlockedShot,Bayern Munich,Werder Bremen,Michael Olise,0.10008940100669861
+64,0.830999984741211,0.6930000305175781,Luis Díaz,RightFoot,MissedShots,Bayern Munich,Werder Bremen,Konrad Laimer,0.05168033018708229
+64,0.895,0.4859999847412109,Harry Kane,RightFoot,Goal,Bayern Munich,Werder Bremen,Luis Díaz,0.4797327518463135
+73,0.8519999694824218,0.6669999694824219,Luis Díaz,RightFoot,MissedShots,Bayern Munich,Werder Bremen,Konrad Laimer,0.06773943454027176
+76,0.8580000305175781,0.22600000381469726,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Werder Bremen,Sacha Boey,0.024570420384407043
+76,0.9330000305175781,0.40900001525878904,Michael Olise,RightFoot,SavedShot,Bayern Munich,Werder Bremen,Raphael Guerreiro,0.4968714714050293
+82,0.8440000152587891,0.37799999237060544,Nicolas Jackson,RightFoot,SavedShot,Bayern Munich,Werder Bremen,Luis Díaz,0.2631548047065735
+82,0.8530000305175781,0.514000015258789,Raphael Guerreiro,LeftFoot,BlockedShot,Bayern Munich,Werder Bremen,Konrad Laimer,0.12661905586719513
+86,0.7919999694824219,0.5259999847412109,Tom Bischof,LeftFoot,BlockedShot,Bayern Munich,Werder Bremen,Nicolas Jackson,0.05902184173464775
+86,0.955,0.615,Konrad Laimer,LeftFoot,Goal,Bayern Munich,Werder Bremen,Tom Bischof,0.3946045935153961
+91,0.9009999847412109,0.7080000305175781,Wisdom Mike,LeftFoot,SavedShot,Bayern Munich,Werder Bremen,Konrad Laimer,0.07564214617013931
+92,0.8019999694824219,0.7269999694824218,Wisdom Mike,RightFoot,MissedShots,Bayern Munich,Werder Bremen,Raphael Guerreiro,0.02920498698949814
+0,0.950999984741211,0.54,Luis Díaz,LeftFoot,Goal,Eintracht Frankfurt,Bayern Munich,Serge Gnabry,0.5539280772209167
+26,0.794000015258789,0.35400001525878905,Harry Kane,RightFoot,Goal,Eintracht Frankfurt,Bayern Munich,Luis Díaz,0.03959836810827255
+30,0.89,0.6830000305175781,Luis Díaz,RightFoot,MissedShots,Eintracht Frankfurt,Bayern Munich,Konrad Laimer,0.07826965302228928
+43,0.82,0.2610000038146973,Serge Gnabry,RightFoot,MissedShots,Eintracht Frankfurt,Bayern Munich,Michael Olise,0.03165970742702484
+49,0.8640000152587891,0.4829999923706055,Serge Gnabry,RightFoot,MissedShots,Eintracht Frankfurt,Bayern Munich,Luis Díaz,0.3671952784061432
+53,0.889000015258789,0.5520000076293945,Serge Gnabry,LeftFoot,BlockedShot,Eintracht Frankfurt,Bayern Munich,,0.11040918529033661
+54,0.9209999847412109,0.47299999237060547,Dayotchanculle Upamecano,RightFoot,MissedShots,Eintracht Frankfurt,Bayern Munich,,0.06620890647172928
+54,0.9569999694824218,0.580999984741211,Harry Kane,RightFoot,ShotOnPost,Eintracht Frankfurt,Bayern Munich,Dayotchanculle Upamecano,0.4639088809490204
+60,0.8419999694824218,0.55,Serge Gnabry,LeftFoot,BlockedShot,Eintracht Frankfurt,Bayern Munich,Luis Díaz,0.11177699267864227
+63,0.754000015258789,0.5670000076293945,Joshua Kimmich,RightFoot,BlockedShot,Eintracht Frankfurt,Bayern Munich,Harry Kane,0.025384221225976944
+83,0.9330000305175781,0.6719999694824219,Luis Díaz,LeftFoot,Goal,Eintracht Frankfurt,Bayern Munich,Raphael Guerreiro,0.40149012207984924
+92,0.924000015258789,0.669000015258789,Jonathan Tah,Head,BlockedShot,Eintracht Frankfurt,Bayern Munich,Michael Olise,0.010985353030264378
