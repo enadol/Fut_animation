@@ -18,7 +18,7 @@ own_goals_against=[]
 own_goals_for=[]
 
 
-club="Borussia Dortmund"
+club="Eintracht Frankfurt"
 
 
 async def main():
