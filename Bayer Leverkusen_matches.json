@@ -1,0 +1,182 @@
+[
+    {
+        "id": "30226",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.05253",
+            "a": "0.505193"
+        },
+        "datetime": "2025-08-23 13:30:00",
+        "forecast": {
+            "w": 0.48645416076388465,
+            "d": 0.33840224584945294,
+            "l": 0.17514359338604676
+        },
+        "result": "l"
+    },
+    {
+        "id": "30236",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.32676",
+            "a": "2.03733"
+        },
+        "datetime": "2025-08-30 13:30:00",
+        "forecast": {
+            "w": 0.4555811174215874,
+            "d": 0.19578251609455083,
+            "l": 0.3486363338918292
+        },
+        "result": "d"
+    },
+    {
+        "id": "30242",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.31465",
+            "a": "0.791863"
+        },
+        "datetime": "2025-09-12 18:30:00",
+        "forecast": {
+            "w": 0.7157124645478203,
+            "d": 0.17298044628463086,
+            "l": 0.11130706330314015
+        },
+        "result": "w"
+    },
+    {
+        "id": "30258",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.9461",
+            "a": "1.29876"
+        },
+        "datetime": "2025-09-21 15:30:00",
+        "forecast": {
+            "w": 0.5251748877812907,
+            "d": 0.22026812066373078,
+            "l": 0.254556988841769
+        },
+        "result": "d"
+    },
+    {
+        "id": "30263",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.813325",
+            "a": "1.28912"
+        },
+        "datetime": "2025-09-27 13:30:00",
+        "forecast": {
+            "w": 0.23526439477351702,
+            "d": 0.28798635144973367,
+            "l": 0.4767492537663978
+        },
+        "result": "w"
+    },
+    {
+        "id": "30269",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.35673",
+            "a": "1.19684"
+        },
+        "datetime": "2025-10-04 13:30:00",
+        "forecast": {
+            "w": 0.7839428372467179,
+            "d": 0.11990426608515106,
+            "l": 0.09615029645309106
+        },
+        "result": "w"
+    }
+]

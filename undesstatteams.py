@@ -18,7 +18,11 @@ own_goals_against=[]
 own_goals_for=[]
 
 
-club="RasenBallsport Leipzig"
+#club="Bayer Leverkusen"
+with open('club_name.txt', 'r') as f:
+    club=f.read()
+    f.close()
+print(club)
 
 
 async def main():
