@@ -1,0 +1,182 @@
+[
+    {
+        "id": "30224",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.29885",
+            "a": "0.52226"
+        },
+        "datetime": "2025-08-22 18:30:00",
+        "forecast": {
+            "w": 0.8900577384272623,
+            "d": 0.079364402800771,
+            "l": 0.030575745650069434
+        },
+        "result": "l"
+    },
+    {
+        "id": "30235",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.29717",
+            "a": "0.969982"
+        },
+        "datetime": "2025-08-30 13:30:00",
+        "forecast": {
+            "w": 0.8162824432981991,
+            "d": 0.11036545061659955,
+            "l": 0.07335000578999956
+        },
+        "result": "w"
+    },
+    {
+        "id": "30245",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.770276",
+            "a": "1.5009"
+        },
+        "datetime": "2025-09-13 13:30:00",
+        "forecast": {
+            "w": 0.19207529046243535,
+            "d": 0.2617357224890783,
+            "l": 0.5461889869654065
+        },
+        "result": "w"
+    },
+    {
+        "id": "30256",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.79591",
+            "a": "1.39264"
+        },
+        "datetime": "2025-09-20 16:30:00",
+        "forecast": {
+            "w": 0.8014068943307756,
+            "d": 0.10638878770725847,
+            "l": 0.09219335265426365
+        },
+        "result": "w"
+    },
+    {
+        "id": "30264",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.59654",
+            "a": "2.61107"
+        },
+        "datetime": "2025-09-27 13:30:00",
+        "forecast": {
+            "w": 0.40771997811247795,
+            "d": 0.17960661685917975,
+            "l": 0.4126731736630406
+        },
+        "result": "w"
+    },
+    {
+        "id": "30271",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.668613",
+            "a": "1.14077"
+        },
+        "datetime": "2025-10-04 13:30:00",
+        "forecast": {
+            "w": 0.21539974095081782,
+            "d": 0.31459099261646734,
+            "l": 0.4700092664308175
+        },
+        "result": "d"
+    }
+]
