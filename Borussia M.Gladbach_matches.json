@@ -1,0 +1,212 @@
+[
+    {
+        "id": "30232",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.01717",
+            "a": "0.285593"
+        },
+        "datetime": "2025-08-24 15:30:00",
+        "forecast": {
+            "w": 0.5404799989788588,
+            "d": 0.3566531806397445,
+            "l": 0.10286682038101573
+        },
+        "result": "d"
+    },
+    {
+        "id": "30237",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.925105",
+            "a": "1.60717"
+        },
+        "datetime": "2025-08-30 13:30:00",
+        "forecast": {
+            "w": 0.2167944370108969,
+            "d": 0.24954121666334506,
+            "l": 0.5336643461157125
+        },
+        "result": "l"
+    },
+    {
+        "id": "30250",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "0",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.58932",
+            "a": "2.24671"
+        },
+        "datetime": "2025-09-14 15:30:00",
+        "forecast": {
+            "w": 0.2716717296433094,
+            "d": 0.20176025557627653,
+            "l": 0.5265679969789312
+        },
+        "result": "l"
+    },
+    {
+        "id": "30258",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.9461",
+            "a": "1.29876"
+        },
+        "datetime": "2025-09-21 15:30:00",
+        "forecast": {
+            "w": 0.5251748877812907,
+            "d": 0.22026812066373078,
+            "l": 0.254556988841769
+        },
+        "result": "d"
+    },
+    {
+        "id": "30265",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "4",
+            "a": "6"
+        },
+        "xG": {
+            "h": "2.12935",
+            "a": "3.78879"
+        },
+        "datetime": "2025-09-27 16:30:00",
+        "forecast": {
+            "w": 0.18267240915175548,
+            "d": 0.13527788124754292,
+            "l": 0.6820389698492518
+        },
+        "result": "l"
+    },
+    {
+        "id": "30270",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.471184",
+            "a": "0.689073"
+        },
+        "datetime": "2025-10-05 17:30:00",
+        "forecast": {
+            "w": 0.21836773702156762,
+            "d": 0.4237258998760793,
+            "l": 0.3579063631023514
+        },
+        "result": "d"
+    },
+    {
+        "id": "30285",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.53032",
+            "a": "0.628848"
+        },
+        "datetime": "2025-10-17 18:30:00",
+        "forecast": {
+            "w": 0.5920005072188412,
+            "d": 0.2562540861172892,
+            "l": 0.15174540655572433
+        },
+        "result": "l"
+    }
+]

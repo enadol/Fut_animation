@@ -1,0 +1,89 @@
+minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+8,0.9109999847412109,0.4379999923706055,Andrej Ilic,Head,MissedShots,Union Berlin,VfB Stuttgart,Christopher Trimmel,0.021803073585033417
+17,0.750999984741211,0.549000015258789,Ilyas Ansah,RightFoot,Goal,Union Berlin,VfB Stuttgart,,0.019161006435751915
+39,0.754000015258789,0.5740000152587891,Robert Skov,LeftFoot,MissedShots,Union Berlin,VfB Stuttgart,,0.032468199729919434
+48,0.8619999694824219,0.46,Ilyas Ansah,RightFoot,Goal,Union Berlin,VfB Stuttgart,Andrej Ilic,0.0732509046792984
+55,0.850999984741211,0.4420000076293945,Tom Rothe,LeftFoot,MissedShots,Union Berlin,VfB Stuttgart,Robert Skov,0.08000954240560532
+55,0.855,0.47700000762939454,Danilho Doekhi,LeftFoot,BlockedShot,Union Berlin,VfB Stuttgart,Tom Rothe,0.07666545361280441
+68,0.9119999694824219,0.500999984741211,Andrej Ilic,RightFoot,MissedShots,Union Berlin,VfB Stuttgart,Danilho Doekhi,0.1342596709728241
+94,0.915,0.505,Leopold Querfeld,Head,MissedShots,Union Berlin,VfB Stuttgart,Josip Juranovic,0.09793679416179657
+3,0.9180000305175782,0.5770000076293945,Andrej Ilic,Head,MissedShots,Borussia Dortmund,Union Berlin,Christopher Trimmel,0.09385769069194794
+5,0.7530000305175781,0.25799999237060545,Christopher Trimmel,RightFoot,MissedShots,Borussia Dortmund,Union Berlin,Ilyas Ansah,0.012812618166208267
+32,0.7730000305175782,0.485,Janik Haberer,RightFoot,BlockedShot,Borussia Dortmund,Union Berlin,Ilyas Ansah,0.026138760149478912
+33,0.8959999847412109,0.54,Danilho Doekhi,Head,BlockedShot,Borussia Dortmund,Union Berlin,Christopher Trimmel,0.055175598710775375
+41,0.86,0.7180000305175781,Andrej Ilic,RightFoot,MissedShots,Borussia Dortmund,Union Berlin,,0.41319555044174194
+46,0.9330000305175781,0.505,Andrej Ilic,Head,SavedShot,Borussia Dortmund,Union Berlin,Christopher Trimmel,0.06602270901203156
+47,0.919000015258789,0.5520000076293945,Andrej Ilic,Head,MissedShots,Borussia Dortmund,Union Berlin,Christopher Trimmel,0.03358783200383186
+47,0.975999984741211,0.6029999923706054,Tom Rothe,LeftFoot,SavedShot,Borussia Dortmund,Union Berlin,Andrej Ilic,0.09598379582166672
+62,0.81,0.41900001525878905,Janik Haberer,RightFoot,BlockedShot,Borussia Dortmund,Union Berlin,,0.032842207700014114
+83,0.915,0.42700000762939455,Leopold Querfeld,Head,SavedShot,Borussia Dortmund,Union Berlin,Aljoscha Kemlein,0.02014651708304882
+91,0.7019999694824218,0.5879999923706055,Leopold Querfeld,RightFoot,MissedShots,Borussia Dortmund,Union Berlin,,0.038927748799324036
+92,0.924000015258789,0.5120000076293946,Andrej Ilic,Head,MissedShots,Borussia Dortmund,Union Berlin,Woo-Yeong Jeong,0.0856994166970253
+4,0.7709999847412109,0.36400001525878906,Ilyas Ansah,RightFoot,BlockedShot,Union Berlin,Hoffenheim,Oliver Burke,0.04454461857676506
+11,0.915,0.485,Oliver Burke,Head,MissedShots,Union Berlin,Hoffenheim,Ilyas Ansah,0.11861100792884827
+18,0.8930000305175781,0.195,Oliver Burke,RightFoot,BlockedShot,Union Berlin,Hoffenheim,Rani Khedira,0.3569510579109192
+26,0.725,0.41900001525878905,Oliver Burke,RightFoot,MissedShots,Union Berlin,Hoffenheim,,0.01072984840720892
+26,0.909000015258789,0.5070000076293946,Danilho Doekhi,Head,MissedShots,Union Berlin,Hoffenheim,Oliver Burke,0.03443789854645729
+28,0.82,0.46599998474121096,Janik Haberer,RightFoot,BlockedShot,Union Berlin,Hoffenheim,Oliver Burke,0.04958266392350197
+40,0.9209999847412109,0.49400001525878906,Andrej Ilic,Head,MissedShots,Union Berlin,Hoffenheim,Christopher Trimmel,0.05157022550702095
+46,0.9019999694824219,0.47400001525878904,Andrej Ilic,LeftFoot,MissedShots,Union Berlin,Hoffenheim,Danilho Doekhi,0.09189159423112869
+48,0.98,0.49700000762939456,Andrej Ilic,RightFoot,SavedShot,Union Berlin,Hoffenheim,,0.9209071397781372
+48,0.9890000152587891,0.48,Ilyas Ansah,RightFoot,Goal,Union Berlin,Hoffenheim,,0.9599747657775879
+64,0.9309999847412109,0.415,Tom Rothe,Head,MissedShots,Union Berlin,Hoffenheim,Christopher Trimmel,0.0238057728856802
+70,0.92,0.47400001525878904,Andrej Ilic,Head,BlockedShot,Union Berlin,Hoffenheim,Christopher Trimmel,0.046855948865413666
+70,0.9569999694824218,0.5229999923706055,Danilho Doekhi,RightFoot,BlockedShot,Union Berlin,Hoffenheim,,0.1259220391511917
+70,0.9280000305175782,0.5129999923706055,Tom Rothe,LeftFoot,Goal,Union Berlin,Hoffenheim,,0.5288674235343933
+84,0.9540000152587891,0.48200000762939454,Danilho Doekhi,OtherBodyPart,MissedShots,Union Berlin,Hoffenheim,Christopher Trimmel,0.15293794870376587
+86,0.8169999694824219,0.6370000076293946,Derrick Köhn,LeftFoot,MissedShots,Union Berlin,Hoffenheim,,0.017493881285190582
+89,0.7659999847412109,0.710999984741211,Alex Kral,RightFoot,SavedShot,Union Berlin,Hoffenheim,Aljoscha Kemlein,0.01843845099210739
+89,0.960999984741211,0.5790000152587891,Andrej Ilic,LeftFoot,SavedShot,Union Berlin,Hoffenheim,,0.4031321704387665
+89,0.889000015258789,0.6559999847412109,Tim Skarke,RightFoot,MissedShots,Union Berlin,Hoffenheim,,0.04411199688911438
+93,0.8719999694824219,0.4370000076293945,Tim Skarke,RightFoot,SavedShot,Union Berlin,Hoffenheim,Leopold Querfeld,0.05735259875655174
+8,0.7330000305175781,0.34200000762939453,Ilyas Ansah,RightFoot,Goal,Eintracht Frankfurt,Union Berlin,,0.014259022660553455
+10,0.8959999847412109,0.24299999237060546,Oliver Burke,RightFoot,MissedShots,Eintracht Frankfurt,Union Berlin,,0.04871433228254318
+31,0.850999984741211,0.445,Oliver Burke,RightFoot,Goal,Eintracht Frankfurt,Union Berlin,Andrej Ilic,0.536505401134491
+49,0.855,0.519000015258789,Andrej Ilic,Head,MissedShots,Eintracht Frankfurt,Union Berlin,Christopher Trimmel,0.03191966563463211
+52,0.9309999847412109,0.47,Oliver Burke,OtherBodyPart,Goal,Eintracht Frankfurt,Union Berlin,Andrej Ilic,0.35625138878822327
+55,0.8569999694824219,0.504000015258789,Oliver Burke,RightFoot,Goal,Eintracht Frankfurt,Union Berlin,Andrej Ilic,0.48885923624038696
+77,0.860999984741211,0.5179999923706055,Oliver Burke,RightFoot,SavedShot,Eintracht Frankfurt,Union Berlin,Janik Haberer,0.47491127252578735
+89,0.685,0.47900001525878905,Leopold Querfeld,RightFoot,BlockedShot,Eintracht Frankfurt,Union Berlin,,0.013328748755156994
+90,0.8719999694824219,0.3609999847412109,Janik Haberer,RightFoot,BlockedShot,Eintracht Frankfurt,Union Berlin,,0.08270621299743652
+90,0.8869999694824219,0.41900001525878905,Aljoscha Kemlein,LeftFoot,BlockedShot,Eintracht Frankfurt,Union Berlin,,0.11021944880485535
+93,0.845999984741211,0.40400001525878904,Woo-Yeong Jeong,RightFoot,MissedShots,Eintracht Frankfurt,Union Berlin,Aljoscha Kemlein,0.08563315123319626
+9,0.885,0.5,Andrej Ilic,RightFoot,SavedShot,Union Berlin,Hamburger SV,,0.75777667760849
+38,0.805,0.4829999923706055,Rani Khedira,LeftFoot,BlockedShot,Union Berlin,Hamburger SV,,0.047744594514369965
+40,0.8969999694824219,0.37900001525878907,Ilyas Ansah,RightFoot,MissedShots,Union Berlin,Hamburger SV,Christopher Trimmel,0.04455561190843582
+49,0.7869999694824219,0.4829999923706055,Rani Khedira,RightFoot,SavedShot,Union Berlin,Hamburger SV,Andrej Ilic,0.05300399288535118
+71,0.865999984741211,0.5020000076293946,Danilho Doekhi,Head,BlockedShot,Union Berlin,Hamburger SV,Christopher Trimmel,0.010856159962713718
+71,0.779000015258789,0.4620000076293945,Andras Schafer,RightFoot,MissedShots,Union Berlin,Hamburger SV,Leopold Querfeld,0.02673986740410328
+76,0.94,0.45599998474121095,Andrej Ilic,LeftFoot,BlockedShot,Union Berlin,Hamburger SV,,0.11276412010192871
+76,0.855,0.5420000076293945,Andras Schafer,RightFoot,MissedShots,Union Berlin,Hamburger SV,,0.06386285275220871
+78,0.8959999847412109,0.40900001525878904,Ilyas Ansah,Head,MissedShots,Union Berlin,Hamburger SV,Christopher Trimmel,0.3039790093898773
+85,0.9,0.625,Tom Rothe,RightFoot,MissedShots,Union Berlin,Hamburger SV,Ilyas Ansah,0.0822892114520073
+95,0.9290000152587891,0.4379999923706055,Danilho Doekhi,Head,MissedShots,Union Berlin,Hamburger SV,Christopher Trimmel,0.03916839882731438
+9,0.83,0.4540000152587891,Woo-Yeong Jeong,RightFoot,SavedShot,Bayer Leverkusen,Union Berlin,Andrej Ilic,0.09033113718032837
+15,0.9269999694824219,0.4809999847412109,Danilho Doekhi,RightFoot,MissedShots,Bayer Leverkusen,Union Berlin,Leopold Querfeld,0.5311238169670105
+22,0.9419999694824219,0.28,Oliver Burke,RightFoot,MissedShots,Bayer Leverkusen,Union Berlin,Leopold Querfeld,0.10476334393024445
+43,0.7609999847412109,0.49700000762939456,Woo-Yeong Jeong,RightFoot,BlockedShot,Bayer Leverkusen,Union Berlin,,0.014797123149037361
+49,0.914000015258789,0.495,Andrej Ilic,Head,MissedShots,Bayer Leverkusen,Union Berlin,Christopher Trimmel,0.2150755375623703
+51,0.865999984741211,0.634000015258789,Derrick Köhn,LeftFoot,BlockedShot,Bayer Leverkusen,Union Berlin,Andrej Ilic,0.04802289977669716
+66,0.870999984741211,0.7290000152587891,Derrick Köhn,LeftFoot,SavedShot,Bayer Leverkusen,Union Berlin,Leopold Querfeld,0.04260611906647682
+81,0.855,0.745,Derrick Köhn,LeftFoot,MissedShots,Bayer Leverkusen,Union Berlin,Andrej Ilic,0.026810990646481514
+90,0.889000015258789,0.54,Ilyas Ansah,RightFoot,MissedShots,Bayer Leverkusen,Union Berlin,Derrick Köhn,0.06861056387424469
+91,0.8140000152587891,0.48700000762939455,Rani Khedira,RightFoot,SavedShot,Bayer Leverkusen,Union Berlin,Aljoscha Kemlein,0.05470123142004013
+1,0.9490000152587891,0.6179999923706054,Derrick Köhn,LeftFoot,SavedShot,Union Berlin,Borussia M.Gladbach,Leopold Querfeld,0.28200000524520874
+2,0.945,0.509000015258789,Danilho Doekhi,Head,Goal,Union Berlin,Borussia M.Gladbach,Christopher Trimmel,0.29371586441993713
+4,0.88,0.62,Derrick Köhn,LeftFoot,BlockedShot,Union Berlin,Borussia M.Gladbach,Andrej Ilic,0.09815293550491333
+9,0.83,0.6459999847412109,Derrick Köhn,LeftFoot,MissedShots,Union Berlin,Borussia M.Gladbach,Christopher Trimmel,0.032729655504226685
+23,0.6619999694824219,0.509000015258789,Tim Skarke,RightFoot,MissedShots,Union Berlin,Borussia M.Gladbach,Rani Khedira,0.02018439769744873
+25,0.955999984741211,0.6480000305175782,Ilyas Ansah,LeftFoot,ShotOnPost,Union Berlin,Borussia M.Gladbach,,0.08842960745096207
+25,0.9680000305175781,0.5279999923706055,Danilho Doekhi,RightFoot,Goal,Union Berlin,Borussia M.Gladbach,,0.1903325319290161
+55,0.8630000305175781,0.29700000762939455,Rani Khedira,RightFoot,BlockedShot,Union Berlin,Borussia M.Gladbach,Tim Skarke,0.05232451483607292
+62,0.7830000305175782,0.6329999923706054,Aljoscha Kemlein,RightFoot,MissedShots,Union Berlin,Borussia M.Gladbach,,0.01703615114092827
+63,0.8730000305175781,0.34200000762939453,Tim Skarke,RightFoot,SavedShot,Union Berlin,Borussia M.Gladbach,Rani Khedira,0.07878408581018448
+76,0.8180000305175781,0.6519999694824219,Woo-Yeong Jeong,LeftFoot,BlockedShot,Union Berlin,Borussia M.Gladbach,Andrej Ilic,0.06399636715650558
+77,0.905,0.6090000152587891,Danilho Doekhi,Head,MissedShots,Union Berlin,Borussia M.Gladbach,Woo-Yeong Jeong,0.025380438193678856
+77,0.9059999847412109,0.4640000152587891,Andrej Ilic,RightFoot,BlockedShot,Union Berlin,Borussia M.Gladbach,Danilho Doekhi,0.09880778193473816
+80,0.855,0.5320000076293945,Rani Khedira,RightFoot,Goal,Union Berlin,Borussia M.Gladbach,,0.06654553860425949
+86,0.78,0.3920000076293945,Andrej Ilic,LeftFoot,MissedShots,Union Berlin,Borussia M.Gladbach,Janik Haberer,0.0378071591258049
+90,0.8719999694824219,0.4259999847412109,Alex Kral,RightFoot,MissedShots,Union Berlin,Borussia M.Gladbach,Andrej Ilic,0.1009269580245018

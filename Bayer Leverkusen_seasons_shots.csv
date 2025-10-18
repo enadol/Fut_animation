@@ -73,3 +73,23 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 72,0.725,0.3940000152587891,Malik Tillman,RightFoot,MissedShots,Bayer Leverkusen,Union Berlin,Ernest Poku,0.05142476037144661
 84,0.8530000305175781,0.47700000762939454,Malik Tillman,RightFoot,SavedShot,Bayer Leverkusen,Union Berlin,,0.44902005791664124
 91,0.8909999847412109,0.49900001525878906,Jonas Hofmann,RightFoot,MissedShots,Bayer Leverkusen,Union Berlin,,0.520906925201416
+2,0.855999984741211,0.5470000076293945,Ezequiél Fernández,LeftFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Aleix García,0.02838592417538166
+7,0.850999984741211,0.3579999923706055,Jonas Hofmann,RightFoot,SavedShot,Mainz 05,Bayer Leverkusen,Ernest Poku,0.09580157697200775
+10,0.885,0.5,Álex Grimaldo,LeftFoot,Goal,Mainz 05,Bayer Leverkusen,,0.75777667760849
+15,0.855999984741211,0.48900001525878906,Christian Kofane,LeftFoot,SavedShot,Mainz 05,Bayer Leverkusen,Ernest Poku,0.11244864761829376
+17,0.7040000152587891,0.46900001525878904,Edmond Tapsoba,RightFoot,MissedShots,Mainz 05,Bayer Leverkusen,Álex Grimaldo,0.017769593745470047
+22,0.8430000305175781,0.4620000076293945,Christian Kofane,LeftFoot,SavedShot,Mainz 05,Bayer Leverkusen,Ezequiél Fernández,0.3635501563549042
+23,0.8590000152587891,0.41700000762939454,Christian Kofane,RightFoot,Goal,Mainz 05,Bayer Leverkusen,Ernest Poku,0.09181296080350876
+31,0.9280000305175782,0.4,Robert Andrich,Head,BlockedShot,Mainz 05,Bayer Leverkusen,Álex Grimaldo,0.016795575618743896
+33,0.830999984741211,0.5279999923706055,Ernest Poku,LeftFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Christian Kofane,0.08833042532205582
+38,0.789000015258789,0.64,Álex Grimaldo,LeftFoot,MissedShots,Mainz 05,Bayer Leverkusen,,0.08376289904117584
+45,0.845,0.6509999847412109,Álex Grimaldo,LeftFoot,MissedShots,Mainz 05,Bayer Leverkusen,,0.07246984541416168
+47,0.860999984741211,0.54,Álex Grimaldo,LeftFoot,Goal,Mainz 05,Bayer Leverkusen,Jonas Hofmann,0.3708471953868866
+54,0.909000015258789,0.24700000762939453,Arthur,RightFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Christian Kofane,0.05505449324846268
+58,0.904000015258789,0.615999984741211,Christian Kofane,LeftFoot,MissedShots,Mainz 05,Bayer Leverkusen,Ernest Poku,0.10636520385742188
+59,0.8769999694824219,0.624000015258789,Christian Kofane,LeftFoot,MissedShots,Mainz 05,Bayer Leverkusen,Álex Grimaldo,0.4714307487010956
+74,0.9309999847412109,0.675,Ernest Poku,LeftFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Christian Kofane,0.093067966401577
+86,0.9080000305175782,0.5709999847412109,Ibrahim Maza,RightFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Ben Seghir,0.1367746889591217
+86,0.9269999694824219,0.5159999847412109,Martin Terrier,RightFoot,Goal,Mainz 05,Bayer Leverkusen,,0.5520620942115784
+89,0.889000015258789,0.590999984741211,Martin Terrier,RightFoot,MissedShots,Mainz 05,Bayer Leverkusen,Ibrahim Maza,0.39729368686676025
+92,0.9080000305175782,0.549000015258789,Aleix García,RightFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Ben Seghir,0.598331093788147
