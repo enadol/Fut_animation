@@ -116,3 +116,18 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 63,0.754000015258789,0.5670000076293945,Joshua Kimmich,RightFoot,BlockedShot,Eintracht Frankfurt,Bayern Munich,Harry Kane,0.025384221225976944
 83,0.9330000305175781,0.6719999694824219,Luis Díaz,LeftFoot,Goal,Eintracht Frankfurt,Bayern Munich,Raphael Guerreiro,0.40149012207984924
 92,0.924000015258789,0.669000015258789,Jonathan Tah,Head,BlockedShot,Eintracht Frankfurt,Bayern Munich,Michael Olise,0.010985353030264378
+3,0.6880000305175781,0.37599998474121094,Joshua Kimmich,RightFoot,SavedShot,Bayern Munich,Borussia Dortmund,Nicolas Jackson,0.01272410899400711
+10,0.845999984741211,0.2720000076293945,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Borussia Dortmund,Konrad Laimer,0.02993677370250225
+10,0.93,0.654000015258789,Luis Díaz,RightFoot,SavedShot,Bayern Munich,Borussia Dortmund,,0.2979396879673004
+21,0.9580000305175781,0.5379999923706055,Harry Kane,Head,Goal,Bayern Munich,Borussia Dortmund,Joshua Kimmich,0.480851411819458
+29,0.8059999847412109,0.6270000076293946,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,Borussia Dortmund,Nicolas Jackson,0.050592079758644104
+31,0.8580000305175781,0.33299999237060546,Sacha Boey,RightFoot,MissedShots,Bayern Munich,Borussia Dortmund,Michael Olise,0.06890552490949631
+34,0.855999984741211,0.725999984741211,Harry Kane,RightFoot,MissedShots,Bayern Munich,Borussia Dortmund,Nicolas Jackson,0.039269935339689255
+35,0.8109999847412109,0.4809999847412109,Michael Olise,LeftFoot,ShotOnPost,Bayern Munich,Borussia Dortmund,Aleksandar Pavlovic,0.08055847883224487
+39,0.8640000152587891,0.5929999923706055,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,Borussia Dortmund,Michael Olise,0.13013078272342682
+39,0.840999984741211,0.519000015258789,Joshua Kimmich,RightFoot,SavedShot,Bayern Munich,Borussia Dortmund,,0.13445979356765747
+41,0.9380000305175781,0.6459999847412109,Dayotchanculle Upamecano,Head,MissedShots,Bayern Munich,Borussia Dortmund,Joshua Kimmich,0.01703755185008049
+67,0.9080000305175782,0.3679999923706055,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Borussia Dortmund,Harry Kane,0.08544689416885376
+67,0.9230000305175782,0.33599998474121096,Michael Olise,RightFoot,MissedShots,Bayern Munich,Borussia Dortmund,Sacha Boey,0.0974746122956276
+77,0.9890000152587891,0.5,Michael Olise,LeftFoot,Goal,Bayern Munich,Borussia Dortmund,,0.9547781348228455
+94,0.8619999694824219,0.539000015258789,Luis Díaz,RightFoot,SavedShot,Bayern Munich,Borussia Dortmund,Michael Olise,0.3662513494491577

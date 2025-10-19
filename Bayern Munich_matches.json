@@ -178,5 +178,35 @@
             "l": 0.756364557903116
         },
         "result": "w"
+    },
+    {
+        "id": "30278",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.81994",
+            "a": "1.41011"
+        },
+        "datetime": "2025-10-18 16:30:00",
+        "forecast": {
+            "w": 0.6680587640569655,
+            "d": 0.16279426105608447,
+            "l": 0.16914666187970476
+        },
+        "result": "w"
     }
 ]
