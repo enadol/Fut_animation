@@ -70,3 +70,14 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 83,0.8580000305175781,0.46599998474121096,Patrice Covic,RightFoot,SavedShot,Werder Bremen,St. Pauli,Romano Schmid,0.43208274245262146
 86,0.82,0.4,Marco Grüll,RightFoot,SavedShot,Werder Bremen,St. Pauli,Romano Schmid,0.05841652676463127
 93,0.879000015258789,0.6220000076293946,Victor Boniface,RightFoot,MissedShots,Werder Bremen,St. Pauli,,0.12191444635391235
+29,0.97,0.590999984741211,Romano Schmid,LeftFoot,BlockedShot,FC Heidenheim,Werder Bremen,Patrice Covic,0.31842222809791565
+29,0.889000015258789,0.5559999847412109,Jens Stage,RightFoot,BlockedShot,FC Heidenheim,Werder Bremen,,0.10581579804420471
+29,0.7090000152587891,0.33599998474121096,Cameron Puertas,RightFoot,MissedShots,FC Heidenheim,Werder Bremen,Yukinari Sugawara,0.015561935491859913
+38,0.7959999847412109,0.33299999237060546,Cameron Puertas,RightFoot,SavedShot,FC Heidenheim,Werder Bremen,Yukinari Sugawara,0.027317173779010773
+49,0.9830000305175781,0.580999984741211,Marco Grüll,LeftFoot,Goal,FC Heidenheim,Werder Bremen,Romano Schmid,0.4630788266658783
+53,0.8580000305175781,0.5459999847412109,Romano Schmid,RightFoot,MissedShots,FC Heidenheim,Werder Bremen,,0.10100705176591873
+68,0.905,0.5159999847412109,Jens Stage,LeftFoot,Goal,FC Heidenheim,Werder Bremen,Romano Schmid,0.4609389305114746
+73,0.805,0.715,Marco Friedl,LeftFoot,MissedShots,FC Heidenheim,Werder Bremen,Leonardo Bittencourt,0.025067849084734917
+77,0.905,0.519000015258789,Victor Boniface,Head,SavedShot,FC Heidenheim,Werder Bremen,Marco Grüll,0.04595081880688667
+85,0.91,0.5329999923706055,Victor Boniface,Head,MissedShots,FC Heidenheim,Werder Bremen,,0.053178705275058746
+93,0.9230000305175782,0.555,Jens Stage,Head,MissedShots,FC Heidenheim,Werder Bremen,Romano Schmid,0.2737344205379486
