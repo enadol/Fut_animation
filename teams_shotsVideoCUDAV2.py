@@ -1,18 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# IMPORTING ALL NECESSARY PACKAGES. MOST OF THEM ARE ALREADY IN THE ANACONDA DISTRIBUTION
-
-# In[1]:
-
-
 import asyncio
 import nest_asyncio
 import aiohttp
 from understat import Understat
-import requests
+#import requests
 import codecs
-from bs4 import BeautifulSoup as soup
+#from bs4 import BeautifulSoup as soup
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -21,87 +13,50 @@ import matplotlib as mpl
 import matplotlib.animation as animation
 import torch
 import subprocess
+import os
 
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
-# In[3]:
-
-
-club="Werder Bremen"
-
-
-# In[5]:
-
+club="Hoffenheim"
 
 with open('club_name.txt', 'w') as f:
     f.write(club)
     f.close
 
+def get_team_for_foto():
+    if club == "RasenBallsport Leipzig":
+        team_for_foto="RB Leipzig"
+    elif club == "FC Cologne":
+        team_for_foto="FC Köln"
+    elif club== "Augsburg":
+        team_for_foto="FC Augsburg"
+    elif club== "Borussia M.Gladbach":
+        team_for_foto="Borussia Mönchengladbach"
+    else:
+        team_for_foto=club
+    return team_for_foto
 
-# In[7]:
-
-
-team_for_foto=""
-if club == "RasenBallsport Leipzig":
-    team_for_foto="RB Leipzig"
-elif club == "FC Cologne":
-    team_for_foto="FC Köln"
-elif club== "Augsburg":
-    team_for_foto="FC Augsburg"
-elif club== "Borussia M.Gladbach":
-    team_for_foto="Borussia Mönchengladbach"
-else:
-    team_for_foto=club
-team_for_foto
-
-
-# In[9]:
+team_for_foto=get_team_for_foto()
 
 
 torneo="2025-2026"
 
 
-# In[11]:
-
-
 foto_path=f'images/{team_for_foto}.png'
 
-
-# In[13]:
-
-
-#get_ipython().run_line_magic('run', '-i undesstatteams.py')
 subprocess.run(['python', 'D://understatteams.py'])
-
-# In[14]:
-
 
 # Get csv from D://understatteams.py !!!!!
 df_understat=pd.read_csv(f'{club}_seasons_shots.csv')
 
-
-# In[17]:
-
-
 df_understat.head()
-
-
-# In[19]:
-
 
 own_goals_total=len(df_understat[df_understat['result']=='OwnGoal'])
 own_goals_total
 
-
-# In[21]:
-
-
 own_goals=df_understat[df_understat['result']=='OwnGoal']
 own_goals['xG']=0.5
 own_goals
-
-
-# In[23]:
-
 
 async def main():
     async with aiohttp.ClientSession() as session:
@@ -123,36 +78,14 @@ loop.run_until_complete(main())
 
 squad_df=pd.read_json(f'{club}_squad.json')
 
-
-# In[25]:
-
-
 squad=squad_df['player_name'].unique()
-squad
 
-
-# In[27]:
-
-
-"Paul Nebel" in squad
-
-
-# In[29]:
-
+#1"Paul Nebel" in squad
 
 own_goals_len=len(own_goals[~own_goals['player'].isin(squad)])
 own_goals_len
 
-
-# In[31]:
-
-
 ogf=own_goals[~own_goals['player'].isin(squad)]
-ogf
-
-
-# In[33]:
-
 
 own_goals_for=0
 for player in own_goals['player']:
@@ -160,42 +93,19 @@ for player in own_goals['player']:
         own_goals_for+=1
 own_goals_for
 
-
-# In[35]:
-
-
 # THE X AND Y LABELS ARE SCALED BETWEEN 0 and 1. SINCE WE WILL BE USING OPTA AXES WHICH GO FROM 100 to 100, WE NEED TO
 # SCALE BOTH THESE UPTO 100
 
 df_understat['X'] = df_understat['X'].apply(lambda x:x*100)
 df_understat['Y'] = df_understat['Y'].apply(lambda x:x*100)
 
-#df_understat['result'].unique()
-
-
-# In[37]:
-
 
 df_understat[df_understat['result']=='OwnGoal']
 
 
-# In[39]:
-
-
-#pip install mplsoccer
-#pip install highlight-text
-
-
-# In[41]:
-
 
 from highlight_text import ax_text,fig_text
 from mplsoccer import (VerticalPitch, Pitch)
-
-
-# WE WILL CHANGE SOME OF THE BASIC PARAMETERS USING THE rcParams method OF MPL
-
-# In[44]:
 
 
 background = '#D6DBD9'
@@ -208,35 +118,14 @@ mpl.rcParams['font.sans-serif']='Franklin Gothic Medium Cond'
 mpl.rcParams['legend.fontsize'] = 12
 
 
-# In[46]:
-
-
-#mpl.font_manager.FontManager.get_font_names(mpl)
-
-
-# In[48]:
-
-
 import numpy as np
 from PIL import Image
 from urllib.request import urlopen
-import os
+#import os
 from mplsoccer import add_image
 
-
-# In[50]:
-
-
-if torch.cuda.is_available():
-    device = torch.device("cuda")
-else:
-    device = torch.device("cpu")
-    
-print("using", device, "device")
-
-
-# In[ ]:
-
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+print(device)
 
 # SETTING UP THE AXES
 #fig, ax = plt.subplots(figsize=(10,12))
@@ -363,38 +252,18 @@ ax.text(97,57,'Dataviz: Enrique Adolfo López Magallón\nData: Understat.com.')#
 
 plt.savefig(f'{club}_shots.png',dpi=300,facecolor=background)
 
-
-# In[26]:
-
-
 shots_grouped=df_fil.groupby('minute').size()
 
 
-# In[27]:
+#shots_grouped
+
+#shots_grouped.sum()
 
 
-shots_grouped
-
-
-# In[28]:
-
-
-shots_grouped.sum()
-
-
-# In[29]:
-
-
-len(df_fil)
-
-
-# In[30]:
+#len(df_fil)
 
 
 from matplotlib.animation import FFMpegWriter
-
-
-# In[31]:
 
 
 import subprocess
@@ -421,16 +290,6 @@ else:
     extra_args = ['-preset', 'medium']
     print("CUDA acceleration not available, using CPU rendering")
    
-
-
-# In[32]:
-
-
-df_fil['minute'].max()
-
-
-# In[ ]:
-
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -638,8 +497,6 @@ all_frames = np.append(all_frames, freeze_extension)  # Note: all_frames needs t
             
 print(f"Creating animation with {len(all_frames)} frames")
 
-# Try render animation with CUDA acceleration if available
-
 
 ani = animation.FuncAnimation(
     fig, 
@@ -649,6 +506,7 @@ ani = animation.FuncAnimation(
     blit=False,
     repeat=False
 )
+
 
 # Show the animation
 plt.show()
@@ -684,10 +542,6 @@ elif 'pillow' in available_writers:
     ani.save(f'{club}_shot_counts_stem_animation.gif', writer=writer, dpi=150)
 else:
     print("No suitable writer found.")
-
-
-# In[ ]:
-
 
 
 
