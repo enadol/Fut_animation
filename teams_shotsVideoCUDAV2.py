@@ -19,6 +19,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib as mpl
 import matplotlib.animation as animation
+import torch
+import subprocess
 
 
 # In[3]:
@@ -67,8 +69,8 @@ foto_path=f'images/{team_for_foto}.png'
 # In[13]:
 
 
-get_ipython().run_line_magic('run', '-i undesstatteams.py')
-
+#get_ipython().run_line_magic('run', '-i undesstatteams.py')
+subprocess.run(['python', 'D://understatteams.py'])
 
 # In[14]:
 
