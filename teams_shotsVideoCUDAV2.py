@@ -2,9 +2,7 @@ import asyncio
 import nest_asyncio
 import aiohttp
 from understat import Understat
-#import requests
 import codecs
-#from bs4 import BeautifulSoup as soup
 import json
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -14,10 +12,15 @@ import matplotlib.animation as animation
 import torch
 import subprocess
 import os
+from highlight_text import ax_text,fig_text
+from mplsoccer import (VerticalPitch)
+from PIL import Image
+from mplsoccer import add_image
+from matplotlib.animation import FFMpegWriter
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
-club="Hoffenheim"
+club="St. Pauli"
 
 with open('club_name.txt', 'w') as f:
     f.write(club)
@@ -44,7 +47,7 @@ torneo="2025-2026"
 
 foto_path=f'images/{team_for_foto}.png'
 
-subprocess.run(['python', 'D://understatteams.py'])
+subprocess.run(['python', 'undesstatteams.py'])
 
 # Get csv from D://understatteams.py !!!!!
 df_understat=pd.read_csv(f'{club}_seasons_shots.csv')
@@ -102,12 +105,6 @@ df_understat['Y'] = df_understat['Y'].apply(lambda x:x*100)
 
 df_understat[df_understat['result']=='OwnGoal']
 
-
-
-from highlight_text import ax_text,fig_text
-from mplsoccer import (VerticalPitch, Pitch)
-
-
 background = '#D6DBD9'
 text_color = 'black'
 mpl.rcParams['xtick.color']=text_color
@@ -118,12 +115,6 @@ mpl.rcParams['font.sans-serif']='Franklin Gothic Medium Cond'
 mpl.rcParams['legend.fontsize'] = 12
 
 
-import numpy as np
-from PIL import Image
-from urllib.request import urlopen
-#import os
-from mplsoccer import add_image
-
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 
@@ -133,7 +124,7 @@ print(device)
 #fig.set_facecolor(background)
 
 #SETTING UP THE MPL AXIS FOR THE FIRST TEAM
-pitch = pitch = VerticalPitch(pad_bottom=0.5,  # pitch extends slightly below halfway line 
+pitch = VerticalPitch(pad_bottom=0.5,  # pitch extends slightly below halfway line 
     half=True,  # half of a pitch
     goal_type='box',
     goal_alpha=0.8, 
@@ -254,20 +245,6 @@ plt.savefig(f'{club}_shots.png',dpi=300,facecolor=background)
 
 shots_grouped=df_fil.groupby('minute').size()
 
-
-#shots_grouped
-
-#shots_grouped.sum()
-
-
-#len(df_fil)
-
-
-from matplotlib.animation import FFMpegWriter
-
-
-import subprocess
-import json
   
 def is_cuda_available_for_ffmpeg():
     try:

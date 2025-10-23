@@ -1,0 +1,212 @@
+[
+    {
+        "id": "30230",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.46772",
+            "a": "2.10289"
+        },
+        "datetime": "2025-08-23 16:30:00",
+        "forecast": {
+            "w": 0.2676940231295394,
+            "d": 0.2100132816889559,
+            "l": 0.5222926876539226
+        },
+        "result": "d"
+    },
+    {
+        "id": "30233",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.74111",
+            "a": "1.85404"
+        },
+        "datetime": "2025-08-29 18:30:00",
+        "forecast": {
+            "w": 0.14322278966411067,
+            "d": 0.218280516221322,
+            "l": 0.638496692691745
+        },
+        "result": "w"
+    },
+    {
+        "id": "30249",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.95499",
+            "a": "0.934223"
+        },
+        "datetime": "2025-09-14 13:30:00",
+        "forecast": {
+            "w": 0.6119626664543263,
+            "d": 0.21415708638869665,
+            "l": 0.17388024428776094
+        },
+        "result": "w"
+    },
+    {
+        "id": "30251",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.78829",
+            "a": "1.05657"
+        },
+        "datetime": "2025-09-19 18:30:00",
+        "forecast": {
+            "w": 0.7342172857914515,
+            "d": 0.14916011473604918,
+            "l": 0.11662232738391776
+        },
+        "result": "l"
+    },
+    {
+        "id": "30263",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.813325",
+            "a": "1.28912"
+        },
+        "datetime": "2025-09-27 13:30:00",
+        "forecast": {
+            "w": 0.23526439477351702,
+            "d": 0.28798635144973367,
+            "l": 0.4767492537663978
+        },
+        "result": "l"
+    },
+    {
+        "id": "30277",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.77957",
+            "a": "0.912425"
+        },
+        "datetime": "2025-10-04 13:30:00",
+        "forecast": {
+            "w": 0.5782747404492635,
+            "d": 0.23132746238222482,
+            "l": 0.1903977963439344
+        },
+        "result": "l"
+    },
+    {
+        "id": "30284",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.871968",
+            "a": "1.79103"
+        },
+        "datetime": "2025-10-19 15:30:00",
+        "forecast": {
+            "w": 0.17964642210658946,
+            "d": 0.22932015232247244,
+            "l": 0.5910334246726971
+        },
+        "result": "l"
+    }
+]
