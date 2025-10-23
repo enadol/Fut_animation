@@ -14,9 +14,12 @@ import subprocess
 import os
 from highlight_text import ax_text,fig_text
 from mplsoccer import (VerticalPitch)
-from PIL import Image
+from PIL import Image, ImageFilter, ImageEnhance
 from mplsoccer import add_image
 from matplotlib.animation import FFMpegWriter
+import numpy as np
+import matplotlib.pyplot as plt
+
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
@@ -268,13 +271,6 @@ else:
     print("CUDA acceleration not available, using CPU rendering")
    
 
-import numpy as np
-import matplotlib.pyplot as plt
-import matplotlib.animation as animation
-from PIL import Image, ImageFilter, ImageEnhance
-import os
-import pandas as pd
-
 # Function to prepare a background image that won't interfere with visualization
 def prepare_background_image(image_path, target_width, target_height, blur_amount=3, brightness=1.3, saturation=0.7):
     """
@@ -519,6 +515,3 @@ elif 'pillow' in available_writers:
     ani.save(f'{club}_shot_counts_stem_animation.gif', writer=writer, dpi=150)
 else:
     print("No suitable writer found.")
-
-
-
