@@ -81,3 +81,19 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.905,0.519000015258789,Victor Boniface,Head,SavedShot,FC Heidenheim,Werder Bremen,Marco Grüll,0.04595081880688667
 85,0.91,0.5329999923706055,Victor Boniface,Head,MissedShots,FC Heidenheim,Werder Bremen,,0.053178705275058746
 93,0.9230000305175782,0.555,Jens Stage,Head,MissedShots,FC Heidenheim,Werder Bremen,Romano Schmid,0.2737344205379486
+6,0.715,0.4640000152587891,Marco Grüll,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.04656617343425751
+14,0.7430000305175781,0.485,Victor Boniface,LeftFoot,MissedShots,Werder Bremen,Union Berlin,,0.01715192385017872
+21,0.8030000305175782,0.29700000762939455,Yukinari Sugawara,RightFoot,BlockedShot,Werder Bremen,Union Berlin,Marco Grüll,0.02257717028260231
+21,0.7680000305175781,0.610999984741211,Yukinari Sugawara,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.014361212030053139
+26,0.9359999847412109,0.33799999237060546,Victor Boniface,RightFoot,SavedShot,Werder Bremen,Union Berlin,,0.06363578885793686
+26,0.715,0.33299999237060546,Marco Grüll,RightFoot,SavedShot,Werder Bremen,Union Berlin,Samuel Mbangula,0.015176868066191673
+35,0.87,0.295,Marco Grüll,RightFoot,BlockedShot,Werder Bremen,Union Berlin,Romano Schmid,0.06518030166625977
+36,0.754000015258789,0.425,Yukinari Sugawara,RightFoot,MissedShots,Werder Bremen,Union Berlin,,0.01753842458128929
+44,0.7969999694824219,0.4879999923706055,Marco Grüll,LeftFoot,BlockedShot,Werder Bremen,Union Berlin,Victor Boniface,0.044431041926145554
+44,0.7380000305175781,0.38,Amos Pieper,RightFoot,MissedShots,Werder Bremen,Union Berlin,Samuel Mbangula,0.017317121848464012
+46,0.8869999694824219,0.46599998474121096,Jens Stage,LeftFoot,MissedShots,Werder Bremen,Union Berlin,,0.08854599297046661
+56,0.9440000152587891,0.4759999847412109,Victor Boniface,Head,BlockedShot,Werder Bremen,Union Berlin,Romano Schmid,0.12906688451766968
+61,0.720999984741211,0.4329999923706055,Victor Boniface,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.04814853146672249
+61,0.7859999847412109,0.485,Victor Boniface,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.024110855534672737
+71,0.855999984741211,0.27899999618530275,Marco Grüll,LeftFoot,Goal,Werder Bremen,Union Berlin,Yukinari Sugawara,0.028709836304187775
+93,0.919000015258789,0.33299999237060546,Keke Maximilian Topp,RightFoot,MissedShots,Werder Bremen,Union Berlin,Justin Njinmah,0.5030449032783508

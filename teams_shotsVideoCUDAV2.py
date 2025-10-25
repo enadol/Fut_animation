@@ -1,29 +1,30 @@
+"""This script fetches shot data for a specified football club from Understat, processes it,
+and creates a detailed shot map along with an animated visualization of shot counts per minute.
+It utilizes CUDA for acceleration if available, and includes advanced image processing for background enhancement."""
+
+import subprocess
+import os
+import codecs
+import json
 import asyncio
 import nest_asyncio
 import aiohttp
 from understat import Understat
-import codecs
-import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import matplotlib as mpl
 import matplotlib.animation as animation
 import torch
-import subprocess
-import os
-from highlight_text import ax_text,fig_text
-from mplsoccer import (VerticalPitch)
+#from highlight_text import ax_text,fig_text
+from mplsoccer import VerticalPitch, add_image
 from PIL import Image, ImageFilter, ImageEnhance
-from mplsoccer import add_image
 from matplotlib.animation import FFMpegWriter
-import numpy as np
-import matplotlib.pyplot as plt
 
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
-club="St. Pauli"
+club="Bayern Munich"
 
 with open('club_name.txt', 'w') as f:
     f.write(club)
@@ -248,8 +249,8 @@ plt.savefig(f'{club}_shots.png',dpi=300,facecolor=background)
 
 shots_grouped=df_fil.groupby('minute').size()
 
-  
 def is_cuda_available_for_ffmpeg():
+    """Check if FFmpeg is installed with CUDA support."""
     try:
         # Check if FFmpeg is installed with CUDA support
         result = subprocess.run(
