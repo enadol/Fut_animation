@@ -80,3 +80,30 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.7769999694824219,0.37400001525878906,Felix Nmecha,RightFoot,BlockedShot,Bayern Munich,Borussia Dortmund,Julian Brandt,0.0234645027667284
 88,0.8059999847412109,0.64,Fabio Silva,RightFoot,BlockedShot,Bayern Munich,Borussia Dortmund,Daniel Svensson,0.02357965148985386
 89,0.7569999694824219,0.54,Nico Schlotterbeck,LeftFoot,MissedShots,Bayern Munich,Borussia Dortmund,,0.018689187243580818
+9,0.9080000305175782,0.4759999847412109,Waldemar Anton,RightFoot,BlockedShot,Borussia Dortmund,FC Cologne,Felix Nmecha,0.10797597467899323
+10,0.8019999694824219,0.6669999694824219,Karim Adeyemi,LeftFoot,MissedShots,Borussia Dortmund,FC Cologne,,0.02104180119931698
+21,0.8130000305175781,0.46299999237060546,Pascal Groß,RightFoot,MissedShots,Borussia Dortmund,FC Cologne,Karim Adeyemi,0.05993994325399399
+26,0.8769999694824219,0.47900001525878905,Carney Chukwuemeka,Head,MissedShots,Borussia Dortmund,FC Cologne,Pascal Groß,0.2578718364238739
+33,0.9540000152587891,0.36400001525878906,Karim Adeyemi,LeftFoot,SavedShot,Borussia Dortmund,FC Cologne,Julian Ryerson,0.3109343647956848
+36,0.78,0.4640000152587891,Felix Nmecha,RightFoot,MissedShots,Borussia Dortmund,FC Cologne,Serhou Guirassy,0.028700001537799835
+39,0.7559999847412109,0.620999984741211,Ramy Bensebaini,LeftFoot,MissedShots,Borussia Dortmund,FC Cologne,,0.01133306510746479
+46,0.894000015258789,0.3679999923706055,Nico Schlotterbeck,Head,MissedShots,Borussia Dortmund,FC Cologne,Daniel Svensson,0.017429644241929054
+52,0.9290000152587891,0.47400001525878904,Serhou Guirassy,RightFoot,SavedShot,Borussia Dortmund,FC Cologne,Karim Adeyemi,0.5241016745567322
+59,0.7719999694824219,0.41900001525878905,Felix Nmecha,RightFoot,BlockedShot,Borussia Dortmund,FC Cologne,Karim Adeyemi,0.02602108009159565
+61,0.8390000152587891,0.46799999237060547,Felix Nmecha,RightFoot,SavedShot,Borussia Dortmund,FC Cologne,Serhou Guirassy,0.07611396163702011
+64,0.9009999847412109,0.3290000152587891,Nico Schlotterbeck,Head,SavedShot,Borussia Dortmund,FC Cologne,Ramy Bensebaini,0.007827051915228367
+66,0.774000015258789,0.46,Pascal Groß,RightFoot,BlockedShot,Borussia Dortmund,FC Cologne,Carney Chukwuemeka,0.03142073005437851
+67,0.965999984741211,0.34200000762939453,Nico Schlotterbeck,Head,MissedShots,Borussia Dortmund,FC Cologne,Julian Ryerson,0.011893346905708313
+76,0.924000015258789,0.519000015258789,Maximilian Beier,Head,BlockedShot,Borussia Dortmund,FC Cologne,Daniel Svensson,0.056283582001924515
+77,0.840999984741211,0.69,Felix Nmecha,RightFoot,MissedShots,Borussia Dortmund,FC Cologne,Julian Ryerson,0.03284236416220665
+86,0.8909999847412109,0.425,Marcel Sabitzer,Head,SavedShot,Borussia Dortmund,FC Cologne,Waldemar Anton,0.05594832822680473
+87,0.8980000305175782,0.4520000076293945,Waldemar Anton,Head,MissedShots,Borussia Dortmund,FC Cologne,Julian Ryerson,0.05398047715425491
+89,0.89,0.5520000076293945,Ramy Bensebaini,Head,BlockedShot,Borussia Dortmund,FC Cologne,Julian Ryerson,0.015248049050569534
+89,0.779000015258789,0.6519999694824219,Julian Brandt,RightFoot,SavedShot,Borussia Dortmund,FC Cologne,Maximilian Beier,0.02693428099155426
+89,0.92,0.5070000076293946,Serhou Guirassy,Head,MissedShots,Borussia Dortmund,FC Cologne,Julian Ryerson,0.0501924604177475
+92,0.7769999694824219,0.47900001525878905,Maximilian Beier,RightFoot,SavedShot,Borussia Dortmund,FC Cologne,Julian Brandt,0.05328046530485153
+93,0.785,0.33099998474121095,Waldemar Anton,RightFoot,BlockedShot,Borussia Dortmund,FC Cologne,Ramy Bensebaini,0.024845998734235764
+94,0.884000015258789,0.46,Marcel Sabitzer,LeftFoot,BlockedShot,Borussia Dortmund,FC Cologne,Serhou Guirassy,0.07650019973516464
+95,0.7819999694824219,0.6519999694824219,Julian Brandt,RightFoot,BlockedShot,Borussia Dortmund,FC Cologne,Maximilian Beier,0.022857485339045525
+95,0.8969999694824219,0.6559999847412109,Maximilian Beier,RightFoot,Goal,Borussia Dortmund,FC Cologne,Fabio Silva,0.044452354311943054
+97,0.8640000152587891,0.3270000076293945,Fabio Silva,RightFoot,SavedShot,Borussia Dortmund,FC Cologne,Serhou Guirassy,0.08528244495391846
