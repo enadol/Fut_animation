@@ -93,3 +93,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 86,0.9269999694824219,0.5159999847412109,Martin Terrier,RightFoot,Goal,Mainz 05,Bayer Leverkusen,,0.5520620942115784
 89,0.889000015258789,0.590999984741211,Martin Terrier,RightFoot,MissedShots,Mainz 05,Bayer Leverkusen,Ibrahim Maza,0.39729368686676025
 92,0.9080000305175782,0.549000015258789,Aleix García,RightFoot,BlockedShot,Mainz 05,Bayer Leverkusen,Ben Seghir,0.598331093788147
+5,0.9530000305175781,0.5520000076293945,Christian Kofane,Head,MissedShots,Bayer Leverkusen,Freiburg,Arthur,0.5118499398231506
+16,0.7390000152587891,0.29600000381469727,Álex Grimaldo,LeftFoot,SavedShot,Bayer Leverkusen,Freiburg,,0.041633810847997665
+19,0.735,0.63,Álex Grimaldo,LeftFoot,BlockedShot,Bayer Leverkusen,Freiburg,Aleix García,0.019687306135892868
+19,0.6619999694824219,0.465,Loic Bade,RightFoot,MissedShots,Bayer Leverkusen,Freiburg,Aleix García,0.01125908549875021
+21,0.7559999847412109,0.5470000076293945,Ernest Poku,RightFoot,Goal,Bayer Leverkusen,Freiburg,Aleix García,0.04385773092508316
+36,0.8809999847412109,0.49,Christian Kofane,Head,BlockedShot,Bayer Leverkusen,Freiburg,Aleix García,0.037106726318597794
+47,0.765,0.5640000152587891,Aleix García,RightFoot,MissedShots,Bayer Leverkusen,Freiburg,Ezequiél Fernández,0.02992779016494751
+50,0.8630000305175781,0.505,Jonas Hofmann,LeftFoot,BlockedShot,Bayer Leverkusen,Freiburg,Ernest Poku,0.11246130615472794
+50,0.9080000305175782,0.4159999847412109,Christian Kofane,RightFoot,BlockedShot,Bayer Leverkusen,Freiburg,,0.1284124255180359
+51,0.9569999694824218,0.52,Edmond Tapsoba,Head,Goal,Bayer Leverkusen,Freiburg,Álex Grimaldo,0.4794439673423767
+53,0.8630000305175781,0.6530000305175782,Ernest Poku,LeftFoot,SavedShot,Bayer Leverkusen,Freiburg,Aleix García,0.2966955900192261
+53,0.8619999694824219,0.47099998474121096,Arthur,RightFoot,MissedShots,Bayer Leverkusen,Freiburg,,0.37363556027412415
+57,0.85,0.5770000076293945,Christian Kofane,RightFoot,MissedShots,Bayer Leverkusen,Freiburg,Álex Grimaldo,0.14459684491157532
+74,0.8219999694824218,0.4,Aleix García,RightFoot,BlockedShot,Bayer Leverkusen,Freiburg,Álex Grimaldo,0.04209185019135475
+75,0.730999984741211,0.509000015258789,Álex Grimaldo,LeftFoot,MissedShots,Bayer Leverkusen,Freiburg,Jarell Quansah,0.019802743569016457
+87,0.904000015258789,0.345,Ibrahim Maza,RightFoot,MissedShots,Bayer Leverkusen,Freiburg,Jeanuël Belocian,0.1038648784160614
+90,0.78,0.44,Ibrahim Maza,LeftFoot,MissedShots,Bayer Leverkusen,Freiburg,Álex Grimaldo,0.04983227699995041
+93,0.7569999694824219,0.6090000152587891,Ben Seghir,LeftFoot,BlockedShot,Bayer Leverkusen,Freiburg,Aleix García,0.024417100474238396
+93,0.9009999847412109,0.4929999923706055,Arthur,LeftFoot,BlockedShot,Bayer Leverkusen,Freiburg,,0.12258651107549667
