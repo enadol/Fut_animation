@@ -178,5 +178,65 @@
             "l": 0.4700092664308175
         },
         "result": "d"
+    },
+    {
+        "id": "30283",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.15611",
+            "a": "1.29355"
+        },
+        "datetime": "2025-10-18 13:30:00",
+        "forecast": {
+            "w": 0.330734533840397,
+            "d": 0.27249882511453233,
+            "l": 0.3967666410319497
+        },
+        "result": "w"
+    },
+    {
+        "id": "30287",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "6"
+        },
+        "xG": {
+            "h": "0.639182",
+            "a": "2.69438"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.06416520573198485,
+            "d": 0.12918013223844652,
+            "l": 0.806654484481842
+        },
+        "result": "w"
     }
 ]

@@ -100,3 +100,28 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.7440000152587891,0.7669999694824219,Johan Bakayoko,RightFoot,MissedShots,Borussia Dortmund,RasenBallsport Leipzig,David Raum,0.010914439335465431
 79,0.8519999694824218,0.4540000152587891,Christoph Baumgartner,RightFoot,SavedShot,Borussia Dortmund,RasenBallsport Leipzig,Bote Baku,0.09402429312467575
 80,0.7680000305175781,0.3060000038146973,Johan Bakayoko,LeftFoot,BlockedShot,Borussia Dortmund,RasenBallsport Leipzig,Bote Baku,0.03051091730594635
+5,0.7669999694824219,0.705999984741211,David Raum,LeftFoot,MissedShots,RasenBallsport Leipzig,Hamburger SV,,0.05247915908694267
+10,0.8809999847412109,0.6909999847412109,Antonio Nusa,RightFoot,SavedShot,RasenBallsport Leipzig,Hamburger SV,Assan Ouédraogo,0.03967716917395592
+19,0.9290000152587891,0.44099998474121094,Rômulo,Head,MissedShots,RasenBallsport Leipzig,Hamburger SV,David Raum,0.05749047175049782
+24,0.9069999694824219,0.4,Christoph Baumgartner,RightFoot,SavedShot,RasenBallsport Leipzig,Hamburger SV,Assan Ouédraogo,0.11391544342041016
+25,0.8219999694824218,0.5129999923706055,Antonio Nusa,RightFoot,BlockedShot,RasenBallsport Leipzig,Hamburger SV,Bote Baku,0.04662209376692772
+30,0.8030000305175782,0.4570000076293945,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Hamburger SV,Johan Bakayoko,0.048848628997802734
+44,0.9540000152587891,0.49,Christoph Baumgartner,Head,Goal,RasenBallsport Leipzig,Hamburger SV,Antonio Nusa,0.5929722785949707
+49,0.9119999694824219,0.615999984741211,Christoph Baumgartner,RightFoot,Goal,RasenBallsport Leipzig,Hamburger SV,Rômulo,0.11075746268033981
+74,0.8069999694824219,0.48400001525878905,Antonio Nusa,RightFoot,BlockedShot,RasenBallsport Leipzig,Hamburger SV,Christoph Baumgartner,0.056482091546058655
+91,0.7080000305175781,0.48400001525878905,Conrad Harder,LeftFoot,MissedShots,RasenBallsport Leipzig,Hamburger SV,Ezechiel Banzuzi,0.03686056658625603
+9,0.9409999847412109,0.33099998474121095,Yan Diomande,RightFoot,Goal,Augsburg,RasenBallsport Leipzig,Rômulo,0.3026735186576843
+15,0.7419999694824219,0.4109999847412109,Assan Ouédraogo,RightFoot,MissedShots,Augsburg,RasenBallsport Leipzig,Rômulo,0.03580045327544212
+17,0.7809999847412109,0.405,Bote Baku,RightFoot,BlockedShot,Augsburg,RasenBallsport Leipzig,Antonio Nusa,0.037681806832551956
+17,0.924000015258789,0.534000015258789,Rômulo,RightFoot,Goal,Augsburg,RasenBallsport Leipzig,Assan Ouédraogo,0.5500351190567017
+21,0.8719999694824219,0.45099998474121095,Antonio Nusa,RightFoot,Goal,Augsburg,RasenBallsport Leipzig,Yan Diomande,0.4327831268310547
+37,0.8580000305175781,0.4590000152587891,Christoph Baumgartner,RightFoot,Goal,Augsburg,RasenBallsport Leipzig,Yan Diomande,0.13403190672397614
+54,0.8430000305175781,0.5129999923706055,Assan Ouédraogo,LeftFoot,SavedShot,Augsburg,RasenBallsport Leipzig,Bote Baku,0.11558063328266144
+55,0.8209999847412109,0.5320000076293945,Assan Ouédraogo,RightFoot,Goal,Augsburg,RasenBallsport Leipzig,Christoph Baumgartner,0.09358220547437668
+61,0.9069999694824219,0.5220000076293946,Bote Baku,LeftFoot,MissedShots,Augsburg,RasenBallsport Leipzig,David Raum,0.1459699124097824
+63,0.7909999847412109,0.6719999694824219,Antonio Nusa,RightFoot,BlockedShot,Augsburg,RasenBallsport Leipzig,Conrad Harder,0.04066101089119911
+64,0.92,0.5279999923706055,Castello Lukeba,LeftFoot,Goal,Augsburg,RasenBallsport Leipzig,,0.5084083676338196
+73,0.915,0.45299999237060545,El Chadaille Bitshiabu,Head,MissedShots,Augsburg,RasenBallsport Leipzig,David Raum,0.08506286144256592
+81,0.855,0.67,Conrad Harder,RightFoot,BlockedShot,Augsburg,RasenBallsport Leipzig,,0.05057850480079651
+82,0.8880000305175781,0.4,Tidiam Gomis,RightFoot,BlockedShot,Augsburg,RasenBallsport Leipzig,Andrija Maksimovic,0.12830227613449097
+84,0.7830000305175782,0.6459999847412109,Conrad Harder,LeftFoot,SavedShot,Augsburg,RasenBallsport Leipzig,Tidiam Gomis,0.03323284909129143

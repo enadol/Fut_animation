@@ -19,12 +19,12 @@ import torch
 #from highlight_text import ax_text,fig_text
 from mplsoccer import VerticalPitch, add_image
 from PIL import Image, ImageFilter, ImageEnhance
-from matplotlib.animation import FFMpegWriter
+#from matplotlib.animation import FFMpegWriter
 
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
-club="Bayern Munich"
+club="RasenBallsport Leipzig"
 
 with open('club_name.txt', 'w') as f:
     f.write(club)
