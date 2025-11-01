@@ -24,7 +24,7 @@ from PIL import Image, ImageFilter, ImageEnhance
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
-club="RasenBallsport Leipzig"
+club="Werder Bremen"
 
 with open('club_name.txt', 'w') as f:
     f.write(club)
@@ -202,9 +202,9 @@ if "Goal" in iter(df_fil['result']):
     hull=pitch.convexhull(df_fil[df_fil['result']=='Goal']['X'], df_fil[df_fil['result']=='Goal']['Y'])
     pitch.polygon(hull, ax=ax, edgecolor='cornflowerblue', facecolor='cornflowerblue', alpha=0.3)
 
-if "OwnGoal" in iter(ogf['result']):
-    pitch.scatter(100-ogf[ogf['result']=='OwnGoal']['X']*100,100-ogf[df_fil['result']=='OwnGoal']['Y']*100, 
-              s=np.sqrt(ogf[ogf['result']=='OwnGoal']['xG'])*150, marker='x', alpha=0.9,
+if "OwnGoal" in iter(df_fil['result']):
+    pitch.scatter(df_fil[df_fil['result']=='OwnGoal']['X']*100,100-df_fil[df_fil['result']=='OwnGoal']['Y']*100, 
+              s=np.sqrt(df_fil[df_fil['result']=='OwnGoal']['xG'])*150, marker='x', alpha=0.9,
               edgecolors='red', facecolor='red', ax=ax, label="OWN GOAL FOR")
     #hull=pitch.convexhull(df_fil[df_fil['result']=='OwnGoal']['X'], df_fil[df_fil['result']=='OwnGoal']['Y'])
     #pitch.polygon(hull, ax=ax, edgecolor='cornflowerblue', facecolor='cornflowerblue', alpha=0.3)
