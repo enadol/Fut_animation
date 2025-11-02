@@ -97,3 +97,8 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 61,0.7859999847412109,0.485,Victor Boniface,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.024110855534672737
 71,0.855999984741211,0.27899999618530275,Marco Grüll,LeftFoot,Goal,Werder Bremen,Union Berlin,Yukinari Sugawara,0.028709836304187775
 93,0.919000015258789,0.33299999237060546,Keke Maximilian Topp,RightFoot,MissedShots,Werder Bremen,Union Berlin,Justin Njinmah,0.5030449032783508
+12,0.8680000305175781,0.4229999923706055,Marco Grüll,LeftFoot,SavedShot,Mainz 05,Werder Bremen,Romano Schmid,0.3027844727039337
+64,0.8880000305175781,0.39299999237060546,Amos Pieper,RightFoot,MissedShots,Mainz 05,Werder Bremen,Romano Schmid,0.09080159664154053
+64,0.860999984741211,0.35400001525878905,Justin Njinmah,RightFoot,MissedShots,Mainz 05,Werder Bremen,Cameron Puertas,0.32365792989730835
+85,0.9180000305175782,0.649000015258789,Jens Stage,RightFoot,Goal,Mainz 05,Werder Bremen,,0.060414865612983704
+90,0.879000015258789,0.43099998474121093,Jens Stage,LeftFoot,SavedShot,Mainz 05,Werder Bremen,Cameron Puertas,0.10284604132175446

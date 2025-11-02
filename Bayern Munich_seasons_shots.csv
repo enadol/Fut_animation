@@ -1,4 +1,5 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+42,0.049000000953674315,0.44299999237060544,Loic Bade,RightFoot,OwnGoal,Bayern Munich,Bayer Leverkusen,,0
 3,0.9409999847412109,0.24700000762939453,Michael Olise,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Serge Gnabry,0.05909460783004761
 10,0.899000015258789,0.29399999618530276,Konrad Laimer,RightFoot,SavedShot,Bayern Munich,RasenBallsport Leipzig,Harry Kane,0.28661295771598816
 15,0.785,0.5579999923706055,Serge Gnabry,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Harry Kane,0.03585360199213028
@@ -158,3 +159,21 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 90,0.7480000305175781,0.67,Konrad Laimer,RightFoot,MissedShots,Borussia M.Gladbach,Bayern Munich,,0.014441721141338348
 92,0.904000015258789,0.515,Harry Kane,Head,SavedShot,Borussia M.Gladbach,Bayern Munich,Michael Olise,0.10675826668739319
 95,0.8880000305175781,0.5679999923706055,Lennart Karl,LeftFoot,MissedShots,Borussia M.Gladbach,Bayern Munich,Leon Goretzka,0.13764284551143646
+7,0.7290000152587891,0.29100000381469726,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Bayer Leverkusen,Joshua Kimmich,0.012614546343684196
+14,0.8080000305175781,0.45799999237060546,Lennart Karl,LeftFoot,MissedShots,Bayern Munich,Bayer Leverkusen,Raphael Guerreiro,0.04895799607038498
+17,0.9490000152587891,0.5259999847412109,Leon Goretzka,Head,MissedShots,Bayern Munich,Bayer Leverkusen,Lennart Karl,0.14656665921211243
+20,0.8669999694824219,0.57,Serge Gnabry,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,,0.028915228322148323
+20,0.8419999694824218,0.720999984741211,Tom Bischof,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Raphael Guerreiro,0.03872549161314964
+20,0.725,0.549000015258789,Konrad Laimer,RightFoot,SavedShot,Bayern Munich,Bayer Leverkusen,Raphael Guerreiro,0.025015195831656456
+24,0.9069999694824219,0.625,Serge Gnabry,RightFoot,Goal,Bayern Munich,Bayer Leverkusen,Tom Bischof,0.48760223388671875
+30,0.9269999694824219,0.504000015258789,Nicolas Jackson,Head,Goal,Bayern Munich,Bayer Leverkusen,Konrad Laimer,0.4214836657047272
+35,0.759000015258789,0.7769999694824219,Tom Bischof,LeftFoot,MissedShots,Bayern Munich,Bayer Leverkusen,,0.013917376287281513
+40,0.8219999694824218,0.4379999923706055,Lennart Karl,LeftFoot,MissedShots,Bayern Munich,Bayer Leverkusen,Serge Gnabry,0.07661697268486023
+49,0.9580000305175781,0.4929999923706055,Nicolas Jackson,Head,MissedShots,Bayern Munich,Bayer Leverkusen,,0.4627630412578583
+57,0.8680000305175781,0.44400001525878907,Raphael Guerreiro,LeftFoot,MissedShots,Bayern Munich,Bayer Leverkusen,Lennart Karl,0.1304461658000946
+70,0.8669999694824219,0.2989999961853027,Michael Olise,RightFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Raphael Guerreiro,0.06561475992202759
+71,0.8830000305175781,0.3110000038146973,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Luis Díaz,0.046035949140787125
+80,0.8930000305175781,0.33099998474121095,Sacha Boey,RightFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Michael Olise,0.09059534221887589
+81,0.7869999694824219,0.4420000076293945,Tom Bischof,RightFoot,MissedShots,Bayern Munich,Bayer Leverkusen,Luis Díaz,0.019419750198721886
+82,0.9569999694824218,0.590999984741211,Harry Kane,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Aleksandar Pavlovic,0.10164843499660492
+86,0.8030000305175782,0.46799999237060547,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Luis Díaz,0.06600669771432877

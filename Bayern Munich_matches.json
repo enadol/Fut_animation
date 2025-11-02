@@ -238,5 +238,35 @@
             "l": 0.7759325363776645
         },
         "result": "w"
+    },
+    {
+        "id": "30297",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.28295",
+            "a": "0.382774"
+        },
+        "datetime": "2025-11-01 17:30:00",
+        "forecast": {
+            "w": 0.8073238891397548,
+            "d": 0.14496397471053563,
+            "l": 0.047712114490004065
+        },
+        "result": "w"
     }
 ]

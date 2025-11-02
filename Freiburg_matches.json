@@ -1,0 +1,272 @@
+[
+    {
+        "id": "30229",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.27247",
+            "a": "1.30191"
+        },
+        "datetime": "2025-08-23 13:30:00",
+        "forecast": {
+            "w": 0.5925168464225276,
+            "d": 0.19668594002651046,
+            "l": 0.21079719312616949
+        },
+        "result": "l"
+    },
+    {
+        "id": "30241",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.84068",
+            "a": "0.933072"
+        },
+        "datetime": "2025-08-31 17:30:00",
+        "forecast": {
+            "w": 0.5871202468894461,
+            "d": 0.22547815451144793,
+            "l": 0.187401597306476
+        },
+        "result": "l"
+    },
+    {
+        "id": "30243",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.6832",
+            "a": "0.548804"
+        },
+        "datetime": "2025-09-13 13:30:00",
+        "forecast": {
+            "w": 0.6515553259434713,
+            "d": 0.23182664357114652,
+            "l": 0.11661803009412491
+        },
+        "result": "w"
+    },
+    {
+        "id": "30252",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.27257",
+            "a": "2.36315"
+        },
+        "datetime": "2025-09-20 13:30:00",
+        "forecast": {
+            "w": 0.1941883298250923,
+            "d": 0.18941260107698846,
+            "l": 0.6163990353422
+        },
+        "result": "w"
+    },
+    {
+        "id": "30266",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.2587",
+            "a": "2.24224"
+        },
+        "datetime": "2025-09-28 13:30:00",
+        "forecast": {
+            "w": 0.20602505445410135,
+            "d": 0.19796158244893422,
+            "l": 0.5960133459160455
+        },
+        "result": "d"
+    },
+    {
+        "id": "30270",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.471184",
+            "a": "0.689073"
+        },
+        "datetime": "2025-10-05 17:30:00",
+        "forecast": {
+            "w": 0.21836773702156762,
+            "d": 0.4237258998760793,
+            "l": 0.3579063631023514
+        },
+        "result": "d"
+    },
+    {
+        "id": "30280",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.12896",
+            "a": "0.772638"
+        },
+        "datetime": "2025-10-19 13:30:00",
+        "forecast": {
+            "w": 0.43920162732179163,
+            "d": 0.3109003321687984,
+            "l": 0.24989804050776157
+        },
+        "result": "d"
+    },
+    {
+        "id": "30288",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.46787",
+            "a": "0.542897"
+        },
+        "datetime": "2025-10-26 13:30:00",
+        "forecast": {
+            "w": 0.7967708392483502,
+            "d": 0.14092898028097117,
+            "l": 0.06230012179040057
+        },
+        "result": "l"
+    },
+    {
+        "id": "30303",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.34842",
+            "a": "1.16519"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.4095947986145964,
+            "d": 0.2678112611089469,
+            "l": 0.3225939402547099
+        },
+        "result": "d"
+    }
+]
