@@ -238,5 +238,35 @@
             "l": 0.806654484481842
         },
         "result": "w"
+    },
+    {
+        "id": "30301",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.73471",
+            "a": "1.0701"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.5293804573083041,
+            "d": 0.23709246264226133,
+            "l": 0.23352707946251897
+        },
+        "result": "w"
     }
 ]
