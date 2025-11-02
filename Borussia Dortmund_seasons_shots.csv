@@ -107,3 +107,8 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 95,0.7819999694824219,0.6519999694824219,Julian Brandt,RightFoot,BlockedShot,Borussia Dortmund,FC Cologne,Maximilian Beier,0.022857485339045525
 95,0.8969999694824219,0.6559999847412109,Maximilian Beier,RightFoot,Goal,Borussia Dortmund,FC Cologne,Fabio Silva,0.044452354311943054
 97,0.8640000152587891,0.3270000076293945,Fabio Silva,RightFoot,SavedShot,Borussia Dortmund,FC Cologne,Serhou Guirassy,0.08528244495391846
+34,0.92,0.6170000076293946,Maximilian Beier,Head,MissedShots,Augsburg,Borussia Dortmund,Pascal Groß,0.036898788064718246
+36,0.87,0.43,Serhou Guirassy,RightFoot,Goal,Augsburg,Borussia Dortmund,,0.3580375909805298
+42,0.9480000305175781,0.5070000076293946,Serhou Guirassy,Head,MissedShots,Augsburg,Borussia Dortmund,Pascal Groß,0.13325709104537964
+54,0.774000015258789,0.6969999694824218,Julian Brandt,RightFoot,MissedShots,Augsburg,Borussia Dortmund,Carney Chukwuemeka,0.025661079213023186
+56,0.7630000305175781,0.600999984741211,Carney Chukwuemeka,LeftFoot,MissedShots,Augsburg,Borussia Dortmund,Julian Brandt,0.03434159606695175

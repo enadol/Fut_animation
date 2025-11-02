@@ -208,5 +208,65 @@
             "l": 0.503194569350052
         },
         "result": "d"
+    },
+    {
+        "id": "30290",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.09125",
+            "a": "0.70563"
+        },
+        "datetime": "2025-10-25 16:30:00",
+        "forecast": {
+            "w": 0.6959045559613637,
+            "d": 0.19020009375147356,
+            "l": 0.11389534334258627
+        },
+        "result": "l"
+    },
+    {
+        "id": "30298",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.87376",
+            "a": "1.19296"
+        },
+        "datetime": "2025-11-02 14:30:00",
+        "forecast": {
+            "w": 0.8392019944619953,
+            "d": 0.0924057926145168,
+            "l": 0.06837837340923716
+        },
+        "result": "w"
     }
 ]

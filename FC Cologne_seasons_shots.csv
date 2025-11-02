@@ -88,3 +88,31 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 79,0.7380000305175781,0.69,Denis Huseinbasic,RightFoot,MissedShots,FC Cologne,Augsburg,Jakub Kaminski,0.013693436980247498
 82,0.7859999847412109,0.475,Florian Kainz,RightFoot,BlockedShot,FC Cologne,Augsburg,Jakub Kaminski,0.03779866173863411
 95,0.8090000152587891,0.7030000305175781,Florian Kainz,LeftFoot,BlockedShot,FC Cologne,Augsburg,,0.023032551631331444
+2,0.8859999847412109,0.7,Said El Mala,LeftFoot,MissedShots,Borussia Dortmund,FC Cologne,Jakub Kaminski,0.045576062053442
+2,0.9119999694824219,0.48900001525878906,Eric Martel,Head,MissedShots,Borussia Dortmund,FC Cologne,Ísak Bergmann Jóhannesson,0.038155023008584976
+5,0.960999984741211,0.6029999923706054,Marius Bülter,Head,MissedShots,Borussia Dortmund,FC Cologne,Ísak Bergmann Jóhannesson,0.05337870866060257
+18,0.8959999847412109,0.665,Said El Mala,RightFoot,MissedShots,Borussia Dortmund,FC Cologne,Marius Bülter,0.47597241401672363
+34,0.8440000152587891,0.47200000762939454,Said El Mala,RightFoot,MissedShots,Borussia Dortmund,FC Cologne,,0.0925476998090744
+6,0.835999984741211,0.6869999694824219,Florian Kainz,RightFoot,MissedShots,FC Cologne,Hamburger SV,,0.035350438207387924
+10,0.7909999847412109,0.4329999923706055,Ísak Bergmann Jóhannesson,LeftFoot,MissedShots,FC Cologne,Hamburger SV,,0.1084538921713829
+23,0.85,0.41400001525878904,Florian Kainz,RightFoot,BlockedShot,FC Cologne,Hamburger SV,,0.344453901052475
+23,0.874000015258789,0.529000015258789,Linton Maina,RightFoot,BlockedShot,FC Cologne,Hamburger SV,,0.09586779028177261
+24,0.9580000305175781,0.42700000762939455,Ragnar Ache,RightFoot,Goal,FC Cologne,Hamburger SV,,0.5258192420005798
+29,0.879000015258789,0.6880000305175781,Jakub Kaminski,RightFoot,BlockedShot,FC Cologne,Hamburger SV,,0.06478970497846603
+30,0.7469999694824219,0.6,Linton Maina,RightFoot,MissedShots,FC Cologne,Hamburger SV,Kristoffer Lund,0.030242718756198883
+34,0.7830000305175782,0.6680000305175782,Florian Kainz,LeftFoot,SavedShot,FC Cologne,Hamburger SV,Ísak Bergmann Jóhannesson,0.030794017016887665
+36,0.7830000305175782,0.37599998474121094,Ragnar Ache,RightFoot,BlockedShot,FC Cologne,Hamburger SV,Florian Kainz,0.035948872566223145
+37,0.7269999694824218,0.45,Kristoffer Lund,LeftFoot,SavedShot,FC Cologne,Hamburger SV,Denis Huseinbasic,0.017528826370835304
+41,0.8680000305175781,0.35200000762939454,Linton Maina,LeftFoot,MissedShots,FC Cologne,Hamburger SV,Ísak Bergmann Jóhannesson,0.08388599008321762
+47,0.7519999694824219,0.39099998474121095,Jakub Kaminski,RightFoot,MissedShots,FC Cologne,Hamburger SV,Ragnar Ache,0.019184894859790802
+47,0.7980000305175782,0.3559999847412109,Florian Kainz,RightFoot,Goal,FC Cologne,Hamburger SV,,0.09077265113592148
+56,0.9059999847412109,0.5070000076293946,Ragnar Ache,Head,MissedShots,FC Cologne,Hamburger SV,Jakub Kaminski,0.33344486355781555
+72,0.9030000305175782,0.46900001525878904,Said El Mala,RightFoot,MissedShots,FC Cologne,Hamburger SV,Marvin Schwäbe,0.36419060826301575
+74,0.7390000152587891,0.7019999694824218,Jakub Kaminski,RightFoot,BlockedShot,FC Cologne,Hamburger SV,,0.0418982058763504
+85,0.8830000305175781,0.6730000305175782,Said El Mala,RightFoot,BlockedShot,FC Cologne,Hamburger SV,Cenk Özkacar,0.03982729837298393
+89,0.8859999847412109,0.47700000762939454,Marius Bülter,RightFoot,SavedShot,FC Cologne,Hamburger SV,Jakub Kaminski,0.3967897295951843
+93,0.9390000152587891,0.5,Said El Mala,RightFoot,Goal,FC Cologne,Hamburger SV,Jakub Kaminski,0.6135762333869934
+95,0.9730000305175781,0.5920000076293945,Said El Mala,RightFoot,SavedShot,FC Cologne,Hamburger SV,Sebastian Sebulonsen,0.18925562500953674
+97,0.91,0.4640000152587891,Jakub Kaminski,RightFoot,Goal,FC Cologne,Hamburger SV,,0.46989041566848755
+99,0.8669999694824219,0.47900001525878905,Marius Bülter,LeftFoot,SavedShot,FC Cologne,Hamburger SV,Denis Huseinbasic,0.13294124603271484
+101,0.799000015258789,0.590999984741211,Kristoffer Lund,LeftFoot,MissedShots,FC Cologne,Hamburger SV,Jakub Kaminski,0.056045565754175186
