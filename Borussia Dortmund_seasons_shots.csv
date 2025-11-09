@@ -112,3 +112,20 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 42,0.9480000305175781,0.5070000076293946,Serhou Guirassy,Head,MissedShots,Augsburg,Borussia Dortmund,Pascal Groß,0.13325709104537964
 54,0.774000015258789,0.6969999694824218,Julian Brandt,RightFoot,MissedShots,Augsburg,Borussia Dortmund,Carney Chukwuemeka,0.025661079213023186
 56,0.7630000305175781,0.600999984741211,Carney Chukwuemeka,LeftFoot,MissedShots,Augsburg,Borussia Dortmund,Julian Brandt,0.03434159606695175
+4,0.8669999694824219,0.36400001525878906,Carney Chukwuemeka,LeftFoot,MissedShots,Hamburger SV,Borussia Dortmund,Pascal Groß,0.07203860580921173
+4,0.919000015258789,0.590999984741211,Daniel Svensson,LeftFoot,BlockedShot,Hamburger SV,Borussia Dortmund,,0.10206559300422668
+17,0.9059999847412109,0.5520000076293945,Nico Schlotterbeck,Head,MissedShots,Hamburger SV,Borussia Dortmund,Pascal Groß,0.06423281133174896
+21,0.7769999694824219,0.34700000762939454,Julian Ryerson,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,Carney Chukwuemeka,0.02182558923959732
+21,0.730999984741211,0.4209999847412109,Emre Can,RightFoot,MissedShots,Hamburger SV,Borussia Dortmund,,0.012971769087016582
+23,0.74,0.49,Serhou Guirassy,RightFoot,MissedShots,Hamburger SV,Borussia Dortmund,,0.06180695816874504
+24,0.7709999847412109,0.5579999923706055,Maximilian Beier,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,Carney Chukwuemeka,0.029981005936861038
+32,0.710999984741211,0.5120000076293946,Carney Chukwuemeka,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,Maximilian Beier,0.018981900066137314
+34,0.905,0.455,Carney Chukwuemeka,RightFoot,MissedShots,Hamburger SV,Borussia Dortmund,Maximilian Beier,0.44917193055152893
+40,0.8969999694824219,0.5740000152587891,Daniel Svensson,Head,MissedShots,Hamburger SV,Borussia Dortmund,,0.039333730936050415
+53,0.7559999847412109,0.6409999847412109,Nico Schlotterbeck,LeftFoot,BlockedShot,Hamburger SV,Borussia Dortmund,,0.015718771144747734
+56,0.815,0.3060000038146973,Pascal Groß,RightFoot,MissedShots,Hamburger SV,Borussia Dortmund,Julian Ryerson,0.02741311863064766
+58,0.8469999694824218,0.4929999923706055,Serhou Guirassy,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,Carney Chukwuemeka,0.0945967361330986
+63,0.8169999694824219,0.485,Julian Ryerson,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,,0.04174535721540451
+63,0.8719999694824219,0.49599998474121093,Carney Chukwuemeka,RightFoot,Goal,Hamburger SV,Borussia Dortmund,Nico Schlotterbeck,0.19385690987110138
+70,0.855999984741211,0.37900001525878907,Pascal Groß,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,Karim Adeyemi,0.07906044274568558
+71,0.925,0.5479999923706055,Serhou Guirassy,Head,MissedShots,Hamburger SV,Borussia Dortmund,Pascal Groß,0.10130354762077332

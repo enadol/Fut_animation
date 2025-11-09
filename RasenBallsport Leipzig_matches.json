@@ -268,5 +268,35 @@
             "l": 0.23352707946251897
         },
         "result": "w"
+    },
+    {
+        "id": "30310",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.92349",
+            "a": "1.56187"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.46405782815873214,
+            "d": 0.21982230757467086,
+            "l": 0.3161198618084432
+        },
+        "result": "l"
     }
 ]

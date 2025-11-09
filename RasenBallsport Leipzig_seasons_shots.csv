@@ -142,3 +142,20 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 90,0.9130000305175782,0.6129999923706054,Rômulo,RightFoot,Goal,RasenBallsport Leipzig,VfB Stuttgart,,0.40377750992774963
 92,0.74,0.44400001525878907,Conrad Harder,LeftFoot,BlockedShot,RasenBallsport Leipzig,VfB Stuttgart,Lukas Klostermann,0.03410864993929863
 93,0.9680000305175781,0.6480000305175782,Yan Diomande,RightFoot,SavedShot,RasenBallsport Leipzig,VfB Stuttgart,,0.11733322590589523
+3,0.914000015258789,0.6140000152587891,Antonio Nusa,RightFoot,SavedShot,Hoffenheim,RasenBallsport Leipzig,Rômulo,0.14515897631645203
+5,0.8059999847412109,0.4490000152587891,Antonio Nusa,RightFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,Nicolas Seiwald,0.07177034765481949
+8,0.8980000305175782,0.405,Yan Diomande,LeftFoot,Goal,Hoffenheim,RasenBallsport Leipzig,Assan Ouédraogo,0.32896676659584045
+12,0.8419999694824218,0.4929999923706055,Antonio Nusa,LeftFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,Yan Diomande,0.10554972290992737
+23,0.754000015258789,0.49900001525878906,Assan Ouédraogo,RightFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,,0.01221390813589096
+28,0.93,0.5690000152587891,Rômulo,RightFoot,SavedShot,Hoffenheim,RasenBallsport Leipzig,David Raum,0.3228904604911804
+30,0.845,0.4520000076293945,Assan Ouédraogo,RightFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,Yan Diomande,0.08926375210285187
+46,0.81,0.6559999847412109,David Raum,LeftFoot,ShotOnPost,Hoffenheim,RasenBallsport Leipzig,Bote Baku,0.033518385142087936
+47,0.779000015258789,0.4829999923706055,Yan Diomande,RightFoot,MissedShots,Hoffenheim,RasenBallsport Leipzig,,0.016274582594633102
+49,0.9119999694824219,0.48400001525878905,Willi Orban,Head,MissedShots,Hoffenheim,RasenBallsport Leipzig,David Raum,0.0553218238055706
+53,0.8580000305175781,0.6840000152587891,Assan Ouédraogo,RightFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,Rômulo,0.0405588373541832
+55,0.81,0.6220000076293946,Antonio Nusa,RightFoot,MissedShots,Hoffenheim,RasenBallsport Leipzig,David Raum,0.0474272184073925
+59,0.8219999694824218,0.6459999847412109,David Raum,LeftFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,Antonio Nusa,0.034261755645275116
+62,0.7819999694824219,0.5570000076293945,Nicolas Seiwald,RightFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,,0.03212745487689972
+63,0.9769999694824218,0.265,Yan Diomande,RightFoot,SavedShot,Hoffenheim,RasenBallsport Leipzig,Willi Orban,0.04134978726506233
+92,0.9080000305175782,0.4470000076293945,Willi Orban,RightFoot,SavedShot,Hoffenheim,RasenBallsport Leipzig,Johan Bakayoko,0.12157007306814194
+92,0.9630000305175781,0.40200000762939453,Willi Orban,RightFoot,BlockedShot,Hoffenheim,RasenBallsport Leipzig,David Raum,0.06364767253398895

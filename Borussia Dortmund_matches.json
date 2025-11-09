@@ -268,5 +268,35 @@
             "l": 0.2161525193909286
         },
         "result": "w"
+    },
+    {
+        "id": "30309",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.419878",
+            "a": "1.42582"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.1076573697663951,
+            "d": 0.26758085468631304,
+            "l": 0.6247617755060302
+        },
+        "result": "d"
     }
 ]
