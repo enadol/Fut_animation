@@ -177,3 +177,15 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 81,0.7869999694824219,0.4420000076293945,Tom Bischof,RightFoot,MissedShots,Bayern Munich,Bayer Leverkusen,Luis Díaz,0.019419750198721886
 82,0.9569999694824218,0.590999984741211,Harry Kane,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Aleksandar Pavlovic,0.10164843499660492
 86,0.8030000305175782,0.46799999237060547,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Bayer Leverkusen,Luis Díaz,0.06600669771432877
+32,0.9,0.615,Harry Kane,LeftFoot,BlockedShot,Union Berlin,Bayern Munich,Josip Stanisic,0.061162449419498444
+37,0.9890000152587891,0.69,Luis Díaz,RightFoot,Goal,Union Berlin,Bayern Munich,Josip Stanisic,0.062277164310216904
+44,0.8590000152587891,0.544000015258789,Luis Díaz,RightFoot,MissedShots,Union Berlin,Bayern Munich,Harry Kane,0.3474457263946533
+46,0.845,0.35200000762939454,Harry Kane,RightFoot,BlockedShot,Union Berlin,Bayern Munich,,0.04918748512864113
+47,0.8519999694824218,0.3770000076293945,Michael Olise,LeftFoot,SavedShot,Union Berlin,Bayern Munich,Jonathan Tah,0.04381386190652847
+59,0.9219999694824219,0.29399999618530276,Michael Olise,LeftFoot,SavedShot,Union Berlin,Bayern Munich,Joshua Kimmich,0.20111674070358276
+63,0.9490000152587891,0.28,Jonathan Tah,RightFoot,MissedShots,Union Berlin,Bayern Munich,Joshua Kimmich,0.026027992367744446
+67,0.7630000305175781,0.49700000762939456,Leon Goretzka,RightFoot,BlockedShot,Union Berlin,Bayern Munich,Lennart Karl,0.02692420594394207
+70,0.8590000152587891,0.4229999923706055,Leon Goretzka,RightFoot,MissedShots,Union Berlin,Bayern Munich,Jonathan Tah,0.08768291026353836
+73,0.8219999694824218,0.34799999237060547,Michael Olise,LeftFoot,BlockedShot,Union Berlin,Bayern Munich,Leon Goretzka,0.04258132725954056
+92,0.9290000152587891,0.514000015258789,Harry Kane,Head,Goal,Union Berlin,Bayern Munich,Tom Bischof,0.36480724811553955
+95,0.7680000305175781,0.5420000076293945,Harry Kane,RightFoot,BlockedShot,Union Berlin,Bayern Munich,Tom Bischof,0.029433198273181915

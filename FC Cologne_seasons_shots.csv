@@ -116,3 +116,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 97,0.91,0.4640000152587891,Jakub Kaminski,RightFoot,Goal,FC Cologne,Hamburger SV,,0.46989041566848755
 99,0.8669999694824219,0.47900001525878905,Marius Bülter,LeftFoot,SavedShot,FC Cologne,Hamburger SV,Denis Huseinbasic,0.13294124603271484
 101,0.799000015258789,0.590999984741211,Kristoffer Lund,LeftFoot,MissedShots,FC Cologne,Hamburger SV,Jakub Kaminski,0.056045565754175186
+9,0.905,0.6559999847412109,Marius Bülter,RightFoot,SavedShot,Borussia M.Gladbach,FC Cologne,Ísak Bergmann Jóhannesson,0.11661013215780258
+17,0.8019999694824219,0.6229999923706054,Said El Mala,RightFoot,SavedShot,Borussia M.Gladbach,FC Cologne,Jakub Kaminski,0.035951245576143265
+21,0.8030000305175782,0.35400001525878905,Joël Schmied,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,,0.03178856521844864
+47,0.8030000305175782,0.34700000762939454,Ragnar Ache,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,,0.029260503128170967
+47,0.855999984741211,0.455,Marius Bülter,RightFoot,MissedShots,Borussia M.Gladbach,FC Cologne,Kristoffer Lund,0.05036855861544609
+50,0.9640000152587891,0.5579999923706055,Marius Bülter,Head,MissedShots,Borussia M.Gladbach,FC Cologne,Ísak Bergmann Jóhannesson,0.13069970905780792
+54,0.899000015258789,0.6320000076293946,Cenk Özkacar,Head,SavedShot,Borussia M.Gladbach,FC Cologne,Ísak Bergmann Jóhannesson,0.012601617723703384
+64,0.794000015258789,0.47200000762939454,Jakub Kaminski,RightFoot,ShotOnPost,Borussia M.Gladbach,FC Cologne,Eric Martel,0.04873158037662506
+67,0.8109999847412109,0.4129999923706055,Gian-Luca Waldschmidt,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,Ísak Bergmann Jóhannesson,0.03289676830172539
+67,0.9009999847412109,0.4829999923706055,Ragnar Ache,Head,SavedShot,Borussia M.Gladbach,FC Cologne,Ísak Bergmann Jóhannesson,0.06911712139844894
+76,0.9419999694824219,0.4420000076293945,Sebastian Sebulonsen,Head,BlockedShot,Borussia M.Gladbach,FC Cologne,,0.060348108410835266
+80,0.7119999694824218,0.685,Denis Huseinbasic,RightFoot,MissedShots,Borussia M.Gladbach,FC Cologne,Linton Maina,0.008787051774561405
+91,0.885,0.5,Gian-Luca Waldschmidt,LeftFoot,Goal,Borussia M.Gladbach,FC Cologne,,0.75777667760849
+97,0.8090000152587891,0.5320000076293945,Gian-Luca Waldschmidt,LeftFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,Eric Martel,0.049939438700675964
+97,0.9419999694824219,0.5459999847412109,Marius Bülter,Head,MissedShots,Borussia M.Gladbach,FC Cologne,Sebastian Sebulonsen,0.09815753996372223
+100,0.8530000305175781,0.4,Sebastian Sebulonsen,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,,0.0568760484457016
+100,0.8490000152587891,0.41200000762939454,Joël Schmied,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,,0.0564202144742012
+100,0.8830000305175781,0.4929999923706055,Gian-Luca Waldschmidt,LeftFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,,0.10576315224170685
+101,0.960999984741211,0.4329999923706055,Ragnar Ache,Head,MissedShots,Borussia M.Gladbach,FC Cologne,Marius Bülter,0.4209393262863159

@@ -268,5 +268,35 @@
             "l": 0.06837837340923716
         },
         "result": "w"
+    },
+    {
+        "id": "30306",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.46206",
+            "a": "2.15818"
+        },
+        "datetime": "2025-11-08 17:30:00",
+        "forecast": {
+            "w": 0.4597658816736404,
+            "d": 0.1897787801238638,
+            "l": 0.350455270786611
+        },
+        "result": "l"
     }
 ]
