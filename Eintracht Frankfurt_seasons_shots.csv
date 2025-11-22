@@ -93,3 +93,43 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 73,0.9209999847412109,0.5890000152587891,Aurèle Amenda,Head,MissedShots,Freiburg,Eintracht Frankfurt,Arthur Theate,0.04961979389190674
 88,0.8619999694824219,0.42700000762939455,Nathaniel Brown,RightFoot,BlockedShot,Freiburg,Eintracht Frankfurt,Jean Négoce,0.05964197218418121
 91,0.8690000152587891,0.585999984741211,Nathaniel Brown,LeftFoot,MissedShots,Freiburg,Eintracht Frankfurt,Robin Koch,0.0928005799651146
+7,0.9019999694824219,0.3559999847412109,Can Uzun,RightFoot,BlockedShot,Eintracht Frankfurt,St. Pauli,Jonathan Burkardt,0.08223051577806473
+31,0.855999984741211,0.505,Can Uzun,RightFoot,BlockedShot,Eintracht Frankfurt,St. Pauli,Ansgar Knauff,0.09964320063591003
+34,0.9730000305175781,0.51,Jonathan Burkardt,Head,Goal,Eintracht Frankfurt,St. Pauli,,0.7709391713142395
+44,0.83,0.40900001525878904,Jonathan Burkardt,RightFoot,SavedShot,Eintracht Frankfurt,St. Pauli,Ansgar Knauff,0.07179038226604462
+46,0.8519999694824218,0.7669999694824219,Can Uzun,RightFoot,MissedShots,Eintracht Frankfurt,St. Pauli,Nathaniel Brown,0.026169905439019203
+48,0.9330000305175781,0.4809999847412109,Nathaniel Brown,LeftFoot,SavedShot,Eintracht Frankfurt,St. Pauli,Ansgar Knauff,0.5780763626098633
+49,0.8219999694824218,0.72,Can Uzun,RightFoot,SavedShot,Eintracht Frankfurt,St. Pauli,Ansgar Knauff,0.021664664149284363
+55,0.9309999847412109,0.5529999923706055,Jonathan Burkardt,LeftFoot,Goal,Eintracht Frankfurt,St. Pauli,Farès Chaïbi,0.3906373679637909
+59,0.784000015258789,0.3890000152587891,Ritsu Doan,LeftFoot,MissedShots,Eintracht Frankfurt,St. Pauli,,0.03065894916653633
+83,0.9,0.40400001525878904,Ritsu Doan,RightFoot,SavedShot,Eintracht Frankfurt,St. Pauli,Sepe Elye Wahi,0.3545108437538147
+1,0.784000015258789,0.49599998474121093,Ansgar Knauff,RightFoot,BlockedShot,FC Heidenheim,Eintracht Frankfurt,Hugo Larsson,0.03717188164591789
+33,0.9080000305175782,0.48,Robin Koch,Head,MissedShots,FC Heidenheim,Eintracht Frankfurt,Mario Götze,0.08144789189100266
+40,0.840999984741211,0.549000015258789,Mario Götze,RightFoot,BlockedShot,FC Heidenheim,Eintracht Frankfurt,Ansgar Knauff,0.05677879601716995
+45,0.9340000152587891,0.40900001525878904,Ellyes Skhiri,Head,ShotOnPost,FC Heidenheim,Eintracht Frankfurt,Ritsu Doan,0.2566871643066406
+47,0.6880000305175781,0.5590000152587891,Arthur Theate,LeftFoot,SavedShot,FC Heidenheim,Eintracht Frankfurt,Nathaniel Brown,0.013624198734760284
+53,0.7419999694824219,0.5559999847412109,Hugo Larsson,RightFoot,BlockedShot,FC Heidenheim,Eintracht Frankfurt,,0.01298443041741848
+54,0.9230000305175782,0.45799999237060546,Rasmus Kristensen,Head,Goal,FC Heidenheim,Eintracht Frankfurt,Nathaniel Brown,0.355884850025177
+62,0.740999984741211,0.37,Hugo Larsson,RightFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Robin Koch,0.018603956326842308
+68,0.9530000305175781,0.5320000076293945,Jonathan Burkardt,Head,BlockedShot,FC Heidenheim,Eintracht Frankfurt,Mario Götze,0.08676724135875702
+72,0.8430000305175781,0.6,Ansgar Knauff,RightFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Arthur Theate,0.0703565776348114
+74,0.9080000305175782,0.24,Sepe Elye Wahi,RightFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Ellyes Skhiri,0.034428272396326065
+77,0.9780000305175781,0.5890000152587891,Jonathan Burkardt,LeftFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Hugo Larsson,0.09301148355007172
+83,0.909000015258789,0.549000015258789,Robin Koch,Head,MissedShots,FC Heidenheim,Eintracht Frankfurt,Mario Götze,0.024127952754497528
+84,0.7919999694824219,0.6819999694824219,Jonathan Burkardt,RightFoot,BlockedShot,FC Heidenheim,Eintracht Frankfurt,Jean Négoce,0.02519317716360092
+85,0.7340000152587891,0.49900001525878906,Arthur Theate,LeftFoot,SavedShot,FC Heidenheim,Eintracht Frankfurt,Hugo Larsson,0.018900208175182343
+85,0.924000015258789,0.555,Robin Koch,Head,MissedShots,FC Heidenheim,Eintracht Frankfurt,Mario Götze,0.0380915068089962
+28,0.7530000305175781,0.64,Mahmoud Dahoud,RightFoot,BlockedShot,Eintracht Frankfurt,Mainz 05,Ellyes Skhiri,0.018812185153365135
+45,0.8419999694824218,0.6659999847412109,Jean Négoce,RightFoot,BlockedShot,Eintracht Frankfurt,Mainz 05,Nathaniel Brown,0.047083497047424316
+47,0.775,0.365,Rasmus Kristensen,RightFoot,BlockedShot,Eintracht Frankfurt,Mainz 05,,0.02128540351986885
+48,0.774000015258789,0.3160000038146973,Ritsu Doan,LeftFoot,BlockedShot,Eintracht Frankfurt,Mainz 05,Rasmus Kristensen,0.02331412583589554
+53,0.965,0.605,Ansgar Knauff,Head,SavedShot,Eintracht Frankfurt,Mainz 05,,0.28861674666404724
+55,0.8540000152587891,0.674000015258789,Ansgar Knauff,RightFoot,MissedShots,Eintracht Frankfurt,Mainz 05,Jean Négoce,0.04676537588238716
+57,0.8080000305175781,0.6859999847412109,Mahmoud Dahoud,RightFoot,BlockedShot,Eintracht Frankfurt,Mainz 05,Jonathan Burkardt,0.03614244610071182
+61,0.7669999694824219,0.4929999923706055,Mahmoud Dahoud,LeftFoot,MissedShots,Eintracht Frankfurt,Mainz 05,Nathaniel Brown,0.02884896658360958
+69,0.7559999847412109,0.6709999847412109,Mahmoud Dahoud,RightFoot,MissedShots,Eintracht Frankfurt,Mainz 05,,0.053930651396512985
+77,0.8530000305175781,0.6630000305175782,Jean Négoce,LeftFoot,MissedShots,Eintracht Frankfurt,Mainz 05,Mahmoud Dahoud,0.043425142765045166
+79,0.9419999694824219,0.33599998474121096,Ritsu Doan,LeftFoot,Goal,Eintracht Frankfurt,Mainz 05,Nnamdi Collins,0.37910133600234985
+85,0.9290000152587891,0.635,Sepe Elye Wahi,LeftFoot,SavedShot,Eintracht Frankfurt,Mainz 05,Mario Götze,0.38635486364364624
+86,0.9180000305175782,0.40599998474121096,Sepe Elye Wahi,Head,SavedShot,Eintracht Frankfurt,Mainz 05,Nathaniel Brown,0.09674398601055145
+93,0.9730000305175781,0.3679999923706055,Sepe Elye Wahi,RightFoot,MissedShots,Eintracht Frankfurt,Mainz 05,Ritsu Doan,0.3081149458885193

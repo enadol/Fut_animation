@@ -208,5 +208,95 @@
             "l": 0.24989804050776157
         },
         "result": "d"
+    },
+    {
+        "id": "30291",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.42632",
+            "a": "0.519973"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.7960325549367595,
+            "d": 0.14289018842229131,
+            "l": 0.061077209366777206
+        },
+        "result": "w"
+    },
+    {
+        "id": "30299",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.831882",
+            "a": "1.22406"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.2514788830332738,
+            "d": 0.29545806139998265,
+            "l": 0.45306305556167126
+        },
+        "result": "d"
+    },
+    {
+        "id": "30307",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.77854",
+            "a": "0.121469"
+        },
+        "datetime": "2025-11-09 18:30:00",
+        "forecast": {
+            "w": 0.79489713339326,
+            "d": 0.1836670288547072,
+            "l": 0.02143583693388408
+        },
+        "result": "w"
     }
 ]
