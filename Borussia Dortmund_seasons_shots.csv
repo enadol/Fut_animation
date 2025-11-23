@@ -129,3 +129,17 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 63,0.8719999694824219,0.49599998474121093,Carney Chukwuemeka,RightFoot,Goal,Hamburger SV,Borussia Dortmund,Nico Schlotterbeck,0.19385690987110138
 70,0.855999984741211,0.37900001525878907,Pascal Groß,RightFoot,BlockedShot,Hamburger SV,Borussia Dortmund,Karim Adeyemi,0.07906044274568558
 71,0.925,0.5479999923706055,Serhou Guirassy,Head,MissedShots,Hamburger SV,Borussia Dortmund,Pascal Groß,0.10130354762077332
+12,0.9209999847412109,0.47,Serhou Guirassy,Head,MissedShots,Borussia Dortmund,VfB Stuttgart,,0.06379175186157227
+14,0.8059999847412109,0.7369999694824219,Maximilian Beier,RightFoot,BlockedShot,Borussia Dortmund,VfB Stuttgart,Jobe Bellingham,0.02230299450457096
+25,0.9569999694824218,0.28899999618530275,Carney Chukwuemeka,RightFoot,MissedShots,Borussia Dortmund,VfB Stuttgart,Julian Brandt,0.04474930837750435
+29,0.779000015258789,0.40099998474121096,Jobe Bellingham,RightFoot,MissedShots,Borussia Dortmund,VfB Stuttgart,Julian Brandt,0.02718934789299965
+33,0.885,0.5,Emre Can,RightFoot,Goal,Borussia Dortmund,VfB Stuttgart,,0.75777667760849
+34,0.915,0.3820000076293945,Julian Ryerson,LeftFoot,BlockedShot,Borussia Dortmund,VfB Stuttgart,Julian Brandt,0.19196853041648865
+35,0.81,0.4590000152587891,Jobe Bellingham,RightFoot,BlockedShot,Borussia Dortmund,VfB Stuttgart,,0.116460420191288
+40,0.8530000305175781,0.34200000762939453,Serhou Guirassy,LeftFoot,SavedShot,Borussia Dortmund,VfB Stuttgart,Waldemar Anton,0.06642348319292068
+40,0.9569999694824218,0.5229999923706055,Maximilian Beier,RightFoot,SavedShot,Borussia Dortmund,VfB Stuttgart,,0.6623547673225403
+40,0.97,0.48200000762939454,Maximilian Beier,RightFoot,Goal,Borussia Dortmund,VfB Stuttgart,,0.7795189619064331
+43,0.9030000305175782,0.720999984741211,Julian Brandt,LeftFoot,BlockedShot,Borussia Dortmund,VfB Stuttgart,Felix Nmecha,0.08049827814102173
+77,0.7619999694824219,0.5109999847412109,Felix Nmecha,RightFoot,MissedShots,Borussia Dortmund,VfB Stuttgart,,0.023899855092167854
+82,0.915,0.5890000152587891,Karim Adeyemi,LeftFoot,SavedShot,Borussia Dortmund,VfB Stuttgart,Nico Schlotterbeck,0.2985284626483917
+88,0.904000015258789,0.514000015258789,Karim Adeyemi,LeftFoot,Goal,Borussia Dortmund,VfB Stuttgart,Maximilian Beier,0.5935699939727783

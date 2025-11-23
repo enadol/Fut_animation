@@ -189,3 +189,25 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 73,0.8219999694824218,0.34799999237060547,Michael Olise,LeftFoot,BlockedShot,Union Berlin,Bayern Munich,Leon Goretzka,0.04258132725954056
 92,0.9290000152587891,0.514000015258789,Harry Kane,Head,Goal,Union Berlin,Bayern Munich,Tom Bischof,0.36480724811553955
 95,0.7680000305175781,0.5420000076293945,Harry Kane,RightFoot,BlockedShot,Union Berlin,Bayern Munich,Tom Bischof,0.029433198273181915
+20,0.8440000152587891,0.555,Lennart Karl,Head,MissedShots,Bayern Munich,Freiburg,Aleksandar Pavlovic,0.2779809534549713
+21,0.9069999694824219,0.4329999923706055,Lennart Karl,RightFoot,Goal,Bayern Munich,Freiburg,Michael Olise,0.494925320148468
+41,0.885,0.5620000076293945,Dayotchanculle Upamecano,Head,BlockedShot,Bayern Munich,Freiburg,Michael Olise,0.04192671552300453
+45,0.8269999694824218,0.3840000152587891,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Freiburg,,0.04376041144132614
+46,0.7759999847412109,0.7090000152587891,Aleksandar Pavlovic,RightFoot,SavedShot,Bayern Munich,Freiburg,Luis Díaz,0.018496857956051826
+46,0.855999984741211,0.4129999923706055,Michael Olise,LeftFoot,Goal,Bayern Munich,Freiburg,Lennart Karl,0.07763329893350601
+47,0.8780000305175781,0.615,Lennart Karl,LeftFoot,MissedShots,Bayern Munich,Freiburg,Luis Díaz,0.09483847767114639
+53,0.8880000305175781,0.3579999923706055,Harry Kane,RightFoot,BlockedShot,Bayern Munich,Freiburg,Lennart Karl,0.07898248732089996
+54,0.8590000152587891,0.35400001525878905,Harry Kane,RightFoot,BlockedShot,Bayern Munich,Freiburg,Aleksandar Pavlovic,0.05697989836335182
+54,0.960999984741211,0.534000015258789,Dayotchanculle Upamecano,RightFoot,Goal,Bayern Munich,Freiburg,Michael Olise,0.47549954056739807
+56,0.904000015258789,0.27700000762939453,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Freiburg,Aleksandar Pavlovic,0.04899708554148674
+59,0.855999984741211,0.49200000762939455,Harry Kane,LeftFoot,Goal,Bayern Munich,Freiburg,Aleksandar Pavlovic,0.39509978890419006
+66,0.7830000305175782,0.3629999923706055,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Freiburg,Lennart Karl,0.027937758713960648
+67,0.8640000152587891,0.6719999694824219,Luis Díaz,RightFoot,MissedShots,Bayern Munich,Freiburg,Konrad Laimer,0.07399100810289383
+72,0.84,0.5409999847412109,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Freiburg,Tom Bischof,0.09637771546840668
+75,0.7869999694824219,0.3089999961853027,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Freiburg,Luis Díaz,0.030462678521871567
+77,0.9069999694824219,0.595,Nicolas Jackson,RightFoot,Goal,Bayern Munich,Freiburg,Michael Olise,0.3796442151069641
+83,0.8080000305175781,0.31799999237060544,Michael Olise,LeftFoot,Goal,Bayern Munich,Freiburg,Hiroki Ito,0.06467676907777786
+88,0.8690000152587891,0.41700000762939454,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,Freiburg,Michael Olise,0.125060573220253
+90,0.8430000305175781,0.4620000076293945,Nicolas Jackson,RightFoot,BlockedShot,Bayern Munich,Freiburg,Michael Olise,0.1119200736284256
+92,0.825,0.4470000076293945,Konrad Laimer,LeftFoot,MissedShots,Bayern Munich,Freiburg,,0.06347303092479706
+94,0.825999984741211,0.34599998474121096,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Freiburg,Konrad Laimer,0.05991493910551071

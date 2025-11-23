@@ -298,5 +298,35 @@
             "l": 0.6247617755060302
         },
         "result": "d"
+    },
+    {
+        "id": "30316",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "3.15124",
+            "a": "1.80942"
+        },
+        "datetime": "2025-11-22 14:30:00",
+        "forecast": {
+            "w": 0.6447890003614449,
+            "d": 0.156339182871256,
+            "l": 0.19887059684308067
+        },
+        "result": "d"
     }
 ]
