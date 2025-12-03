@@ -20,8 +20,9 @@ own_goals_for=[]
 
 #club="Bayer Leverkusen"
 with open('club_name.txt', 'r') as f:
-    club=f.read()
-    f.close()
+    club = f.read().strip()
+    if not club:
+        raise ValueError("club_name.txt is empty")
 print(club)
 
 
@@ -29,12 +30,12 @@ async def main():
     async with aiohttp.ClientSession() as session:
         understat = Understat(session)
         results = await understat.get_team_results(club, 2025)
-        print(json.dumps(results, indent=4, ensure_ascii=False))
-        clubmatches=json.dumps(results, indent=4, ensure_ascii=False)
+        if results == "NoneType":
+            raise ValueError(f"Failed to retrieve results for club '{club}'. Check if the club name is correct and the API is accessible.")
+        clubmatches = json.dumps(results, indent=4, ensure_ascii=False)
+        print(clubmatches)
         with codecs.open(f"{club}_matches.json", "w", "utf-8") as jsonfile:
             jsonfile.write(clubmatches)
-        jsonfile.close()
-        #print(clubmatches)
 
 
 if __name__ == "__main__":

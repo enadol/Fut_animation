@@ -328,5 +328,35 @@
             "l": 0.19887059684308067
         },
         "result": "d"
+    },
+    {
+        "id": "30323",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.08287",
+            "a": "1.1562"
+        },
+        "datetime": "2025-11-29 17:30:00",
+        "forecast": {
+            "w": 0.3376765333378963,
+            "d": 0.2880146994179462,
+            "l": 0.3743087672409538
+        },
+        "result": "w"
     }
 ]

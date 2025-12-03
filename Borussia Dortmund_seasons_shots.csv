@@ -143,3 +143,10 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.7619999694824219,0.5109999847412109,Felix Nmecha,RightFoot,MissedShots,Borussia Dortmund,VfB Stuttgart,,0.023899855092167854
 82,0.915,0.5890000152587891,Karim Adeyemi,LeftFoot,SavedShot,Borussia Dortmund,VfB Stuttgart,Nico Schlotterbeck,0.2985284626483917
 88,0.904000015258789,0.514000015258789,Karim Adeyemi,LeftFoot,Goal,Borussia Dortmund,VfB Stuttgart,Maximilian Beier,0.5935699939727783
+12,0.79,0.6840000152587891,Serhou Guirassy,RightFoot,MissedShots,Bayer Leverkusen,Borussia Dortmund,Julian Brandt,0.025369446724653244
+20,0.9119999694824219,0.58,Marcel Sabitzer,Head,MissedShots,Bayer Leverkusen,Borussia Dortmund,Daniel Svensson,0.06541085243225098
+40,0.9130000305175782,0.5259999847412109,Aaron Anselmino,Head,Goal,Bayer Leverkusen,Borussia Dortmund,Daniel Svensson,0.05440906062722206
+58,0.9169999694824219,0.48700000762939455,Serhou Guirassy,Head,SavedShot,Bayer Leverkusen,Borussia Dortmund,Julian Ryerson,0.32779011130332947
+64,0.9,0.4640000152587891,Karim Adeyemi,Head,Goal,Bayer Leverkusen,Borussia Dortmund,Fabio Silva,0.25950926542282104
+71,0.860999984741211,0.3990000152587891,Julian Brandt,RightFoot,MissedShots,Bayer Leverkusen,Borussia Dortmund,Felix Nmecha,0.2845241129398346
+74,0.895,0.53,Julian Brandt,LeftFoot,SavedShot,Bayer Leverkusen,Borussia Dortmund,Fabio Silva,0.13919180631637573
