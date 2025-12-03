@@ -298,5 +298,35 @@
             "l": 0.3161198618084432
         },
         "result": "l"
+    },
+    {
+        "id": "30320",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.42834",
+            "a": "0.774872"
+        },
+        "datetime": "2025-11-23 14:30:00",
+        "forecast": {
+            "w": 0.7386160745871837,
+            "d": 0.16152475105667793,
+            "l": 0.09985912657779472
+        },
+        "result": "w"
     }
 ]
