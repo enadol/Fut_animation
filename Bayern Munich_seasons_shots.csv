@@ -211,3 +211,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 90,0.8430000305175781,0.4620000076293945,Nicolas Jackson,RightFoot,BlockedShot,Bayern Munich,Freiburg,Michael Olise,0.1119200736284256
 92,0.825,0.4470000076293945,Konrad Laimer,LeftFoot,MissedShots,Bayern Munich,Freiburg,,0.06347303092479706
 94,0.825999984741211,0.34599998474121096,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Freiburg,Konrad Laimer,0.05991493910551071
+4,0.8209999847412109,0.5020000076293946,Aleksandar Pavlovic,LeftFoot,MissedShots,Bayern Munich,St. Pauli,,0.0568927526473999
+17,0.9540000152587891,0.3990000152587891,Kim Min-Jae,LeftFoot,MissedShots,Bayern Munich,St. Pauli,Tom Bischof,0.061941035091876984
+21,0.94,0.4520000076293945,Luis Díaz,Head,BlockedShot,Bayern Munich,St. Pauli,Konrad Laimer,0.11306435614824295
+22,0.860999984741211,0.31799999237060544,Lennart Karl,LeftFoot,ShotOnPost,Bayern Munich,St. Pauli,Aleksandar Pavlovic,0.044895656406879425
+28,0.9109999847412109,0.6730000305175782,Harry Kane,LeftFoot,MissedShots,Bayern Munich,St. Pauli,,0.05321846902370453
+29,0.71,0.605,Jonathan Tah,RightFoot,MissedShots,Bayern Munich,St. Pauli,,0.011948689818382263
+34,0.8080000305175781,0.74,Tom Bischof,LeftFoot,BlockedShot,Bayern Munich,St. Pauli,Joshua Kimmich,0.021718686446547508
+39,0.7390000152587891,0.625999984741211,Harry Kane,RightFoot,MissedShots,Bayern Munich,St. Pauli,,0.05201715603470802
+43,0.8969999694824219,0.48400001525878905,Raphael Guerreiro,LeftFoot,Goal,Bayern Munich,St. Pauli,Luis Díaz,0.47391173243522644
+45,0.865999984741211,0.5820000076293945,Tom Bischof,RightFoot,MissedShots,Bayern Munich,St. Pauli,,0.07226845622062683
+48,0.8530000305175781,0.615,Tom Bischof,LeftFoot,BlockedShot,Bayern Munich,St. Pauli,Aleksandar Pavlovic,0.06717123091220856
+56,0.9059999847412109,0.5559999847412109,Lennart Karl,LeftFoot,MissedShots,Bayern Munich,St. Pauli,Luis Díaz,0.41029414534568787
+63,0.9519999694824218,0.6379999923706055,Tom Bischof,LeftFoot,MissedShots,Bayern Munich,St. Pauli,Michael Olise,0.05599440261721611
+70,0.9180000305175782,0.3139999961853027,Harry Kane,RightFoot,BlockedShot,Bayern Munich,St. Pauli,Michael Olise,0.11174634844064713
+80,0.9619999694824218,0.39099998474121095,Harry Kane,RightFoot,SavedShot,Bayern Munich,St. Pauli,,0.035799019038677216
+81,0.9640000152587891,0.38599998474121094,Harry Kane,Head,BlockedShot,Bayern Munich,St. Pauli,Joshua Kimmich,0.034551721066236496
+84,0.8069999694824219,0.3729999923706055,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,St. Pauli,Joshua Kimmich,0.0373368039727211
+92,0.9330000305175781,0.49,Luis Díaz,Head,Goal,Bayern Munich,St. Pauli,Joshua Kimmich,0.434305876493454
+95,0.874000015258789,0.5179999923706055,Nicolas Jackson,RightFoot,Goal,Bayern Munich,St. Pauli,,0.3903404474258423
