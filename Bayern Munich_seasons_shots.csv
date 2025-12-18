@@ -250,27 +250,3 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 84,0.8240000152587891,0.5870000076293945,Luis Díaz,RightFoot,BlockedShot,VfB Stuttgart,Bayern Munich,Aleksandar Pavlovic,0.07423745840787888
 87,0.9690000152587891,0.48700000762939455,Harry Kane,LeftFoot,Goal,VfB Stuttgart,Bayern Munich,Michael Olise,0.9042953252792358
 92,0.899000015258789,0.37,Konrad Laimer,RightFoot,SavedShot,VfB Stuttgart,Bayern Munich,Michael Olise,0.12407227605581284
-5,0.785,0.6719999694824219,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Mainz 05,Harry Kane,0.024174701422452927
-16,0.7769999694824219,0.3390000152587891,Harry Kane,RightFoot,MissedShots,Bayern Munich,Mainz 05,Michael Olise,0.019462469965219498
-19,0.955999984741211,0.51,Harry Kane,Head,SavedShot,Bayern Munich,Mainz 05,Michael Olise,0.5920195579528809
-21,0.865999984741211,0.5470000076293945,Serge Gnabry,RightFoot,BlockedShot,Bayern Munich,Mainz 05,,0.11799056082963943
-21,0.8830000305175781,0.5590000152587891,Serge Gnabry,RightFoot,SavedShot,Bayern Munich,Mainz 05,,0.08341079205274582
-22,0.8540000152587891,0.28899999618530275,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Mainz 05,Josip Stanisic,0.030977319926023483
-22,0.8919999694824219,0.5459999847412109,Josip Stanisic,Head,MissedShots,Bayern Munich,Mainz 05,Joshua Kimmich,0.05329114943742752
-28,0.924000015258789,0.27899999618530275,Harry Kane,RightFoot,MissedShots,Bayern Munich,Mainz 05,,0.044893331825733185
-28,0.9690000152587891,0.5020000076293946,Lennart Karl,LeftFoot,Goal,Bayern Munich,Mainz 05,Serge Gnabry,0.8101491928100586
-33,0.894000015258789,0.44,Harry Kane,RightFoot,SavedShot,Bayern Munich,Mainz 05,Lennart Karl,0.13120879232883453
-34,0.8869999694824219,0.40599998474121096,Joshua Kimmich,RightFoot,BlockedShot,Bayern Munich,Mainz 05,Michael Olise,0.13611793518066406
-35,0.904000015258789,0.5209999847412109,Harry Kane,RightFoot,BlockedShot,Bayern Munich,Mainz 05,Michael Olise,0.11893609911203384
-42,0.8719999694824219,0.5970000076293945,Leon Goretzka,LeftFoot,BlockedShot,Bayern Munich,Mainz 05,,0.09259633719921112
-52,0.785,0.705999984741211,Tom Bischof,LeftFoot,BlockedShot,Bayern Munich,Mainz 05,Leon Goretzka,0.022281095385551453
-59,0.955999984741211,0.61,Serge Gnabry,LeftFoot,MissedShots,Bayern Munich,Mainz 05,Lennart Karl,0.3715953826904297
-63,0.8859999847412109,0.625,Serge Gnabry,RightFoot,SavedShot,Bayern Munich,Mainz 05,Joshua Kimmich,0.3426562249660492
-63,0.8859999847412109,0.465,Harry Kane,LeftFoot,BlockedShot,Bayern Munich,Mainz 05,,0.37660354375839233
-71,0.9390000152587891,0.28600000381469726,Serge Gnabry,RightFoot,SavedShot,Bayern Munich,Mainz 05,,0.03536202386021614
-74,0.9830000305175781,0.3370000076293945,Nicolas Jackson,RightFoot,MissedShots,Bayern Munich,Mainz 05,Michael Olise,0.2162497341632843
-78,0.8919999694824219,0.6969999694824218,Serge Gnabry,RightFoot,BlockedShot,Bayern Munich,Mainz 05,Nicolas Jackson,0.06201619282364845
-78,0.925,0.5429999923706055,Harry Kane,Head,SavedShot,Bayern Munich,Mainz 05,Joshua Kimmich,0.30517667531967163
-86,0.885,0.5,Harry Kane,RightFoot,Goal,Bayern Munich,Mainz 05,,0.75777667760849
-87,0.7269999694824218,0.7419999694824219,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Mainz 05,Aleksandar Pavlovic,0.010240314528346062
-88,0.905,0.5029999923706054,Nicolas Jackson,Head,MissedShots,Bayern Munich,Mainz 05,Serge Gnabry,0.053421154618263245
