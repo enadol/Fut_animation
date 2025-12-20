@@ -3,9 +3,9 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 28,0.9419999694824219,0.6990000152587891,David Raum,LeftFoot,MissedShots,Bayern Munich,RasenBallsport Leipzig,Nicolas Seiwald,0.0502757802605629
 28,0.9259999847412109,0.3189999961853027,Loïs Openda,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,,0.04674576595425606
 43,0.8619999694824219,0.32799999237060545,Xaver Schlager,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Johan Bakayoko,0.054438427090644836
+49,0.8959999847412109,0.3029999923706055,Johan Bakayoko,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Loïs Openda,0.051909636706113815
 45,0.8209999847412109,0.3129999923706055,Johan Bakayoko,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Xaver Schlager,0.02903265506029129
 45,0.765,0.42,Xaver Schlager,LeftFoot,MissedShots,Bayern Munich,RasenBallsport Leipzig,,0.012898026034235954
-49,0.8959999847412109,0.3029999923706055,Johan Bakayoko,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Loïs Openda,0.051909636706113815
 57,0.914000015258789,0.5920000076293945,Nicolas Seiwald,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Xaver Schlager,0.0999424085021019
 58,0.855,0.3060000038146973,Bote Baku,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,,0.030169857665896416
 61,0.8240000152587891,0.5029999923706054,Antonio Nusa,RightFoot,MissedShots,Bayern Munich,RasenBallsport Leipzig,Rômulo,0.05595800653100014
@@ -61,9 +61,9 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 42,0.9119999694824219,0.515,Rômulo,RightFoot,SavedShot,RasenBallsport Leipzig,FC Cologne,Yan Diomande,0.1340773105621338
 43,0.9230000305175782,0.46900001525878904,Christoph Baumgartner,RightFoot,SavedShot,RasenBallsport Leipzig,FC Cologne,Johan Bakayoko,0.5308574438095093
 43,0.975999984741211,0.49400001525878906,Rômulo,RightFoot,Goal,RasenBallsport Leipzig,FC Cologne,,0.9122833013534546
+48,0.805,0.3509999847412109,David Raum,LeftFoot,Goal,RasenBallsport Leipzig,FC Cologne,,0.09567852318286896
 46,0.85,0.5070000076293946,Rômulo,Head,SavedShot,RasenBallsport Leipzig,FC Cologne,David Raum,0.028115734457969666
 46,0.975999984741211,0.57,Willi Orban,LeftFoot,MissedShots,RasenBallsport Leipzig,FC Cologne,,0.590223491191864
-48,0.805,0.3509999847412109,David Raum,LeftFoot,Goal,RasenBallsport Leipzig,FC Cologne,,0.09567852318286896
 55,0.8369999694824218,0.65,Nicolas Seiwald,RightFoot,MissedShots,RasenBallsport Leipzig,FC Cologne,,0.03680526092648506
 58,0.875,0.6029999923706054,Yan Diomande,LeftFoot,SavedShot,RasenBallsport Leipzig,FC Cologne,Rômulo,0.3806345462799072
 78,0.8930000305175781,0.3320000076293945,Bote Baku,RightFoot,MissedShots,RasenBallsport Leipzig,FC Cologne,Ezechiel Banzuzi,0.08641069382429123
@@ -181,3 +181,48 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.7909999847412109,0.37200000762939456,Johan Bakayoko,LeftFoot,BlockedShot,RasenBallsport Leipzig,Werder Bremen,,0.021985994651913643
 87,0.8419999694824218,0.29399999618530276,Johan Bakayoko,LeftFoot,MissedShots,RasenBallsport Leipzig,Werder Bremen,David Raum,0.03134429454803467
 94,0.9169999694824219,0.4570000076293945,Willi Orban,Head,SavedShot,RasenBallsport Leipzig,Werder Bremen,David Raum,0.08805330842733383
+9,0.769000015258789,0.66,David Raum,LeftFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,,0.06342557072639465
+12,0.8159999847412109,0.6170000076293946,Antonio Nusa,RightFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,David Raum,0.043166633695364
+21,0.8369999694824218,0.705,Antonio Nusa,RightFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Yan Diomande,0.032646335661411285
+26,0.815,0.5259999847412109,Conrad Harder,LeftFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,,0.059336770325899124
+35,0.7,0.5420000076293945,Conrad Harder,LeftFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,Castello Lukeba,0.0319584496319294
+41,0.7430000305175781,0.3890000152587891,Yan Diomande,RightFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,Antonio Nusa,0.018257945775985718
+46,0.9109999847412109,0.47700000762939454,Yan Diomande,LeftFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Antonio Nusa,0.11616436392068863
+49,0.9180000305175782,0.595,Christoph Baumgartner,RightFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,David Raum,0.05648841708898544
+57,0.8519999694824218,0.6279999923706054,Conrad Harder,LeftFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Bote Baku,0.06261313706636429
+62,0.865,0.775,Conrad Harder,LeftFoot,SavedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Antonio Nusa,0.04588375613093376
+66,0.74,0.4929999923706055,Bote Baku,RightFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Johan Bakayoko,0.024661971256136894
+69,0.9080000305175782,0.54,Willi Orban,Head,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,David Raum,0.02613871358335018
+70,0.8109999847412109,0.7659999847412109,Conrad Harder,LeftFoot,SavedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Castello Lukeba,0.022826062515378
+79,0.919000015258789,0.68,David Raum,LeftFoot,ShotOnPost,Borussia M.Gladbach,RasenBallsport Leipzig,Yan Diomande,0.23323017358779907
+80,0.789000015258789,0.285,Johan Bakayoko,LeftFoot,SavedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Willi Orban,0.02260931208729744
+87,0.7180000305175781,0.6040000152587891,Castello Lukeba,LeftFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,Nicolas Seiwald,0.016600988805294037
+90,0.914000015258789,0.56,Willi Orban,Head,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,David Raum,0.041873566806316376
+93,0.8959999847412109,0.515,Christoph Baumgartner,Head,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,David Raum,0.03329671546816826
+94,0.850999984741211,0.514000015258789,Ezechiel Banzuzi,LeftFoot,SavedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Yan Diomande,0.09770995378494263
+95,0.7659999847412109,0.47900001525878905,Lukas Klostermann,LeftFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,,0.04343457147479057
+4,0.865999984741211,0.40299999237060546,Conrad Harder,Head,Goal,RasenBallsport Leipzig,Eintracht Frankfurt,Christoph Baumgartner,0.3641117513179779
+7,0.9119999694824219,0.40900001525878904,Conrad Harder,Head,SavedShot,RasenBallsport Leipzig,Eintracht Frankfurt,David Raum,0.23961347341537476
+14,0.9230000305175782,0.49900001525878906,Conrad Harder,RightFoot,BlockedShot,RasenBallsport Leipzig,Eintracht Frankfurt,David Raum,0.12278534471988678
+30,0.98,0.5029999923706054,Christoph Baumgartner,RightFoot,Goal,RasenBallsport Leipzig,Eintracht Frankfurt,Conrad Harder,0.9729589223861694
+44,0.7819999694824219,0.37599998474121094,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Eintracht Frankfurt,Yan Diomande,0.029501622542738914
+46,0.87,0.595,Yan Diomande,RightFoot,Goal,RasenBallsport Leipzig,Eintracht Frankfurt,,0.08706722408533096
+49,0.9019999694824219,0.6890000152587891,Conrad Harder,LeftFoot,MissedShots,RasenBallsport Leipzig,Eintracht Frankfurt,Xaver Schlager,0.11235110461711884
+51,0.799000015258789,0.6819999694824219,Antonio Nusa,RightFoot,ShotOnPost,RasenBallsport Leipzig,Eintracht Frankfurt,Castello Lukeba,0.06669241935014725
+54,0.8180000305175781,0.46599998474121096,Yan Diomande,LeftFoot,Goal,RasenBallsport Leipzig,Eintracht Frankfurt,Christoph Baumgartner,0.08416341990232468
+60,0.9059999847412109,0.4640000152587891,Christoph Baumgartner,RightFoot,BlockedShot,RasenBallsport Leipzig,Eintracht Frankfurt,David Raum,0.09216795116662979
+60,0.845999984741211,0.47700000762939454,Xaver Schlager,RightFoot,BlockedShot,RasenBallsport Leipzig,Eintracht Frankfurt,Conrad Harder,0.06905410438776016
+61,0.885,0.5,David Raum,LeftFoot,Goal,RasenBallsport Leipzig,Eintracht Frankfurt,,0.75777667760849
+64,0.9259999847412109,0.625,Yan Diomande,LeftFoot,Goal,RasenBallsport Leipzig,Eintracht Frankfurt,Nicolas Seiwald,0.5373426675796509
+77,0.730999984741211,0.535,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Eintracht Frankfurt,Max Finkgrafe,0.029637476429343224
+83,0.7980000305175782,0.8109999847412109,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Eintracht Frankfurt,,0.041602715849876404
+93,0.865,0.43900001525878907,Samba Konate,Head,MissedShots,RasenBallsport Leipzig,Eintracht Frankfurt,Andrija Maksimovic,0.0413617305457592
+9,0.84,0.664000015258789,Yan Diomande,RightFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,,0.031044915318489075
+16,0.8590000152587891,0.6459999847412109,Yan Diomande,LeftFoot,SavedShot,Union Berlin,RasenBallsport Leipzig,,0.06528516113758087
+16,0.9159999847412109,0.46099998474121096,Christoph Baumgartner,Head,SavedShot,Union Berlin,RasenBallsport Leipzig,David Raum,0.08860740810632706
+38,0.799000015258789,0.6780000305175782,David Raum,LeftFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,,0.07879134267568588
+45,0.8240000152587891,0.41900001525878905,Christoph Baumgartner,RightFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,Conrad Harder,0.10465669631958008
+56,0.8059999847412109,0.6809999847412109,Conrad Harder,RightFoot,BlockedShot,Union Berlin,RasenBallsport Leipzig,Christoph Baumgartner,0.028230680152773857
+59,0.874000015258789,0.32,Tidiam Gomis,RightFoot,Goal,Union Berlin,RasenBallsport Leipzig,Conrad Harder,0.050289336591959
+79,0.7830000305175782,0.6809999847412109,Conrad Harder,LeftFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,Yan Diomande,0.02280086651444435
+83,0.7819999694824219,0.4259999847412109,Andrija Maksimovic,LeftFoot,BlockedShot,Union Berlin,RasenBallsport Leipzig,Castello Lukeba,0.025970367714762688

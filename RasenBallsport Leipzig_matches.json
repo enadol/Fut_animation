@@ -328,5 +328,95 @@
             "l": 0.09985912657779472
         },
         "result": "w"
+    },
+    {
+        "id": "30325",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.388883",
+            "a": "1.09232"
+        },
+        "datetime": "2025-11-28 19:30:00",
+        "forecast": {
+            "w": 0.13106491485348698,
+            "d": 0.334698418570554,
+            "l": 0.5342366665749239
+        },
+        "result": "d"
+    },
+    {
+        "id": "30340",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.64182",
+            "a": "0.473289"
+        },
+        "datetime": "2025-12-06 17:30:00",
+        "forecast": {
+            "w": 0.9205986410406742,
+            "d": 0.05917568912426093,
+            "l": 0.020218881625407664
+        },
+        "result": "w"
+    },
+    {
+        "id": "30348",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.4766",
+            "a": "0.495677"
+        },
+        "datetime": "2025-12-12 19:30:00",
+        "forecast": {
+            "w": 0.6158275912822933,
+            "d": 0.26119948512808233,
+            "l": 0.12297292352310334
+        },
+        "result": "l"
     }
 ]
