@@ -358,5 +358,95 @@
             "l": 0.3743087672409538
         },
         "result": "w"
+    },
+    {
+        "id": "30335",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.10147",
+            "a": "1.42364"
+        },
+        "datetime": "2025-12-07 16:30:00",
+        "forecast": {
+            "w": 0.29177012475586966,
+            "d": 0.26425305151384276,
+            "l": 0.4439768236887179
+        },
+        "result": "w"
+    },
+    {
+        "id": "30345",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.10621",
+            "a": "1.47427"
+        },
+        "datetime": "2025-12-14 14:30:00",
+        "forecast": {
+            "w": 0.2841183616460109,
+            "d": 0.2597330769594374,
+            "l": 0.45614856132821197
+        },
+        "result": "d"
+    },
+    {
+        "id": "30351",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.65394",
+            "a": "0.221237"
+        },
+        "datetime": "2025-12-19 19:30:00",
+        "forecast": {
+            "w": 0.7401517800757927,
+            "d": 0.21477828292609377,
+            "l": 0.045069936689044195
+        },
+        "result": "w"
     }
 ]
