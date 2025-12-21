@@ -418,5 +418,35 @@
             "l": 0.055095539232485426
         },
         "result": "w"
+    },
+    {
+        "id": "30356",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.93929",
+            "a": "2.70478"
+        },
+        "datetime": "2025-12-20 17:30:00",
+        "forecast": {
+            "w": 0.2743127515347409,
+            "d": 0.18051463093291384,
+            "l": 0.5451724286472764
+        },
+        "result": "w"
     }
 ]
