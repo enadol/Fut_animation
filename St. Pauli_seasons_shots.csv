@@ -1,0 +1,87 @@
+minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+9,0.8469999694824218,0.585,Louis Oppie,RightFoot,MissedShots,St. Pauli,Borussia Dortmund,Arkadiusz Pyrka,0.0374305360019207
+17,0.8590000152587891,0.675,Andréas Hountondji,LeftFoot,SavedShot,St. Pauli,Borussia Dortmund,Danel Sinani,0.2825362980365753
+39,0.8959999847412109,0.5540000152587891,Pereira Lage,RightFoot,MissedShots,St. Pauli,Borussia Dortmund,Joel Chima Fujita,0.09123405069112778
+49,0.9209999847412109,0.5059999847412109,Andréas Hountondji,Head,Goal,St. Pauli,Borussia Dortmund,Danel Sinani,0.05217396095395088
+56,0.875999984741211,0.2989999961853027,Arkadiusz Pyrka,RightFoot,BlockedShot,St. Pauli,Borussia Dortmund,Andréas Hountondji,0.05073288455605507
+64,0.8780000305175781,0.425,Pereira Lage,RightFoot,SavedShot,St. Pauli,Borussia Dortmund,Danel Sinani,0.0710497573018074
+81,0.9080000305175782,0.385,Danel Sinani,RightFoot,SavedShot,St. Pauli,Borussia Dortmund,,0.06640016287565231
+85,0.885,0.5,Danel Sinani,LeftFoot,Goal,St. Pauli,Borussia Dortmund,,0.75777667760849
+88,0.7659999847412109,0.3240000152587891,Eric Smith,RightFoot,Goal,St. Pauli,Borussia Dortmund,Manolis Saliakas,0.019624507054686546
+90,0.745,0.45799999237060546,Louis Oppie,LeftFoot,SavedShot,St. Pauli,Borussia Dortmund,,0.017386144027113914
+97,0.8380000305175781,0.8180000305175781,Abdoulie Ceesay,RightFoot,MissedShots,St. Pauli,Borussia Dortmund,Louis Oppie,0.02137080766260624
+17,0.7930000305175782,0.34,Danel Sinani,LeftFoot,BlockedShot,Hamburger SV,St. Pauli,Arkadiusz Pyrka,0.024588657543063164
+17,0.9030000305175782,0.47900001525878905,Pereira Lage,RightFoot,BlockedShot,Hamburger SV,St. Pauli,,0.1307796686887741
+18,0.919000015258789,0.415,Adam Dzwigala,RightFoot,Goal,Hamburger SV,St. Pauli,Pereira Lage,0.06307646632194519
+40,0.894000015258789,0.5020000076293946,Pereira Lage,RightFoot,MissedShots,Hamburger SV,St. Pauli,,0.5914481282234192
+44,0.725999984741211,0.7680000305175781,Louis Oppie,LeftFoot,MissedShots,Hamburger SV,St. Pauli,Danel Sinani,0.029561614617705345
+55,0.764000015258789,0.40200000762939453,Danel Sinani,LeftFoot,BlockedShot,Hamburger SV,St. Pauli,Andréas Hountondji,0.024959411472082138
+56,0.905,0.33099998474121095,Andréas Hountondji,LeftFoot,MissedShots,Hamburger SV,St. Pauli,Arkadiusz Pyrka,0.09861429035663605
+59,0.9680000305175781,0.6959999847412109,Andréas Hountondji,LeftFoot,Goal,Hamburger SV,St. Pauli,Joel Chima Fujita,0.3010755181312561
+61,0.88,0.36400001525878906,Pereira Lage,RightFoot,SavedShot,Hamburger SV,St. Pauli,Eric Smith,0.06121470034122467
+72,0.9159999847412109,0.7080000305175781,Danel Sinani,LeftFoot,BlockedShot,Hamburger SV,St. Pauli,Pereira Lage,0.07813941687345505
+77,0.7969999694824219,0.6419999694824219,Louis Oppie,RightFoot,SavedShot,Hamburger SV,St. Pauli,Pereira Lage,0.04337649419903755
+79,0.8469999694824218,0.5520000076293945,James Sands,RightFoot,SavedShot,Hamburger SV,St. Pauli,,0.08161763101816177
+80,0.875,0.2610000038146973,Joel Chima Fujita,RightFoot,MissedShots,Hamburger SV,St. Pauli,Danel Sinani,0.05253862217068672
+86,0.885,0.3039999961853027,Martijn Kaars,RightFoot,SavedShot,Hamburger SV,St. Pauli,Manolis Saliakas,0.06250499933958054
+87,0.7819999694824219,0.3189999961853027,Manolis Saliakas,LeftFoot,BlockedShot,Hamburger SV,St. Pauli,Martijn Kaars,0.034564707428216934
+95,0.8069999694824219,0.3820000076293945,James Sands,LeftFoot,MissedShots,Hamburger SV,St. Pauli,,0.04077409952878952
+97,0.85,0.35400001525878905,Martijn Kaars,RightFoot,BlockedShot,Hamburger SV,St. Pauli,Danel Sinani,0.13842308521270752
+5,0.7580000305175781,0.4470000076293945,Andréas Hountondji,LeftFoot,SavedShot,St. Pauli,Augsburg,,0.021765870973467827
+35,0.7909999847412109,0.625999984741211,Joel Chima Fujita,LeftFoot,BlockedShot,St. Pauli,Augsburg,,0.028327714651823044
+41,0.8980000305175782,0.43200000762939456,Andréas Hountondji,RightFoot,MissedShots,St. Pauli,Augsburg,Pereira Lage,0.056336551904678345
+44,0.885,0.5,Andréas Hountondji,RightFoot,SavedShot,St. Pauli,Augsburg,,0.75777667760849
+44,0.9490000152587891,0.5,Andréas Hountondji,RightFoot,Goal,St. Pauli,Augsburg,,0.6436731815338135
+46,0.860999984741211,0.2560000038146973,Pereira Lage,LeftFoot,BlockedShot,St. Pauli,Augsburg,Hauke Wahl,0.06668093800544739
+46,0.9309999847412109,0.6709999847412109,Pereira Lage,LeftFoot,SavedShot,St. Pauli,Augsburg,Joel Chima Fujita,0.06650134921073914
+46,0.845,0.3529999923706055,Manolis Saliakas,RightFoot,MissedShots,St. Pauli,Augsburg,,0.041724395006895065
+64,0.8780000305175781,0.3240000152587891,Martijn Kaars,RightFoot,MissedShots,St. Pauli,Augsburg,Danel Sinani,0.05893222615122795
+70,0.9119999694824219,0.6120000076293945,Pereira Lage,LeftFoot,SavedShot,St. Pauli,Augsburg,Danel Sinani,0.567385733127594
+76,0.8630000305175781,0.19200000762939454,Danel Sinani,LeftFoot,Goal,St. Pauli,Augsburg,,0.05979550629854202
+81,0.8080000305175781,0.46,Danel Sinani,LeftFoot,BlockedShot,St. Pauli,Augsburg,Joel Chima Fujita,0.06580634415149689
+93,0.6,0.06,Connor Metcalfe,RightFoot,SavedShot,St. Pauli,Augsburg,,0.010816361755132675
+51,0.9740000152587891,0.5790000152587891,Louis Oppie,LeftFoot,ShotOnPost,VfB Stuttgart,St. Pauli,James Sands,0.30352070927619934
+51,0.9680000305175781,0.26399999618530273,James Sands,RightFoot,MissedShots,VfB Stuttgart,St. Pauli,,0.02207295596599579
+52,0.9290000152587891,0.664000015258789,Danel Sinani,LeftFoot,BlockedShot,VfB Stuttgart,St. Pauli,Joel Chima Fujita,0.07372195273637772
+53,0.904000015258789,0.6179999923706054,Pereira Lage,RightFoot,SavedShot,VfB Stuttgart,St. Pauli,Danel Sinani,0.07385846972465515
+53,0.9430000305175781,0.3029999923706055,Manolis Saliakas,RightFoot,BlockedShot,VfB Stuttgart,St. Pauli,,0.031505465507507324
+70,0.8930000305175781,0.575999984741211,Oladapo Afolayan,LeftFoot,SavedShot,VfB Stuttgart,St. Pauli,Joel Chima Fujita,0.40216171741485596
+70,0.7569999694824219,0.6430000305175781,Louis Oppie,LeftFoot,BlockedShot,VfB Stuttgart,St. Pauli,,0.024623895063996315
+77,0.730999984741211,0.36400001525878906,Connor Metcalfe,LeftFoot,BlockedShot,VfB Stuttgart,St. Pauli,Martijn Kaars,0.014928952790796757
+92,0.8680000305175781,0.43400001525878906,Arkadiusz Pyrka,RightFoot,BlockedShot,VfB Stuttgart,St. Pauli,Joel Chima Fujita,0.12910471856594086
+1,0.909000015258789,0.46599998474121096,Eric Smith,Head,MissedShots,St. Pauli,Bayer Leverkusen,Pereira Lage,0.27869218587875366
+10,0.905,0.38,Andréas Hountondji,RightFoot,BlockedShot,St. Pauli,Bayer Leverkusen,Danel Sinani,0.09645801037549973
+12,0.7469999694824219,0.4179999923706055,Pereira Lage,RightFoot,MissedShots,St. Pauli,Bayer Leverkusen,Joel Chima Fujita,0.02095535583794117
+17,0.9619999694824218,0.38799999237060545,Hauke Wahl,RightFoot,BlockedShot,St. Pauli,Bayer Leverkusen,Pereira Lage,0.06797336041927338
+19,0.77,0.3129999923706055,Danel Sinani,LeftFoot,MissedShots,St. Pauli,Bayer Leverkusen,James Sands,0.019131630659103394
+31,0.93,0.545,Hauke Wahl,RightFoot,Goal,St. Pauli,Bayer Leverkusen,,0.10867830365896225
+52,0.8440000152587891,0.639000015258789,Louis Oppie,LeftFoot,MissedShots,St. Pauli,Bayer Leverkusen,Pereira Lage,0.01980276219546795
+53,0.8490000152587891,0.3039999961853027,Manolis Saliakas,RightFoot,SavedShot,St. Pauli,Bayer Leverkusen,Danel Sinani,0.03107600100338459
+54,0.749000015258789,0.3390000152587891,Danel Sinani,LeftFoot,SavedShot,St. Pauli,Bayer Leverkusen,,0.014749276451766491
+67,0.8069999694824219,0.47200000762939454,Joel Chima Fujita,RightFoot,MissedShots,St. Pauli,Bayer Leverkusen,Pereira Lage,0.053031694144010544
+72,0.7669999694824219,0.7380000305175781,Danel Sinani,LeftFoot,SavedShot,St. Pauli,Bayer Leverkusen,Pereira Lage,0.031155219301581383
+90,0.730999984741211,0.585999984741211,Eric Smith,RightFoot,SavedShot,St. Pauli,Bayer Leverkusen,,0.05199053883552551
+95,0.895,0.519000015258789,Abdoulie Ceesay,Head,MissedShots,St. Pauli,Bayer Leverkusen,Danel Sinani,0.01963067799806595
+6,0.924000015258789,0.3320000076293945,Pereira Lage,RightFoot,SavedShot,Werder Bremen,St. Pauli,Danel Sinani,0.3128105103969574
+6,0.88,0.18399999618530274,Arkadiusz Pyrka,RightFoot,SavedShot,Werder Bremen,St. Pauli,,0.020362695679068565
+38,0.850999984741211,0.3579999923706055,Arkadiusz Pyrka,RightFoot,MissedShots,Werder Bremen,St. Pauli,Joel Chima Fujita,0.05281704291701317
+40,0.905,0.63,Martijn Kaars,LeftFoot,BlockedShot,Werder Bremen,St. Pauli,Louis Oppie,0.1358681172132492
+49,0.8780000305175781,0.31799999237060544,James Sands,RightFoot,SavedShot,Werder Bremen,St. Pauli,,0.045778896659612656
+68,0.764000015258789,0.23,Danel Sinani,LeftFoot,BlockedShot,Werder Bremen,St. Pauli,,0.03980357572436333
+75,0.8169999694824219,0.385,Joel Chima Fujita,RightFoot,BlockedShot,Werder Bremen,St. Pauli,Danel Sinani,0.04537317901849747
+75,0.905,0.5029999923706054,Martijn Kaars,Head,MissedShots,Werder Bremen,St. Pauli,Manolis Saliakas,0.09005871415138245
+78,0.740999984741211,0.6140000152587891,Joel Chima Fujita,RightFoot,MissedShots,Werder Bremen,St. Pauli,Hauke Wahl,0.019035538658499718
+79,0.76,0.34700000762939454,Connor Metcalfe,LeftFoot,MissedShots,Werder Bremen,St. Pauli,Joel Chima Fujita,0.019734473899006844
+84,0.78,0.4229999923706055,Connor Metcalfe,LeftFoot,MissedShots,Werder Bremen,St. Pauli,Pereira Lage,0.03201241046190262
+88,0.764000015258789,0.6919999694824219,Louis Oppie,LeftFoot,MissedShots,Werder Bremen,St. Pauli,Joel Chima Fujita,0.019798126071691513
+92,0.8580000305175781,0.44299999237060544,Martijn Kaars,RightFoot,BlockedShot,Werder Bremen,St. Pauli,Danel Sinani,0.08534159511327744
+9,0.7780000305175782,0.4909999847412109,Danel Sinani,LeftFoot,BlockedShot,St. Pauli,Hoffenheim,Pereira Lage,0.03704969584941864
+10,0.7190000152587891,0.4929999923706055,Danel Sinani,LeftFoot,MissedShots,St. Pauli,Hoffenheim,Arkadiusz Pyrka,0.01520130317658186
+24,0.8490000152587891,0.5509999847412109,Danel Sinani,LeftFoot,BlockedShot,St. Pauli,Hoffenheim,Martijn Kaars,0.09472772479057312
+35,0.79,0.66,Pereira Lage,RightFoot,BlockedShot,St. Pauli,Hoffenheim,,0.019499752670526505
+40,0.9180000305175782,0.3970000076293945,Martijn Kaars,RightFoot,SavedShot,St. Pauli,Hoffenheim,Joel Chima Fujita,0.5533326268196106
+40,0.8880000305175781,0.5670000076293945,Pereira Lage,LeftFoot,BlockedShot,St. Pauli,Hoffenheim,,0.1463279128074646
+58,0.9119999694824219,0.28899999618530275,Martijn Kaars,RightFoot,SavedShot,St. Pauli,Hoffenheim,Pereira Lage,0.05085756629705429
+65,0.749000015258789,0.5020000076293946,Oladapo Afolayan,RightFoot,BlockedShot,St. Pauli,Hoffenheim,Andréas Hountondji,0.020330974832177162
+66,0.7140000152587891,0.27899999618530275,Andréas Hountondji,RightFoot,BlockedShot,St. Pauli,Hoffenheim,,0.006714159157127142
+81,0.69,0.539000015258789,Joel Chima Fujita,RightFoot,MissedShots,St. Pauli,Hoffenheim,Danel Sinani,0.008894502185285091

@@ -1,0 +1,422 @@
+[
+    {
+        "id": "30224",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.29885",
+            "a": "0.52226"
+        },
+        "datetime": "2025-08-22 18:30:00",
+        "forecast": {
+            "w": 0.8900577384272623,
+            "d": 0.079364402800771,
+            "l": 0.030575745650069434
+        },
+        "result": "l"
+    },
+    {
+        "id": "30235",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.29717",
+            "a": "0.969982"
+        },
+        "datetime": "2025-08-30 13:30:00",
+        "forecast": {
+            "w": 0.8162824432981991,
+            "d": 0.11036545061659955,
+            "l": 0.07335000578999956
+        },
+        "result": "w"
+    },
+    {
+        "id": "30245",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.770276",
+            "a": "1.5009"
+        },
+        "datetime": "2025-09-13 13:30:00",
+        "forecast": {
+            "w": 0.19207529046243535,
+            "d": 0.2617357224890783,
+            "l": 0.5461889869654065
+        },
+        "result": "w"
+    },
+    {
+        "id": "30256",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.79591",
+            "a": "1.39264"
+        },
+        "datetime": "2025-09-20 16:30:00",
+        "forecast": {
+            "w": 0.8014068943307756,
+            "d": 0.10638878770725847,
+            "l": 0.09219335265426365
+        },
+        "result": "w"
+    },
+    {
+        "id": "30264",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.59654",
+            "a": "2.61107"
+        },
+        "datetime": "2025-09-27 13:30:00",
+        "forecast": {
+            "w": 0.40771997811247795,
+            "d": 0.17960661685917975,
+            "l": 0.4126731736630406
+        },
+        "result": "w"
+    },
+    {
+        "id": "30271",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.668613",
+            "a": "1.14077"
+        },
+        "datetime": "2025-10-04 13:30:00",
+        "forecast": {
+            "w": 0.21539974095081782,
+            "d": 0.31459099261646734,
+            "l": 0.4700092664308175
+        },
+        "result": "d"
+    },
+    {
+        "id": "30283",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.15611",
+            "a": "1.29355"
+        },
+        "datetime": "2025-10-18 13:30:00",
+        "forecast": {
+            "w": 0.330734533840397,
+            "d": 0.27249882511453233,
+            "l": 0.3967666410319497
+        },
+        "result": "w"
+    },
+    {
+        "id": "30287",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "6"
+        },
+        "xG": {
+            "h": "0.639182",
+            "a": "2.69438"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.06416520573198485,
+            "d": 0.12918013223844652,
+            "l": 0.806654484481842
+        },
+        "result": "w"
+    },
+    {
+        "id": "30301",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.73471",
+            "a": "1.0701"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.5293804573083041,
+            "d": 0.23709246264226133,
+            "l": 0.23352707946251897
+        },
+        "result": "w"
+    },
+    {
+        "id": "30310",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.92349",
+            "a": "1.56187"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.46405782815873214,
+            "d": 0.21982230757467086,
+            "l": 0.3161198618084432
+        },
+        "result": "l"
+    },
+    {
+        "id": "30320",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.42834",
+            "a": "0.774872"
+        },
+        "datetime": "2025-11-23 14:30:00",
+        "forecast": {
+            "w": 0.7386160745871837,
+            "d": 0.16152475105667793,
+            "l": 0.09985912657779472
+        },
+        "result": "w"
+    },
+    {
+        "id": "30325",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.388883",
+            "a": "1.09232"
+        },
+        "datetime": "2025-11-28 19:30:00",
+        "forecast": {
+            "w": 0.13106491485348698,
+            "d": 0.334698418570554,
+            "l": 0.5342366665749239
+        },
+        "result": "d"
+    },
+    {
+        "id": "30340",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.64182",
+            "a": "0.473289"
+        },
+        "datetime": "2025-12-06 17:30:00",
+        "forecast": {
+            "w": 0.9205986410406742,
+            "d": 0.05917568912426093,
+            "l": 0.020218881625407664
+        },
+        "result": "w"
+    },
+    {
+        "id": "30348",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.4766",
+            "a": "0.495677"
+        },
+        "datetime": "2025-12-12 19:30:00",
+        "forecast": {
+            "w": 0.6158275912822933,
+            "d": 0.26119948512808233,
+            "l": 0.12297292352310334
+        },
+        "result": "l"
+    }
+]

@@ -1,0 +1,104 @@
+minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+1,0.8280000305175781,0.625999984741211,Romano Schmid,RightFoot,BlockedShot,Eintracht Frankfurt,Werder Bremen,Marco Grüll,0.059333883225917816
+1,0.8519999694824218,0.6359999847412109,Marco Grüll,RightFoot,SavedShot,Eintracht Frankfurt,Werder Bremen,,0.047478582710027695
+12,0.7290000152587891,0.3559999847412109,Marco Grüll,RightFoot,SavedShot,Eintracht Frankfurt,Werder Bremen,,0.045168302953243256
+27,0.905,0.37799999237060544,Samuel Mbangula,RightFoot,MissedShots,Eintracht Frankfurt,Werder Bremen,Romano Schmid,0.2670634984970093
+39,0.725,0.6769999694824219,Felix Agu,RightFoot,SavedShot,Eintracht Frankfurt,Werder Bremen,,0.0074889217503368855
+41,0.769000015258789,0.3079999923706055,Justin Njinmah,LeftFoot,MissedShots,Eintracht Frankfurt,Werder Bremen,Marco Grüll,0.01810569502413273
+47,0.870999984741211,0.6170000076293946,Justin Njinmah,RightFoot,Goal,Eintracht Frankfurt,Werder Bremen,Marco Grüll,0.09905267506837845
+67,0.7440000152587891,0.7530000305175781,Leonardo Bittencourt,RightFoot,MissedShots,Eintracht Frankfurt,Werder Bremen,Felix Agu,0.008128155954182148
+73,0.9490000152587891,0.3170000076293945,Justin Njinmah,RightFoot,MissedShots,Eintracht Frankfurt,Werder Bremen,Felix Agu,0.021438293159008026
+84,0.8090000152587891,0.27700000762939453,Justin Njinmah,LeftFoot,SavedShot,Eintracht Frankfurt,Werder Bremen,Karim Coulibaly,0.017380883917212486
+13,0.875,0.3559999847412109,Justin Njinmah,RightFoot,MissedShots,Werder Bremen,Bayer Leverkusen,Marco Grüll,0.05490608885884285
+17,0.735,0.65,Marco Grüll,RightFoot,MissedShots,Werder Bremen,Bayer Leverkusen,,0.012871837243437767
+43,0.885,0.5,Romano Schmid,RightFoot,Goal,Werder Bremen,Bayer Leverkusen,,0.75777667760849
+46,0.7909999847412109,0.725,Samuel Mbangula,RightFoot,MissedShots,Werder Bremen,Bayer Leverkusen,Patrice Covic,0.020473724231123924
+52,0.8530000305175781,0.610999984741211,Marco Grüll,LeftFoot,MissedShots,Werder Bremen,Bayer Leverkusen,Romano Schmid,0.050867967307567596
+61,0.9130000305175782,0.5320000076293945,Marco Grüll,Head,MissedShots,Werder Bremen,Bayer Leverkusen,Felix Agu,0.09033273905515671
+67,0.905,0.6830000305175781,Marco Grüll,RightFoot,MissedShots,Werder Bremen,Bayer Leverkusen,Samuel Mbangula,0.2950606346130371
+75,0.7469999694824219,0.33299999237060546,Isaac Schmidt,LeftFoot,Goal,Werder Bremen,Bayer Leverkusen,Keke Maximilian Topp,0.33116358518600464
+79,0.88,0.3970000076293945,Keke Maximilian Topp,RightFoot,SavedShot,Werder Bremen,Bayer Leverkusen,Senne Lynen,0.07283493131399155
+82,0.6869999694824219,0.37400001525878906,Yukinari Sugawara,RightFoot,SavedShot,Werder Bremen,Bayer Leverkusen,Isaac Schmidt,0.016630887985229492
+93,0.924000015258789,0.4570000076293945,Senne Lynen,Head,ShotOnPost,Werder Bremen,Bayer Leverkusen,Leonardo Bittencourt,0.1529284417629242
+93,0.9630000305175781,0.5870000076293945,Karim Coulibaly,LeftFoot,Goal,Werder Bremen,Bayer Leverkusen,,0.4709150195121765
+9,0.799000015258789,0.5120000076293946,Cameron Puertas,RightFoot,SavedShot,Borussia M.Gladbach,Werder Bremen,Marco Grüll,0.05061528831720352
+14,0.860999984741211,0.33599998474121096,Samuel Mbangula,RightFoot,Goal,Borussia M.Gladbach,Werder Bremen,Yukinari Sugawara,0.05836416035890579
+25,0.914000015258789,0.37099998474121093,Jens Stage,RightFoot,Goal,Borussia M.Gladbach,Werder Bremen,Samuel Mbangula,0.11118257790803909
+34,0.8959999847412109,0.5890000152587891,Karim Coulibaly,Head,MissedShots,Borussia M.Gladbach,Werder Bremen,Romano Schmid,0.014081895351409912
+39,0.9009999847412109,0.6969999694824218,Cameron Puertas,LeftFoot,MissedShots,Borussia M.Gladbach,Werder Bremen,Marco Grüll,0.06971337646245956
+46,0.795,0.549000015258789,Cameron Puertas,RightFoot,MissedShots,Borussia M.Gladbach,Werder Bremen,Samuel Mbangula,0.05919009819626808
+55,0.76,0.42700000762939455,Yukinari Sugawara,RightFoot,BlockedShot,Borussia M.Gladbach,Werder Bremen,Felix Agu,0.03320056572556496
+63,0.909000015258789,0.5720000076293945,Yukinari Sugawara,Head,MissedShots,Borussia M.Gladbach,Werder Bremen,Marco Grüll,0.029253533110022545
+67,0.8369999694824218,0.37099998474121093,Marco Grüll,RightFoot,MissedShots,Borussia M.Gladbach,Werder Bremen,Romano Schmid,0.10525350272655487
+67,0.8830000305175781,0.4279999923706055,Yukinari Sugawara,RightFoot,SavedShot,Borussia M.Gladbach,Werder Bremen,Romano Schmid,0.3485872149467468
+72,0.8780000305175781,0.34200000762939453,Marco Grüll,RightFoot,SavedShot,Borussia M.Gladbach,Werder Bremen,,0.06797199696302414
+73,0.885,0.5,Romano Schmid,RightFoot,Goal,Borussia M.Gladbach,Werder Bremen,,0.75777667760849
+80,0.9340000152587891,0.580999984741211,Justin Njinmah,RightFoot,Goal,Borussia M.Gladbach,Werder Bremen,Victor Boniface,0.5415151715278625
+9,0.875,0.6730000305175782,Justin Njinmah,LeftFoot,SavedShot,Werder Bremen,Freiburg,Marco Grüll,0.07695174962282181
+11,0.7290000152587891,0.5129999923706055,Senne Lynen,RightFoot,MissedShots,Werder Bremen,Freiburg,,0.01411819364875555
+21,0.9259999847412109,0.56,Jens Stage,Head,MissedShots,Werder Bremen,Freiburg,Senne Lynen,0.0624084398150444
+38,0.7240000152587891,0.41900001525878905,Marco Friedl,LeftFoot,MissedShots,Werder Bremen,Freiburg,Karim Coulibaly,0.01740725338459015
+50,0.8569999694824219,0.6179999923706054,Justin Njinmah,LeftFoot,SavedShot,Werder Bremen,Freiburg,Senne Lynen,0.058068566024303436
+58,0.885,0.5,Romano Schmid,RightFoot,SavedShot,Werder Bremen,Freiburg,,0.75777667760849
+61,0.8909999847412109,0.705999984741211,Cameron Puertas,LeftFoot,SavedShot,Werder Bremen,Freiburg,,0.033868033438920975
+67,0.8819999694824219,0.4490000152587891,Yukinari Sugawara,RightFoot,MissedShots,Werder Bremen,Freiburg,Isaac Schmidt,0.10965272784233093
+69,0.8980000305175782,0.4929999923706055,Victor Boniface,Head,SavedShot,Werder Bremen,Freiburg,Romano Schmid,0.051549505442380905
+72,0.774000015258789,0.42400001525878905,Cameron Puertas,RightFoot,MissedShots,Werder Bremen,Freiburg,,0.01991790346801281
+74,0.017000000476837158,0.48200000762939454,Karim Coulibaly,LeftFoot,OwnGoal,Werder Bremen,Freiburg,,0
+76,0.950999984741211,0.3129999923706055,Cameron Puertas,RightFoot,BlockedShot,Werder Bremen,Freiburg,Isaac Schmidt,0.05833177641034126
+77,0.700999984741211,0.38799999237060545,Leonardo Bittencourt,RightFoot,MissedShots,Werder Bremen,Freiburg,,0.012517089024186134
+29,0.7330000305175781,0.6140000152587891,Romano Schmid,RightFoot,BlockedShot,Bayern Munich,Werder Bremen,,0.05032350495457649
+47,0.855999984741211,0.27299999237060546,Yukinari Sugawara,LeftFoot,BlockedShot,Bayern Munich,Werder Bremen,Karim Coulibaly,0.023545870557427406
+48,0.745,0.5,Romano Schmid,RightFoot,BlockedShot,Bayern Munich,Werder Bremen,,0.013957522809505463
+54,0.8440000152587891,0.4929999923706055,Jens Stage,RightFoot,MissedShots,Bayern Munich,Werder Bremen,Yukinari Sugawara,0.08304259181022644
+57,0.9469999694824218,0.24600000381469728,Yukinari Sugawara,RightFoot,SavedShot,Bayern Munich,Werder Bremen,Romano Schmid,0.029430272057652473
+63,0.78,0.33599998474121096,Justin Njinmah,LeftFoot,BlockedShot,Bayern Munich,Werder Bremen,Romano Schmid,0.0220269113779068
+66,0.9019999694824219,0.6890000152587891,Yukinari Sugawara,RightFoot,SavedShot,Bayern Munich,Werder Bremen,Jens Stage,0.04091828688979149
+71,0.8490000152587891,0.2979999923706055,Yukinari Sugawara,LeftFoot,MissedShots,Bayern Munich,Werder Bremen,Romano Schmid,0.03537294268608093
+1,0.815,0.465,Samuel Mbangula,RightFoot,Goal,Werder Bremen,St. Pauli,,0.05252408981323242
+8,0.8690000152587891,0.5520000076293945,Yukinari Sugawara,LeftFoot,SavedShot,Werder Bremen,St. Pauli,Felix Agu,0.11170946806669235
+9,0.8809999847412109,0.5220000076293946,Justin Njinmah,Head,BlockedShot,Werder Bremen,St. Pauli,,0.017939845100045204
+10,0.7909999847412109,0.7140000152587891,Cameron Puertas,RightFoot,BlockedShot,Werder Bremen,St. Pauli,,0.062248826026916504
+22,0.919000015258789,0.504000015258789,Karim Coulibaly,RightFoot,MissedShots,Werder Bremen,St. Pauli,Jens Stage,0.49862417578697205
+26,0.750999984741211,0.4109999847412109,Jens Stage,LeftFoot,SavedShot,Werder Bremen,St. Pauli,Senne Lynen,0.03579175844788551
+46,0.874000015258789,0.34,Cameron Puertas,RightFoot,BlockedShot,Werder Bremen,St. Pauli,Romano Schmid,0.07994600385427475
+61,0.8640000152587891,0.6809999847412109,Marco Grüll,LeftFoot,BlockedShot,Werder Bremen,St. Pauli,Isaac Schmidt,0.06334704905748367
+61,0.8519999694824218,0.625,Jens Stage,LeftFoot,BlockedShot,Werder Bremen,St. Pauli,,0.0669998750090599
+62,0.9030000305175782,0.7169999694824218,Romano Schmid,RightFoot,BlockedShot,Werder Bremen,St. Pauli,,0.06412957608699799
+63,0.8430000305175781,0.6,Marco Grüll,RightFoot,BlockedShot,Werder Bremen,St. Pauli,Marco Friedl,0.07034175843000412
+73,0.7669999694824219,0.47099998474121096,Cameron Puertas,LeftFoot,MissedShots,Werder Bremen,St. Pauli,Romano Schmid,0.04779789596796036
+83,0.8580000305175781,0.46599998474121096,Patrice Covic,RightFoot,SavedShot,Werder Bremen,St. Pauli,Romano Schmid,0.43208274245262146
+86,0.82,0.4,Marco Grüll,RightFoot,SavedShot,Werder Bremen,St. Pauli,Romano Schmid,0.05841652676463127
+93,0.879000015258789,0.6220000076293946,Victor Boniface,RightFoot,MissedShots,Werder Bremen,St. Pauli,,0.12191444635391235
+29,0.97,0.590999984741211,Romano Schmid,LeftFoot,BlockedShot,FC Heidenheim,Werder Bremen,Patrice Covic,0.31842222809791565
+29,0.889000015258789,0.5559999847412109,Jens Stage,RightFoot,BlockedShot,FC Heidenheim,Werder Bremen,,0.10581579804420471
+29,0.7090000152587891,0.33599998474121096,Cameron Puertas,RightFoot,MissedShots,FC Heidenheim,Werder Bremen,Yukinari Sugawara,0.015561935491859913
+38,0.7959999847412109,0.33299999237060546,Cameron Puertas,RightFoot,SavedShot,FC Heidenheim,Werder Bremen,Yukinari Sugawara,0.027317173779010773
+49,0.9830000305175781,0.580999984741211,Marco Grüll,LeftFoot,Goal,FC Heidenheim,Werder Bremen,Romano Schmid,0.4630788266658783
+53,0.8580000305175781,0.5459999847412109,Romano Schmid,RightFoot,MissedShots,FC Heidenheim,Werder Bremen,,0.10100705176591873
+68,0.905,0.5159999847412109,Jens Stage,LeftFoot,Goal,FC Heidenheim,Werder Bremen,Romano Schmid,0.4609389305114746
+73,0.805,0.715,Marco Friedl,LeftFoot,MissedShots,FC Heidenheim,Werder Bremen,Leonardo Bittencourt,0.025067849084734917
+77,0.905,0.519000015258789,Victor Boniface,Head,SavedShot,FC Heidenheim,Werder Bremen,Marco Grüll,0.04595081880688667
+85,0.91,0.5329999923706055,Victor Boniface,Head,MissedShots,FC Heidenheim,Werder Bremen,,0.053178705275058746
+93,0.9230000305175782,0.555,Jens Stage,Head,MissedShots,FC Heidenheim,Werder Bremen,Romano Schmid,0.2737344205379486
+6,0.715,0.4640000152587891,Marco Grüll,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.04656617343425751
+14,0.7430000305175781,0.485,Victor Boniface,LeftFoot,MissedShots,Werder Bremen,Union Berlin,,0.01715192385017872
+21,0.8030000305175782,0.29700000762939455,Yukinari Sugawara,RightFoot,BlockedShot,Werder Bremen,Union Berlin,Marco Grüll,0.02257717028260231
+21,0.7680000305175781,0.610999984741211,Yukinari Sugawara,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.014361212030053139
+26,0.9359999847412109,0.33799999237060546,Victor Boniface,RightFoot,SavedShot,Werder Bremen,Union Berlin,,0.06363578885793686
+26,0.715,0.33299999237060546,Marco Grüll,RightFoot,SavedShot,Werder Bremen,Union Berlin,Samuel Mbangula,0.015176868066191673
+35,0.87,0.295,Marco Grüll,RightFoot,BlockedShot,Werder Bremen,Union Berlin,Romano Schmid,0.06518030166625977
+36,0.754000015258789,0.425,Yukinari Sugawara,RightFoot,MissedShots,Werder Bremen,Union Berlin,,0.01753842458128929
+44,0.7969999694824219,0.4879999923706055,Marco Grüll,LeftFoot,BlockedShot,Werder Bremen,Union Berlin,Victor Boniface,0.044431041926145554
+44,0.7380000305175781,0.38,Amos Pieper,RightFoot,MissedShots,Werder Bremen,Union Berlin,Samuel Mbangula,0.017317121848464012
+46,0.8869999694824219,0.46599998474121096,Jens Stage,LeftFoot,MissedShots,Werder Bremen,Union Berlin,,0.08854599297046661
+56,0.9440000152587891,0.4759999847412109,Victor Boniface,Head,BlockedShot,Werder Bremen,Union Berlin,Romano Schmid,0.12906688451766968
+61,0.720999984741211,0.4329999923706055,Victor Boniface,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.04814853146672249
+61,0.7859999847412109,0.485,Victor Boniface,RightFoot,BlockedShot,Werder Bremen,Union Berlin,,0.024110855534672737
+71,0.855999984741211,0.27899999618530275,Marco Grüll,LeftFoot,Goal,Werder Bremen,Union Berlin,Yukinari Sugawara,0.028709836304187775
+93,0.919000015258789,0.33299999237060546,Keke Maximilian Topp,RightFoot,MissedShots,Werder Bremen,Union Berlin,Justin Njinmah,0.5030449032783508
+12,0.8680000305175781,0.4229999923706055,Marco Grüll,LeftFoot,SavedShot,Mainz 05,Werder Bremen,Romano Schmid,0.3027844727039337
+64,0.8880000305175781,0.39299999237060546,Amos Pieper,RightFoot,MissedShots,Mainz 05,Werder Bremen,Romano Schmid,0.09080159664154053
+64,0.860999984741211,0.35400001525878905,Justin Njinmah,RightFoot,MissedShots,Mainz 05,Werder Bremen,Cameron Puertas,0.32365792989730835
+85,0.9180000305175782,0.649000015258789,Jens Stage,RightFoot,Goal,Mainz 05,Werder Bremen,,0.060414865612983704
+90,0.879000015258789,0.43099998474121093,Jens Stage,LeftFoot,SavedShot,Mainz 05,Werder Bremen,Cameron Puertas,0.10284604132175446

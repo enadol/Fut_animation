@@ -1,0 +1,422 @@
+[
+    {
+        "id": "30224",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.29885",
+            "a": "0.52226"
+        },
+        "datetime": "2025-08-22 18:30:00",
+        "forecast": {
+            "w": 0.8900577384272623,
+            "d": 0.079364402800771,
+            "l": 0.030575745650069434
+        },
+        "result": "w"
+    },
+    {
+        "id": "30238",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "2",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.506028",
+            "a": "3.37523"
+        },
+        "datetime": "2025-08-30 16:30:00",
+        "forecast": {
+            "w": 0.027542825837941324,
+            "d": 0.07407366993495813,
+            "l": 0.8983807284044681
+        },
+        "result": "w"
+    },
+    {
+        "id": "30248",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "5",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.03718",
+            "a": "0.559174"
+        },
+        "datetime": "2025-09-13 16:30:00",
+        "forecast": {
+            "w": 0.8607942046183079,
+            "d": 0.09792710784556972,
+            "l": 0.04127790838389632
+        },
+        "result": "w"
+    },
+    {
+        "id": "30255",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "1",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.03716",
+            "a": "2.7142"
+        },
+        "datetime": "2025-09-20 13:30:00",
+        "forecast": {
+            "w": 0.11946285673486187,
+            "d": 0.15355449854585712,
+            "l": 0.7269824501458173
+        },
+        "result": "w"
+    },
+    {
+        "id": "30260",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "4.31859",
+            "a": "0.298618"
+        },
+        "datetime": "2025-09-26 18:30:00",
+        "forecast": {
+            "w": 0.966548021635759,
+            "d": 0.027368709980228088,
+            "l": 0.006036330056396965
+        },
+        "result": "w"
+    },
+    {
+        "id": "30272",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.560138",
+            "a": "2.2301"
+        },
+        "datetime": "2025-10-04 16:30:00",
+        "forecast": {
+            "w": 0.07796921390912474,
+            "d": 0.16566621217782967,
+            "l": 0.756364557903116
+        },
+        "result": "w"
+    },
+    {
+        "id": "30278",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.81994",
+            "a": "1.41011"
+        },
+        "datetime": "2025-10-18 16:30:00",
+        "forecast": {
+            "w": 0.6680587640569655,
+            "d": 0.16279426105608447,
+            "l": 0.16914666187970476
+        },
+        "result": "w"
+    },
+    {
+        "id": "30289",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.757777",
+            "a": "2.65026"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.08262886678845249,
+            "d": 0.14143845244927267,
+            "l": 0.7759325363776645
+        },
+        "result": "w"
+    },
+    {
+        "id": "30297",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.28295",
+            "a": "0.382774"
+        },
+        "datetime": "2025-11-01 17:30:00",
+        "forecast": {
+            "w": 0.8073238891397548,
+            "d": 0.14496397471053563,
+            "l": 0.047712114490004065
+        },
+        "result": "w"
+    },
+    {
+        "id": "30312",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.02778",
+            "a": "1.34246"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.28644008199706966,
+            "d": 0.27432805995951137,
+            "l": 0.4392318580249128
+        },
+        "result": "d"
+    },
+    {
+        "id": "30315",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "6",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.13858",
+            "a": "0.516966"
+        },
+        "datetime": "2025-11-22 14:30:00",
+        "forecast": {
+            "w": 0.8774969143953097,
+            "d": 0.08819647321479626,
+            "l": 0.03430545140487948
+        },
+        "result": "w"
+    },
+    {
+        "id": "30324",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.53942",
+            "a": "0.74073"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.7634714870138757,
+            "d": 0.14950936937413103,
+            "l": 0.08701905930784426
+        },
+        "result": "w"
+    },
+    {
+        "id": "30332",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "5"
+        },
+        "xG": {
+            "h": "0.729313",
+            "a": "4.07867"
+        },
+        "datetime": "2025-12-06 14:30:00",
+        "forecast": {
+            "w": 0.02702734855083029,
+            "d": 0.057732956205654995,
+            "l": 0.9152148650203502
+        },
+        "result": "w"
+    },
+    {
+        "id": "30342",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "4.67956",
+            "a": "0.803171"
+        },
+        "datetime": "2025-12-14 16:30:00",
+        "forecast": {
+            "w": 0.9374957885397175,
+            "d": 0.04228336486159671,
+            "l": 0.020108493094475252
+        },
+        "result": "d"
+    }
+]

@@ -1,0 +1,302 @@
+[
+    {
+        "id": "30228",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.10684",
+            "a": "0.587822"
+        },
+        "datetime": "2025-08-23 13:30:00",
+        "forecast": {
+            "w": 0.8625256246233468,
+            "d": 0.09569696366122281,
+            "l": 0.04177638521143569
+        },
+        "result": "w"
+    },
+    {
+        "id": "30234",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.28178",
+            "a": "1.82087"
+        },
+        "datetime": "2025-08-30 13:30:00",
+        "forecast": {
+            "w": 0.26981038095360205,
+            "d": 0.22939481771608877,
+            "l": 0.5007948002014415
+        },
+        "result": "w"
+    },
+    {
+        "id": "30242",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.31465",
+            "a": "0.791863"
+        },
+        "datetime": "2025-09-12 18:30:00",
+        "forecast": {
+            "w": 0.7157124645478203,
+            "d": 0.17298044628463086,
+            "l": 0.11130706330314015
+        },
+        "result": "l"
+    },
+    {
+        "id": "30257",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.75582",
+            "a": "2.23419"
+        },
+        "datetime": "2025-09-21 13:30:00",
+        "forecast": {
+            "w": 0.30720008648502417,
+            "d": 0.20220222031739737,
+            "l": 0.4905976761148486
+        },
+        "result": "l"
+    },
+    {
+        "id": "30265",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "4",
+            "a": "6"
+        },
+        "xG": {
+            "h": "2.12935",
+            "a": "3.78879"
+        },
+        "datetime": "2025-09-27 16:30:00",
+        "forecast": {
+            "w": 0.18267240915175548,
+            "d": 0.13527788124754292,
+            "l": 0.6820389698492518
+        },
+        "result": "w"
+    },
+    {
+        "id": "30272",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.560138",
+            "a": "2.2301"
+        },
+        "datetime": "2025-10-04 16:30:00",
+        "forecast": {
+            "w": 0.07796921390912474,
+            "d": 0.16566621217782967,
+            "l": 0.756364557903116
+        },
+        "result": "l"
+    },
+    {
+        "id": "30280",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.12896",
+            "a": "0.772638"
+        },
+        "datetime": "2025-10-19 13:30:00",
+        "forecast": {
+            "w": 0.43920162732179163,
+            "d": 0.3109003321687984,
+            "l": 0.24989804050776157
+        },
+        "result": "d"
+    },
+    {
+        "id": "30291",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.42632",
+            "a": "0.519973"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.7960325549367595,
+            "d": 0.14289018842229131,
+            "l": 0.061077209366777206
+        },
+        "result": "w"
+    },
+    {
+        "id": "30299",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.831882",
+            "a": "1.22406"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.2514788830332738,
+            "d": 0.29545806139998265,
+            "l": 0.45306305556167126
+        },
+        "result": "d"
+    },
+    {
+        "id": "30307",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.77854",
+            "a": "0.121469"
+        },
+        "datetime": "2025-11-09 18:30:00",
+        "forecast": {
+            "w": 0.79489713339326,
+            "d": 0.1836670288547072,
+            "l": 0.02143583693388408
+        },
+        "result": "w"
+    }
+]

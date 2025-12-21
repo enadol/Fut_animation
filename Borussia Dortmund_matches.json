@@ -1,0 +1,452 @@
+[
+    {
+        "id": "30230",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.46772",
+            "a": "2.10289"
+        },
+        "datetime": "2025-08-23 16:30:00",
+        "forecast": {
+            "w": 0.2676940231295394,
+            "d": 0.2100132816889559,
+            "l": 0.5222926876539226
+        },
+        "result": "d"
+    },
+    {
+        "id": "30240",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.82606",
+            "a": "0.971167"
+        },
+        "datetime": "2025-08-31 15:30:00",
+        "forecast": {
+            "w": 0.5744696167279175,
+            "d": 0.2276362911089638,
+            "l": 0.19789409100041136
+        },
+        "result": "w"
+    },
+    {
+        "id": "30244",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.299026",
+            "a": "2.84999"
+        },
+        "datetime": "2025-09-13 13:30:00",
+        "forecast": {
+            "w": 0.021903296395165618,
+            "d": 0.0880162226809786,
+            "l": 0.8900801240869585
+        },
+        "result": "w"
+    },
+    {
+        "id": "30259",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.24747",
+            "a": "0.975457"
+        },
+        "datetime": "2025-09-21 17:30:00",
+        "forecast": {
+            "w": 0.42492983797017236,
+            "d": 0.2860075761493801,
+            "l": 0.28906258587367073
+        },
+        "result": "w"
+    },
+    {
+        "id": "30262",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.525149",
+            "a": "1.75519"
+        },
+        "datetime": "2025-09-27 13:30:00",
+        "forecast": {
+            "w": 0.10503672923789056,
+            "d": 0.22057159892859568,
+            "l": 0.6743916711477417
+        },
+        "result": "w"
+    },
+    {
+        "id": "30271",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.668613",
+            "a": "1.14077"
+        },
+        "datetime": "2025-10-04 13:30:00",
+        "forecast": {
+            "w": 0.21539974095081782,
+            "d": 0.31459099261646734,
+            "l": 0.4700092664308175
+        },
+        "result": "d"
+    },
+    {
+        "id": "30278",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.81994",
+            "a": "1.41011"
+        },
+        "datetime": "2025-10-18 16:30:00",
+        "forecast": {
+            "w": 0.6680587640569655,
+            "d": 0.16279426105608447,
+            "l": 0.16914666187970476
+        },
+        "result": "l"
+    },
+    {
+        "id": "30290",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.09125",
+            "a": "0.70563"
+        },
+        "datetime": "2025-10-25 16:30:00",
+        "forecast": {
+            "w": 0.6959045559613637,
+            "d": 0.19020009375147356,
+            "l": 0.11389534334258627
+        },
+        "result": "w"
+    },
+    {
+        "id": "30296",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.969501",
+            "a": "0.588196"
+        },
+        "datetime": "2025-10-31 19:30:00",
+        "forecast": {
+            "w": 0.43487155806335215,
+            "d": 0.3489759225455252,
+            "l": 0.2161525193909286
+        },
+        "result": "w"
+    },
+    {
+        "id": "30309",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.419878",
+            "a": "1.42582"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.1076573697663951,
+            "d": 0.26758085468631304,
+            "l": 0.6247617755060302
+        },
+        "result": "d"
+    },
+    {
+        "id": "30316",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "3.15124",
+            "a": "1.80942"
+        },
+        "datetime": "2025-11-22 14:30:00",
+        "forecast": {
+            "w": 0.6447890003614449,
+            "d": 0.156339182871256,
+            "l": 0.19887059684308067
+        },
+        "result": "d"
+    },
+    {
+        "id": "30323",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.08287",
+            "a": "1.1562"
+        },
+        "datetime": "2025-11-29 17:30:00",
+        "forecast": {
+            "w": 0.3376765333378963,
+            "d": 0.2880146994179462,
+            "l": 0.3743087672409538
+        },
+        "result": "w"
+    },
+    {
+        "id": "30335",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.10147",
+            "a": "1.42364"
+        },
+        "datetime": "2025-12-07 16:30:00",
+        "forecast": {
+            "w": 0.29177012475586966,
+            "d": 0.26425305151384276,
+            "l": 0.4439768236887179
+        },
+        "result": "w"
+    },
+    {
+        "id": "30345",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.10621",
+            "a": "1.47427"
+        },
+        "datetime": "2025-12-14 14:30:00",
+        "forecast": {
+            "w": 0.2841183616460109,
+            "d": 0.2597330769594374,
+            "l": 0.45614856132821197
+        },
+        "result": "d"
+    },
+    {
+        "id": "30351",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.65394",
+            "a": "0.221237"
+        },
+        "datetime": "2025-12-19 19:30:00",
+        "forecast": {
+            "w": 0.7401517800757927,
+            "d": 0.21477828292609377,
+            "l": 0.045069936689044195
+        },
+        "result": "w"
+    }
+]
