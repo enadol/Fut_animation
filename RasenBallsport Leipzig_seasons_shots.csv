@@ -226,3 +226,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 59,0.874000015258789,0.32,Tidiam Gomis,RightFoot,Goal,Union Berlin,RasenBallsport Leipzig,Conrad Harder,0.050289336591959
 79,0.7830000305175782,0.6809999847412109,Conrad Harder,LeftFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,Yan Diomande,0.02280086651444435
 83,0.7819999694824219,0.4259999847412109,Andrija Maksimovic,LeftFoot,BlockedShot,Union Berlin,RasenBallsport Leipzig,Castello Lukeba,0.025970367714762688
+6,0.7780000305175782,0.35400001525878905,Conrad Harder,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.04162014648318291
+9,0.904000015258789,0.47,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,Bayer Leverkusen,,0.12539124488830566
+12,0.950999984741211,0.43599998474121093,Conrad Harder,Head,MissedShots,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.07271252572536469
+17,0.9,0.634000015258789,Tidiam Gomis,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,Xaver Schlager,0.09669116884469986
+30,0.9669999694824218,0.43599998474121093,Willi Orban,RightFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.5056731104850769
+34,0.825,0.515,Xaver Schlager,LeftFoot,Goal,RasenBallsport Leipzig,Bayer Leverkusen,Christoph Baumgartner,0.07111191749572754
+45,0.779000015258789,0.5929999923706055,Tidiam Gomis,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,Christoph Baumgartner,0.026817364618182182
+47,0.9109999847412109,0.34400001525878904,Christoph Baumgartner,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,,0.05748141556978226
+47,0.8530000305175781,0.34200000762939453,Xaver Schlager,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,,0.04402880370616913
+47,0.909000015258789,0.44,Christoph Baumgartner,Head,MissedShots,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.03168877214193344
+48,0.7190000152587891,0.48700000762939455,Conrad Harder,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,,0.013505301438272
+48,0.8080000305175781,0.6279999923706054,Christoph Baumgartner,RightFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.039251506328582764
+51,0.875,0.6769999694824219,Tidiam Gomis,RightFoot,MissedShots,RasenBallsport Leipzig,Bayer Leverkusen,Xaver Schlager,0.05573786050081253
+52,0.9209999847412109,0.4570000076293945,Conrad Harder,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,,0.4924667775630951
+55,0.7659999847412109,0.19,Conrad Harder,LeftFoot,MissedShots,RasenBallsport Leipzig,Bayer Leverkusen,Rômulo,0.013206299394369125
+60,0.9930000305175781,0.4129999923706055,Conrad Harder,RightFoot,MissedShots,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.05682200938463211
+75,0.805,0.485,Andrija Maksimovic,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.040428511798381805
+81,0.8590000152587891,0.32299999237060545,Xaver Schlager,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,Bote Baku,0.04754505679011345
+94,0.9269999694824219,0.48700000762939455,Willi Orban,Head,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,Christoph Baumgartner,0.1096368134021759
