@@ -298,5 +298,155 @@
             "l": 0.350455270786611
         },
         "result": "l"
+    },
+    {
+        "id": "30317",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.38923",
+            "a": "2.44506"
+        },
+        "datetime": "2025-11-22 17:30:00",
+        "forecast": {
+            "w": 0.20644257923133277,
+            "d": 0.1866725529016811,
+            "l": 0.6068848156954555
+        },
+        "result": "l"
+    },
+    {
+        "id": "30331",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.53668",
+            "a": "1.1848"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.45418023658776285,
+            "d": 0.25242302367606745,
+            "l": 0.29339673961855056
+        },
+        "result": "d"
+    },
+    {
+        "id": "30336",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.90409",
+            "a": "0.143945"
+        },
+        "datetime": "2025-12-06 14:30:00",
+        "forecast": {
+            "w": 0.8103963277003405,
+            "d": 0.166839243358697,
+            "l": 0.02276442691583768
+        },
+        "result": "d"
+    },
+    {
+        "id": "30341",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.295",
+            "a": "0.436565"
+        },
+        "datetime": "2025-12-13 17:30:00",
+        "forecast": {
+            "w": 0.7962653868586856,
+            "d": 0.14863905073023537,
+            "l": 0.055095539232485426
+        },
+        "result": "l"
+    },
+    {
+        "id": "30352",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.677102",
+            "a": "1.4739"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.1710579537891988,
+            "d": 0.26489602327484213,
+            "l": 0.5640460228710749
+        },
+        "result": "l"
     }
 ]

@@ -1,4 +1,6 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+57,0.030999999046325683,0.4490000152587891,Danny da Costa,OtherBodyPart,OwnGoal,Mainz 05,Borussia M.Gladbach,,0
+21,0.08100000381469727,0.4640000152587891,Konstantinos Koulierakis,Head,OwnGoal,Borussia M.Gladbach,Wolfsburg,,0
 15,0.95,0.49700000762939456,Haris Tabakovic,Head,MissedShots,Borussia M.Gladbach,Hamburger SV,Kevin Stöger,0.0844176709651947
 18,0.9030000305175782,0.659000015258789,Philipp Sander,Head,SavedShot,Borussia M.Gladbach,Hamburger SV,Lukas Ullrich,0.007758865132927895
 27,0.9340000152587891,0.305,Franck Honorat,RightFoot,SavedShot,Borussia M.Gladbach,Hamburger SV,Kevin Stöger,0.05609827861189842
@@ -21,8 +23,8 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 35,0.975999984741211,0.35400001525878905,Joe Scally,RightFoot,SavedShot,VfB Stuttgart,Borussia M.Gladbach,Rocco Reitz,0.2762179374694824
 35,0.9430000305175781,0.4640000152587891,Philipp Sander,Head,MissedShots,VfB Stuttgart,Borussia M.Gladbach,,0.10109259933233261
 40,0.8630000305175781,0.36,Franck Honorat,RightFoot,SavedShot,VfB Stuttgart,Borussia M.Gladbach,Robin Hack,0.08184649050235748
-48,0.9290000152587891,0.435,Kevin Diks,RightFoot,MissedShots,VfB Stuttgart,Borussia M.Gladbach,Franck Honorat,0.0855984091758728
 49,0.87,0.46599998474121096,Franck Honorat,LeftFoot,BlockedShot,VfB Stuttgart,Borussia M.Gladbach,,0.078264519572258
+48,0.9290000152587891,0.435,Kevin Diks,RightFoot,MissedShots,VfB Stuttgart,Borussia M.Gladbach,Franck Honorat,0.0855984091758728
 50,0.9169999694824219,0.5659999847412109,Kevin Stöger,LeftFoot,MissedShots,VfB Stuttgart,Borussia M.Gladbach,,0.44716134667396545
 51,0.9680000305175781,0.41700000762939454,Shuto Machino,Head,MissedShots,VfB Stuttgart,Borussia M.Gladbach,Franck Honorat,0.058919522911310196
 59,0.84,0.45299999237060545,Robin Hack,RightFoot,SavedShot,VfB Stuttgart,Borussia M.Gladbach,Joe Scally,0.046248313039541245
@@ -92,3 +94,85 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 58,0.7340000152587891,0.47700000762939454,Philipp Sander,RightFoot,MissedShots,Union Berlin,Borussia M.Gladbach,,0.015680860728025436
 67,0.9109999847412109,0.44400001525878907,Haris Tabakovic,RightFoot,MissedShots,Union Berlin,Borussia M.Gladbach,Rocco Reitz,0.0864446833729744
 89,0.885,0.3729999923706055,Joe Scally,Head,MissedShots,Union Berlin,Borussia M.Gladbach,Kevin Stöger,0.00834121648222208
+74,0.885,0.5,Kevin Stöger,LeftFoot,ShotOnPost,Borussia M.Gladbach,Bayern Munich,,0.75777667760849
+5,0.894000015258789,0.3240000152587891,Franck Honorat,LeftFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Rocco Reitz,0.054083652794361115
+14,0.9290000152587891,0.585,Haris Tabakovic,LeftFoot,Goal,St. Pauli,Borussia M.Gladbach,Florian Neuhaus,0.44369208812713623
+26,0.8230000305175781,0.5120000076293946,Joe Scally,RightFoot,ShotOnPost,St. Pauli,Borussia M.Gladbach,Moritz Nicolas,0.29609376192092896
+39,0.9359999847412109,0.49400001525878906,Haris Tabakovic,RightFoot,Goal,St. Pauli,Borussia M.Gladbach,Franck Honorat,0.6091188788414001
+46,0.8640000152587891,0.37,Rocco Reitz,RightFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Franck Honorat,0.08943692594766617
+50,0.7419999694824219,0.4590000152587891,Yannick Engelhardt,RightFoot,MissedShots,St. Pauli,Borussia M.Gladbach,,0.01934797689318657
+52,0.8040000152587891,0.495,Lukas Ullrich,RightFoot,MissedShots,St. Pauli,Borussia M.Gladbach,Rocco Reitz,0.07323534041643143
+55,0.9640000152587891,0.5259999847412109,Haris Tabakovic,Head,SavedShot,St. Pauli,Borussia M.Gladbach,Franck Honorat,0.5525918006896973
+60,0.8469999694824218,0.615,Haris Tabakovic,RightFoot,MissedShots,St. Pauli,Borussia M.Gladbach,,0.1010756567120552
+69,0.735999984741211,0.48,Rocco Reitz,LeftFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Florian Neuhaus,0.05118696391582489
+71,0.830999984741211,0.3579999923706055,Yannick Engelhardt,RightFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Florian Neuhaus,0.09770730137825012
+74,0.87,0.435,Shuto Machino,RightFoot,Goal,St. Pauli,Borussia M.Gladbach,Haris Tabakovic,0.33944734930992126
+78,0.8390000152587891,0.5020000076293946,Haris Tabakovic,RightFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Lukas Ullrich,0.05782400816679001
+79,0.975999984741211,0.6930000305175781,Shuto Machino,RightFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Giovanni Reyna,0.4012899100780487
+79,0.9519999694824218,0.4570000076293945,Oscar Fraulo,RightFoot,Goal,St. Pauli,Borussia M.Gladbach,,0.7350285053253174
+3,0.8869999694824219,0.27100000381469724,Franck Honorat,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,Joe Scally,0.036622632294893265
+23,0.774000015258789,0.5970000076293945,Lukas Ullrich,RightFoot,BlockedShot,Borussia M.Gladbach,FC Cologne,Haris Tabakovic,0.020870961248874664
+46,0.885,0.5,Haris Tabakovic,RightFoot,SavedShot,Borussia M.Gladbach,FC Cologne,,0.75777667760849
+46,0.9309999847412109,0.51,Rocco Reitz,Head,MissedShots,Borussia M.Gladbach,FC Cologne,Yannick Engelhardt,0.06601035594940186
+46,0.9059999847412109,0.5579999923706055,Philipp Sander,LeftFoot,Goal,Borussia M.Gladbach,FC Cologne,Haris Tabakovic,0.1163482666015625
+60,0.885,0.5,Kevin Diks,RightFoot,Goal,Borussia M.Gladbach,FC Cologne,,0.75777667760849
+63,0.92,0.5379999923706055,Haris Tabakovic,LeftFoot,Goal,Borussia M.Gladbach,FC Cologne,Franck Honorat,0.5486690998077393
+83,0.99,0.3509999847412109,Shuto Machino,RightFoot,MissedShots,Borussia M.Gladbach,FC Cologne,Lukas Ullrich,0.05110439285635948
+85,0.9230000305175782,0.36200000762939455,Rocco Reitz,RightFoot,MissedShots,Borussia M.Gladbach,FC Cologne,Haris Tabakovic,0.11455902457237244
+7,0.775,0.5279999923706055,Yannick Engelhardt,RightFoot,MissedShots,FC Heidenheim,Borussia M.Gladbach,Franck Honorat,0.013785970397293568
+16,0.924000015258789,0.4540000152587891,Haris Tabakovic,RightFoot,ShotOnPost,FC Heidenheim,Borussia M.Gladbach,Jens Castrop,0.49432480335235596
+16,0.8190000152587891,0.44,Rocco Reitz,LeftFoot,BlockedShot,FC Heidenheim,Borussia M.Gladbach,,0.04551628232002258
+25,0.7019999694824218,0.67,Florian Neuhaus,RightFoot,BlockedShot,FC Heidenheim,Borussia M.Gladbach,,0.008421223610639572
+44,0.8390000152587891,0.5129999923706055,Florian Neuhaus,RightFoot,BlockedShot,FC Heidenheim,Borussia M.Gladbach,,0.059925105422735214
+45,0.885,0.5,Kevin Diks,RightFoot,Goal,FC Heidenheim,Borussia M.Gladbach,,0.75777667760849
+49,0.9690000152587891,0.38,Jens Castrop,RightFoot,BlockedShot,FC Heidenheim,Borussia M.Gladbach,Franck Honorat,0.04508046805858612
+51,0.7980000305175782,0.639000015258789,Rocco Reitz,LeftFoot,BlockedShot,FC Heidenheim,Borussia M.Gladbach,Franck Honorat,0.03709860146045685
+52,0.7180000305175781,0.5709999847412109,Kevin Diks,RightFoot,SavedShot,FC Heidenheim,Borussia M.Gladbach,,0.017233217135071754
+54,0.8909999847412109,0.46599998474121096,Haris Tabakovic,LeftFoot,Goal,FC Heidenheim,Borussia M.Gladbach,Rocco Reitz,0.413503497838974
+67,0.7980000305175782,0.5429999923706055,Florian Neuhaus,RightFoot,ShotOnPost,FC Heidenheim,Borussia M.Gladbach,Franck Honorat,0.09381763637065887
+73,0.875,0.675,Franck Honorat,RightFoot,MissedShots,FC Heidenheim,Borussia M.Gladbach,Shuto Machino,0.09488307684659958
+75,0.91,0.5609999847412109,Shuto Machino,RightFoot,Goal,FC Heidenheim,Borussia M.Gladbach,Franck Honorat,0.5548135042190552
+78,0.925,0.3840000152587891,Nico Elvedi,Head,BlockedShot,FC Heidenheim,Borussia M.Gladbach,Giovanni Reyna,0.012718455865979195
+78,0.9669999694824218,0.39099998474121095,Nico Elvedi,RightFoot,MissedShots,FC Heidenheim,Borussia M.Gladbach,,0.09986545145511627
+84,0.8540000152587891,0.3370000076293945,Nico Elvedi,RightFoot,MissedShots,FC Heidenheim,Borussia M.Gladbach,Giovanni Reyna,0.07166910171508789
+17,0.8690000152587891,0.47099998474121096,Florian Neuhaus,LeftFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,,0.0916849821805954
+17,0.89,0.47200000762939454,Jens Castrop,LeftFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,Florian Neuhaus,0.0897487998008728
+45,0.835999984741211,0.6769999694824219,Florian Neuhaus,RightFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,Nico Elvedi,0.026670511811971664
+45,0.7769999694824219,0.28200000762939453,Rocco Reitz,RightFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,Jens Castrop,0.0186541136354208
+56,0.905,0.5129999923706055,Kevin Diks,Head,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,Rocco Reitz,0.0842958390712738
+71,0.794000015258789,0.3729999923706055,Franck Honorat,RightFoot,MissedShots,Borussia M.Gladbach,RasenBallsport Leipzig,,0.029787741601467133
+77,0.8390000152587891,0.33599998474121096,Franck Honorat,RightFoot,BlockedShot,Borussia M.Gladbach,RasenBallsport Leipzig,,0.048041220754384995
+7,0.8219999694824218,0.5109999847412109,Haris Tabakovic,RightFoot,MissedShots,Mainz 05,Borussia M.Gladbach,Moritz Nicolas,0.05192679539322853
+15,0.9259999847412109,0.5129999923706055,Haris Tabakovic,Head,BlockedShot,Mainz 05,Borussia M.Gladbach,Shuto Machino,0.14334338903427124
+15,0.9209999847412109,0.5520000076293945,Jens Castrop,RightFoot,BlockedShot,Mainz 05,Borussia M.Gladbach,,0.4437049329280853
+16,0.9480000305175781,0.4879999923706055,Kevin Diks,Head,MissedShots,Mainz 05,Borussia M.Gladbach,Luca Netz,0.08222080022096634
+20,0.9319999694824219,0.5070000076293946,Haris Tabakovic,Head,MissedShots,Mainz 05,Borussia M.Gladbach,Giovanni Reyna,0.1425950527191162
+22,0.7390000152587891,0.514000015258789,Jens Castrop,LeftFoot,MissedShots,Mainz 05,Borussia M.Gladbach,Rocco Reitz,0.01765119470655918
+45,0.7619999694824219,0.5409999847412109,Giovanni Reyna,RightFoot,BlockedShot,Mainz 05,Borussia M.Gladbach,Jens Castrop,0.0475911870598793
+49,0.9180000305175782,0.23299999237060548,Haris Tabakovic,RightFoot,BlockedShot,Mainz 05,Borussia M.Gladbach,Joe Scally,0.03332742303609848
+56,0.9119999694824219,0.5220000076293946,Jens Castrop,LeftFoot,SavedShot,Mainz 05,Borussia M.Gladbach,,0.5075162649154663
+57,0.9640000152587891,0.5229999923706055,Haris Tabakovic,Head,MissedShots,Mainz 05,Borussia M.Gladbach,Rocco Reitz,0.13885150849819183
+60,0.8480000305175781,0.3139999961853027,Rocco Reitz,RightFoot,SavedShot,Mainz 05,Borussia M.Gladbach,Yannick Engelhardt,0.05809615179896355
+77,0.84,0.4370000076293945,Shuto Machino,RightFoot,SavedShot,Mainz 05,Borussia M.Gladbach,Haris Tabakovic,0.09238976985216141
+89,0.8780000305175781,0.395,Jens Castrop,LeftFoot,BlockedShot,Mainz 05,Borussia M.Gladbach,Kevin Stöger,0.09885041415691376
+89,0.8209999847412109,0.3579999923706055,Rocco Reitz,RightFoot,SavedShot,Mainz 05,Borussia M.Gladbach,Jens Castrop,0.04490607976913452
+10,0.9019999694824219,0.639000015258789,Haris Tabakovic,Head,SavedShot,Borussia M.Gladbach,Wolfsburg,Shuto Machino,0.013566992245614529
+37,0.74,0.44,Haris Tabakovic,RightFoot,MissedShots,Borussia M.Gladbach,Wolfsburg,Yannick Engelhardt,0.02059999480843544
+54,0.7580000305175781,0.7180000305175781,Rocco Reitz,RightFoot,SavedShot,Borussia M.Gladbach,Wolfsburg,Giovanni Reyna,0.01167235616594553
+70,0.9059999847412109,0.514000015258789,Grant-Leon Ranos,Head,SavedShot,Borussia M.Gladbach,Wolfsburg,Kevin Stöger,0.057218391448259354
+76,0.960999984741211,0.4229999923706055,Haris Tabakovic,Head,BlockedShot,Borussia M.Gladbach,Wolfsburg,Lukas Ullrich,0.07209236174821854
+78,0.8780000305175781,0.5479999923706055,Yannick Engelhardt,RightFoot,ShotOnPost,Borussia M.Gladbach,Wolfsburg,Grant-Leon Ranos,0.08121008425951004
+81,0.8059999847412109,0.33799999237060546,Philipp Sander,LeftFoot,BlockedShot,Borussia M.Gladbach,Wolfsburg,,0.02953638881444931
+83,0.870999984741211,0.41200000762939454,Grant-Leon Ranos,RightFoot,MissedShots,Borussia M.Gladbach,Wolfsburg,Rocco Reitz,0.0920097678899765
+85,0.8719999694824219,0.5070000076293946,Wael Mohya,RightFoot,BlockedShot,Borussia M.Gladbach,Wolfsburg,Haris Tabakovic,0.059575602412223816
+89,0.914000015258789,0.51,Haris Tabakovic,Head,BlockedShot,Borussia M.Gladbach,Wolfsburg,Philipp Sander,0.06297407299280167
+92,0.8340000152587891,0.385,Grant-Leon Ranos,RightFoot,MissedShots,Borussia M.Gladbach,Wolfsburg,,0.020370954647660255
+92,0.9369999694824219,0.69,Rocco Reitz,LeftFoot,SavedShot,Borussia M.Gladbach,Wolfsburg,Kevin Stöger,0.03282106667757034
+93,0.8490000152587891,0.6619999694824219,Rocco Reitz,RightFoot,MissedShots,Borussia M.Gladbach,Wolfsburg,Lukas Ullrich,0.04904791712760925
+94,0.7769999694824219,0.34200000762939453,Philipp Sander,RightFoot,MissedShots,Borussia M.Gladbach,Wolfsburg,,0.017721612006425858
+11,0.8019999694824219,0.30100000381469727,Rocco Reitz,RightFoot,MissedShots,Borussia Dortmund,Borussia M.Gladbach,,0.021867388859391212
+35,0.9790000152587891,0.6359999847412109,Florian Neuhaus,RightFoot,BlockedShot,Borussia Dortmund,Borussia M.Gladbach,Rocco Reitz,0.06075514480471611
+39,0.7290000152587891,0.385,Giovanni Reyna,RightFoot,BlockedShot,Borussia Dortmund,Borussia M.Gladbach,Haris Tabakovic,0.025254113599658012
+47,0.914000015258789,0.595,Florian Neuhaus,RightFoot,BlockedShot,Borussia Dortmund,Borussia M.Gladbach,,0.07528414577245712
+79,0.865999984741211,0.7119999694824218,Wael Mohya,LeftFoot,SavedShot,Borussia Dortmund,Borussia M.Gladbach,Luca Netz,0.027241423726081848
+93,0.915,0.34200000762939453,Joe Scally,Head,MissedShots,Borussia Dortmund,Borussia M.Gladbach,Shuto Machino,0.010834685526788235
