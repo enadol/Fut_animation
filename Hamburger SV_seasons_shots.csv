@@ -96,9 +96,9 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 40,0.8859999847412109,0.6809999847412109,Jean-Luc Dompe,RightFoot,SavedShot,Hamburger SV,Wolfsburg,,0.047485094517469406
 45,0.885,0.5,Ransford Königsdörffer,RightFoot,SavedShot,Hamburger SV,Wolfsburg,,0.75777667760849
 45,0.9309999847412109,0.649000015258789,Miro Muheim,RightFoot,MissedShots,Hamburger SV,Wolfsburg,,0.2988000214099884
-46,0.9390000152587891,0.65,Albert Sambi Lokonga,LeftFoot,MissedShots,Hamburger SV,Wolfsburg,,0.06377169489860535
 47,0.7869999694824219,0.27799999237060546,Rayan Philippe,LeftFoot,SavedShot,Hamburger SV,Wolfsburg,William Mikelbrencis,0.018761159852147102
 47,0.9519999694824218,0.34,Albert Sambi Lokonga,RightFoot,ShotOnPost,Hamburger SV,Wolfsburg,,0.05898972973227501
+46,0.9390000152587891,0.65,Albert Sambi Lokonga,LeftFoot,MissedShots,Hamburger SV,Wolfsburg,,0.06377169489860535
 47,0.91,0.49200000762939455,Ransford Königsdörffer,Head,BlockedShot,Hamburger SV,Wolfsburg,Rayan Philippe,0.044049691408872604
 48,0.8080000305175781,0.37599998474121094,Ransford Königsdörffer,RightFoot,BlockedShot,Hamburger SV,Wolfsburg,Luka Vuskovic,0.04152301326394081
 51,0.794000015258789,0.26399999618530273,Miro Muheim,LeftFoot,MissedShots,Hamburger SV,Wolfsburg,William Mikelbrencis,0.02045598439872265
@@ -140,8 +140,8 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 42,0.9459999847412109,0.5029999923706054,Ransford Königsdörffer,RightFoot,BlockedShot,Augsburg,Hamburger SV,,0.632733166217804
 43,0.9109999847412109,0.5529999923706055,Nicolás Capaldo,Head,SavedShot,Augsburg,Hamburger SV,Miro Muheim,0.02446165680885315
 44,0.884000015258789,0.34299999237060547,Nicolai Remberg,RightFoot,SavedShot,Augsburg,Hamburger SV,Giorgi Gocholeishvili,0.043598875403404236
-45,0.88,0.39299999237060546,Giorgi Gocholeishvili,LeftFoot,SavedShot,Augsburg,Hamburger SV,,0.07274830341339111
 46,0.9309999847412109,0.28399999618530275,Giorgi Gocholeishvili,RightFoot,BlockedShot,Augsburg,Hamburger SV,Jean-Luc Dompe,0.11074895411729813
+45,0.88,0.39299999237060546,Giorgi Gocholeishvili,LeftFoot,SavedShot,Augsburg,Hamburger SV,,0.07274830341339111
 61,0.8719999694824219,0.7030000305175781,Jean-Luc Dompe,RightFoot,SavedShot,Augsburg,Hamburger SV,Fábio Vieira,0.03814016282558441
 74,0.8909999847412109,0.49599998474121093,Rayan Philippe,Head,MissedShots,Augsburg,Hamburger SV,Jean-Luc Dompe,0.07480575144290924
 81,0.875,0.4829999923706055,Nicolai Remberg,Head,MissedShots,Augsburg,Hamburger SV,Miro Muheim,0.01335653755813837
@@ -149,3 +149,47 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.7369999694824219,0.5820000076293945,Miro Muheim,LeftFoot,BlockedShot,Augsburg,Hamburger SV,Rayan Philippe,0.02094539999961853
 90,0.7480000305175781,0.24700000762939453,Rayan Philippe,LeftFoot,BlockedShot,Augsburg,Hamburger SV,Alexander Røssing-Lelesiit,0.013917647302150726
 94,0.95,0.45,Daniel Heuer Fernandes,Head,MissedShots,Augsburg,Hamburger SV,Miro Muheim,0.12809063494205475
+16,0.8780000305175781,0.36200000762939455,Robert Glatzel,RightFoot,Goal,Hamburger SV,VfB Stuttgart,Alexander Røssing-Lelesiit,0.1424901783466339
+24,0.855,0.7290000152587891,Rayan Philippe,LeftFoot,MissedShots,Hamburger SV,VfB Stuttgart,Luka Vuskovic,0.04729849100112915
+33,0.894000015258789,0.5659999847412109,Ransford Königsdörffer,LeftFoot,MissedShots,Hamburger SV,VfB Stuttgart,Alexander Røssing-Lelesiit,0.12882868945598602
+45,0.740999984741211,0.5940000152587891,Miro Muheim,RightFoot,BlockedShot,Hamburger SV,VfB Stuttgart,Nicolai Remberg,0.05135828256607056
+68,0.9269999694824219,0.36,Giorgi Gocholeishvili,Head,BlockedShot,Hamburger SV,VfB Stuttgart,Miro Muheim,0.01612466387450695
+68,0.8959999847412109,0.4809999847412109,Ransford Königsdörffer,RightFoot,MissedShots,Hamburger SV,VfB Stuttgart,,0.12223870307207108
+72,0.94,0.54,Luka Vuskovic,Head,BlockedShot,Hamburger SV,VfB Stuttgart,Miro Muheim,0.06474139541387558
+76,0.8969999694824219,0.48200000762939454,Luka Vuskovic,Head,MissedShots,Hamburger SV,VfB Stuttgart,Miro Muheim,0.09062709659337997
+93,0.88,0.445,Fábio Vieira,LeftFoot,Goal,Hamburger SV,VfB Stuttgart,Fabio Baldé,0.5518348813056946
+5,0.8030000305175782,0.6930000305175781,Jean-Luc Dompe,RightFoot,MissedShots,Hamburger SV,Werder Bremen,Albert Sambi Lokonga,0.028325321152806282
+12,0.79,0.7180000305175781,Fábio Vieira,LeftFoot,SavedShot,Hamburger SV,Werder Bremen,Aboubaka Soumahoro,0.020567389205098152
+16,0.6969999694824218,0.315,Nicolás Capaldo,RightFoot,BlockedShot,Hamburger SV,Werder Bremen,Albert Sambi Lokonga,0.011299102567136288
+22,0.9259999847412109,0.485,Rayan Philippe,Head,MissedShots,Hamburger SV,Werder Bremen,Jean-Luc Dompe,0.4046604633331299
+38,0.7869999694824219,0.695,Albert Sambi Lokonga,RightFoot,SavedShot,Hamburger SV,Werder Bremen,Jean-Luc Dompe,0.020293543115258217
+40,0.9019999694824219,0.3820000076293945,Fábio Vieira,LeftFoot,MissedShots,Hamburger SV,Werder Bremen,Jean-Luc Dompe,0.07692071050405502
+53,0.8580000305175781,0.28299999237060547,Rayan Philippe,LeftFoot,BlockedShot,Hamburger SV,Werder Bremen,Fábio Vieira,0.04643381014466286
+53,0.970999984741211,0.4209999847412109,Bakery Jatta,RightFoot,SavedShot,Hamburger SV,Werder Bremen,Jean-Luc Dompe,0.38075947761535645
+62,0.884000015258789,0.55,Albert Sambi Lokonga,LeftFoot,Goal,Hamburger SV,Werder Bremen,,0.07388859242200851
+74,0.9059999847412109,0.49400001525878906,Luka Vuskovic,RightFoot,Goal,Hamburger SV,Werder Bremen,Fábio Vieira,0.08412142097949982
+79,0.879000015258789,0.549000015258789,Nicolás Capaldo,RightFoot,BlockedShot,Hamburger SV,Werder Bremen,Jean-Luc Dompe,0.08409257233142853
+83,0.8640000152587891,0.5609999847412109,Yussuf Poulsen,LeftFoot,Goal,Hamburger SV,Werder Bremen,Miro Muheim,0.34577131271362305
+13,0.75,0.32099998474121094,Giorgi Gocholeishvili,RightFoot,MissedShots,Hoffenheim,Hamburger SV,,0.012625191360712051
+26,0.8690000152587891,0.25,Giorgi Gocholeishvili,RightFoot,BlockedShot,Hoffenheim,Hamburger SV,Miro Muheim,0.019380318000912666
+34,0.874000015258789,0.4370000076293945,Ransford Königsdörffer,Head,MissedShots,Hoffenheim,Hamburger SV,Nicolás Capaldo,0.0265776589512825
+36,0.8880000305175781,0.5620000076293945,Ransford Königsdörffer,Head,MissedShots,Hoffenheim,Hamburger SV,Fabio Baldé,0.015708662569522858
+39,0.795,0.32099998474121094,Ransford Königsdörffer,RightFoot,SavedShot,Hoffenheim,Hamburger SV,Jonas Meffert,0.11599529534578323
+41,0.789000015258789,0.6669999694824219,Fabio Baldé,LeftFoot,SavedShot,Hoffenheim,Hamburger SV,Ransford Königsdörffer,0.04889732226729393
+46,0.894000015258789,0.585999984741211,Albert Sambi Lokonga,Head,SavedShot,Hoffenheim,Hamburger SV,Rayan Philippe,0.035763517022132874
+48,0.73,0.685,Miro Muheim,LeftFoot,SavedShot,Hoffenheim,Hamburger SV,Jonas Meffert,0.011679570190608501
+51,0.7180000305175781,0.4979999923706055,Fábio Vieira,LeftFoot,MissedShots,Hoffenheim,Hamburger SV,Luka Vuskovic,0.011422147043049335
+69,0.8909999847412109,0.3579999923706055,Fabio Baldé,RightFoot,MissedShots,Hoffenheim,Hamburger SV,Ransford Königsdörffer,0.07030311226844788
+81,0.8680000305175781,0.6519999694824219,Rayan Philippe,LeftFoot,Goal,Hoffenheim,Hamburger SV,Fábio Vieira,0.21041110157966614
+87,0.8480000305175781,0.6730000305175782,Rayan Philippe,LeftFoot,BlockedShot,Hoffenheim,Hamburger SV,Yussuf Poulsen,0.04328596591949463
+90,0.885,0.5,Rayan Philippe,LeftFoot,MissedShots,Hoffenheim,Hamburger SV,,0.75777667760849
+95,0.805,0.3390000152587891,Luka Vuskovic,RightFoot,BlockedShot,Hoffenheim,Hamburger SV,Bakery Jatta,0.025388728827238083
+12,0.8519999694824218,0.51,Ransford Königsdörffer,RightFoot,BlockedShot,Hamburger SV,Eintracht Frankfurt,Albert Sambi Lokonga,0.09723280370235443
+18,0.8919999694824219,0.634000015258789,Albert Sambi Lokonga,RightFoot,Goal,Hamburger SV,Eintracht Frankfurt,,0.0774093046784401
+26,0.8590000152587891,0.5890000152587891,Rayan Philippe,LeftFoot,ShotOnPost,Hamburger SV,Eintracht Frankfurt,Albert Sambi Lokonga,0.07059590518474579
+26,0.9880000305175781,0.445,William Mikelbrencis,Head,BlockedShot,Hamburger SV,Eintracht Frankfurt,Fabio Baldé,0.6104387640953064
+26,0.9209999847412109,0.49,Albert Sambi Lokonga,LeftFoot,BlockedShot,Hamburger SV,Eintracht Frankfurt,,0.145143523812294
+30,0.785,0.6029999923706054,Miro Muheim,LeftFoot,MissedShots,Hamburger SV,Eintracht Frankfurt,,0.029335172846913338
+41,0.9080000305175782,0.600999984741211,Ransford Königsdörffer,Head,MissedShots,Hamburger SV,Eintracht Frankfurt,Fabio Baldé,0.04425971955060959
+44,0.960999984741211,0.405,William Mikelbrencis,Head,SavedShot,Hamburger SV,Eintracht Frankfurt,Miro Muheim,0.045244913548231125
+72,0.9669999694824218,0.5940000152587891,Luka Vuskovic,Head,MissedShots,Hamburger SV,Eintracht Frankfurt,Miro Muheim,0.06662746518850327

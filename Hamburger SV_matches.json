@@ -328,5 +328,125 @@
             "l": 0.3686728592946486
         },
         "result": "l"
+    },
+    {
+        "id": "30328",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.21357",
+            "a": "1.10868"
+        },
+        "datetime": "2025-11-30 14:30:00",
+        "forecast": {
+            "w": 0.38500114134798924,
+            "d": 0.28157710327659,
+            "l": 0.3334217553696639
+        },
+        "result": "w"
+    },
+    {
+        "id": "30337",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.57713",
+            "a": "1.17349"
+        },
+        "datetime": "2025-12-07 14:30:00",
+        "forecast": {
+            "w": 0.4668954547601288,
+            "d": 0.2494906206105163,
+            "l": 0.2836139244638596
+        },
+        "result": "w"
+    },
+    {
+        "id": "30346",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.48806",
+            "a": "1.40522"
+        },
+        "datetime": "2025-12-13 14:30:00",
+        "forecast": {
+            "w": 0.6115038979994211,
+            "d": 0.18419841000405615,
+            "l": 0.20429762688454695
+        },
+        "result": "l"
+    },
+    {
+        "id": "30353",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.09769",
+            "a": "1.09137"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.3555011506820423,
+            "d": 0.29218589768073194,
+            "l": 0.3523129516350947
+        },
+        "result": "d"
     }
 ]

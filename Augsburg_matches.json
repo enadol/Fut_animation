@@ -238,5 +238,215 @@
             "l": 0.806654484481842
         },
         "result": "l"
+    },
+    {
+        "id": "30296",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.969501",
+            "a": "0.588196"
+        },
+        "datetime": "2025-10-31 19:30:00",
+        "forecast": {
+            "w": 0.43487155806335215,
+            "d": 0.3489759225455252,
+            "l": 0.2161525193909286
+        },
+        "result": "l"
+    },
+    {
+        "id": "30311",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.44526",
+            "a": "1.90345"
+        },
+        "datetime": "2025-11-09 16:30:00",
+        "forecast": {
+            "w": 0.5036174780808748,
+            "d": 0.19203449259058755,
+            "l": 0.30434797511544953
+        },
+        "result": "l"
+    },
+    {
+        "id": "30314",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.61897",
+            "a": "1.555"
+        },
+        "datetime": "2025-11-22 14:30:00",
+        "forecast": {
+            "w": 0.39610061835489907,
+            "d": 0.23522652198436822,
+            "l": 0.3686728592946486
+        },
+        "result": "w"
+    },
+    {
+        "id": "30329",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.79612",
+            "a": "0.655496"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.6481609165363728,
+            "d": 0.22165062887005843,
+            "l": 0.13018845366073872
+        },
+        "result": "l"
+    },
+    {
+        "id": "30334",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.14102",
+            "a": "1.41889"
+        },
+        "datetime": "2025-12-06 14:30:00",
+        "forecast": {
+            "w": 0.5406458332191826,
+            "d": 0.20737312940500574,
+            "l": 0.25198102790140925
+        },
+        "result": "w"
+    },
+    {
+        "id": "30344",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.52024",
+            "a": "0.655733"
+        },
+        "datetime": "2025-12-13 14:30:00",
+        "forecast": {
+            "w": 0.582007698030313,
+            "d": 0.2581632025906149,
+            "l": 0.15982909928020755
+        },
+        "result": "l"
+    },
+    {
+        "id": "30350",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.49411",
+            "a": "0.90686"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.5093221099862276,
+            "d": 0.2618481067136625,
+            "l": 0.2288297832219314
+        },
+        "result": "d"
     }
 ]
