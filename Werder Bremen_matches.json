@@ -268,5 +268,185 @@
             "l": 0.16844448659228844
         },
         "result": "d"
+    },
+    {
+        "id": "30313",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.69456",
+            "a": "0.676326"
+        },
+        "datetime": "2025-11-07 19:30:00",
+        "forecast": {
+            "w": 0.6193977946696497,
+            "d": 0.23530671161457142,
+            "l": 0.1452954932875384
+        },
+        "result": "w"
+    },
+    {
+        "id": "30320",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.42834",
+            "a": "0.774872"
+        },
+        "datetime": "2025-11-23 14:30:00",
+        "forecast": {
+            "w": 0.7386160745871837,
+            "d": 0.16152475105667793,
+            "l": 0.09985912657779472
+        },
+        "result": "l"
+    },
+    {
+        "id": "30331",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.53668",
+            "a": "1.1848"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.45418023658776285,
+            "d": 0.25242302367606745,
+            "l": 0.29339673961855056
+        },
+        "result": "d"
+    },
+    {
+        "id": "30337",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.57713",
+            "a": "1.17349"
+        },
+        "datetime": "2025-12-07 14:30:00",
+        "forecast": {
+            "w": 0.4668954547601288,
+            "d": 0.2494906206105163,
+            "l": 0.2836139244638596
+        },
+        "result": "l"
+    },
+    {
+        "id": "30349",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "0",
+            "a": "4"
+        },
+        "xG": {
+            "h": "0.607898",
+            "a": "2.05209"
+        },
+        "datetime": "2025-12-14 18:30:00",
+        "forecast": {
+            "w": 0.09849808729970448,
+            "d": 0.18850197991173184,
+            "l": 0.7129999273646637
+        },
+        "result": "l"
+    },
+    {
+        "id": "30350",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.49411",
+            "a": "0.90686"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.5093221099862276,
+            "d": 0.2618481067136625,
+            "l": 0.2288297832219314
+        },
+        "result": "d"
     }
 ]
