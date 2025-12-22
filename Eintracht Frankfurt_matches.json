@@ -298,5 +298,155 @@
             "l": 0.02143583693388408
         },
         "result": "w"
+    },
+    {
+        "id": "30317",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.38923",
+            "a": "2.44506"
+        },
+        "datetime": "2025-11-22 17:30:00",
+        "forecast": {
+            "w": 0.20644257923133277,
+            "d": 0.1866725529016811,
+            "l": 0.6068848156954555
+        },
+        "result": "w"
+    },
+    {
+        "id": "30326",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.66051",
+            "a": "1.60645"
+        },
+        "datetime": "2025-11-30 16:30:00",
+        "forecast": {
+            "w": 0.3957059626280076,
+            "d": 0.23146726836360385,
+            "l": 0.3728267684737041
+        },
+        "result": "d"
+    },
+    {
+        "id": "30340",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.64182",
+            "a": "0.473289"
+        },
+        "datetime": "2025-12-06 17:30:00",
+        "forecast": {
+            "w": 0.9205986410406742,
+            "d": 0.05917568912426093,
+            "l": 0.020218881625407664
+        },
+        "result": "l"
+    },
+    {
+        "id": "30344",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.52024",
+            "a": "0.655733"
+        },
+        "datetime": "2025-12-13 14:30:00",
+        "forecast": {
+            "w": 0.582007698030313,
+            "d": 0.2581632025906149,
+            "l": 0.15982909928020755
+        },
+        "result": "w"
+    },
+    {
+        "id": "30353",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.09769",
+            "a": "1.09137"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.3555011506820423,
+            "d": 0.29218589768073194,
+            "l": 0.3523129516350947
+        },
+        "result": "d"
     }
 ]
