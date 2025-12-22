@@ -328,5 +328,125 @@
             "l": 0.19887059684308067
         },
         "result": "d"
+    },
+    {
+        "id": "30328",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.21357",
+            "a": "1.10868"
+        },
+        "datetime": "2025-11-30 14:30:00",
+        "forecast": {
+            "w": 0.38500114134798924,
+            "d": 0.28157710327659,
+            "l": 0.3334217553696639
+        },
+        "result": "l"
+    },
+    {
+        "id": "30332",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "5"
+        },
+        "xG": {
+            "h": "0.729313",
+            "a": "4.07867"
+        },
+        "datetime": "2025-12-06 14:30:00",
+        "forecast": {
+            "w": 0.02702734855083029,
+            "d": 0.057732956205654995,
+            "l": 0.9152148650203502
+        },
+        "result": "l"
+    },
+    {
+        "id": "30349",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "0",
+            "a": "4"
+        },
+        "xG": {
+            "h": "0.607898",
+            "a": "2.05209"
+        },
+        "datetime": "2025-12-14 18:30:00",
+        "forecast": {
+            "w": 0.09849808729970448,
+            "d": 0.18850197991173184,
+            "l": 0.7129999273646637
+        },
+        "result": "w"
+    },
+    {
+        "id": "30357",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.46116",
+            "a": "0.154175"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.7168818878572493,
+            "d": 0.24620055488985784,
+            "l": 0.03691755719525186
+        },
+        "result": "d"
     }
 ]
