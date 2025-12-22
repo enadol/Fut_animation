@@ -208,5 +208,245 @@
             "l": 0.5910334246726971
         },
         "result": "l"
+    },
+    {
+        "id": "30291",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.42632",
+            "a": "0.519973"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.7960325549367595,
+            "d": 0.14289018842229131,
+            "l": 0.061077209366777206
+        },
+        "result": "l"
+    },
+    {
+        "id": "30302",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "0",
+            "a": "4"
+        },
+        "xG": {
+            "h": "0.804394",
+            "a": "3.6262"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.0439892147694308,
+            "d": 0.08186282366736734,
+            "l": 0.8741415048501335
+        },
+        "result": "l"
+    },
+    {
+        "id": "30308",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.66558",
+            "a": "0.640748"
+        },
+        "datetime": "2025-11-09 14:30:00",
+        "forecast": {
+            "w": 0.6221422760554345,
+            "d": 0.23791487981668036,
+            "l": 0.13994284378823255
+        },
+        "result": "l"
+    },
+    {
+        "id": "30321",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.568717",
+            "a": "0.398431"
+        },
+        "datetime": "2025-11-23 16:30:00",
+        "forecast": {
+            "w": 0.32218227653677906,
+            "d": 0.4713137083706868,
+            "l": 0.20650401509253416
+        },
+        "result": "l"
+    },
+    {
+        "id": "30324",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.53942",
+            "a": "0.74073"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.7634714870138757,
+            "d": 0.14950936937413103,
+            "l": 0.08701905930784426
+        },
+        "result": "l"
+    },
+    {
+        "id": "30336",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.90409",
+            "a": "0.143945"
+        },
+        "datetime": "2025-12-06 14:30:00",
+        "forecast": {
+            "w": 0.8103963277003405,
+            "d": 0.166839243358697,
+            "l": 0.02276442691583768
+        },
+        "result": "d"
+    },
+    {
+        "id": "30347",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.00037",
+            "a": "1.8944"
+        },
+        "datetime": "2025-12-13 14:30:00",
+        "forecast": {
+            "w": 0.19567257564083287,
+            "d": 0.22158956453674433,
+            "l": 0.5827378579292115
+        },
+        "result": "w"
+    },
+    {
+        "id": "30355",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.87368",
+            "a": "0.227249"
+        },
+        "datetime": "2025-12-21 14:30:00",
+        "forecast": {
+            "w": 0.7816803387626947,
+            "d": 0.18024984783450948,
+            "l": 0.038069811766514576
+        },
+        "result": "d"
     }
 ]

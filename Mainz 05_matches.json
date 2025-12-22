@@ -1,0 +1,452 @@
+[
+    {
+        "id": "30231",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.31655",
+            "a": "1.64676"
+        },
+        "datetime": "2025-08-24 13:30:00",
+        "forecast": {
+            "w": 0.3067451067613093,
+            "d": 0.2410970951626832,
+            "l": 0.4521577977707047
+        },
+        "result": "l"
+    },
+    {
+        "id": "30239",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.616661",
+            "a": "1.81482"
+        },
+        "datetime": "2025-08-31 13:30:00",
+        "forecast": {
+            "w": 0.11990591294457355,
+            "d": 0.2174829813339791,
+            "l": 0.6626111046506261
+        },
+        "result": "d"
+    },
+    {
+        "id": "30245",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.770276",
+            "a": "1.5009"
+        },
+        "datetime": "2025-09-13 13:30:00",
+        "forecast": {
+            "w": 0.19207529046243535,
+            "d": 0.2617357224890783,
+            "l": 0.5461889869654065
+        },
+        "result": "l"
+    },
+    {
+        "id": "30253",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "4"
+        },
+        "xG": {
+            "h": "0.870451",
+            "a": "2.57047"
+        },
+        "datetime": "2025-09-20 13:30:00",
+        "forecast": {
+            "w": 0.10467329025283582,
+            "d": 0.15530143737076219,
+            "l": 0.7400251740857131
+        },
+        "result": "w"
+    },
+    {
+        "id": "30262",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.525149",
+            "a": "1.75519"
+        },
+        "datetime": "2025-09-27 13:30:00",
+        "forecast": {
+            "w": 0.10503672923789056,
+            "d": 0.22057159892859568,
+            "l": 0.6743916711477417
+        },
+        "result": "l"
+    },
+    {
+        "id": "30273",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.65883",
+            "a": "0.591161"
+        },
+        "datetime": "2025-10-05 15:30:00",
+        "forecast": {
+            "w": 0.6341133095049026,
+            "d": 0.23703576590543163,
+            "l": 0.12885092426807013
+        },
+        "result": "l"
+    },
+    {
+        "id": "30282",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.62978",
+            "a": "4.43462"
+        },
+        "datetime": "2025-10-18 13:30:00",
+        "forecast": {
+            "w": 0.08166438246896654,
+            "d": 0.08878432705751403,
+            "l": 0.8294884902413999
+        },
+        "result": "l"
+    },
+    {
+        "id": "30294",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.66805",
+            "a": "1.40956"
+        },
+        "datetime": "2025-10-26 15:30:00",
+        "forecast": {
+            "w": 0.43736357091080214,
+            "d": 0.23738174757380226,
+            "l": 0.3252546811336365
+        },
+        "result": "l"
+    },
+    {
+        "id": "30300",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.90161",
+            "a": "0.880505"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.61362529794364,
+            "d": 0.21793021347351546,
+            "l": 0.16844448659228844
+        },
+        "result": "d"
+    },
+    {
+        "id": "30307",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.77854",
+            "a": "0.121469"
+        },
+        "datetime": "2025-11-09 18:30:00",
+        "forecast": {
+            "w": 0.79489713339326,
+            "d": 0.1836670288547072,
+            "l": 0.02143583693388408
+        },
+        "result": "l"
+    },
+    {
+        "id": "30319",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.88712",
+            "a": "1.54404"
+        },
+        "datetime": "2025-11-21 19:30:00",
+        "forecast": {
+            "w": 0.65268331535254,
+            "d": 0.163171463490566,
+            "l": 0.18414480237683975
+        },
+        "result": "d"
+    },
+    {
+        "id": "30327",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "4.15677",
+            "a": "0.0500621"
+        },
+        "datetime": "2025-11-30 18:30:00",
+        "forecast": {
+            "w": 0.9809652758362648,
+            "d": 0.018157771244496943,
+            "l": 0.0008462386059488152
+        },
+        "result": "l"
+    },
+    {
+        "id": "30339",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.09331",
+            "a": "1.90297"
+        },
+        "datetime": "2025-12-05 19:30:00",
+        "forecast": {
+            "w": 0.21518010941370377,
+            "d": 0.222291060218129,
+            "l": 0.562528828357696
+        },
+        "result": "l"
+    },
+    {
+        "id": "30342",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "4.67956",
+            "a": "0.803171"
+        },
+        "datetime": "2025-12-14 16:30:00",
+        "forecast": {
+            "w": 0.9374957885397175,
+            "d": 0.04228336486159671,
+            "l": 0.020108493094475252
+        },
+        "result": "d"
+    },
+    {
+        "id": "30355",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.87368",
+            "a": "0.227249"
+        },
+        "datetime": "2025-12-21 14:30:00",
+        "forecast": {
+            "w": 0.7816803387626947,
+            "d": 0.18024984783450948,
+            "l": 0.038069811766514576
+        },
+        "result": "d"
+    }
+]

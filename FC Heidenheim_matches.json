@@ -208,5 +208,245 @@
             "l": 0.21443481127940497
         },
         "result": "d"
+    },
+    {
+        "id": "30293",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.4278",
+            "a": "0.902315"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.7098735200607722,
+            "d": 0.1691421139109729,
+            "l": 0.12098431838510168
+        },
+        "result": "l"
+    },
+    {
+        "id": "30299",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.831882",
+            "a": "1.22406"
+        },
+        "datetime": "2025-11-01 14:30:00",
+        "forecast": {
+            "w": 0.2514788830332738,
+            "d": 0.29545806139998265,
+            "l": 0.45306305556167126
+        },
+        "result": "d"
+    },
+    {
+        "id": "30305",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "6",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.90142",
+            "a": "0.063377"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.9746245462577945,
+            "d": 0.023960947102884756,
+            "l": 0.001399495763794708
+        },
+        "result": "l"
+    },
+    {
+        "id": "30318",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.363207",
+            "a": "2.79666"
+        },
+        "datetime": "2025-11-22 14:30:00",
+        "forecast": {
+            "w": 0.029031447318694382,
+            "d": 0.09779372521998048,
+            "l": 0.873174545059351
+        },
+        "result": "l"
+    },
+    {
+        "id": "30330",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.942923",
+            "a": "0.522102"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.44344299501597456,
+            "d": 0.3596201396453849,
+            "l": 0.1969368653385093
+        },
+        "result": "w"
+    },
+    {
+        "id": "30338",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.66592",
+            "a": "0.800321"
+        },
+        "datetime": "2025-12-06 14:30:00",
+        "forecast": {
+            "w": 0.7692101980676648,
+            "d": 0.14307384336844473,
+            "l": 0.08771580311208986
+        },
+        "result": "w"
+    },
+    {
+        "id": "30347",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.00037",
+            "a": "1.8944"
+        },
+        "datetime": "2025-12-13 14:30:00",
+        "forecast": {
+            "w": 0.19567257564083287,
+            "d": 0.22158956453674433,
+            "l": 0.5827378579292115
+        },
+        "result": "l"
+    },
+    {
+        "id": "30354",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.48758",
+            "a": "3.36795"
+        },
+        "datetime": "2025-12-21 16:30:00",
+        "forecast": {
+            "w": 0.1322501687005388,
+            "d": 0.1333264353497357,
+            "l": 0.7344206903858478
+        },
+        "result": "l"
     }
 ]

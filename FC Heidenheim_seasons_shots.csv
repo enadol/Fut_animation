@@ -85,3 +85,85 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.749000015258789,0.7709999847412109,Mathias Honsak,LeftFoot,MissedShots,FC Heidenheim,Werder Bremen,Tim Siersleben,0.016788329929113388
 93,0.8380000305175781,0.7080000305175781,Mathias Honsak,RightFoot,MissedShots,FC Heidenheim,Werder Bremen,Marvin Pieringer,0.03072289191186428
 94,0.9,0.5590000152587891,Patrick Mainka,Head,MissedShots,FC Heidenheim,Werder Bremen,Arijon Ibrahimovic,0.05206414684653282
+41,0.84,0.539000015258789,Arijon Ibrahimovic,LeftFoot,SavedShot,Hoffenheim,FC Heidenheim,Omar Traoré,0.07420123368501663
+53,0.899000015258789,0.49200000762939455,Patrick Mainka,Head,MissedShots,Hoffenheim,FC Heidenheim,Jonas Föhrenbach,0.03949352726340294
+59,0.7519999694824219,0.649000015258789,Mathias Honsak,RightFoot,MissedShots,Hoffenheim,FC Heidenheim,,0.015327821485698223
+66,0.93,0.44,Marnon Busch,RightFoot,MissedShots,Hoffenheim,FC Heidenheim,Stefan Schimmer,0.26767656207084656
+69,0.8590000152587891,0.3370000076293945,Arijon Ibrahimovic,RightFoot,MissedShots,Hoffenheim,FC Heidenheim,Mathias Honsak,0.09555337578058243
+70,0.8730000305175781,0.6669999694824219,Jan Schöppner,RightFoot,BlockedShot,Hoffenheim,FC Heidenheim,Mathias Honsak,0.06489982455968857
+71,0.884000015258789,0.5379999923706055,Jonas Föhrenbach,Head,BlockedShot,Hoffenheim,FC Heidenheim,Arijon Ibrahimovic,0.03922896832227707
+71,0.9640000152587891,0.5879999923706055,Stefan Schimmer,LeftFoot,BlockedShot,Hoffenheim,FC Heidenheim,Arijon Ibrahimovic,0.07949919998645782
+74,0.8590000152587891,0.5429999923706055,Stefan Schimmer,RightFoot,Goal,Hoffenheim,FC Heidenheim,Jonas Föhrenbach,0.09181764721870422
+86,0.775,0.3990000152587891,Mathias Honsak,LeftFoot,SavedShot,Hoffenheim,FC Heidenheim,Marvin Pieringer,0.02730884775519371
+87,0.8159999847412109,0.49200000762939455,Julian Niehues,RightFoot,BlockedShot,Hoffenheim,FC Heidenheim,,0.043320201337337494
+87,0.884000015258789,0.525,Stefan Schimmer,LeftFoot,ShotOnPost,Hoffenheim,FC Heidenheim,Jonas Föhrenbach,0.0639878436923027
+10,0.9580000305175781,0.6869999694824219,Mathias Honsak,LeftFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Arijon Ibrahimovic,0.021599043160676956
+14,0.8819999694824219,0.545,Mathias Honsak,Head,MissedShots,FC Heidenheim,Eintracht Frankfurt,Stefan Schimmer,0.028063051402568817
+31,0.9309999847412109,0.4209999847412109,Budu Zivzivadze,RightFoot,Goal,FC Heidenheim,Eintracht Frankfurt,Arijon Ibrahimovic,0.6039845943450928
+34,0.7659999847412109,0.5359999847412109,Stefan Schimmer,LeftFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Budu Zivzivadze,0.0415792278945446
+37,0.7959999847412109,0.34599998474121096,Budu Zivzivadze,LeftFoot,SavedShot,FC Heidenheim,Eintracht Frankfurt,Arijon Ibrahimovic,0.038191817700862885
+51,0.765,0.34599998474121096,Arijon Ibrahimovic,RightFoot,SavedShot,FC Heidenheim,Eintracht Frankfurt,,0.016458792611956596
+65,0.7169999694824218,0.445,Julian Niehues,LeftFoot,SavedShot,FC Heidenheim,Eintracht Frankfurt,Patrick Mainka,0.016807500272989273
+66,0.7440000152587891,0.5770000076293945,Stefan Schimmer,RightFoot,BlockedShot,FC Heidenheim,Eintracht Frankfurt,,0.011286869645118713
+71,0.8959999847412109,0.3060000038146973,Marvin Pieringer,RightFoot,MissedShots,FC Heidenheim,Eintracht Frankfurt,Omar Traoré,0.053911127150058746
+68,0.8590000152587891,0.500999984741211,Arijon Ibrahimovic,RightFoot,BlockedShot,Bayer Leverkusen,FC Heidenheim,,0.06337696313858032
+29,0.8490000152587891,0.500999984741211,Arijon Ibrahimovic,LeftFoot,BlockedShot,FC Heidenheim,Borussia M.Gladbach,Adrian Beck,0.0976870208978653
+47,0.884000015258789,0.43599998474121093,Patrick Mainka,Head,SavedShot,FC Heidenheim,Borussia M.Gladbach,Arijon Ibrahimovic,0.04988805204629898
+48,0.865,0.4929999923706055,Patrick Mainka,Head,MissedShots,FC Heidenheim,Borussia M.Gladbach,Niklas Dorsch,0.023452041670680046
+53,0.9209999847412109,0.465,Jan Schöppner,Head,BlockedShot,FC Heidenheim,Borussia M.Gladbach,Arijon Ibrahimovic,0.053205423057079315
+55,0.7519999694824219,0.42700000762939455,Marvin Pieringer,RightFoot,MissedShots,FC Heidenheim,Borussia M.Gladbach,Jan Schöppner,0.017259910702705383
+56,0.9590000152587891,0.33099998474121095,Adrian Beck,RightFoot,SavedShot,FC Heidenheim,Borussia M.Gladbach,Arijon Ibrahimovic,0.10466434806585312
+71,0.794000015258789,0.45099998474121095,Marvin Pieringer,RightFoot,MissedShots,FC Heidenheim,Borussia M.Gladbach,Stefan Schimmer,0.017050497233867645
+8,0.855,0.534000015258789,Mathias Honsak,LeftFoot,ShotOnPost,Union Berlin,FC Heidenheim,Jonas Föhrenbach,0.08275673538446426
+11,0.7559999847412109,0.675,Adrian Beck,RightFoot,BlockedShot,Union Berlin,FC Heidenheim,Jonas Föhrenbach,0.020295947790145874
+11,0.924000015258789,0.46799999237060547,Patrick Mainka,RightFoot,BlockedShot,Union Berlin,FC Heidenheim,Julian Niehues,0.11435092985630035
+56,0.7869999694824219,0.64,Mathias Honsak,LeftFoot,BlockedShot,Union Berlin,FC Heidenheim,,0.012183303013443947
+63,0.8880000305175781,0.3270000076293945,Stefan Schimmer,RightFoot,MissedShots,Union Berlin,FC Heidenheim,Arijon Ibrahimovic,0.061841607093811035
+72,0.9119999694824219,0.5170000076293946,Julian Niehues,Head,MissedShots,Union Berlin,FC Heidenheim,Arijon Ibrahimovic,0.05447307601571083
+75,0.8440000152587891,0.5020000076293946,Patrick Mainka,Head,MissedShots,Union Berlin,FC Heidenheim,Arijon Ibrahimovic,0.00795159675180912
+81,0.8019999694824219,0.3110000038146973,Julian Niehues,LeftFoot,MissedShots,Union Berlin,FC Heidenheim,Omar Traoré,0.02652328833937645
+89,0.914000015258789,0.43,Stefan Schimmer,RightFoot,Goal,Union Berlin,FC Heidenheim,Omar Traoré,0.11288781464099884
+94,0.9080000305175782,0.47,Jan Schöppner,Head,Goal,Union Berlin,FC Heidenheim,Arijon Ibrahimovic,0.02883788011968136
+0,0.8919999694824219,0.4329999923706055,Mathias Honsak,RightFoot,BlockedShot,FC Heidenheim,Freiburg,Marvin Pieringer,0.08652297407388687
+8,0.7080000305175781,0.524000015258789,Thomas Keller,RightFoot,MissedShots,FC Heidenheim,Freiburg,,0.043624524027109146
+14,0.750999984741211,0.75,Mathias Honsak,LeftFoot,MissedShots,FC Heidenheim,Freiburg,Marvin Pieringer,0.010145803913474083
+19,0.8290000152587891,0.42400001525878905,Mathias Honsak,RightFoot,MissedShots,FC Heidenheim,Freiburg,Jan Schöppner,0.28912457823753357
+29,0.889000015258789,0.6809999847412109,Mathias Honsak,LeftFoot,BlockedShot,FC Heidenheim,Freiburg,Jonas Föhrenbach,0.05445462465286255
+32,0.8040000152587891,0.25299999237060544,Marvin Pieringer,LeftFoot,BlockedShot,FC Heidenheim,Freiburg,Niklas Dorsch,0.02110392227768898
+44,0.8059999847412109,0.4909999847412109,Niklas Dorsch,RightFoot,MissedShots,FC Heidenheim,Freiburg,Jan Schöppner,0.05249210074543953
+46,0.7859999847412109,0.48400001525878905,Julian Niehues,RightFoot,BlockedShot,FC Heidenheim,Freiburg,Marvin Pieringer,0.030209729447960854
+58,0.9490000152587891,0.5170000076293946,Patrick Mainka,LeftFoot,Goal,FC Heidenheim,Freiburg,Marnon Busch,0.4727487862110138
+62,0.825999984741211,0.66,Mathias Honsak,LeftFoot,MissedShots,FC Heidenheim,Freiburg,Arijon Ibrahimovic,0.03491741046309471
+62,0.9059999847412109,0.52,Patrick Mainka,RightFoot,MissedShots,FC Heidenheim,Freiburg,,0.12639178335666656
+65,0.8819999694824219,0.5879999923706055,Jan Schöppner,RightFoot,BlockedShot,FC Heidenheim,Freiburg,Mathias Honsak,0.09292209148406982
+66,0.97,0.46,Marvin Pieringer,Head,MissedShots,FC Heidenheim,Freiburg,Jonas Föhrenbach,0.6136299967765808
+82,0.7480000305175781,0.5679999923706055,Niklas Dorsch,RightFoot,MissedShots,FC Heidenheim,Freiburg,,0.013681476004421711
+88,0.9269999694824219,0.505,Stefan Schimmer,Head,SavedShot,FC Heidenheim,Freiburg,Arijon Ibrahimovic,0.42202049493789673
+93,0.9359999847412109,0.6940000152587891,Stefan Schimmer,LeftFoot,Goal,FC Heidenheim,Freiburg,,0.3063417673110962
+9,0.7419999694824219,0.28299999237060547,Thomas Keller,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,,0.010648406110703945
+12,0.924000015258789,0.5029999923706054,Marvin Pieringer,Head,MissedShots,St. Pauli,FC Heidenheim,Adrian Beck,0.06737808138132095
+46,0.8969999694824219,0.3609999847412109,Stefan Schimmer,RightFoot,SavedShot,St. Pauli,FC Heidenheim,Marnon Busch,0.317539244890213
+46,0.9259999847412109,0.7219999694824218,Adrian Beck,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,Arijon Ibrahimovic,0.03201702609658241
+57,0.8130000305175781,0.48700000762939455,Julian Niehues,RightFoot,SavedShot,St. Pauli,FC Heidenheim,Marvin Pieringer,0.05436252802610397
+61,0.8719999694824219,0.34099998474121096,Arijon Ibrahimovic,RightFoot,SavedShot,St. Pauli,FC Heidenheim,Stefan Schimmer,0.07057763636112213
+62,0.8630000305175781,0.5429999923706055,Marvin Pieringer,Head,SavedShot,St. Pauli,FC Heidenheim,Arijon Ibrahimovic,0.012878591194748878
+63,0.9590000152587891,0.38599998474121094,Stefan Schimmer,RightFoot,MissedShots,St. Pauli,FC Heidenheim,,0.06819172948598862
+63,0.98,0.514000015258789,Marvin Pieringer,RightFoot,Goal,St. Pauli,FC Heidenheim,Stefan Schimmer,0.847844123840332
+66,0.9290000152587891,0.595999984741211,Stefan Schimmer,LeftFoot,MissedShots,St. Pauli,FC Heidenheim,Jonas Föhrenbach,0.11237842589616776
+74,0.8680000305175781,0.665,Mathias Honsak,RightFoot,MissedShots,St. Pauli,FC Heidenheim,,0.020763050764799118
+76,0.7619999694824219,0.46700000762939453,Omar Traoré,LeftFoot,SavedShot,St. Pauli,FC Heidenheim,,0.024045566096901894
+79,0.7709999847412109,0.5320000076293945,Jonas Föhrenbach,LeftFoot,BlockedShot,St. Pauli,FC Heidenheim,Omar Traoré,0.023768967017531395
+81,0.924000015258789,0.5570000076293945,Patrick Mainka,Head,MissedShots,St. Pauli,FC Heidenheim,Arijon Ibrahimovic,0.03660207614302635
+82,0.874000015258789,0.34400001525878904,Omar Traoré,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,Stefan Schimmer,0.05241983383893967
+88,0.8640000152587891,0.590999984741211,Mathias Honsak,LeftFoot,SavedShot,St. Pauli,FC Heidenheim,,0.060595493763685226
+88,0.779000015258789,0.6379999923706055,Niklas Dorsch,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,Jonas Föhrenbach,0.022714875638484955
+90,0.6869999694824219,0.46599998474121096,Marnon Busch,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,Jonas Föhrenbach,0.013913317583501339
+90,0.9109999847412109,0.43599998474121093,Stefan Schimmer,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,Patrick Mainka,0.08609914779663086
+91,0.840999984741211,0.6809999847412109,Mathias Honsak,LeftFoot,MissedShots,St. Pauli,FC Heidenheim,,0.017476247623562813
+24,0.8030000305175782,0.5109999847412109,Marvin Pieringer,LeftFoot,MissedShots,FC Heidenheim,Bayern Munich,Niklas Dorsch,0.04133697226643562
+40,0.925,0.5670000076293945,Marvin Pieringer,LeftFoot,MissedShots,FC Heidenheim,Bayern Munich,Jonas Föhrenbach,0.07660145312547684
+55,0.830999984741211,0.4279999923706055,Marvin Pieringer,RightFoot,MissedShots,FC Heidenheim,Bayern Munich,,0.04606017842888832
+55,0.9480000305175781,0.5479999923706055,Stefan Schimmer,Head,ShotOnPost,FC Heidenheim,Bayern Munich,Marvin Pieringer,0.5109662413597107
+67,0.865,0.4829999923706055,Arijon Ibrahimovic,LeftFoot,MissedShots,FC Heidenheim,Bayern Munich,Niklas Dorsch,0.3156076967716217
+69,0.915,0.43,Patrick Mainka,Head,MissedShots,FC Heidenheim,Bayern Munich,Benedikt Gimber,0.21245378255844116
+77,0.88,0.6129999923706054,Stefan Schimmer,LeftFoot,SavedShot,FC Heidenheim,Bayern Munich,Mikkel Kaufmann,0.30809301137924194

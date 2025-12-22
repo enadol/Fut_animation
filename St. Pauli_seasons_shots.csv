@@ -85,3 +85,75 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 65,0.749000015258789,0.5020000076293946,Oladapo Afolayan,RightFoot,BlockedShot,St. Pauli,Hoffenheim,Andréas Hountondji,0.020330974832177162
 66,0.7140000152587891,0.27899999618530275,Andréas Hountondji,RightFoot,BlockedShot,St. Pauli,Hoffenheim,,0.006714159157127142
 81,0.69,0.539000015258789,Joel Chima Fujita,RightFoot,MissedShots,St. Pauli,Hoffenheim,Danel Sinani,0.008894502185285091
+20,0.6969999694824218,0.3129999923706055,Danel Sinani,LeftFoot,MissedShots,Eintracht Frankfurt,St. Pauli,,0.008653094992041588
+34,0.7119999694824218,0.28399999618530275,Danel Sinani,LeftFoot,MissedShots,Eintracht Frankfurt,St. Pauli,,0.011781562119722366
+47,0.7340000152587891,0.624000015258789,Pereira Lage,RightFoot,MissedShots,Eintracht Frankfurt,St. Pauli,,0.04971739277243614
+66,0.8230000305175781,0.6359999847412109,Oladapo Afolayan,RightFoot,MissedShots,Eintracht Frankfurt,St. Pauli,Danel Sinani,0.039437901228666306
+67,0.769000015258789,0.4,Joel Chima Fujita,RightFoot,BlockedShot,Eintracht Frankfurt,St. Pauli,Connor Metcalfe,0.024419452995061874
+77,0.855999984741211,0.625999984741211,Oladapo Afolayan,RightFoot,SavedShot,Eintracht Frankfurt,St. Pauli,Connor Metcalfe,0.06422825902700424
+77,0.87,0.509000015258789,Connor Metcalfe,RightFoot,MissedShots,Eintracht Frankfurt,St. Pauli,,0.30055898427963257
+90,0.935,0.3659999847412109,Danel Sinani,Head,BlockedShot,Eintracht Frankfurt,St. Pauli,Manolis Saliakas,0.021959125995635986
+92,0.7530000305175781,0.395,Connor Metcalfe,RightFoot,MissedShots,Eintracht Frankfurt,St. Pauli,Oladapo Afolayan,0.018522055819630623
+24,0.9069999694824219,0.5579999923706055,James Sands,Head,MissedShots,St. Pauli,Borussia M.Gladbach,Pereira Lage,0.020190268754959106
+24,0.7759999847412109,0.34599998474121096,Pereira Lage,LeftFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Danel Sinani,0.020553482696413994
+25,0.850999984741211,0.615999984741211,Pereira Lage,RightFoot,BlockedShot,St. Pauli,Borussia M.Gladbach,Oladapo Afolayan,0.0652267187833786
+26,0.675,0.5620000076293945,Danel Sinani,LeftFoot,MissedShots,St. Pauli,Borussia M.Gladbach,Eric Smith,0.013304388150572777
+45,0.735999984741211,0.35200000762939454,Manolis Saliakas,RightFoot,SavedShot,St. Pauli,Borussia M.Gladbach,,0.012492053210735321
+47,0.9119999694824219,0.52,Abdoulie Ceesay,RightFoot,MissedShots,St. Pauli,Borussia M.Gladbach,Louis Oppie,0.2771250605583191
+51,0.7669999694824219,0.30700000762939456,Manolis Saliakas,RightFoot,BlockedShot,St. Pauli,Borussia M.Gladbach,Hauke Wahl,0.015385499224066734
+53,0.8930000305175781,0.315,Andréas Hountondji,RightFoot,BlockedShot,St. Pauli,Borussia M.Gladbach,James Sands,0.06476232409477234
+54,0.8859999847412109,0.5829999923706055,Hauke Wahl,RightFoot,MissedShots,St. Pauli,Borussia M.Gladbach,,0.07462681084871292
+65,0.8040000152587891,0.505,Connor Metcalfe,LeftFoot,MissedShots,St. Pauli,Borussia M.Gladbach,Joel Chima Fujita,0.09068862348794937
+70,0.784000015258789,0.6959999847412109,Eric Smith,RightFoot,SavedShot,St. Pauli,Borussia M.Gladbach,Martijn Kaars,0.01818963885307312
+70,0.830999984741211,0.615999984741211,Louis Oppie,LeftFoot,BlockedShot,St. Pauli,Borussia M.Gladbach,Eric Smith,0.019141292199492455
+70,0.805,0.3659999847412109,Manolis Saliakas,RightFoot,BlockedShot,St. Pauli,Borussia M.Gladbach,Louis Oppie,0.03895837068557739
+82,0.765,0.539000015258789,Louis Oppie,LeftFoot,BlockedShot,St. Pauli,Borussia M.Gladbach,,0.014969825744628906
+89,0.8830000305175781,0.3060000038146973,Connor Metcalfe,RightFoot,MissedShots,St. Pauli,Borussia M.Gladbach,,0.037092175334692
+93,0.8640000152587891,0.34200000762939453,Connor Metcalfe,LeftFoot,SavedShot,St. Pauli,Borussia M.Gladbach,,0.02168765664100647
+68,0.9540000152587891,0.5970000076293945,Louis Oppie,LeftFoot,Goal,Freiburg,St. Pauli,Connor Metcalfe,0.3668249845504761
+71,0.749000015258789,0.610999984741211,Connor Metcalfe,LeftFoot,BlockedShot,Freiburg,St. Pauli,Joel Chima Fujita,0.016319241374731064
+84,0.8280000305175781,0.325,Pereira Lage,RightFoot,SavedShot,Freiburg,St. Pauli,,0.02667364291846752
+84,0.855,0.495,Jackson Irvine,Head,MissedShots,Freiburg,St. Pauli,Louis Oppie,0.02301057241857052
+85,0.8159999847412109,0.7530000305175781,Danel Sinani,LeftFoot,BlockedShot,Freiburg,St. Pauli,Pereira Lage,0.024861088022589684
+88,0.8930000305175781,0.515,Jackson Irvine,RightFoot,MissedShots,Freiburg,St. Pauli,Pereira Lage,0.09001802653074265
+92,0.945,0.38,Andréas Hountondji,LeftFoot,MissedShots,Freiburg,St. Pauli,Pereira Lage,0.09304068982601166
+12,0.7480000305175781,0.5309999847412109,Joel Chima Fujita,RightFoot,BlockedShot,St. Pauli,Union Berlin,,0.01388927735388279
+29,0.9119999694824219,0.5640000152587891,Pereira Lage,Head,MissedShots,St. Pauli,Union Berlin,Andréas Hountondji,0.08283458650112152
+59,0.7569999694824219,0.29700000762939455,Joel Chima Fujita,LeftFoot,SavedShot,St. Pauli,Union Berlin,Jackson Irvine,0.016468748450279236
+62,0.9259999847412109,0.57,Hauke Wahl,Head,SavedShot,St. Pauli,Union Berlin,Louis Oppie,0.0824166089296341
+64,0.9640000152587891,0.715,Louis Oppie,LeftFoot,MissedShots,St. Pauli,Union Berlin,,0.04253673925995827
+66,0.7930000305175782,0.35900001525878905,Danel Sinani,LeftFoot,MissedShots,St. Pauli,Union Berlin,James Sands,0.032453492283821106
+73,0.8669999694824219,0.6040000152587891,Danel Sinani,LeftFoot,BlockedShot,St. Pauli,Union Berlin,,0.059220489114522934
+73,0.9619999694824218,0.6990000152587891,Pereira Lage,LeftFoot,ShotOnPost,St. Pauli,Union Berlin,Danel Sinani,0.046199727803468704
+82,0.7480000305175781,0.445,Danel Sinani,LeftFoot,BlockedShot,St. Pauli,Union Berlin,Joel Chima Fujita,0.021429507061839104
+83,0.8980000305175782,0.4540000152587891,Eric Smith,RightFoot,BlockedShot,St. Pauli,Union Berlin,James Sands,0.08369851857423782
+84,0.7969999694824219,0.3079999923706055,Danel Sinani,RightFoot,SavedShot,St. Pauli,Union Berlin,,0.01835785061120987
+90,0.9430000305175781,0.54,James Sands,Head,MissedShots,St. Pauli,Union Berlin,Danel Sinani,0.06921124458312988
+5,0.924000015258789,0.6680000305175782,Andréas Hountondji,RightFoot,Goal,Bayern Munich,St. Pauli,Pereira Lage,0.32165294885635376
+30,0.74,0.57,Jackson Irvine,RightFoot,MissedShots,Bayern Munich,St. Pauli,Pereira Lage,0.02123495750129223
+36,0.8780000305175781,0.37799999237060544,Joel Chima Fujita,LeftFoot,BlockedShot,Bayern Munich,St. Pauli,Arkadiusz Pyrka,0.12831400334835052
+46,0.860999984741211,0.25799999237060545,Hauke Wahl,RightFoot,BlockedShot,Bayern Munich,St. Pauli,James Sands,0.03224745765328407
+46,0.84,0.4420000076293945,Karol Mets,RightFoot,MissedShots,Bayern Munich,St. Pauli,Eric Smith,0.06349000334739685
+46,0.8019999694824219,0.5429999923706055,Pereira Lage,LeftFoot,BlockedShot,Bayern Munich,St. Pauli,Jackson Irvine,0.03809553012251854
+46,0.774000015258789,0.33299999237060546,Eric Smith,RightFoot,BlockedShot,Bayern Munich,St. Pauli,,0.014878034591674805
+50,0.76,0.3160000038146973,James Sands,RightFoot,MissedShots,Bayern Munich,St. Pauli,Eric Smith,0.016539055854082108
+60,0.7919999694824219,0.3220000076293945,Arkadiusz Pyrka,RightFoot,MissedShots,Bayern Munich,St. Pauli,Pereira Lage,0.02593935839831829
+89,0.8590000152587891,0.664000015258789,Louis Oppie,LeftFoot,MissedShots,Bayern Munich,St. Pauli,Joel Chima Fujita,0.07890574634075165
+2,0.794000015258789,0.73,Joel Chima Fujita,RightFoot,BlockedShot,FC Cologne,St. Pauli,Jackson Irvine,0.019099129363894463
+62,0.840999984741211,0.46900001525878904,Adam Dzwigala,RightFoot,MissedShots,FC Cologne,St. Pauli,Pereira Lage,0.04731191694736481
+79,0.78,0.42400001525878905,Connor Metcalfe,LeftFoot,BlockedShot,FC Cologne,St. Pauli,Adam Dzwigala,0.026954052969813347
+79,0.794000015258789,0.5829999923706055,Danel Sinani,LeftFoot,MissedShots,FC Cologne,St. Pauli,,0.03446279838681221
+93,0.8819999694824219,0.5670000076293945,Ricky-Jade Jones,Head,Goal,FC Cologne,St. Pauli,Danel Sinani,0.01611696183681488
+17,0.7830000305175782,0.37900001525878907,James Sands,RightFoot,SavedShot,St. Pauli,FC Heidenheim,Joel Chima Fujita,0.028886040672659874
+17,0.88,0.505,Pereira Lage,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,Jackson Irvine,0.3899043798446655
+18,0.92,0.4879999923706055,Pereira Lage,RightFoot,SavedShot,St. Pauli,FC Heidenheim,Arkadiusz Pyrka,0.10759573429822922
+21,0.8469999694824218,0.5579999923706055,Jackson Irvine,RightFoot,MissedShots,St. Pauli,FC Heidenheim,Joel Chima Fujita,0.08328650891780853
+28,0.9,0.41400001525878904,Martijn Kaars,RightFoot,BlockedShot,St. Pauli,FC Heidenheim,,0.08145943284034729
+30,0.92,0.6129999923706054,Pereira Lage,Head,MissedShots,St. Pauli,FC Heidenheim,,0.03572097420692444
+34,0.879000015258789,0.41700000762939454,Martijn Kaars,RightFoot,Goal,St. Pauli,FC Heidenheim,Joel Chima Fujita,0.1242598295211792
+52,0.8930000305175781,0.3,Martijn Kaars,RightFoot,Goal,St. Pauli,FC Heidenheim,Joel Chima Fujita,0.14925865828990936
+35,0.8590000152587891,0.5729999923706055,Jackson Irvine,LeftFoot,SavedShot,Mainz 05,St. Pauli,Adam Dzwigala,0.07025163620710373
+70,0.79,0.6120000076293945,Pereira Lage,RightFoot,BlockedShot,Mainz 05,St. Pauli,Karol Mets,0.03064524382352829
+70,0.785,0.33599998474121096,Arkadiusz Pyrka,LeftFoot,BlockedShot,Mainz 05,St. Pauli,Adam Dzwigala,0.0249992273747921
+70,0.7809999847412109,0.625999984741211,Jackson Irvine,LeftFoot,BlockedShot,Mainz 05,St. Pauli,,0.024096354842185974
+72,0.9059999847412109,0.3390000152587891,Joel Chima Fujita,RightFoot,MissedShots,Mainz 05,St. Pauli,Ricky-Jade Jones,0.07725641131401062
