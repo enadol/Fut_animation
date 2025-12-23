@@ -208,5 +208,245 @@
             "l": 0.5910334246726971
         },
         "result": "w"
+    },
+    {
+        "id": "30293",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.4278",
+            "a": "0.902315"
+        },
+        "datetime": "2025-10-25 13:30:00",
+        "forecast": {
+            "w": 0.7098735200607722,
+            "d": 0.1691421139109729,
+            "l": 0.12098431838510168
+        },
+        "result": "w"
+    },
+    {
+        "id": "30304",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.40117",
+            "a": "1.74291"
+        },
+        "datetime": "2025-11-02 16:30:00",
+        "forecast": {
+            "w": 0.3102229440454029,
+            "d": 0.23302876219893578,
+            "l": 0.4567482930988401
+        },
+        "result": "w"
+    },
+    {
+        "id": "30310",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.92349",
+            "a": "1.56187"
+        },
+        "datetime": "2025-11-08 14:30:00",
+        "forecast": {
+            "w": 0.46405782815873214,
+            "d": 0.21982230757467086,
+            "l": 0.3161198618084432
+        },
+        "result": "w"
+    },
+    {
+        "id": "30319",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.88712",
+            "a": "1.54404"
+        },
+        "datetime": "2025-11-21 19:30:00",
+        "forecast": {
+            "w": 0.65268331535254,
+            "d": 0.163171463490566,
+            "l": 0.18414480237683975
+        },
+        "result": "d"
+    },
+    {
+        "id": "30329",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.79612",
+            "a": "0.655496"
+        },
+        "datetime": "2025-11-29 14:30:00",
+        "forecast": {
+            "w": 0.6481609165363728,
+            "d": 0.22165062887005843,
+            "l": 0.13018845366073872
+        },
+        "result": "w"
+    },
+    {
+        "id": "30335",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.10147",
+            "a": "1.42364"
+        },
+        "datetime": "2025-12-07 16:30:00",
+        "forecast": {
+            "w": 0.29177012475586966,
+            "d": 0.26425305151384276,
+            "l": 0.4439768236887179
+        },
+        "result": "l"
+    },
+    {
+        "id": "30346",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.48806",
+            "a": "1.40522"
+        },
+        "datetime": "2025-12-13 14:30:00",
+        "forecast": {
+            "w": 0.6115038979994211,
+            "d": 0.18419841000405615,
+            "l": 0.20429762688454695
+        },
+        "result": "w"
+    },
+    {
+        "id": "30357",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.46116",
+            "a": "0.154175"
+        },
+        "datetime": "2025-12-20 14:30:00",
+        "forecast": {
+            "w": 0.7168818878572493,
+            "d": 0.24620055488985784,
+            "l": 0.03691755719525186
+        },
+        "result": "d"
     }
 ]
