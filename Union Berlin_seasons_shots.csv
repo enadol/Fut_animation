@@ -99,3 +99,87 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 66,0.8859999847412109,0.6559999847412109,Tim Skarke,RightFoot,MissedShots,Werder Bremen,Union Berlin,,0.05442466214299202
 87,0.7580000305175781,0.6190000152587891,Tim Skarke,RightFoot,SavedShot,Werder Bremen,Union Berlin,Tom Rothe,0.02103457599878311
 95,0.905,0.4929999923706055,Danilho Doekhi,Head,MissedShots,Werder Bremen,Union Berlin,Woo-Yeong Jeong,0.028805125504732132
+1,0.9130000305175782,0.629000015258789,Leopold Querfeld,RightFoot,MissedShots,Union Berlin,Freiburg,,0.06846410036087036
+9,0.715,0.7180000305175781,Andras Schafer,RightFoot,SavedShot,Union Berlin,Freiburg,Tim Skarke,0.014818291179835796
+9,0.8109999847412109,0.485,Derrick Köhn,LeftFoot,BlockedShot,Union Berlin,Freiburg,,0.03825121372938156
+23,0.7869999694824219,0.34700000762939454,Aljoscha Kemlein,RightFoot,BlockedShot,Union Berlin,Freiburg,Andrej Ilic,0.026544226333498955
+23,0.885,0.6029999923706054,Andras Schafer,RightFoot,MissedShots,Union Berlin,Freiburg,,0.08003624528646469
+43,0.865999984741211,0.4979999923706055,Andrej Ilic,Head,MissedShots,Union Berlin,Freiburg,Tim Skarke,0.020350702106952667
+46,0.9569999694824218,0.5709999847412109,Leopold Querfeld,LeftFoot,MissedShots,Union Berlin,Freiburg,,0.10968615859746933
+70,0.9319999694824219,0.44799999237060545,Ilyas Ansah,RightFoot,SavedShot,Union Berlin,Freiburg,Leopold Querfeld,0.49387285113334656
+71,0.94,0.48200000762939454,Danilho Doekhi,Head,MissedShots,Union Berlin,Freiburg,Christopher Trimmel,0.07354115694761276
+86,0.8669999694824219,0.4829999923706055,Tom Rothe,LeftFoot,MissedShots,Union Berlin,Freiburg,Leopold Querfeld,0.07380053400993347
+90,0.9569999694824218,0.6,Danilho Doekhi,RightFoot,MissedShots,Union Berlin,Freiburg,Tom Rothe,0.3511793613433838
+6,0.8469999694824218,0.26299999237060545,Janik Haberer,RightFoot,BlockedShot,Union Berlin,Bayern Munich,Aljoscha Kemlein,0.04860839620232582
+7,0.8730000305175781,0.629000015258789,Tom Rothe,LeftFoot,BlockedShot,Union Berlin,Bayern Munich,Ilyas Ansah,0.07607795298099518
+8,0.9569999694824218,0.43,Leopold Querfeld,Head,MissedShots,Union Berlin,Bayern Munich,Diogo Leite,0.0539170578122139
+26,0.899000015258789,0.45799999237060546,Danilho Doekhi,RightFoot,Goal,Union Berlin,Bayern Munich,Janik Haberer,0.06391046196222305
+30,0.8059999847412109,0.36400001525878906,Ilyas Ansah,RightFoot,SavedShot,Union Berlin,Bayern Munich,Janik Haberer,0.04770519211888313
+43,0.8819999694824219,0.600999984741211,Ilyas Ansah,LeftFoot,SavedShot,Union Berlin,Bayern Munich,Danilho Doekhi,0.052749525755643845
+56,0.7780000305175782,0.6090000152587891,Aljoscha Kemlein,LeftFoot,BlockedShot,Union Berlin,Bayern Munich,,0.025862498208880424
+56,0.8640000152587891,0.3390000152587891,Janik Haberer,RightFoot,MissedShots,Union Berlin,Bayern Munich,Rani Khedira,0.046805158257484436
+76,0.7430000305175781,0.72,Ilyas Ansah,RightFoot,BlockedShot,Union Berlin,Bayern Munich,,0.010784974321722984
+82,0.9480000305175781,0.5320000076293945,Danilho Doekhi,LeftFoot,Goal,Union Berlin,Bayern Munich,,0.5732582211494446
+87,0.749000015258789,0.31,Josip Juranovic,RightFoot,MissedShots,Union Berlin,Bayern Munich,,0.018234293907880783
+89,0.4229999923706055,0.7440000152587891,Tim Skarke,RightFoot,MissedShots,Union Berlin,Bayern Munich,,0.009866186417639256
+19,0.8909999847412109,0.46900001525878904,Danilho Doekhi,Head,MissedShots,St. Pauli,Union Berlin,Christopher Trimmel,0.03572588413953781
+28,0.9169999694824219,0.575999984741211,Leopold Querfeld,Head,SavedShot,St. Pauli,Union Berlin,Christopher Trimmel,0.01992674358189106
+38,0.8919999694824219,0.34,Andrej Ilic,RightFoot,SavedShot,St. Pauli,Union Berlin,Leopold Querfeld,0.06063159927725792
+38,0.9180000305175782,0.5870000076293945,Tom Rothe,RightFoot,BlockedShot,St. Pauli,Union Berlin,,0.0785134881734848
+40,0.9569999694824218,0.585999984741211,Tom Rothe,OtherBodyPart,MissedShots,St. Pauli,Union Berlin,Oliver Burke,0.058653634041547775
+43,0.8669999694824219,0.3870000076293945,Rani Khedira,RightFoot,BlockedShot,St. Pauli,Union Berlin,,0.029420005157589912
+43,0.8780000305175781,0.445,Rani Khedira,RightFoot,Goal,St. Pauli,Union Berlin,Andrej Ilic,0.09338182955980301
+90,0.7230000305175781,0.45799999237060546,Tim Skarke,RightFoot,MissedShots,St. Pauli,Union Berlin,Alex Kral,0.022177932783961296
+10,0.9069999694824219,0.5890000152587891,Derrick Köhn,LeftFoot,MissedShots,Union Berlin,FC Heidenheim,Oliver Burke,0.08619465678930283
+16,0.9290000152587891,0.519000015258789,Danilho Doekhi,OtherBodyPart,MissedShots,Union Berlin,FC Heidenheim,Christopher Trimmel,0.05206330493092537
+28,0.7630000305175781,0.7030000305175781,Derrick Köhn,LeftFoot,BlockedShot,Union Berlin,FC Heidenheim,Rani Khedira,0.017391245812177658
+40,0.9259999847412109,0.47900001525878905,Diogo Leite,Head,MissedShots,Union Berlin,FC Heidenheim,Christopher Trimmel,0.055690132081508636
+41,0.855999984741211,0.34599998474121096,Aljoscha Kemlein,RightFoot,SavedShot,Union Berlin,FC Heidenheim,Oliver Burke,0.06194130331277847
+42,0.8969999694824219,0.41700000762939454,Rani Khedira,RightFoot,Goal,Union Berlin,FC Heidenheim,Ilyas Ansah,0.41278618574142456
+67,0.9430000305175781,0.5279999923706055,Danilho Doekhi,Head,MissedShots,Union Berlin,FC Heidenheim,Christopher Trimmel,0.07444638013839722
+69,0.855,0.595,Rani Khedira,RightFoot,BlockedShot,Union Berlin,FC Heidenheim,Ilyas Ansah,0.10827019065618515
+84,0.9330000305175781,0.6790000152587891,Tom Rothe,LeftFoot,MissedShots,Union Berlin,FC Heidenheim,Ilyas Ansah,0.07413974404335022
+0,0.7269999694824218,0.5640000152587891,Woo-Yeong Jeong,RightFoot,MissedShots,Wolfsburg,Union Berlin,Leopold Querfeld,0.013978326693177223
+22,0.8190000152587891,0.5209999847412109,Andras Schafer,RightFoot,MissedShots,Wolfsburg,Union Berlin,Leopold Querfeld,0.0452699214220047
+27,0.7819999694824219,0.6129999923706054,Ilyas Ansah,LeftFoot,MissedShots,Wolfsburg,Union Berlin,Leopold Querfeld,0.03157057240605354
+31,0.924000015258789,0.53,Woo-Yeong Jeong,RightFoot,MissedShots,Wolfsburg,Union Berlin,Derrick Köhn,0.31038716435432434
+38,0.8859999847412109,0.4420000076293945,Leopold Querfeld,Head,SavedShot,Wolfsburg,Union Berlin,Derrick Köhn,0.054624006152153015
+38,0.9230000305175782,0.4809999847412109,Leopold Querfeld,Head,ShotOnPost,Wolfsburg,Union Berlin,Christopher Trimmel,0.05417774245142937
+45,0.9430000305175781,0.5970000076293945,Andras Schafer,Head,MissedShots,Wolfsburg,Union Berlin,Christopher Trimmel,0.08497755974531174
+47,0.9269999694824219,0.534000015258789,Janik Haberer,Head,SavedShot,Wolfsburg,Union Berlin,,0.06982877105474472
+58,0.830999984741211,0.6170000076293946,Derrick Köhn,LeftFoot,MissedShots,Wolfsburg,Union Berlin,,0.037136971950531006
+58,0.7959999847412109,0.225,Christopher Trimmel,RightFoot,BlockedShot,Wolfsburg,Union Berlin,,0.01723918318748474
+67,0.875,0.6279999923706054,Stanley N&#039;Soki,LeftFoot,Goal,Wolfsburg,Union Berlin,,0.046322934329509735
+73,0.905,0.6320000076293946,Tom Rothe,RightFoot,SavedShot,Wolfsburg,Union Berlin,Janik Haberer,0.06978414952754974
+77,0.8719999694824219,0.47200000762939454,Andrej Ilic,Head,MissedShots,Wolfsburg,Union Berlin,Leopold Querfeld,0.029176579788327217
+80,0.895,0.6480000305175782,Oliver Burke,RightFoot,BlockedShot,Wolfsburg,Union Berlin,Tom Rothe,0.07692430913448334
+84,0.889000015258789,0.5359999847412109,Oliver Burke,Head,MissedShots,Wolfsburg,Union Berlin,Alex Kral,0.08330042660236359
+90,0.885,0.5,Leopold Querfeld,RightFoot,SavedShot,Wolfsburg,Union Berlin,,0.75777667760849
+91,0.885,0.39,Leopold Querfeld,RightFoot,BlockedShot,Wolfsburg,Union Berlin,Oliver Burke,0.07330659031867981
+93,0.8859999847412109,0.62,Danilho Doekhi,Head,MissedShots,Wolfsburg,Union Berlin,Janik Haberer,0.01645808108150959
+99,0.8480000305175781,0.45099998474121095,Oliver Burke,LeftFoot,MissedShots,Wolfsburg,Union Berlin,,0.05855849012732506
+101,0.9219999694824219,0.475,Leopold Querfeld,OtherBodyPart,SavedShot,Wolfsburg,Union Berlin,Janik Haberer,0.06508894264698029
+104,0.925,0.375,Ilyas Ansah,Head,MissedShots,Wolfsburg,Union Berlin,Janik Haberer,0.02406827174127102
+8,0.77,0.32599998474121095,Woo-Yeong Jeong,RightFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,Frederik Rönnow,0.018664758652448654
+13,0.805,0.4909999847412109,Oliver Burke,RightFoot,SavedShot,Union Berlin,RasenBallsport Leipzig,,0.03946442902088165
+25,0.8819999694824219,0.6120000076293945,Ilyas Ansah,Head,MissedShots,Union Berlin,RasenBallsport Leipzig,Rani Khedira,0.021713586524128914
+41,0.91,0.5359999847412109,Oliver Burke,LeftFoot,BlockedShot,Union Berlin,RasenBallsport Leipzig,Ilyas Ansah,0.15557385981082916
+41,0.9080000305175782,0.695,Diogo Leite,LeftFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,,0.08718050271272659
+43,0.769000015258789,0.549000015258789,Aljoscha Kemlein,LeftFoot,MissedShots,Union Berlin,RasenBallsport Leipzig,,0.01922531984746456
+45,0.9359999847412109,0.44,Janik Haberer,Head,MissedShots,Union Berlin,RasenBallsport Leipzig,Derrick Köhn,0.1276516318321228
+56,0.865999984741211,0.4109999847412109,Oliver Burke,LeftFoot,Goal,Union Berlin,RasenBallsport Leipzig,Woo-Yeong Jeong,0.09119182080030441
+62,0.9330000305175781,0.4879999923706055,Ilyas Ansah,Head,Goal,Union Berlin,RasenBallsport Leipzig,Christopher Trimmel,0.43095022439956665
+82,0.875,0.2560000038146973,Andras Schafer,RightFoot,SavedShot,Union Berlin,RasenBallsport Leipzig,,0.046187322586774826
+86,0.9080000305175782,0.27899999618530275,Tim Skarke,RightFoot,SavedShot,Union Berlin,RasenBallsport Leipzig,Christopher Trimmel,0.07026542723178864
+92,0.874000015258789,0.4420000076293945,Tim Skarke,RightFoot,Goal,Union Berlin,RasenBallsport Leipzig,Andrej Ilic,0.37190771102905273
+11,0.9309999847412109,0.629000015258789,Woo-Yeong Jeong,LeftFoot,MissedShots,FC Cologne,Union Berlin,,0.0759693905711174
+13,0.9030000305175782,0.535,Diogo Leite,Head,BlockedShot,FC Cologne,Union Berlin,Christopher Trimmel,0.03978492692112923
+29,0.754000015258789,0.6179999923706054,Ilyas Ansah,RightFoot,BlockedShot,FC Cologne,Union Berlin,Derrick Köhn,0.0199855025857687
+54,0.8130000305175781,0.48400001525878905,Oliver Burke,RightFoot,MissedShots,FC Cologne,Union Berlin,Danilho Doekhi,0.02044684626162052
+66,0.9069999694824219,0.5120000076293946,Leopold Querfeld,Head,SavedShot,FC Cologne,Union Berlin,Christopher Trimmel,0.08124320209026337
+67,0.9880000305175781,0.580999984741211,Aljoscha Kemlein,LeftFoot,MissedShots,FC Cologne,Union Berlin,,0.371870219707489
+84,0.9580000305175781,0.504000015258789,Diogo Leite,RightFoot,BlockedShot,FC Cologne,Union Berlin,Leopold Querfeld,0.11294417083263397
+84,0.9319999694824219,0.505,Livan Burcu,RightFoot,MissedShots,FC Cologne,Union Berlin,,0.5542941093444824
+87,0.8719999694824219,0.5320000076293945,Andras Schafer,RightFoot,BlockedShot,FC Cologne,Union Berlin,Tim Skarke,0.09285682439804077
+89,0.9019999694824219,0.45799999237060546,Rani Khedira,RightFoot,BlockedShot,FC Cologne,Union Berlin,Derrick Köhn,0.09743259102106094
+90,0.8090000152587891,0.5070000076293946,Andras Schafer,LeftFoot,Goal,FC Cologne,Union Berlin,,0.037279944866895676
