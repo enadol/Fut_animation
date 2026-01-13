@@ -177,3 +177,19 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 83,0.9109999847412109,0.4109999847412109,Maximilian Beier,Head,MissedShots,Borussia Dortmund,Borussia M.Gladbach,,0.04243631660938263
 88,0.855,0.5379999923706055,Maximilian Beier,RightFoot,SavedShot,Borussia Dortmund,Borussia M.Gladbach,Marcel Sabitzer,0.46007680892944336
 96,0.8569999694824219,0.5320000076293945,Maximilian Beier,LeftFoot,Goal,Borussia Dortmund,Borussia M.Gladbach,Fabio Silva,0.11171385645866394
+3,0.8530000305175781,0.4570000076293945,Felix Nmecha,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,,0.0709027647972107
+9,0.9069999694824219,0.4329999923706055,Maximilian Beier,LeftFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,Julian Ryerson,0.31736722588539124
+11,0.7630000305175781,0.5540000152587891,Serhou Guirassy,LeftFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Maximilian Beier,0.03455469012260437
+25,0.8690000152587891,0.5259999847412109,Julian Brandt,LeftFoot,SavedShot,Eintracht Frankfurt,Borussia Dortmund,,0.07501251995563507
+27,0.7680000305175781,0.47,Maximilian Beier,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,,0.02736043557524681
+39,0.9080000305175782,0.5109999847412109,Nico Schlotterbeck,Head,SavedShot,Eintracht Frankfurt,Borussia Dortmund,Julian Ryerson,0.11160385608673096
+46,0.865,0.33799999237060546,Julian Brandt,RightFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Niklas Süle,0.05984073877334595
+51,0.8880000305175781,0.5709999847412109,Daniel Svensson,LeftFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,,0.36815041303634644
+57,0.8869999694824219,0.3820000076293945,Marcel Sabitzer,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,Julian Ryerson,0.0884893611073494
+58,0.8530000305175781,0.4279999923706055,Julian Ryerson,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,Maximilian Beier,0.09129787981510162
+58,0.9230000305175782,0.5220000076293946,Waldemar Anton,Head,SavedShot,Eintracht Frankfurt,Borussia Dortmund,,0.06620226055383682
+67,0.7730000305175782,0.37799999237060544,Felix Nmecha,RightFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,,0.022545676678419113
+89,0.9580000305175781,0.4420000076293945,Nico Schlotterbeck,Head,ShotOnPost,Eintracht Frankfurt,Borussia Dortmund,Daniel Svensson,0.07184933125972748
+89,0.899000015258789,0.4929999923706055,Fabio Silva,RightFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,,0.12109404802322388
+94,0.9069999694824219,0.4879999923706055,Carney Chukwuemeka,Head,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Marcel Sabitzer,0.16580945253372192
+94,0.9590000152587891,0.4879999923706055,Carney Chukwuemeka,RightFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,,0.6148883700370789

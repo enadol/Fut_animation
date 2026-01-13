@@ -448,5 +448,35 @@
             "l": 0.045069936689044195
         },
         "result": "w"
+    },
+    {
+        "id": "30362",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.66426",
+            "a": "2.29827"
+        },
+        "datetime": "2026-01-09 19:30:00",
+        "forecast": {
+            "w": 0.27919660616582204,
+            "d": 0.1991209109889139,
+            "l": 0.521682458902056
+        },
+        "result": "d"
     }
 ]
