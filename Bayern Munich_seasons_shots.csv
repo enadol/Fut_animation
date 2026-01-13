@@ -1,5 +1,7 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 42,0.049000000953674315,0.44299999237060544,Loic Bade,RightFoot,OwnGoal,Bayern Munich,Bayer Leverkusen,,0
+4,0.03,0.47200000762939454,Kilian Fischer,RightFoot,OwnGoal,Bayern Munich,Wolfsburg,,0
+52,0.05400000095367432,0.47,Moritz Jenz,LeftFoot,OwnGoal,Bayern Munich,Wolfsburg,,0
 3,0.9409999847412109,0.24700000762939453,Michael Olise,RightFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Serge Gnabry,0.05909460783004761
 10,0.899000015258789,0.29399999618530276,Konrad Laimer,RightFoot,SavedShot,Bayern Munich,RasenBallsport Leipzig,Harry Kane,0.28661295771598816
 15,0.785,0.5579999923706055,Serge Gnabry,LeftFoot,BlockedShot,Bayern Munich,RasenBallsport Leipzig,Harry Kane,0.03585360199213028
@@ -297,3 +299,19 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 84,0.915,0.5659999847412109,Harry Kane,Head,SavedShot,FC Heidenheim,Bayern Munich,Dayotchanculle Upamecano,0.04174347221851349
 85,0.960999984741211,0.5,Luis Díaz,Head,Goal,FC Heidenheim,Bayern Munich,Josip Stanisic,0.6617282629013062
 91,0.8859999847412109,0.455,Harry Kane,RightFoot,Goal,FC Heidenheim,Bayern Munich,Serge Gnabry,0.4981572926044464
+8,0.740999984741211,0.7240000152587891,Tom Bischof,RightFoot,BlockedShot,Bayern Munich,Wolfsburg,Josip Stanisic,0.016405358910560608
+9,0.8830000305175781,0.55,Luis Díaz,LeftFoot,MissedShots,Bayern Munich,Wolfsburg,Michael Olise,0.3126966655254364
+29,0.9540000152587891,0.514000015258789,Luis Díaz,Head,Goal,Bayern Munich,Wolfsburg,Michael Olise,0.5945236682891846
+38,0.86,0.38,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Wolfsburg,Michael Olise,0.10419487953186035
+46,0.8180000305175781,0.6229999923706054,Tom Bischof,LeftFoot,MissedShots,Bayern Munich,Wolfsburg,Jonathan Tah,0.030455991625785828
+47,0.884000015258789,0.35200000762939454,Michael Olise,RightFoot,SavedShot,Bayern Munich,Wolfsburg,Harry Kane,0.12493153661489487
+49,0.835999984741211,0.37,Michael Olise,LeftFoot,Goal,Bayern Munich,Wolfsburg,Konrad Laimer,0.09268278628587723
+59,0.9369999694824219,0.47400001525878904,Harry Kane,RightFoot,SavedShot,Bayern Munich,Wolfsburg,Michael Olise,0.7613726854324341
+63,0.9019999694824219,0.34,Michael Olise,LeftFoot,ShotOnPost,Bayern Munich,Wolfsburg,Luis Díaz,0.09594742953777313
+67,0.9269999694824219,0.47200000762939454,Raphael Guerreiro,LeftFoot,Goal,Bayern Munich,Wolfsburg,Harry Kane,0.5684327483177185
+68,0.8380000305175781,0.6940000152587891,Harry Kane,RightFoot,Goal,Bayern Munich,Wolfsburg,Luis Díaz,0.055636707693338394
+71,0.9480000305175781,0.26399999618530273,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Wolfsburg,Tom Bischof,0.06470659375190735
+75,0.9169999694824219,0.3679999923706055,Michael Olise,RightFoot,Goal,Bayern Munich,Wolfsburg,Luis Díaz,0.46086549758911133
+78,0.7830000305175782,0.6919999694824219,Konrad Laimer,RightFoot,MissedShots,Bayern Munich,Wolfsburg,Tom Bischof,0.02476010099053383
+87,0.9519999694824218,0.34400001525878904,Leon Goretzka,RightFoot,Goal,Bayern Munich,Wolfsburg,Jonathan Tah,0.1302683800458908
+92,0.9330000305175781,0.5020000076293946,Hiroki Ito,Head,MissedShots,Bayern Munich,Wolfsburg,Felipe Chávez,0.11142665147781372
