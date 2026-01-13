@@ -233,3 +233,13 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 70,0.8540000152587891,0.34599998474121096,Nikolas Nartey,RightFoot,MissedShots,VfB Stuttgart,Hoffenheim,,0.050858911126852036
 72,0.9059999847412109,0.41900001525878905,Deniz Undav,Head,MissedShots,VfB Stuttgart,Hoffenheim,Jamie Leweling,0.2351941615343094
 89,0.909000015258789,0.39,Nikolas Nartey,Head,SavedShot,VfB Stuttgart,Hoffenheim,Maximilian Mittelstädt,0.02640906721353531
+1,0.955,0.4620000076293945,Joshua Vagnoman,Head,SavedShot,Bayer Leverkusen,VfB Stuttgart,Chris Führich,0.5130237936973572
+6,0.9180000305175782,0.585,Jamie Leweling,RightFoot,Goal,Bayer Leverkusen,VfB Stuttgart,Deniz Undav,0.6269133687019348
+12,0.9480000305175781,0.5259999847412109,Joshua Vagnoman,Head,SavedShot,Bayer Leverkusen,VfB Stuttgart,Nikolas Nartey,0.1304078996181488
+13,0.85,0.5379999923706055,Deniz Undav,LeftFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,,0.11956202983856201
+28,0.885,0.5,Maximilian Mittelstädt,LeftFoot,Goal,Bayer Leverkusen,VfB Stuttgart,,0.75777667760849
+30,0.7559999847412109,0.54,Deniz Undav,RightFoot,SavedShot,Bayer Leverkusen,VfB Stuttgart,Angelo Stiller,0.031340938061475754
+44,0.8030000305175782,0.3659999847412109,Jamie Leweling,LeftFoot,Goal,Bayer Leverkusen,VfB Stuttgart,Deniz Undav,0.049273665994405746
+46,0.87,0.46599998474121096,Deniz Undav,RightFoot,Goal,Bayer Leverkusen,VfB Stuttgart,Chris Führich,0.3299027979373932
+48,0.8019999694824219,0.4829999923706055,Angelo Stiller,LeftFoot,BlockedShot,Bayer Leverkusen,VfB Stuttgart,Jamie Leweling,0.0614393949508667
+54,0.805,0.5229999923706055,Deniz Undav,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Maximilian Mittelstädt,0.06857606023550034

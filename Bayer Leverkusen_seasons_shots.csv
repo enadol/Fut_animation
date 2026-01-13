@@ -218,3 +218,19 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 93,0.855999984741211,0.6270000076293946,Christian Kofane,RightFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,Ezequiél Fernández,0.08084181696176529
 93,0.9019999694824219,0.5890000152587891,Christian Kofane,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,,0.3482297956943512
 96,0.9080000305175782,0.425,Montrell Culbreath,RightFoot,Goal,RasenBallsport Leipzig,Bayer Leverkusen,,0.5845470428466797
+16,0.8780000305175781,0.5420000076293945,Malik Tillman,Head,MissedShots,Bayer Leverkusen,VfB Stuttgart,Arthur,0.04374226927757263
+30,0.8540000152587891,0.4909999847412109,Ezequiél Fernández,RightFoot,SavedShot,Bayer Leverkusen,VfB Stuttgart,Malik Tillman,0.08831394463777542
+32,0.7709999847412109,0.5640000152587891,Nathan Tella,RightFoot,BlockedShot,Bayer Leverkusen,VfB Stuttgart,,0.02900250069797039
+37,0.914000015258789,0.590999984741211,Martin Terrier,LeftFoot,SavedShot,Bayer Leverkusen,VfB Stuttgart,,0.07312317192554474
+39,0.7959999847412109,0.37599998474121094,Arthur,LeftFoot,BlockedShot,Bayer Leverkusen,VfB Stuttgart,Nathan Tella,0.02063382789492607
+48,0.93,0.415,Martin Terrier,Head,MissedShots,Bayer Leverkusen,VfB Stuttgart,Jarell Quansah,0.22039954364299774
+48,0.905,0.6580000305175782,Malik Tillman,LeftFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,,0.05259272828698158
+45,0.8590000152587891,0.664000015258789,Álex Grimaldo,LeftFoot,BlockedShot,Bayer Leverkusen,VfB Stuttgart,,0.040293753147125244
+51,0.7119999694824218,0.495,Álex Grimaldo,LeftFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Robert Andrich,0.011822919361293316
+53,0.8619999694824219,0.4209999847412109,Martin Terrier,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Ernest Poku,0.11232806742191315
+55,0.8009999847412109,0.42400001525878905,Ernest Poku,RightFoot,BlockedShot,Bayer Leverkusen,VfB Stuttgart,Malik Tillman,0.04587894678115845
+57,0.8440000152587891,0.6519999694824219,Ernest Poku,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Ezequiél Fernández,0.09139025956392288
+62,0.909000015258789,0.37200000762939456,Álex Grimaldo,LeftFoot,SavedShot,Bayer Leverkusen,VfB Stuttgart,Martin Terrier,0.2862537205219269
+65,0.885,0.5,Álex Grimaldo,LeftFoot,Goal,Bayer Leverkusen,VfB Stuttgart,,0.75777667760849
+87,0.7530000305175781,0.44400001525878907,Aleix García,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Arthur,0.019347021356225014
+89,0.805,0.5170000076293946,Arthur,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,,0.09028532356023788

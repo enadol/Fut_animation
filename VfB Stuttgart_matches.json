@@ -448,5 +448,35 @@
             "l": 0.03691755719525186
         },
         "result": "d"
+    },
+    {
+        "id": "30359",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "1",
+            "a": "4"
+        },
+        "xG": {
+            "h": "1.98318",
+            "a": "2.68822"
+        },
+        "datetime": "2026-01-10 17:30:00",
+        "forecast": {
+            "w": 0.28451658616212194,
+            "d": 0.1815372934699923,
+            "l": 0.5339459443657729
+        },
+        "result": "w"
     }
 ]
