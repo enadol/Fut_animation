@@ -478,5 +478,35 @@
             "l": 0.521682458902056
         },
         "result": "d"
+    },
+    {
+        "id": "30369",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.31769",
+            "a": "0.39948"
+        },
+        "datetime": "2026-01-13 19:30:00",
+        "forecast": {
+            "w": 0.8083581562278374,
+            "d": 0.14292731784465035,
+            "l": 0.04871449962321358
+        },
+        "result": "w"
     }
 ]

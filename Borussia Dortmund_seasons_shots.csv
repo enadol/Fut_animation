@@ -193,3 +193,21 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 89,0.899000015258789,0.4929999923706055,Fabio Silva,RightFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,,0.12109404802322388
 94,0.9069999694824219,0.4879999923706055,Carney Chukwuemeka,Head,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Marcel Sabitzer,0.16580945253372192
 94,0.9590000152587891,0.4879999923706055,Carney Chukwuemeka,RightFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,,0.6148883700370789
+0,0.7519999694824219,0.515,Maximilian Beier,RightFoot,MissedShots,Borussia Dortmund,Werder Bremen,Fabio Silva,0.02036108262836933
+2,0.874000015258789,0.34799999237060547,Fabio Silva,RightFoot,BlockedShot,Borussia Dortmund,Werder Bremen,Felix Nmecha,0.06881025433540344
+10,0.9730000305175781,0.49,Nico Schlotterbeck,Head,Goal,Borussia Dortmund,Werder Bremen,Julian Ryerson,0.5902917385101318
+31,0.874000015258789,0.6880000305175781,Carney Chukwuemeka,RightFoot,MissedShots,Borussia Dortmund,Werder Bremen,Fabio Silva,0.06883126497268677
+36,0.72,0.49400001525878906,Marcel Sabitzer,RightFoot,SavedShot,Borussia Dortmund,Werder Bremen,Felix Nmecha,0.020925527438521385
+51,0.8869999694824219,0.3110000038146973,Carney Chukwuemeka,RightFoot,BlockedShot,Borussia Dortmund,Werder Bremen,Fabio Silva,0.08849900215864182
+54,0.870999984741211,0.35400001525878905,Maximilian Beier,RightFoot,SavedShot,Borussia Dortmund,Werder Bremen,Fabio Silva,0.10183302313089371
+54,0.945,0.3509999847412109,Maximilian Beier,RightFoot,BlockedShot,Borussia Dortmund,Werder Bremen,,0.38936522603034973
+54,0.9890000152587891,0.6020000076293945,Fabio Silva,Head,BlockedShot,Borussia Dortmund,Werder Bremen,,0.017021862789988518
+65,0.8159999847412109,0.47900001525878905,Marcel Sabitzer,RightFoot,MissedShots,Borussia Dortmund,Werder Bremen,Maximilian Beier,0.06613042950630188
+74,0.840999984741211,0.500999984741211,Marcel Sabitzer,RightFoot,Goal,Borussia Dortmund,Werder Bremen,Felix Nmecha,0.10170888155698776
+76,0.93,0.6719999694824219,Waldemar Anton,Head,MissedShots,Borussia Dortmund,Werder Bremen,Nico Schlotterbeck,0.01182684488594532
+79,0.879000015258789,0.5020000076293946,Fabio Silva,Head,MissedShots,Borussia Dortmund,Werder Bremen,Marcel Sabitzer,0.05240876227617264
+82,0.8490000152587891,0.519000015258789,Serhou Guirassy,RightFoot,Goal,Borussia Dortmund,Werder Bremen,,0.4066663384437561
+86,0.7709999847412109,0.6580000305175782,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,Werder Bremen,,0.05885515362024307
+89,0.8680000305175781,0.6370000076293946,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,Werder Bremen,,0.07023482024669647
+89,0.894000015258789,0.3609999847412109,Yan Couto,LeftFoot,SavedShot,Borussia Dortmund,Werder Bremen,Serhou Guirassy,0.115179643034935
+92,0.875999984741211,0.625999984741211,Serhou Guirassy,LeftFoot,SavedShot,Borussia Dortmund,Werder Bremen,Nico Schlotterbeck,0.11607752740383148
