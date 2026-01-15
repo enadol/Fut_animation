@@ -448,5 +448,35 @@
             "l": 0.5451724286472764
         },
         "result": "l"
+    },
+    {
+        "id": "30374",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.80289",
+            "a": "0.147682"
+        },
+        "datetime": "2026-01-14 19:30:00",
+        "forecast": {
+            "w": 0.9135666335344972,
+            "d": 0.07630919844189248,
+            "l": 0.010123877716912859
+        },
+        "result": "w"
     }
 ]

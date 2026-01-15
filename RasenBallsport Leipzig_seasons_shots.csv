@@ -245,3 +245,24 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 75,0.805,0.485,Andrija Maksimovic,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayer Leverkusen,David Raum,0.040428511798381805
 81,0.8590000152587891,0.32299999237060545,Xaver Schlager,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,Bote Baku,0.04754505679011345
 94,0.9269999694824219,0.48700000762939455,Willi Orban,Head,SavedShot,RasenBallsport Leipzig,Bayer Leverkusen,Christoph Baumgartner,0.1096368134021759
+5,0.889000015258789,0.5640000152587891,Rômulo,RightFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Christoph Baumgartner,0.11554736644029617
+30,0.9290000152587891,0.5679999923706055,Nicolas Seiwald,LeftFoot,SavedShot,RasenBallsport Leipzig,Freiburg,Rômulo,0.48972105979919434
+34,0.9359999847412109,0.40299999237060546,Willi Orban,Head,MissedShots,RasenBallsport Leipzig,Freiburg,David Raum,0.018992284312844276
+38,0.8640000152587891,0.6819999694824219,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,Freiburg,Rômulo,0.045408230274915695
+40,0.7730000305175782,0.5620000076293945,Nicolas Seiwald,RightFoot,SavedShot,RasenBallsport Leipzig,Freiburg,Willi Orban,0.03022109344601631
+52,0.9519999694824218,0.47200000762939454,Willi Orban,Head,Goal,RasenBallsport Leipzig,Freiburg,David Raum,0.5049176216125488
+54,0.9230000305175782,0.3129999923706055,Tidiam Gomis,RightFoot,SavedShot,RasenBallsport Leipzig,Freiburg,Christoph Baumgartner,0.10381823033094406
+55,0.93,0.47,Christoph Baumgartner,OtherBodyPart,SavedShot,RasenBallsport Leipzig,Freiburg,David Raum,0.07960467785596848
+55,0.9640000152587891,0.53,Rômulo,Head,Goal,RasenBallsport Leipzig,Freiburg,,0.5156204700469971
+58,0.924000015258789,0.35200000762939454,Xaver Schlager,RightFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Bote Baku,0.11640821397304535
+66,0.884000015258789,0.585,Christoph Baumgartner,RightFoot,ShotOnPost,RasenBallsport Leipzig,Freiburg,Antonio Nusa,0.13158367574214935
+66,0.9590000152587891,0.40900001525878904,Christoph Baumgartner,RightFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Yan Diomande,0.14414893090724945
+68,0.87,0.7240000152587891,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Freiburg,David Raum,0.06125039979815483
+72,0.9790000152587891,0.3970000076293945,Nicolas Seiwald,Head,SavedShot,RasenBallsport Leipzig,Freiburg,Bote Baku,0.013768651522696018
+74,0.870999984741211,0.7240000152587891,Antonio Nusa,RightFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,David Raum,0.05404990538954735
+77,0.7469999694824219,0.615999984741211,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Freiburg,,0.05781984329223633
+79,0.9640000152587891,0.715,Antonio Nusa,LeftFoot,ShotOnPost,RasenBallsport Leipzig,Freiburg,Yan Diomande,0.0719030573964119
+80,0.845,0.5070000076293946,Bote Baku,LeftFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,,0.08453532308340073
+81,0.845999984741211,0.5109999847412109,Xaver Schlager,RightFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Yan Diomande,0.053829289972782135
+81,0.85,0.48900001525878906,Conrad Harder,LeftFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,,0.07221853733062744
+92,0.8919999694824219,0.6769999694824219,Ezechiel Banzuzi,LeftFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Conrad Harder,0.08245810121297836

@@ -315,3 +315,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 78,0.7830000305175782,0.6919999694824219,Konrad Laimer,RightFoot,MissedShots,Bayern Munich,Wolfsburg,Tom Bischof,0.02476010099053383
 87,0.9519999694824218,0.34400001525878904,Leon Goretzka,RightFoot,Goal,Bayern Munich,Wolfsburg,Jonathan Tah,0.1302683800458908
 92,0.9330000305175781,0.5020000076293946,Hiroki Ito,Head,MissedShots,Bayern Munich,Wolfsburg,Felipe Chávez,0.11142665147781372
+20,0.9119999694824219,0.6790000152587891,Hiroki Ito,LeftFoot,SavedShot,FC Cologne,Bayern Munich,Luis Díaz,0.48708489537239075
+23,0.8580000305175781,0.36400001525878906,Michael Olise,RightFoot,SavedShot,FC Cologne,Bayern Munich,Harry Kane,0.06410698592662811
+23,0.9640000152587891,0.335,Harry Kane,LeftFoot,MissedShots,FC Cologne,Bayern Munich,,0.2763379216194153
+24,0.9109999847412109,0.765,Harry Kane,LeftFoot,BlockedShot,FC Cologne,Bayern Munich,Leon Goretzka,0.03061930648982525
+33,0.7290000152587891,0.725999984741211,Serge Gnabry,RightFoot,SavedShot,FC Cologne,Bayern Munich,Aleksandar Pavlovic,0.012482188642024994
+34,0.875,0.7519999694824219,Luis Díaz,RightFoot,MissedShots,FC Cologne,Bayern Munich,Hiroki Ito,0.029174547642469406
+38,0.7580000305175781,0.5790000152587891,Harry Kane,LeftFoot,BlockedShot,FC Cologne,Bayern Munich,Michael Olise,0.02447693794965744
+43,0.9209999847412109,0.7080000305175781,Luis Díaz,RightFoot,MissedShots,FC Cologne,Bayern Munich,,0.055099792778491974
+47,0.8169999694824219,0.4829999923706055,Leon Goretzka,RightFoot,MissedShots,FC Cologne,Bayern Munich,,0.04847663268446922
+49,0.9669999694824218,0.36200000762939455,Serge Gnabry,RightFoot,Goal,FC Cologne,Bayern Munich,Michael Olise,0.07231078296899796
+47,0.805,0.7019999694824218,Michael Olise,LeftFoot,SavedShot,FC Cologne,Bayern Munich,,0.07416795194149017
+54,0.9390000152587891,0.6959999847412109,Serge Gnabry,RightFoot,SavedShot,FC Cologne,Bayern Munich,,0.052974507212638855
+63,0.95,0.7090000152587891,Luis Díaz,LeftFoot,MissedShots,FC Cologne,Bayern Munich,Serge Gnabry,0.05569202080368996
+65,0.8240000152587891,0.43,Leon Goretzka,RightFoot,MissedShots,FC Cologne,Bayern Munich,Serge Gnabry,0.055568721145391464
+68,0.9540000152587891,0.674000015258789,Michael Olise,LeftFoot,BlockedShot,FC Cologne,Bayern Munich,Luis Díaz,0.07526476681232452
+69,0.8530000305175781,0.6830000305175781,Hiroki Ito,LeftFoot,MissedShots,FC Cologne,Bayern Munich,,0.0422932431101799
+70,0.9580000305175781,0.46599998474121096,Kim Min-Jae,Head,Goal,FC Cologne,Bayern Munich,Hiroki Ito,0.4836062490940094
+82,0.9640000152587891,0.41200000762939454,Leon Goretzka,Head,MissedShots,FC Cologne,Bayern Munich,Tom Bischof,0.08314253389835358
+83,0.9030000305175782,0.33099998474121095,Lennart Karl,LeftFoot,Goal,FC Cologne,Bayern Munich,Luis Díaz,0.1111844927072525
