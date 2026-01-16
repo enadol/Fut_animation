@@ -190,3 +190,21 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 19,0.7440000152587891,0.524000015258789,Bernardo,LeftFoot,BlockedShot,VfB Stuttgart,Hoffenheim,,0.013686608523130417
 58,0.794000015258789,0.40599998474121096,Albian Hajdari,RightFoot,SavedShot,VfB Stuttgart,Hoffenheim,Fisnik Asllani,0.03471193090081215
 64,0.7669999694824219,0.580999984741211,Bernardo,LeftFoot,MissedShots,VfB Stuttgart,Hoffenheim,,0.017240583896636963
+2,0.7680000305175781,0.6329999923706054,Fisnik Asllani,RightFoot,BlockedShot,Hoffenheim,Borussia M.Gladbach,Tim Lemperle,0.023130884394049644
+3,0.960999984741211,0.56,Ozan Kabak,Head,ShotOnPost,Hoffenheim,Borussia M.Gladbach,Wouter Burger,0.06977974623441696
+6,0.899000015258789,0.715,Andrej Kramaric,LeftFoot,SavedShot,Hoffenheim,Borussia M.Gladbach,,0.30656003952026367
+7,0.715999984741211,0.529000015258789,Leon Avdullahu,RightFoot,MissedShots,Hoffenheim,Borussia M.Gladbach,Wouter Burger,0.020980104804039
+21,0.885,0.5,Andrej Kramaric,RightFoot,Goal,Hoffenheim,Borussia M.Gladbach,,0.75777667760849
+23,0.860999984741211,0.42700000762939455,Tim Lemperle,RightFoot,Goal,Hoffenheim,Borussia M.Gladbach,Fisnik Asllani,0.3577611446380615
+26,0.7319999694824219,0.52,Andrej Kramaric,LeftFoot,SavedShot,Hoffenheim,Borussia M.Gladbach,Vladimir Coufal,0.02858257107436657
+31,0.784000015258789,0.385,Vladimir Coufal,RightFoot,MissedShots,Hoffenheim,Borussia M.Gladbach,Andrej Kramaric,0.028708016499876976
+45,0.93,0.5420000076293945,Andrej Kramaric,RightFoot,Goal,Hoffenheim,Borussia M.Gladbach,,0.5875943303108215
+48,0.904000015258789,0.3220000076293945,Andrej Kramaric,RightFoot,Goal,Hoffenheim,Borussia M.Gladbach,Tim Lemperle,0.13465604186058044
+47,0.7909999847412109,0.759000015258789,Vladimir Coufal,RightFoot,MissedShots,Hoffenheim,Borussia M.Gladbach,,0.050610437989234924
+50,0.914000015258789,0.46599998474121096,Alexander Prass,RightFoot,SavedShot,Hoffenheim,Borussia M.Gladbach,Vladimir Coufal,0.13740310072898865
+56,0.965999984741211,0.639000015258789,Andrej Kramaric,RightFoot,SavedShot,Hoffenheim,Borussia M.Gladbach,,0.3952878713607788
+65,0.9269999694824219,0.5029999923706054,Andrej Kramaric,Head,MissedShots,Hoffenheim,Borussia M.Gladbach,Bazoumana Touré,0.44180089235305786
+65,0.87,0.46900001525878904,Tim Lemperle,Head,MissedShots,Hoffenheim,Borussia M.Gladbach,Vladimir Coufal,0.012972713448107243
+76,0.9480000305175781,0.51,Max Moerstedt,Head,Goal,Hoffenheim,Borussia M.Gladbach,Valentin Gendrey,0.5777694582939148
+87,0.924000015258789,0.6129999923706054,Grischa Prömel,LeftFoot,SavedShot,Hoffenheim,Borussia M.Gladbach,Muhammed Damar,0.3271734416484833
+89,0.850999984741211,0.4640000152587891,Bazoumana Touré,LeftFoot,MissedShots,Hoffenheim,Borussia M.Gladbach,Valentin Gendrey,0.1191495731472969

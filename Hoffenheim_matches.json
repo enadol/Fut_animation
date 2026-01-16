@@ -448,5 +448,35 @@
             "l": 0.03691755719525186
         },
         "result": "d"
+    },
+    {
+        "id": "30372",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "5",
+            "a": "1"
+        },
+        "xG": {
+            "h": "4.3777",
+            "a": "0.83294"
+        },
+        "datetime": "2026-01-14 19:30:00",
+        "forecast": {
+            "w": 0.9204081669265836,
+            "d": 0.05280044816060181,
+            "l": 0.026736871314772447
+        },
+        "result": "w"
     }
 ]
