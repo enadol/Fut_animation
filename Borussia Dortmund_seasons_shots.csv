@@ -211,3 +211,13 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 89,0.8680000305175781,0.6370000076293946,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,Werder Bremen,,0.07023482024669647
 89,0.894000015258789,0.3609999847412109,Yan Couto,LeftFoot,SavedShot,Borussia Dortmund,Werder Bremen,Serhou Guirassy,0.115179643034935
 92,0.875999984741211,0.625999984741211,Serhou Guirassy,LeftFoot,SavedShot,Borussia Dortmund,Werder Bremen,Nico Schlotterbeck,0.11607752740383148
+12,0.884000015258789,0.5520000076293945,Julian Brandt,RightFoot,BlockedShot,Borussia Dortmund,St. Pauli,,0.40033745765686035
+25,0.8109999847412109,0.47299999237060547,Julian Brandt,RightFoot,MissedShots,Borussia Dortmund,St. Pauli,,0.15319229662418365
+38,0.9319999694824219,0.44400001525878907,Nico Schlotterbeck,Head,MissedShots,Borussia Dortmund,St. Pauli,Julian Ryerson,0.10171157866716385
+45,0.9419999694824219,0.5359999847412109,Julian Brandt,LeftFoot,Goal,Borussia Dortmund,St. Pauli,Karim Adeyemi,0.4871618449687958
+53,0.8540000152587891,0.5929999923706055,Karim Adeyemi,RightFoot,Goal,Borussia Dortmund,St. Pauli,Fabio Silva,0.3510400950908661
+79,0.7440000152587891,0.34299999237060547,Serhou Guirassy,LeftFoot,BlockedShot,Borussia Dortmund,St. Pauli,Yan Couto,0.01709892600774765
+80,0.9740000152587891,0.4620000076293945,Waldemar Anton,Head,SavedShot,Borussia Dortmund,St. Pauli,Daniel Svensson,0.14105989038944244
+80,0.9619999694824218,0.44299999237060544,Nico Schlotterbeck,LeftFoot,SavedShot,Borussia Dortmund,St. Pauli,,0.11737703531980515
+83,0.735999984741211,0.3840000152587891,Serhou Guirassy,RightFoot,MissedShots,Borussia Dortmund,St. Pauli,Yan Couto,0.020948853343725204
+94,0.885,0.5,Emre Can,RightFoot,Goal,Borussia Dortmund,St. Pauli,,0.75777667760849

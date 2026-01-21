@@ -478,5 +478,65 @@
             "l": 0.5339459443657729
         },
         "result": "w"
+    },
+    {
+        "id": "30375",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.54461",
+            "a": "0.896468"
+        },
+        "datetime": "2026-01-13 17:30:00",
+        "forecast": {
+            "w": 0.8532583808674004,
+            "d": 0.09184855630034774,
+            "l": 0.05488811455413362
+        },
+        "result": "w"
+    },
+    {
+        "id": "30383",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.1978",
+            "a": "1.88763"
+        },
+        "datetime": "2026-01-18 14:30:00",
+        "forecast": {
+            "w": 0.45778634322094913,
+            "d": 0.2025505775594815,
+            "l": 0.33966306415934455
+        },
+        "result": "d"
     }
 ]

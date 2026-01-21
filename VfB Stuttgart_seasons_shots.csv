@@ -243,3 +243,36 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 46,0.87,0.46599998474121096,Deniz Undav,RightFoot,Goal,Bayer Leverkusen,VfB Stuttgart,Chris Führich,0.3299027979373932
 48,0.8019999694824219,0.4829999923706055,Angelo Stiller,LeftFoot,BlockedShot,Bayer Leverkusen,VfB Stuttgart,Jamie Leweling,0.0614393949508667
 54,0.805,0.5229999923706055,Deniz Undav,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Maximilian Mittelstädt,0.06857606023550034
+26,0.88,0.49599998474121093,Ermedin Demirovic,RightFoot,Goal,VfB Stuttgart,Eintracht Frankfurt,,0.4102061688899994
+30,0.8780000305175781,0.35400001525878905,Jamie Leweling,LeftFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Ermedin Demirovic,0.08813678473234177
+32,0.7969999694824219,0.5209999847412109,Chris Führich,RightFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,,0.018210439011454582
+33,0.7340000152587891,0.40200000762939453,Maximilian Mittelstädt,LeftFoot,MissedShots,VfB Stuttgart,Eintracht Frankfurt,,0.01484140194952488
+34,0.8930000305175781,0.36,Deniz Undav,LeftFoot,Goal,VfB Stuttgart,Eintracht Frankfurt,Joshua Vagnoman,0.09801869094371796
+36,0.7290000152587891,0.6959999847412109,Angelo Stiller,LeftFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,,0.016455836594104767
+36,0.8619999694824219,0.4590000152587891,Deniz Undav,Head,SavedShot,VfB Stuttgart,Eintracht Frankfurt,,0.026348933577537537
+38,0.9519999694824218,0.3060000038146973,Joshua Vagnoman,RightFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Deniz Undav,0.2879769504070282
+42,0.8330000305175781,0.509000015258789,Jamie Leweling,LeftFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,Deniz Undav,0.09256404638290405
+46,0.740999984741211,0.31799999237060544,Jamie Leweling,LeftFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Joshua Vagnoman,0.024525178596377373
+49,0.8880000305175781,0.6179999923706054,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,Jamie Leweling,0.10955625772476196
+56,0.879000015258789,0.6419999694824219,Chris Führich,RightFoot,MissedShots,VfB Stuttgart,Eintracht Frankfurt,Deniz Undav,0.07748229056596756
+59,0.909000015258789,0.6730000305175782,Deniz Undav,LeftFoot,MissedShots,VfB Stuttgart,Eintracht Frankfurt,Maximilian Mittelstädt,0.2086338996887207
+63,0.899000015258789,0.51,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Chris Führich,0.4360809624195099
+64,0.9569999694824218,0.4809999847412109,Julian Chabot,Head,MissedShots,VfB Stuttgart,Eintracht Frankfurt,Chris Führich,0.49185746908187866
+70,0.8959999847412109,0.6909999847412109,Chris Führich,RightFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,Deniz Undav,0.06025208532810211
+82,0.8780000305175781,0.40799999237060547,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Maximilian Mittelstädt,0.25525495409965515
+84,0.774000015258789,0.3079999923706055,Badredine Bouanani,LeftFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Nikolas Nartey,0.017574936151504517
+86,0.960999984741211,0.48400001525878905,Nikolas Nartey,LeftFoot,Goal,VfB Stuttgart,Eintracht Frankfurt,Joshua Vagnoman,0.7126155495643616
+89,0.8690000152587891,0.4520000076293945,Deniz Undav,LeftFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,Maximilian Mittelstädt,0.09801927208900452
+2,0.8730000305175781,0.55,Deniz Undav,Head,BlockedShot,VfB Stuttgart,Union Berlin,Chris Führich,0.015282935462892056
+4,0.815,0.73,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Nikolas Nartey,0.023320607841014862
+5,0.9219999694824219,0.385,Joshua Vagnoman,Head,MissedShots,VfB Stuttgart,Union Berlin,Maximilian Mittelstädt,0.04109981656074524
+6,0.9219999694824219,0.37400001525878906,Joshua Vagnoman,RightFoot,SavedShot,VfB Stuttgart,Union Berlin,Chris Führich,0.3423481285572052
+21,0.8419999694824218,0.27,Joshua Vagnoman,LeftFoot,MissedShots,VfB Stuttgart,Union Berlin,Jamie Leweling,0.04970292001962662
+25,0.7180000305175781,0.6379999923706055,Maximilian Mittelstädt,LeftFoot,MissedShots,VfB Stuttgart,Union Berlin,Angelo Stiller,0.010369857773184776
+36,0.8859999847412109,0.2979999923706055,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,Angelo Stiller,0.04518739879131317
+47,0.960999984741211,0.4829999923706055,Joshua Vagnoman,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Chris Führich,0.7001221776008606
+48,0.914000015258789,0.5870000076293945,Deniz Undav,LeftFoot,SavedShot,VfB Stuttgart,Union Berlin,Atakan Karazor,0.432826966047287
+58,0.8059999847412109,0.5829999923706055,Chris Führich,RightFoot,Goal,VfB Stuttgart,Union Berlin,Ramon Hendriks,0.047684669494628906
+78,0.855999984741211,0.3729999923706055,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,Joshua Vagnoman,0.08396680653095245
+79,0.9,0.6090000152587891,Angelo Stiller,LeftFoot,MissedShots,VfB Stuttgart,Union Berlin,Deniz Undav,0.3497912585735321
+86,0.745,0.38,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,,0.05609242618083954

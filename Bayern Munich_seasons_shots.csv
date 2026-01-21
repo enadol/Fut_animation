@@ -334,3 +334,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 70,0.9580000305175781,0.46599998474121096,Kim Min-Jae,Head,Goal,FC Cologne,Bayern Munich,Hiroki Ito,0.4836062490940094
 82,0.9640000152587891,0.41200000762939454,Leon Goretzka,Head,MissedShots,FC Cologne,Bayern Munich,Tom Bischof,0.08314253389835358
 83,0.9030000305175782,0.33099998474121095,Lennart Karl,LeftFoot,Goal,FC Cologne,Bayern Munich,Luis Díaz,0.1111844927072525
+9,0.8080000305175781,0.495,Lennart Karl,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,Serge Gnabry,0.05238933116197586
+10,0.764000015258789,0.565,Luis Díaz,RightFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Tom Bischof,0.027383677661418915
+21,0.8390000152587891,0.5770000076293945,Luis Díaz,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Harry Kane,0.5140624046325684
+39,0.9109999847412109,0.40400001525878904,Harry Kane,RightFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,,0.4086747467517853
+42,0.805,0.4640000152587891,Aleksandar Pavlovic,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,Lennart Karl,0.05547460541129112
+49,0.9259999847412109,0.34400001525878904,Serge Gnabry,RightFoot,Goal,RasenBallsport Leipzig,Bayern Munich,Dayotchanculle Upamecano,0.24058136343955994
+57,0.9569999694824218,0.5640000152587891,Michael Olise,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Luis Díaz,0.1444510519504547
+57,0.845999984741211,0.6320000076293946,Luis Díaz,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Harry Kane,0.06283938139677048
+58,0.970999984741211,0.509000015258789,Serge Gnabry,RightFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Joshua Kimmich,0.544853687286377
+60,0.96,0.4179999923706055,Harry Kane,RightFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Michael Olise,0.4893568754196167
+60,0.9369999694824219,0.425,Joshua Kimmich,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,,0.422500878572464
+66,0.9209999847412109,0.5479999923706055,Harry Kane,RightFoot,Goal,RasenBallsport Leipzig,Bayern Munich,Michael Olise,0.35424482822418213
+74,0.855999984741211,0.5259999847412109,Hiroki Ito,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,Joshua Kimmich,0.045615483075380325
+79,0.88,0.37,Michael Olise,LeftFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,,0.0841437429189682
+81,0.9269999694824219,0.4540000152587891,Serge Gnabry,LeftFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,,0.10727535933256149
+81,0.9590000152587891,0.44099998474121094,Jonathan Tah,Head,Goal,RasenBallsport Leipzig,Bayern Munich,Michael Olise,0.07172201573848724
+84,0.9669999694824218,0.5259999847412109,Aleksandar Pavlovic,LeftFoot,Goal,RasenBallsport Leipzig,Bayern Munich,Michael Olise,0.8229424357414246
+87,0.855999984741211,0.43,Michael Olise,LeftFoot,Goal,RasenBallsport Leipzig,Bayern Munich,Jamal Musiala,0.13686047494411469
+94,0.835999984741211,0.415,Harry Kane,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,,0.06688285619020462

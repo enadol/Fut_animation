@@ -508,5 +508,35 @@
             "l": 0.6984213866734071
         },
         "result": "w"
+    },
+    {
+        "id": "30382",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "1",
+            "a": "5"
+        },
+        "xG": {
+            "h": "2.86917",
+            "a": "4.65226"
+        },
+        "datetime": "2026-01-17 17:30:00",
+        "forecast": {
+            "w": 0.19931436433751498,
+            "d": 0.12132624496753389,
+            "l": 0.6792534812859947
+        },
+        "result": "w"
     }
 ]

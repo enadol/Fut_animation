@@ -208,3 +208,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 76,0.9480000305175781,0.51,Max Moerstedt,Head,Goal,Hoffenheim,Borussia M.Gladbach,Valentin Gendrey,0.5777694582939148
 87,0.924000015258789,0.6129999923706054,Grischa Prömel,LeftFoot,SavedShot,Hoffenheim,Borussia M.Gladbach,Muhammed Damar,0.3271734416484833
 89,0.850999984741211,0.4640000152587891,Bazoumana Touré,LeftFoot,MissedShots,Hoffenheim,Borussia M.Gladbach,Valentin Gendrey,0.1191495731472969
+8,0.8730000305175781,0.16399999618530273,Wouter Burger,LeftFoot,Goal,Hoffenheim,Bayer Leverkusen,,0.053028661757707596
+11,0.925,0.4620000076293945,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Wouter Burger,0.5164376497268677
+14,0.87,0.325,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Wouter Burger,0.10333056002855301
+35,0.8369999694824218,0.6279999923706054,Alexander Prass,LeftFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Tim Lemperle,0.09732946753501892
+37,0.789000015258789,0.3659999847412109,Tim Lemperle,RightFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,Leon Avdullahu,0.03801053389906883
+37,0.745,0.3659999847412109,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Leon Avdullahu,0.024538004770874977
+42,0.7090000152587891,0.39,Albian Hajdari,LeftFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Wouter Burger,0.017499297857284546
+43,0.774000015258789,0.51,Leon Avdullahu,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,,0.045457497239112854
+44,0.905,0.3840000152587891,Vladimir Coufal,Head,MissedShots,Hoffenheim,Bayer Leverkusen,Alexander Prass,0.02366788685321808
+49,0.8590000152587891,0.325,Wouter Burger,LeftFoot,SavedShot,Hoffenheim,Bayer Leverkusen,,0.06314131617546082
+51,0.8690000152587891,0.7,Tim Lemperle,RightFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,Alexander Prass,0.0396384596824646
+51,0.850999984741211,0.34900001525878904,Vladimir Coufal,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,,0.05664031580090523
+51,0.9109999847412109,0.6719999694824219,Alexander Prass,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,,0.2917823791503906
+60,0.9080000305175782,0.235,Tim Lemperle,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Wouter Burger,0.2870270907878876
+61,0.765,0.500999984741211,Tim Lemperle,RightFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,Fisnik Asllani,0.031449317932128906
+71,0.5459999847412109,0.5679999923706055,Alexander Prass,LeftFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Wouter Burger,0.01916474848985672
+77,0.91,0.6509999847412109,Tim Lemperle,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Andrej Kramaric,0.2978091537952423
+77,0.8819999694824219,0.51,Andrej Kramaric,RightFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,,0.12760969996452332
+88,0.8690000152587891,0.25799999237060545,Max Moerstedt,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Tim Lemperle,0.054073140025138855
