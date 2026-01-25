@@ -266,3 +266,31 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 81,0.845999984741211,0.5109999847412109,Xaver Schlager,RightFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Yan Diomande,0.053829289972782135
 81,0.85,0.48900001525878906,Conrad Harder,LeftFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,,0.07221853733062744
 92,0.8919999694824219,0.6769999694824219,Ezechiel Banzuzi,LeftFoot,BlockedShot,RasenBallsport Leipzig,Freiburg,Conrad Harder,0.08245810121297836
+2,0.855999984741211,0.649000015258789,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,Rômulo,0.056250449270009995
+3,0.9330000305175781,0.37400001525878906,Rômulo,RightFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Yan Diomande,0.3404724895954132
+6,0.9580000305175781,0.5170000076293946,Antonio Nusa,LeftFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,Yan Diomande,0.6708011031150818
+17,0.82,0.34,Nicolas Seiwald,RightFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,Yan Diomande,0.034929316490888596
+19,0.9580000305175781,0.55,Rômulo,RightFoot,Goal,RasenBallsport Leipzig,Bayern Munich,David Raum,0.5437771677970886
+23,0.884000015258789,0.37599998474121094,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,Nicolas Seiwald,0.3012889623641968
+34,0.845999984741211,0.39099998474121095,Yan Diomande,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,Rômulo,0.06870568543672562
+34,0.96,0.5990000152587891,Christoph Baumgartner,LeftFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,Antonio Nusa,0.11365993320941925
+36,0.8519999694824218,0.7230000305175781,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,Xaver Schlager,0.05739529803395271
+52,0.7609999847412109,0.6790000152587891,Antonio Nusa,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,,0.015200861729681492
+52,0.775,0.5459999847412109,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Bayern Munich,,0.015716414898633957
+63,0.89,0.705,Nicolas Seiwald,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,,0.05190703272819519
+64,0.8490000152587891,0.4909999847412109,Rômulo,RightFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,,0.07096483558416367
+71,0.9209999847412109,0.35200000762939454,Yan Diomande,RightFoot,SavedShot,RasenBallsport Leipzig,Bayern Munich,Bote Baku,0.2253970056772232
+86,0.8469999694824218,0.32099998474121094,Tidiam Gomis,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,Bote Baku,0.050704848021268845
+93,0.935,0.6419999694824219,Conrad Harder,Head,ShotOnPost,RasenBallsport Leipzig,Bayern Munich,Andrija Maksimovic,0.19702556729316711
+93,0.9290000152587891,0.3110000038146973,Bote Baku,RightFoot,BlockedShot,RasenBallsport Leipzig,Bayern Munich,,0.054970912635326385
+3,0.9059999847412109,0.624000015258789,Antonio Nusa,RightFoot,BlockedShot,FC Heidenheim,RasenBallsport Leipzig,Bote Baku,0.10052008181810379
+21,0.805,0.6709999847412109,Antonio Nusa,RightFoot,MissedShots,FC Heidenheim,RasenBallsport Leipzig,El Chadaille Bitshiabu,0.02890051156282425
+52,0.860999984741211,0.3990000152587891,Xaver Schlager,LeftFoot,SavedShot,FC Heidenheim,RasenBallsport Leipzig,Bote Baku,0.08993654698133469
+52,0.919000015258789,0.46599998474121096,Christoph Baumgartner,LeftFoot,SavedShot,FC Heidenheim,RasenBallsport Leipzig,,0.11268717795610428
+52,0.975,0.5359999847412109,Christoph Baumgartner,Head,BlockedShot,FC Heidenheim,RasenBallsport Leipzig,,0.6725600957870483
+52,0.985999984741211,0.5690000152587891,Rômulo,Head,BlockedShot,FC Heidenheim,RasenBallsport Leipzig,,0.08023242652416229
+52,0.92,0.6730000305175782,Antonio Nusa,RightFoot,SavedShot,FC Heidenheim,RasenBallsport Leipzig,David Raum,0.06819117069244385
+58,0.9059999847412109,0.465,Xaver Schlager,RightFoot,SavedShot,FC Heidenheim,RasenBallsport Leipzig,,0.6179847121238708
+61,0.894000015258789,0.34,Bote Baku,LeftFoot,Goal,FC Heidenheim,RasenBallsport Leipzig,Yan Diomande,0.09082391858100891
+67,0.855,0.5729999923706055,Antonio Nusa,RightFoot,Goal,FC Heidenheim,RasenBallsport Leipzig,Nicolas Seiwald,0.12889647483825684
+69,0.9319999694824219,0.6919999694824219,David Raum,LeftFoot,Goal,FC Heidenheim,RasenBallsport Leipzig,Yan Diomande,0.08602164685726166
