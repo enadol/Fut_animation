@@ -448,5 +448,125 @@
             "l": 0.2288297832219314
         },
         "result": "d"
+    },
+    {
+        "id": "30361",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.57201",
+            "a": "1.57502"
+        },
+        "datetime": "2026-01-11 14:30:00",
+        "forecast": {
+            "w": 0.7458009957596408,
+            "d": 0.1261337284657928,
+            "l": 0.12805986013689116
+        },
+        "result": "l"
+    },
+    {
+        "id": "30368",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.559529",
+            "a": "1.73831"
+        },
+        "datetime": "2026-01-15 19:30:00",
+        "forecast": {
+            "w": 0.11413405475254601,
+            "d": 0.22469535137928992,
+            "l": 0.6611705932655344
+        },
+        "result": "d"
+    },
+    {
+        "id": "30377",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.986653",
+            "a": "1.59107"
+        },
+        "datetime": "2026-01-18 16:30:00",
+        "forecast": {
+            "w": 0.23457408956587672,
+            "d": 0.2509756550756596,
+            "l": 0.5144502551749704
+        },
+        "result": "d"
+    },
+    {
+        "id": "30387",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.30773",
+            "a": "1.24551"
+        },
+        "datetime": "2026-01-24 14:30:00",
+        "forecast": {
+            "w": 0.6117059652585863,
+            "d": 0.19276586624360864,
+            "l": 0.19552814360350002
+        },
+        "result": "w"
     }
 ]

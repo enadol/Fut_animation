@@ -183,3 +183,58 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.8730000305175781,0.29200000762939454,Aiman Dardari,LeftFoot,BlockedShot,Augsburg,Werder Bremen,Alexis Claude Maurice,0.05606662854552269
 87,0.889000015258789,0.555,Cédric Zesiger,Head,SavedShot,Augsburg,Werder Bremen,Mert Kömür,0.03987712413072586
 96,0.9280000305175782,0.45599998474121095,Phillip Tietz,Head,ShotOnPost,Augsburg,Werder Bremen,Elvis Rexhbecaj,0.3605538308620453
+5,0.725999984741211,0.5379999923706055,Fabian Rieder,LeftFoot,MissedShots,Borussia M.Gladbach,Augsburg,Keven Schlotterbeck,0.021802112460136414
+15,0.99,0.40099998474121096,Anton Kade,RightFoot,MissedShots,Borussia M.Gladbach,Augsburg,,0.06731252372264862
+17,0.75,0.36900001525878906,Mert Kömür,RightFoot,BlockedShot,Borussia M.Gladbach,Augsburg,Anton Kade,0.035111039876937866
+23,0.874000015258789,0.45799999237060546,Alexis Claude Maurice,LeftFoot,MissedShots,Borussia M.Gladbach,Augsburg,Anton Kade,0.09484726935625076
+25,0.8040000152587891,0.49,Anton Kade,RightFoot,SavedShot,Borussia M.Gladbach,Augsburg,Alexis Claude Maurice,0.07207608222961426
+28,0.9109999847412109,0.5770000076293945,Anton Kade,RightFoot,MissedShots,Borussia M.Gladbach,Augsburg,Alexis Claude Maurice,0.11970695853233337
+29,0.7030000305175781,0.6279999923706054,Cédric Zesiger,LeftFoot,MissedShots,Borussia M.Gladbach,Augsburg,Noahkai Banks,0.011114991270005703
+46,0.745999984741211,0.5170000076293946,Alexis Claude Maurice,RightFoot,MissedShots,Borussia M.Gladbach,Augsburg,Keven Schlotterbeck,0.02017555758357048
+47,0.9230000305175782,0.29700000762939455,Anton Kade,RightFoot,BlockedShot,Borussia M.Gladbach,Augsburg,,0.039103977382183075
+47,0.7530000305175781,0.34400001525878904,Robin Fellhauer,RightFoot,SavedShot,Borussia M.Gladbach,Augsburg,,0.009788664989173412
+52,0.8219999694824218,0.3060000038146973,Robin Fellhauer,RightFoot,BlockedShot,Borussia M.Gladbach,Augsburg,,0.022097477689385414
+52,0.735,0.5540000152587891,Han-Noah Massengo,LeftFoot,MissedShots,Borussia M.Gladbach,Augsburg,Noahkai Banks,0.0179256834089756
+56,0.9519999694824218,0.485,Cédric Zesiger,Head,MissedShots,Borussia M.Gladbach,Augsburg,Mert Kömür,0.3616892099380493
+70,0.9459999847412109,0.46599998474121096,Samuel Essende,LeftFoot,MissedShots,Borussia M.Gladbach,Augsburg,,0.5284508466720581
+79,0.8109999847412109,0.385,Marius Wolf,LeftFoot,MissedShots,Borussia M.Gladbach,Augsburg,,0.06269997358322144
+88,0.8580000305175781,0.75,Samuel Essende,RightFoot,ShotOnPost,Borussia M.Gladbach,Augsburg,Cédric Zesiger,0.023146439343690872
+93,0.7769999694824219,0.6609999847412109,Ismaël Gharbi,RightFoot,MissedShots,Borussia M.Gladbach,Augsburg,,0.06835813075304031
+21,0.5740000152587891,0.29100000381469726,Michael Gregoritsch,LeftFoot,MissedShots,Augsburg,Union Berlin,Robin Fellhauer,0.01803695783019066
+43,0.9030000305175782,0.48900001525878906,Michael Gregoritsch,Head,MissedShots,Augsburg,Union Berlin,Dimitris Giannoulis,0.047956839203834534
+48,0.905,0.48,Keven Schlotterbeck,Head,SavedShot,Augsburg,Union Berlin,Alexis Claude Maurice,0.07580280303955078
+50,0.7290000152587891,0.5579999923706055,Alexis Claude Maurice,RightFoot,Goal,Augsburg,Union Berlin,,0.014559374190866947
+57,0.8080000305175781,0.700999984741211,Alexis Claude Maurice,RightFoot,ShotOnPost,Augsburg,Union Berlin,,0.07648663222789764
+59,0.8780000305175781,0.45599998474121095,Anton Kade,RightFoot,SavedShot,Augsburg,Union Berlin,Robin Fellhauer,0.1461993008852005
+76,0.8919999694824219,0.35700000762939454,Noahkai Banks,LeftFoot,SavedShot,Augsburg,Union Berlin,,0.08110678195953369
+80,0.8669999694824219,0.27399999618530274,Mert Kömür,RightFoot,MissedShots,Augsburg,Union Berlin,Michael Gregoritsch,0.060972534120082855
+96,0.8809999847412109,0.5209999847412109,Fabian Rieder,Head,SavedShot,Augsburg,Union Berlin,Robin Fellhauer,0.0384078286588192
+19,0.865999984741211,0.40900001525878904,Keven Schlotterbeck,Head,SavedShot,Augsburg,Freiburg,Alexis Claude Maurice,0.023967323824763298
+31,0.9269999694824219,0.5790000152587891,Alexis Claude Maurice,Head,SavedShot,Augsburg,Freiburg,Kristijan Jakic,0.28991395235061646
+32,0.9130000305175782,0.5429999923706055,Keven Schlotterbeck,Head,BlockedShot,Augsburg,Freiburg,Alexis Claude Maurice,0.08061939477920532
+37,0.840999984741211,0.6509999847412109,Dimitris Giannoulis,LeftFoot,MissedShots,Augsburg,Freiburg,Alexis Claude Maurice,0.03351901099085808
+50,0.8719999694824219,0.45599998474121095,Alexis Claude Maurice,RightFoot,MissedShots,Augsburg,Freiburg,Kristijan Jakic,0.11021539568901062
+53,0.895,0.42400001525878905,Michael Gregoritsch,RightFoot,BlockedShot,Augsburg,Freiburg,Robin Fellhauer,0.08720788359642029
+53,0.8090000152587891,0.3170000076293945,Fabian Rieder,LeftFoot,MissedShots,Augsburg,Freiburg,,0.020849213004112244
+46,0.860999984741211,0.534000015258789,Alexis Claude Maurice,RightFoot,Goal,Augsburg,Freiburg,,0.07704094797372818
+48,0.870999984741211,0.5690000152587891,Michael Gregoritsch,LeftFoot,BlockedShot,Augsburg,Freiburg,Alexis Claude Maurice,0.09412223845720291
+48,0.8540000152587891,0.549000015258789,Elvis Rexhbecaj,Head,Goal,Augsburg,Freiburg,,0.033582571893930435
+85,0.8530000305175781,0.544000015258789,Alexis Claude Maurice,LeftFoot,BlockedShot,Augsburg,Freiburg,,0.07188963145017624
+85,0.7730000305175782,0.59,Cédric Zesiger,LeftFoot,BlockedShot,Augsburg,Freiburg,Elvis Rexhbecaj,0.029013263061642647
+85,0.7819999694824219,0.580999984741211,Cédric Zesiger,LeftFoot,BlockedShot,Augsburg,Freiburg,,0.034712400287389755
+3,0.7719999694824219,0.35400001525878905,Alexis Claude Maurice,RightFoot,MissedShots,Bayern Munich,Augsburg,Robin Fellhauer,0.03267769142985344
+36,0.8069999694824219,0.5,Han-Noah Massengo,RightFoot,MissedShots,Bayern Munich,Augsburg,Dimitris Giannoulis,0.05464988946914673
+48,0.9419999694824219,0.34200000762939453,Robin Fellhauer,RightFoot,ShotOnPost,Bayern Munich,Augsburg,Han-Noah Massengo,0.10393329709768295
+48,0.7219999694824218,0.505,Alexis Claude Maurice,RightFoot,SavedShot,Bayern Munich,Augsburg,Dimitris Giannoulis,0.01809735596179962
+52,0.9,0.509000015258789,Anton Kade,Head,BlockedShot,Bayern Munich,Augsburg,Dimitris Giannoulis,0.03539496660232544
+59,0.914000015258789,0.6909999847412109,Elvis Rexhbecaj,LeftFoot,MissedShots,Bayern Munich,Augsburg,,0.06444490700960159
+63,0.759000015258789,0.4879999923706055,Fabian Rieder,LeftFoot,BlockedShot,Bayern Munich,Augsburg,,0.022856730967760086
+71,0.7080000305175781,0.49200000762939455,Alexis Claude Maurice,RightFoot,SavedShot,Bayern Munich,Augsburg,Dimitris Giannoulis,0.016654668375849724
+72,0.8240000152587891,0.539000015258789,Elvis Rexhbecaj,LeftFoot,SavedShot,Bayern Munich,Augsburg,Alexis Claude Maurice,0.06087394058704376
+74,0.8,0.5790000152587891,Alexis Claude Maurice,RightFoot,SavedShot,Bayern Munich,Augsburg,,0.11819774657487869
+74,0.9269999694824219,0.495,Arthur Chaves,Head,Goal,Bayern Munich,Augsburg,Mert Kömür,0.11848755925893784
+80,0.8880000305175781,0.49200000762939455,Han-Noah Massengo,RightFoot,Goal,Bayern Munich,Augsburg,Dimitris Giannoulis,0.41531920433044434
+83,0.7430000305175781,0.3920000076293945,Alexis Claude Maurice,RightFoot,MissedShots,Bayern Munich,Augsburg,Arthur Chaves,0.039892617613077164
+86,0.8190000152587891,0.529000015258789,Alexis Claude Maurice,RightFoot,BlockedShot,Bayern Munich,Augsburg,Samuel Essende,0.09569291770458221
+90,0.76,0.615,Samuel Essende,RightFoot,MissedShots,Bayern Munich,Augsburg,Finn Dahmen,0.023400265723466873
+93,0.855999984741211,0.27899999618530275,Marius Wolf,RightFoot,MissedShots,Bayern Munich,Augsburg,Mert Kömür,0.024935102090239525
