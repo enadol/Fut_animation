@@ -538,5 +538,35 @@
             "l": 0.0571255309707736
         },
         "result": "w"
+    },
+    {
+        "id": "30394",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.989732",
+            "a": "2.27286"
+        },
+        "datetime": "2026-01-24 17:30:00",
+        "forecast": {
+            "w": 0.1507159457838978,
+            "d": 0.18683258028281208,
+            "l": 0.66245145347488
+        },
+        "result": "w"
     }
 ]

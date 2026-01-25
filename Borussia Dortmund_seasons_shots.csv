@@ -221,3 +221,18 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 80,0.9619999694824218,0.44299999237060544,Nico Schlotterbeck,LeftFoot,SavedShot,Borussia Dortmund,St. Pauli,,0.11737703531980515
 83,0.735999984741211,0.3840000152587891,Serhou Guirassy,RightFoot,MissedShots,Borussia Dortmund,St. Pauli,Yan Couto,0.020948853343725204
 94,0.885,0.5,Emre Can,RightFoot,Goal,Borussia Dortmund,St. Pauli,,0.75777667760849
+9,0.885,0.5,Emre Can,RightFoot,Goal,Union Berlin,Borussia Dortmund,,0.75777667760849
+11,0.8780000305175781,0.44,Fabio Silva,Head,SavedShot,Union Berlin,Borussia Dortmund,Julian Ryerson,0.049207571893930435
+13,0.7930000305175782,0.43200000762939456,Julian Ryerson,RightFoot,BlockedShot,Union Berlin,Borussia Dortmund,Serhou Guirassy,0.046787381172180176
+17,0.8880000305175781,0.5079999923706054,Jobe Bellingham,RightFoot,BlockedShot,Union Berlin,Borussia Dortmund,Serhou Guirassy,0.1288335919380188
+17,0.8590000152587891,0.5070000076293946,Fabio Silva,RightFoot,MissedShots,Union Berlin,Borussia Dortmund,,0.10049248486757278
+20,0.77,0.549000015258789,Felix Nmecha,RightFoot,MissedShots,Union Berlin,Borussia Dortmund,,0.08570101857185364
+45,0.865999984741211,0.7019999694824218,Fabio Silva,RightFoot,BlockedShot,Union Berlin,Borussia Dortmund,,0.01563546620309353
+45,0.9109999847412109,0.5470000076293945,Fabio Silva,Head,MissedShots,Union Berlin,Borussia Dortmund,Julian Ryerson,0.0450148768723011
+48,0.7809999847412109,0.4829999923706055,Maximilian Beier,LeftFoot,MissedShots,Union Berlin,Borussia Dortmund,,0.05123404040932655
+52,0.774000015258789,0.495,Jobe Bellingham,RightFoot,SavedShot,Union Berlin,Borussia Dortmund,Maximilian Beier,0.03603103756904602
+52,0.9619999694824218,0.395,Nico Schlotterbeck,Head,Goal,Union Berlin,Borussia Dortmund,Julian Ryerson,0.18068721890449524
+70,0.85,0.4329999923706055,Felix Nmecha,Head,BlockedShot,Union Berlin,Borussia Dortmund,Julian Ryerson,0.023612525314092636
+82,0.9469999694824218,0.41200000762939454,Serhou Guirassy,RightFoot,MissedShots,Union Berlin,Borussia Dortmund,Daniel Svensson,0.40306276082992554
+83,0.9259999847412109,0.3139999961853027,Maximilian Beier,RightFoot,Goal,Union Berlin,Borussia Dortmund,Jobe Bellingham,0.22650255262851715
+93,0.8780000305175781,0.46799999237060547,Salih Özcan,RightFoot,BlockedShot,Union Berlin,Borussia Dortmund,Serhou Guirassy,0.1352226883172989
