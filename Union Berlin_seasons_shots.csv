@@ -183,3 +183,66 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.8719999694824219,0.5320000076293945,Andras Schafer,RightFoot,BlockedShot,FC Cologne,Union Berlin,Tim Skarke,0.09285682439804077
 89,0.9019999694824219,0.45799999237060546,Rani Khedira,RightFoot,BlockedShot,FC Cologne,Union Berlin,Derrick Köhn,0.09743259102106094
 90,0.8090000152587891,0.5070000076293946,Andras Schafer,LeftFoot,Goal,FC Cologne,Union Berlin,,0.037279944866895676
+2,0.9169999694824219,0.5109999847412109,Danilho Doekhi,Head,MissedShots,Union Berlin,Mainz 05,Derrick Köhn,0.05782775580883026
+5,0.76,0.34799999237060547,Aljoscha Kemlein,RightFoot,BlockedShot,Union Berlin,Mainz 05,Livan Burcu,0.0357322171330452
+5,0.9369999694824219,0.45,Livan Burcu,RightFoot,MissedShots,Union Berlin,Mainz 05,Rani Khedira,0.5475350618362427
+31,0.7869999694824219,0.4829999923706055,Livan Burcu,RightFoot,MissedShots,Union Berlin,Mainz 05,Aljoscha Kemlein,0.03469863533973694
+34,0.9109999847412109,0.5359999847412109,Oliver Burke,Head,MissedShots,Union Berlin,Mainz 05,Andrej Ilic,0.04271963611245155
+38,0.9,0.6859999847412109,Derrick Köhn,LeftFoot,BlockedShot,Union Berlin,Mainz 05,Janik Haberer,0.03625933453440666
+42,0.9540000152587891,0.5359999847412109,Oliver Burke,RightFoot,MissedShots,Union Berlin,Mainz 05,Derrick Köhn,0.44471973180770874
+43,0.8930000305175781,0.6930000305175781,Livan Burcu,RightFoot,SavedShot,Union Berlin,Mainz 05,Derrick Köhn,0.047003764659166336
+43,0.899000015258789,0.3870000076293945,Oliver Burke,RightFoot,MissedShots,Union Berlin,Mainz 05,,0.0726722702383995
+59,0.950999984741211,0.629000015258789,Oliver Burke,RightFoot,SavedShot,Union Berlin,Mainz 05,,0.3596380650997162
+63,0.8919999694824219,0.3270000076293945,Oliver Burke,RightFoot,SavedShot,Union Berlin,Mainz 05,Janik Haberer,0.05283333733677864
+76,0.9209999847412109,0.5379999923706055,Woo-Yeong Jeong,Head,Goal,Union Berlin,Mainz 05,Derrick Köhn,0.32479169964790344
+78,0.7240000152587891,0.6320000076293946,Andras Schafer,RightFoot,ShotOnPost,Union Berlin,Mainz 05,,0.01201251707971096
+78,0.9330000305175781,0.5029999923706054,Andrej Ilic,RightFoot,MissedShots,Union Berlin,Mainz 05,,0.5713207721710205
+85,0.9259999847412109,0.46900001525878904,Danilho Doekhi,Head,ShotOnPost,Union Berlin,Mainz 05,Derrick Köhn,0.05583024397492409
+85,0.9830000305175781,0.4829999923706055,Marin Ljubicic,Head,Goal,Union Berlin,Mainz 05,,0.8919422626495361
+87,0.860999984741211,0.64,Ilyas Ansah,RightFoot,BlockedShot,Union Berlin,Mainz 05,Andras Schafer,0.07324133813381195
+18,0.9119999694824219,0.5470000076293945,Andras Schafer,Head,MissedShots,Augsburg,Union Berlin,Oliver Burke,0.30952540040016174
+21,0.8530000305175781,0.34,Woo-Yeong Jeong,RightFoot,SavedShot,Augsburg,Union Berlin,Ilyas Ansah,0.05533692240715027
+27,0.8580000305175781,0.37599998474121094,Andras Schafer,RightFoot,BlockedShot,Augsburg,Union Berlin,Oliver Burke,0.05708872899413109
+28,0.879000015258789,0.3840000152587891,Oliver Burke,RightFoot,MissedShots,Augsburg,Union Berlin,Andras Schafer,0.09070515632629395
+45,0.8419999694824218,0.4779999923706055,Ilyas Ansah,RightFoot,BlockedShot,Augsburg,Union Berlin,Oliver Burke,0.11883808672428131
+47,0.785,0.3129999923706055,Woo-Yeong Jeong,RightFoot,MissedShots,Augsburg,Union Berlin,Oliver Burke,0.02215656451880932
+51,0.9030000305175782,0.505,Danilho Doekhi,Head,BlockedShot,Augsburg,Union Berlin,Christopher Trimmel,0.04520551115274429
+53,0.899000015258789,0.42900001525878906,Ilyas Ansah,Head,MissedShots,Augsburg,Union Berlin,Derrick Köhn,0.018165042623877525
+59,0.8169999694824219,0.2879999923706055,Andras Schafer,LeftFoot,BlockedShot,Augsburg,Union Berlin,Oliver Burke,0.022602852433919907
+66,0.889000015258789,0.735999984741211,Livan Burcu,RightFoot,BlockedShot,Augsburg,Union Berlin,Aljoscha Kemlein,0.03206716105341911
+67,0.7369999694824219,0.6819999694824219,Leopold Querfeld,RightFoot,BlockedShot,Augsburg,Union Berlin,,0.0438011959195137
+70,0.9180000305175782,0.485,Leopold Querfeld,Head,MissedShots,Augsburg,Union Berlin,Christopher Trimmel,0.10202643275260925
+73,0.9119999694824219,0.4470000076293945,Danilho Doekhi,Head,MissedShots,Augsburg,Union Berlin,Derrick Köhn,0.09331529587507248
+78,0.8930000305175781,0.495,Rani Khedira,LeftFoot,MissedShots,Augsburg,Union Berlin,Andrej Ilic,0.08484433591365814
+90,0.8830000305175781,0.539000015258789,Andrej Ilic,RightFoot,BlockedShot,Augsburg,Union Berlin,,0.07419303804636002
+90,0.9459999847412109,0.49,Marin Ljubicic,RightFoot,Goal,Augsburg,Union Berlin,Andrej Ilic,0.6139925122261047
+10,0.875,0.405,Diogo Leite,LeftFoot,BlockedShot,VfB Stuttgart,Union Berlin,Livan Burcu,0.04415899142622948
+10,0.9419999694824219,0.49900001525878906,Andrej Ilic,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,Diogo Leite,0.11383678764104843
+10,0.9459999847412109,0.6029999923706054,Rani Khedira,LeftFoot,BlockedShot,VfB Stuttgart,Union Berlin,Andrej Ilic,0.10993482917547226
+12,0.8880000305175781,0.644000015258789,Andrej Ilic,LeftFoot,ShotOnPost,VfB Stuttgart,Union Berlin,,0.41457608342170715
+14,0.85,0.7240000152587891,Andrej Ilic,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Josip Juranovic,0.028316926211118698
+27,0.8159999847412109,0.6959999847412109,Josip Juranovic,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,,0.015210193581879139
+33,0.9109999847412109,0.325,Livan Burcu,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Rani Khedira,0.07289038598537445
+37,0.8959999847412109,0.66,Leopold Querfeld,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,,0.061854299157857895
+42,0.9,0.485,Leopold Querfeld,Head,MissedShots,VfB Stuttgart,Union Berlin,Josip Juranovic,0.06802557408809662
+42,0.8130000305175781,0.5359999847412109,Janik Haberer,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,,0.03845443204045296
+53,0.919000015258789,0.3370000076293945,Andras Schafer,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Andrej Ilic,0.08398772776126862
+54,0.9009999847412109,0.40900001525878904,Janik Haberer,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,,0.08006716519594193
+61,0.875,0.7380000305175781,Livan Burcu,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Andrej Ilic,0.02780618518590927
+65,0.924000015258789,0.445,Andrej Ilic,Head,MissedShots,VfB Stuttgart,Union Berlin,Josip Juranovic,0.08564470708370209
+72,0.9259999847412109,0.529000015258789,Stanley N&#039;Soki,Head,MissedShots,VfB Stuttgart,Union Berlin,Janik Haberer,0.06760820001363754
+77,0.7559999847412109,0.600999984741211,Woo-Yeong Jeong,RightFoot,BlockedShot,VfB Stuttgart,Union Berlin,Ilyas Ansah,0.023166032508015633
+82,0.8909999847412109,0.5709999847412109,Woo-Yeong Jeong,LeftFoot,Goal,VfB Stuttgart,Union Berlin,Stanley N&#039;Soki,0.10263317078351974
+84,0.93,0.6730000305175782,Andrej Ilic,Head,SavedShot,VfB Stuttgart,Union Berlin,Leopold Querfeld,0.020562192425131798
+87,0.9180000305175782,0.38799999237060545,Woo-Yeong Jeong,RightFoot,SavedShot,VfB Stuttgart,Union Berlin,Aljoscha Kemlein,0.3770284354686737
+93,0.909000015258789,0.42,Oliver Burke,Head,MissedShots,VfB Stuttgart,Union Berlin,Ilyas Ansah,0.06437864154577255
+5,0.9359999847412109,0.46799999237060547,Andrej Ilic,Head,SavedShot,Union Berlin,Borussia Dortmund,Josip Juranovic,0.38231056928634644
+16,0.9459999847412109,0.5220000076293946,Andrej Ilic,Head,MissedShots,Union Berlin,Borussia Dortmund,Janik Haberer,0.1290794163942337
+27,0.9540000152587891,0.47900001525878905,Diogo Leite,Head,SavedShot,Union Berlin,Borussia Dortmund,Josip Juranovic,0.08388907462358475
+30,0.72,0.39599998474121095,Josip Juranovic,RightFoot,MissedShots,Union Berlin,Borussia Dortmund,,0.04508184269070625
+37,0.899000015258789,0.590999984741211,Danilho Doekhi,Head,MissedShots,Union Berlin,Borussia Dortmund,Josip Juranovic,0.021048136055469513
+40,0.84,0.355,Woo-Yeong Jeong,RightFoot,MissedShots,Union Berlin,Borussia Dortmund,Josip Juranovic,0.042110078036785126
+56,0.9640000152587891,0.47400001525878904,Diogo Leite,Head,MissedShots,Union Berlin,Borussia Dortmund,,0.13119186460971832
+59,0.8969999694824219,0.5309999847412109,Diogo Leite,Head,BlockedShot,Union Berlin,Borussia Dortmund,Josip Juranovic,0.030825814232230186
+73,0.95,0.41200000762939454,Andrej Ilic,Head,SavedShot,Union Berlin,Borussia Dortmund,Janik Haberer,0.02963683195412159
+80,0.7530000305175781,0.625999984741211,Livan Burcu,RightFoot,MissedShots,Union Berlin,Borussia Dortmund,Andrej Ilic,0.09455844759941101

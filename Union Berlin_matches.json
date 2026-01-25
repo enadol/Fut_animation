@@ -448,5 +448,125 @@
             "l": 0.5640460228710749
         },
         "result": "w"
+    },
+    {
+        "id": "30366",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.6505",
+            "a": "1.56492"
+        },
+        "datetime": "2026-01-10 14:30:00",
+        "forecast": {
+            "w": 0.7572083531864883,
+            "d": 0.12166738654653424,
+            "l": 0.12111728122704843
+        },
+        "result": "d"
+    },
+    {
+        "id": "30368",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.559529",
+            "a": "1.73831"
+        },
+        "datetime": "2026-01-15 19:30:00",
+        "forecast": {
+            "w": 0.11413405475254601,
+            "d": 0.22469535137928992,
+            "l": 0.6611705932655344
+        },
+        "result": "d"
+    },
+    {
+        "id": "30383",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.1978",
+            "a": "1.88763"
+        },
+        "datetime": "2026-01-18 14:30:00",
+        "forecast": {
+            "w": 0.45778634322094913,
+            "d": 0.2025505775594815,
+            "l": 0.33966306415934455
+        },
+        "result": "d"
+    },
+    {
+        "id": "30394",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.989732",
+            "a": "2.27286"
+        },
+        "datetime": "2026-01-24 17:30:00",
+        "forecast": {
+            "w": 0.1507159457838978,
+            "d": 0.18683258028281208,
+            "l": 0.66245145347488
+        },
+        "result": "l"
     }
 ]
