@@ -1,6 +1,7 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 7,0.15300000190734864,0.42900001525878906,Andreas Hanche-Olsen,Head,OwnGoal,Mainz 05,Hoffenheim,,0
 44,0.07400000095367432,0.4879999923706055,Cédric Zesiger,LeftFoot,OwnGoal,Hoffenheim,Augsburg,,0
+64,0.02700000047683716,0.67,Aurèle Amenda,LeftFoot,OwnGoal,Eintracht Frankfurt,Hoffenheim,,0
 1,0.8480000305175781,0.5529999923706055,Tim Lemperle,LeftFoot,ShotOnPost,Bayer Leverkusen,Hoffenheim,Fisnik Asllani,0.09233037382364273
 15,0.914000015258789,0.675,Bazoumana Touré,Head,MissedShots,Bayer Leverkusen,Hoffenheim,Vladimir Coufal,0.011155196465551853
 24,0.9369999694824219,0.6680000305175782,Fisnik Asllani,LeftFoot,Goal,Bayer Leverkusen,Hoffenheim,Bazoumana Touré,0.0646873190999031
@@ -227,3 +228,13 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.91,0.6509999847412109,Tim Lemperle,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Andrej Kramaric,0.2978091537952423
 77,0.8819999694824219,0.51,Andrej Kramaric,RightFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,,0.12760969996452332
 88,0.8690000152587891,0.25799999237060545,Max Moerstedt,RightFoot,SavedShot,Hoffenheim,Bayer Leverkusen,Tim Lemperle,0.054073140025138855
+0,0.8119999694824219,0.48900001525878906,Alexander Prass,RightFoot,SavedShot,Eintracht Frankfurt,Hoffenheim,,0.020346257835626602
+20,0.9369999694824219,0.5479999923706055,Ozan Kabak,Head,ShotOnPost,Eintracht Frankfurt,Hoffenheim,Wouter Burger,0.057603757828474045
+28,0.745,0.48700000762939455,Andrej Kramaric,RightFoot,MissedShots,Eintracht Frankfurt,Hoffenheim,,0.06539260596036911
+33,0.8859999847412109,0.6320000076293946,Ozan Kabak,Head,MissedShots,Eintracht Frankfurt,Hoffenheim,Vladimir Coufal,0.008109787479043007
+38,0.9259999847412109,0.6990000152587891,Fisnik Asllani,RightFoot,SavedShot,Eintracht Frankfurt,Hoffenheim,Wouter Burger,0.06565368175506592
+39,0.9630000305175781,0.5070000076293946,Ozan Kabak,Head,MissedShots,Eintracht Frankfurt,Hoffenheim,,0.10918433219194412
+45,0.924000015258789,0.500999984741211,Wouter Burger,Head,SavedShot,Eintracht Frankfurt,Hoffenheim,Fisnik Asllani,0.4148349463939667
+51,0.9330000305175781,0.51,Max Moerstedt,Head,Goal,Eintracht Frankfurt,Hoffenheim,Wouter Burger,0.4593143165111542
+54,0.915,0.6559999847412109,Wouter Burger,LeftFoot,MissedShots,Eintracht Frankfurt,Hoffenheim,Alexander Prass,0.08200513571500778
+59,0.9319999694824219,0.4859999847412109,Ozan Kabak,Head,Goal,Eintracht Frankfurt,Hoffenheim,,0.34568583965301514

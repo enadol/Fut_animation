@@ -508,5 +508,35 @@
             "l": 0.22409787648517482
         },
         "result": "w"
+    },
+    {
+        "id": "30389",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.829658",
+            "a": "1.62813"
+        },
+        "datetime": "2026-01-24 14:30:00",
+        "forecast": {
+            "w": 0.19022106797437588,
+            "d": 0.24672755552543377,
+            "l": 0.5630513762501139
+        },
+        "result": "w"
     }
 ]
