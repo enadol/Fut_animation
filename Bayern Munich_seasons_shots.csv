@@ -368,3 +368,16 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 91,0.785,0.500999984741211,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Augsburg,Jamal Musiala,0.020459521561861038
 91,0.7669999694824219,0.73,Felipe Chávez,LeftFoot,BlockedShot,Bayern Munich,Augsburg,Luis Díaz,0.016718551516532898
 94,0.784000015258789,0.30100000381469727,Michael Olise,LeftFoot,ShotOnPost,Bayern Munich,Augsburg,,0.01649550348520279
+12,0.7519999694824219,0.725999984741211,Serge Gnabry,RightFoot,MissedShots,Hamburger SV,Bayern Munich,Harry Kane,0.01635698601603508
+13,0.8909999847412109,0.3609999847412109,Michael Olise,LeftFoot,SavedShot,Hamburger SV,Bayern Munich,Aleksandar Pavlovic,0.2713690996170044
+14,0.9109999847412109,0.6129999923706054,Lennart Karl,LeftFoot,SavedShot,Hamburger SV,Bayern Munich,Joshua Kimmich,0.3054504096508026
+15,0.7609999847412109,0.4779999923706055,Serge Gnabry,RightFoot,BlockedShot,Hamburger SV,Bayern Munich,Harry Kane,0.03304402157664299
+21,0.8080000305175781,0.720999984741211,Harry Kane,RightFoot,MissedShots,Hamburger SV,Bayern Munich,Serge Gnabry,0.02074187994003296
+28,0.7759999847412109,0.4179999923706055,Joshua Kimmich,RightFoot,ShotOnPost,Hamburger SV,Bayern Munich,Aleksandar Pavlovic,0.03110860288143158
+41,0.9219999694824219,0.5279999923706055,Joshua Kimmich,RightFoot,MissedShots,Hamburger SV,Bayern Munich,Serge Gnabry,0.514606237411499
+41,0.9569999694824218,0.48200000762939454,Harry Kane,RightFoot,Goal,Hamburger SV,Bayern Munich,Joshua Kimmich,0.6592746376991272
+45,0.914000015258789,0.4570000076293945,Luis Díaz,RightFoot,Goal,Hamburger SV,Bayern Munich,Michael Olise,0.4782765209674835
+66,0.95,0.5079999923706054,Jonathan Tah,Head,SavedShot,Hamburger SV,Bayern Munich,Joshua Kimmich,0.13511602580547333
+89,0.805,0.5229999923706055,Jamal Musiala,LeftFoot,SavedShot,Hamburger SV,Bayern Munich,,0.05352209508419037
+90,0.905,0.4909999847412109,Joshua Kimmich,RightFoot,BlockedShot,Hamburger SV,Bayern Munich,,0.05063721537590027
+94,0.9019999694824219,0.35700000762939454,Luis Díaz,RightFoot,BlockedShot,Hamburger SV,Bayern Munich,,0.05887666344642639
