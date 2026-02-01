@@ -538,5 +538,65 @@
             "l": 0.5630513762501139
         },
         "result": "w"
+    },
+    {
+        "id": "30367",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.42692",
+            "a": "0.567567"
+        },
+        "datetime": "2026-01-27 19:30:00",
+        "forecast": {
+            "w": 0.5819487640178691,
+            "d": 0.27072074368255106,
+            "l": 0.14733049225788106
+        },
+        "result": "w"
+    },
+    {
+        "id": "30400",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.50682",
+            "a": "1.23275"
+        },
+        "datetime": "2026-01-31 14:30:00",
+        "forecast": {
+            "w": 0.43593193191809565,
+            "d": 0.2532544506106339,
+            "l": 0.3108136173780594
+        },
+        "result": "w"
     }
 ]

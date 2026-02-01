@@ -2,6 +2,7 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 7,0.15300000190734864,0.42900001525878906,Andreas Hanche-Olsen,Head,OwnGoal,Mainz 05,Hoffenheim,,0
 44,0.07400000095367432,0.4879999923706055,Cédric Zesiger,LeftFoot,OwnGoal,Hoffenheim,Augsburg,,0
 64,0.02700000047683716,0.67,Aurèle Amenda,LeftFoot,OwnGoal,Eintracht Frankfurt,Hoffenheim,,0
+46,0.025,0.5170000076293946,Diogo Leite,RightFoot,OwnGoal,Hoffenheim,Union Berlin,,0
 1,0.8480000305175781,0.5529999923706055,Tim Lemperle,LeftFoot,ShotOnPost,Bayer Leverkusen,Hoffenheim,Fisnik Asllani,0.09233037382364273
 15,0.914000015258789,0.675,Bazoumana Touré,Head,MissedShots,Bayer Leverkusen,Hoffenheim,Vladimir Coufal,0.011155196465551853
 24,0.9369999694824219,0.6680000305175782,Fisnik Asllani,LeftFoot,Goal,Bayer Leverkusen,Hoffenheim,Bazoumana Touré,0.0646873190999031
@@ -238,3 +239,24 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 51,0.9330000305175781,0.51,Max Moerstedt,Head,Goal,Eintracht Frankfurt,Hoffenheim,Wouter Burger,0.4593143165111542
 54,0.915,0.6559999847412109,Wouter Burger,LeftFoot,MissedShots,Eintracht Frankfurt,Hoffenheim,Alexander Prass,0.08200513571500778
 59,0.9319999694824219,0.4859999847412109,Ozan Kabak,Head,Goal,Eintracht Frankfurt,Hoffenheim,,0.34568583965301514
+2,0.9290000152587891,0.6120000076293945,Bernardo,Head,MissedShots,Werder Bremen,Hoffenheim,Wouter Burger,0.013840327039361
+8,0.9569999694824218,0.615,Andrej Kramaric,Head,SavedShot,Werder Bremen,Hoffenheim,Vladimir Coufal,0.03659636154770851
+20,0.9209999847412109,0.580999984741211,Wouter Burger,Head,BlockedShot,Werder Bremen,Hoffenheim,Tim Lemperle,0.05502094328403473
+24,0.8,0.3079999923706055,Grischa Prömel,RightFoot,BlockedShot,Werder Bremen,Hoffenheim,Wouter Burger,0.026416344568133354
+31,0.9169999694824219,0.6990000152587891,Wouter Burger,LeftFoot,BlockedShot,Werder Bremen,Hoffenheim,Andrej Kramaric,0.051238641142845154
+33,0.905,0.3079999923706055,Vladimir Coufal,RightFoot,MissedShots,Werder Bremen,Hoffenheim,,0.053083933889865875
+42,0.9630000305175781,0.5509999847412109,Tim Lemperle,Head,MissedShots,Werder Bremen,Hoffenheim,Wouter Burger,0.07777663320302963
+43,0.7730000305175782,0.46599998474121096,Alexander Prass,LeftFoot,Goal,Werder Bremen,Hoffenheim,Andrej Kramaric,0.03861438110470772
+47,0.8059999847412109,0.28600000381469726,Andrej Kramaric,LeftFoot,MissedShots,Werder Bremen,Hoffenheim,,0.015224548056721687
+53,0.9,0.4229999923706055,Grischa Prömel,RightFoot,Goal,Werder Bremen,Hoffenheim,,0.0765463188290596
+61,0.7969999694824219,0.675,Tim Lemperle,RightFoot,BlockedShot,Werder Bremen,Hoffenheim,,0.07837352156639099
+74,0.7230000305175781,0.37799999237060544,Alexander Prass,LeftFoot,MissedShots,Werder Bremen,Hoffenheim,,0.04483550041913986
+27,0.705999984741211,0.4420000076293945,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,Union Berlin,Bazoumana Touré,0.013488116674125195
+38,0.8090000152587891,0.34299999237060547,Andrej Kramaric,LeftFoot,BlockedShot,Hoffenheim,Union Berlin,Grischa Prömel,0.031670596450567245
+41,0.885,0.5,Andrej Kramaric,RightFoot,Goal,Hoffenheim,Union Berlin,,0.75777667760849
+44,0.9080000305175782,0.4490000152587891,Andrej Kramaric,Head,Goal,Hoffenheim,Union Berlin,Bazoumana Touré,0.28523653745651245
+61,0.87,0.565,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,Union Berlin,Bazoumana Touré,0.10802309215068817
+81,0.860999984741211,0.48400001525878905,Andrej Kramaric,Head,SavedShot,Hoffenheim,Union Berlin,Vladimir Coufal,0.03598222881555557
+82,0.8959999847412109,0.3270000076293945,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,Union Berlin,Max Moerstedt,0.11065694689750671
+89,0.9219999694824219,0.5379999923706055,Vladimir Coufal,Head,MissedShots,Hoffenheim,Union Berlin,Alexander Prass,0.06345879286527634
+96,0.865,0.5770000076293945,Ihlas Bebou,LeftFoot,SavedShot,Hoffenheim,Union Berlin,Grischa Prömel,0.10052204877138138
