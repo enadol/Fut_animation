@@ -448,5 +448,125 @@
             "l": 0.3523129516350947
         },
         "result": "d"
+    },
+    {
+        "id": "30363",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.93517",
+            "a": "0.850812"
+        },
+        "datetime": "2026-01-10 14:30:00",
+        "forecast": {
+            "w": 0.7952491614831944,
+            "d": 0.12622237980448137,
+            "l": 0.07852794577388791
+        },
+        "result": "l"
+    },
+    {
+        "id": "30380",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.26205",
+            "a": "0.576522"
+        },
+        "datetime": "2026-01-17 14:30:00",
+        "forecast": {
+            "w": 0.5325763064613422,
+            "d": 0.29759599939113823,
+            "l": 0.1698276941398097
+        },
+        "result": "d"
+    },
+    {
+        "id": "30393",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.311991",
+            "a": "0.333197"
+        },
+        "datetime": "2026-01-23 19:30:00",
+        "forecast": {
+            "w": 0.20169084186852748,
+            "d": 0.5805283310104001,
+            "l": 0.2177808271210725
+        },
+        "result": "d"
+    },
+    {
+        "id": "30399",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.64497",
+            "a": "2.28911"
+        },
+        "datetime": "2026-01-31 17:30:00",
+        "forecast": {
+            "w": 0.47063689583641444,
+            "d": 0.18273891864018516,
+            "l": 0.3466240222885335
+        },
+        "result": "d"
     }
 ]
