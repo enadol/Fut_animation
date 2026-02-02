@@ -448,5 +448,155 @@
             "l": 0.045069936689044195
         },
         "result": "l"
+    },
+    {
+        "id": "30361",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.57201",
+            "a": "1.57502"
+        },
+        "datetime": "2026-01-11 14:30:00",
+        "forecast": {
+            "w": 0.7458009957596408,
+            "d": 0.1261337284657928,
+            "l": 0.12805986013689116
+        },
+        "result": "w"
+    },
+    {
+        "id": "30372",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "5",
+            "a": "1"
+        },
+        "xG": {
+            "h": "4.3777",
+            "a": "0.83294"
+        },
+        "datetime": "2026-01-14 19:30:00",
+        "forecast": {
+            "w": 0.9204081669265836,
+            "d": 0.05280044816060181,
+            "l": 0.026736871314772447
+        },
+        "result": "l"
+    },
+    {
+        "id": "30380",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.26205",
+            "a": "0.576522"
+        },
+        "datetime": "2026-01-17 14:30:00",
+        "forecast": {
+            "w": 0.5325763064613422,
+            "d": 0.29759599939113823,
+            "l": 0.1698276941398097
+        },
+        "result": "d"
+    },
+    {
+        "id": "30388",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.22197",
+            "a": "2.72682"
+        },
+        "datetime": "2026-01-25 14:30:00",
+        "forecast": {
+            "w": 0.1475304301516884,
+            "d": 0.16156575290981692,
+            "l": 0.6909036107648937
+        },
+        "result": "l"
+    },
+    {
+        "id": "30403",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.991152",
+            "a": "1.25715"
+        },
+        "datetime": "2026-01-31 14:30:00",
+        "forecast": {
+            "w": 0.291750593965373,
+            "d": 0.28424974478276854,
+            "l": 0.4239996612442875
+        },
+        "result": "d"
     }
 ]
