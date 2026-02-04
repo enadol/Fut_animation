@@ -234,3 +234,35 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 65,0.885,0.5,Álex Grimaldo,LeftFoot,Goal,Bayer Leverkusen,VfB Stuttgart,,0.75777667760849
 87,0.7530000305175781,0.44400001525878907,Aleix García,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,Arthur,0.019347021356225014
 89,0.805,0.5170000076293946,Arthur,RightFoot,MissedShots,Bayer Leverkusen,VfB Stuttgart,,0.09028532356023788
+23,0.8119999694824219,0.455,Malik Tillman,LeftFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Aleix García,0.05558439716696739
+40,0.8130000305175781,0.664000015258789,Ernest Poku,LeftFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,,0.013488861732184887
+40,0.9230000305175782,0.48900001525878906,Patrik Schick,LeftFoot,SavedShot,Hoffenheim,Bayer Leverkusen,,0.563347578048706
+48,0.7340000152587891,0.485,Ernest Poku,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Malik Tillman,0.017927007749676704
+67,0.784000015258789,0.45,Álex Grimaldo,LeftFoot,SavedShot,Hoffenheim,Bayer Leverkusen,,0.10235350579023361
+67,0.965999984741211,0.40900001525878904,Patrik Schick,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,,0.46242743730545044
+80,0.8959999847412109,0.5379999923706055,Patrik Schick,RightFoot,BlockedShot,Hoffenheim,Bayer Leverkusen,Álex Grimaldo,0.0795266181230545
+94,0.86,0.27399999618530274,Jonas Hofmann,RightFoot,MissedShots,Hoffenheim,Bayer Leverkusen,Christian Kofane,0.03075793758034706
+7,0.9519999694824218,0.49700000762939456,Loic Bade,LeftFoot,SavedShot,Bayer Leverkusen,Werder Bremen,,0.5874242782592773
+17,0.9530000305175781,0.535,Ernest Poku,LeftFoot,MissedShots,Bayer Leverkusen,Werder Bremen,Patrik Schick,0.6307055354118347
+30,0.769000015258789,0.644000015258789,Patrik Schick,LeftFoot,MissedShots,Bayer Leverkusen,Werder Bremen,Ernest Poku,0.01936217024922371
+30,0.815,0.4640000152587891,Patrik Schick,LeftFoot,BlockedShot,Bayer Leverkusen,Werder Bremen,Ernest Poku,0.06528191268444061
+36,0.7559999847412109,0.34,Jonas Hofmann,RightFoot,BlockedShot,Bayer Leverkusen,Werder Bremen,Álex Grimaldo,0.021047193557024002
+36,0.925,0.42700000762939455,Lucas Vázquez,RightFoot,Goal,Bayer Leverkusen,Werder Bremen,Ibrahim Maza,0.45762959122657776
+45,0.695,0.4979999923706055,Ibrahim Maza,RightFoot,ShotOnPost,Bayer Leverkusen,Werder Bremen,Aleix García,0.017498264089226723
+50,0.894000015258789,0.5320000076293945,Loic Bade,RightFoot,BlockedShot,Bayer Leverkusen,Werder Bremen,Robert Andrich,0.08014676719903946
+46,0.93,0.544000015258789,Patrik Schick,LeftFoot,MissedShots,Bayer Leverkusen,Werder Bremen,Jarell Quansah,0.12693628668785095
+49,0.8180000305175781,0.46599998474121096,Jonas Hofmann,LeftFoot,MissedShots,Bayer Leverkusen,Werder Bremen,,0.07014071196317673
+49,0.845999984741211,0.6170000076293946,Álex Grimaldo,LeftFoot,SavedShot,Bayer Leverkusen,Werder Bremen,Jonas Hofmann,0.06506088376045227
+70,0.7930000305175782,0.6170000076293946,Ibrahim Maza,RightFoot,MissedShots,Bayer Leverkusen,Werder Bremen,Jarell Quansah,0.04296918585896492
+74,0.9340000152587891,0.6669999694824219,Álex Grimaldo,LeftFoot,SavedShot,Bayer Leverkusen,Werder Bremen,Jonas Hofmann,0.3363463878631592
+16,0.7780000305175782,0.3079999923706055,Jarell Quansah,LeftFoot,SavedShot,Eintracht Frankfurt,Bayer Leverkusen,Arthur,0.023934295400977135
+25,0.955999984741211,0.35400001525878905,Arthur,RightFoot,Goal,Eintracht Frankfurt,Bayer Leverkusen,Álex Grimaldo,0.33363088965415955
+32,0.8490000152587891,0.4209999847412109,Malik Tillman,RightFoot,Goal,Eintracht Frankfurt,Bayer Leverkusen,Christian Kofane,0.07886772602796555
+46,0.8159999847412109,0.4540000152587891,Martin Terrier,RightFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Álex Grimaldo,0.08379491418600082
+47,0.914000015258789,0.519000015258789,Edmond Tapsoba,Head,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,Malik Tillman,0.3410055339336395
+55,0.8030000305175782,0.4620000076293945,Ezequiél Fernández,LeftFoot,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,,0.03691685199737549
+75,0.775,0.504000015258789,Exequiel Palacios,RightFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Edmond Tapsoba,0.06009824201464653
+81,0.795,0.6880000305175781,Álex Grimaldo,LeftFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Exequiel Palacios,0.032090138643980026
+92,0.945,0.6170000076293946,Aleix García,LeftFoot,Goal,Eintracht Frankfurt,Bayer Leverkusen,Ernest Poku,0.45265910029411316
+94,0.86,0.3,Arthur,RightFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Jonas Hofmann,0.05055077001452446
+94,0.815,0.504000015258789,Exequiel Palacios,LeftFoot,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,,0.0378824844956398
