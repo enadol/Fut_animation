@@ -1,4 +1,5 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+9,0.050999999046325684,0.495,Max Rosenfelder,RightFoot,OwnGoal,Freiburg,FC Cologne,,0
 27,0.8880000305175781,0.37900001525878907,Sebastian Sebulonsen,RightFoot,MissedShots,Mainz 05,FC Cologne,Jakub Kaminski,0.09572658687829971
 44,0.9,0.6430000305175781,Jakub Kaminski,RightFoot,SavedShot,Mainz 05,FC Cologne,Marius Bülter,0.08857302367687225
 45,0.8580000305175781,0.64,Jan Thielmann,RightFoot,BlockedShot,Mainz 05,FC Cologne,Eric Martel,0.038625188171863556
@@ -185,3 +186,86 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 92,0.8880000305175781,0.654000015258789,Sebastian Sebulonsen,LeftFoot,BlockedShot,FC Cologne,Union Berlin,Cenk Özkacar,0.06156151741743088
 92,0.8130000305175781,0.5029999923706054,Kristoffer Lund,LeftFoot,BlockedShot,FC Cologne,Union Berlin,Sebastian Sebulonsen,0.03932027891278267
 96,0.8519999694824218,0.6519999694824219,Said El Mala,RightFoot,MissedShots,FC Cologne,Union Berlin,,0.04573636129498482
+8,0.935,0.649000015258789,Ragnar Ache,LeftFoot,SavedShot,FC Heidenheim,FC Cologne,Jakub Kaminski,0.3130675256252289
+11,0.9119999694824219,0.47299999237060547,Jakub Kaminski,RightFoot,SavedShot,FC Heidenheim,FC Cologne,Fynn Schenten,0.36186322569847107
+17,0.9319999694824219,0.4490000152587891,Eric Martel,Head,Goal,FC Heidenheim,FC Cologne,Alessio Castro-Montes,0.0642789825797081
+27,0.855,0.545,Jakub Kaminski,LeftFoot,BlockedShot,FC Heidenheim,FC Cologne,Ragnar Ache,0.08498648554086685
+39,0.825,0.5259999847412109,Ragnar Ache,LeftFoot,BlockedShot,FC Heidenheim,FC Cologne,Tom Krauß,0.06348007917404175
+45,0.9580000305175781,0.40200000762939453,Jahmai Simpson-Pusey,Head,SavedShot,FC Heidenheim,FC Cologne,Alessio Castro-Montes,0.020100891590118408
+45,0.950999984741211,0.35400001525878905,Jahmai Simpson-Pusey,RightFoot,BlockedShot,FC Heidenheim,FC Cologne,,0.07108531892299652
+47,0.8219999694824218,0.71,Said El Mala,RightFoot,Goal,FC Heidenheim,FC Cologne,Alessio Castro-Montes,0.0910961702466011
+53,0.8219999694824218,0.5729999923706055,Jakub Kaminski,RightFoot,MissedShots,FC Heidenheim,FC Cologne,Ragnar Ache,0.05168537795543671
+61,0.8919999694824219,0.745999984741211,Jakub Kaminski,RightFoot,MissedShots,FC Heidenheim,FC Cologne,Alessio Castro-Montes,0.030410736799240112
+62,0.9019999694824219,0.48700000762939455,Ragnar Ache,RightFoot,SavedShot,FC Heidenheim,FC Cologne,Eric Martel,0.3387194275856018
+67,0.925,0.5120000076293946,Eric Martel,RightFoot,BlockedShot,FC Heidenheim,FC Cologne,Sebastian Sebulonsen,0.12885399162769318
+67,0.8480000305175781,0.44799999237060545,Jan Thielmann,RightFoot,BlockedShot,FC Heidenheim,FC Cologne,,0.05816667899489403
+67,0.9330000305175781,0.500999984741211,Eric Martel,RightFoot,MissedShots,FC Heidenheim,FC Cologne,,0.11415212601423264
+67,0.7219999694824218,0.7519999694824219,Alessio Castro-Montes,RightFoot,MissedShots,FC Heidenheim,FC Cologne,,0.011065124534070492
+70,0.7680000305175781,0.3290000152587891,Sebastian Sebulonsen,RightFoot,SavedShot,FC Heidenheim,FC Cologne,Eric Martel,0.021968550980091095
+76,0.8369999694824218,0.3820000076293945,Linton Maina,LeftFoot,BlockedShot,FC Heidenheim,FC Cologne,Ragnar Ache,0.0837131217122078
+76,0.7340000152587891,0.509000015258789,Marius Bülter,RightFoot,MissedShots,FC Heidenheim,FC Cologne,Jakub Kaminski,0.01954963244497776
+85,0.7809999847412109,0.6179999923706054,Said El Mala,RightFoot,MissedShots,FC Heidenheim,FC Cologne,Kristoffer Lund,0.06172502413392067
+90,0.9630000305175781,0.45599998474121095,Ragnar Ache,RightFoot,SavedShot,FC Heidenheim,FC Cologne,Marius Bülter,0.7488259077072144
+91,0.7340000152587891,0.5870000076293945,Said El Mala,RightFoot,MissedShots,FC Heidenheim,FC Cologne,Jakub Kaminski,0.018874363973736763
+1,0.955999984741211,0.6220000076293946,Said El Mala,RightFoot,SavedShot,FC Cologne,Bayern Munich,Linton Maina,0.366549015045166
+18,0.745,0.46900001525878904,Jakub Kaminski,RightFoot,BlockedShot,FC Cologne,Bayern Munich,Ragnar Ache,0.021026166155934334
+37,0.865,0.29700000762939455,Ragnar Ache,LeftFoot,MissedShots,FC Cologne,Bayern Munich,Tom Krauß,0.06349170207977295
+40,0.8190000152587891,0.514000015258789,Linton Maina,LeftFoot,Goal,FC Cologne,Bayern Munich,,0.1081547811627388
+49,0.8630000305175781,0.7480000305175781,Kristoffer Lund,RightFoot,MissedShots,FC Cologne,Bayern Munich,,0.04269684851169586
+57,0.850999984741211,0.645,Jakub Kaminski,RightFoot,SavedShot,FC Cologne,Bayern Munich,,0.020640483126044273
+78,0.8130000305175781,0.51,Marius Bülter,LeftFoot,MissedShots,FC Cologne,Bayern Munich,,0.04673764482140541
+94,0.9230000305175782,0.455,Jahmai Simpson-Pusey,Head,BlockedShot,FC Cologne,Bayern Munich,Ísak Bergmann Jóhannesson,0.045361973345279694
+3,0.874000015258789,0.7230000305175781,Said El Mala,LeftFoot,MissedShots,FC Cologne,Mainz 05,Jahmai Simpson-Pusey,0.037222620099782944
+8,0.845999984741211,0.6990000152587891,Jakub Kaminski,RightFoot,MissedShots,FC Cologne,Mainz 05,Cenk Özkacar,0.0336170569062233
+10,0.8530000305175781,0.7090000152587891,Said El Mala,RightFoot,MissedShots,FC Cologne,Mainz 05,,0.03540486469864845
+24,0.9059999847412109,0.6419999694824219,Jakub Kaminski,LeftFoot,BlockedShot,FC Cologne,Mainz 05,Ísak Bergmann Jóhannesson,0.09309987723827362
+26,0.794000015258789,0.275,Linton Maina,LeftFoot,SavedShot,FC Cologne,Mainz 05,Eric Martel,0.021297698840498924
+43,0.9059999847412109,0.5890000152587891,Marius Bülter,Head,MissedShots,FC Cologne,Mainz 05,Alessio Castro-Montes,0.058522555977106094
+46,0.870999984741211,0.605,Eric Martel,RightFoot,BlockedShot,FC Cologne,Mainz 05,Ísak Bergmann Jóhannesson,0.05402042716741562
+49,0.905,0.3029999923706055,Marius Bülter,RightFoot,SavedShot,FC Cologne,Mainz 05,Alessio Castro-Montes,0.09386695176362991
+54,0.8669999694824219,0.5529999923706055,Marius Bülter,RightFoot,MissedShots,FC Cologne,Mainz 05,Ragnar Ache,0.058519285172224045
+55,0.8040000152587891,0.514000015258789,Ragnar Ache,RightFoot,BlockedShot,FC Cologne,Mainz 05,Said El Mala,0.08257749676704407
+56,0.9540000152587891,0.5429999923706055,Ragnar Ache,Head,Goal,FC Cologne,Mainz 05,Alessio Castro-Montes,0.4221472442150116
+58,0.7659999847412109,0.3579999923706055,Jakub Kaminski,RightFoot,BlockedShot,FC Cologne,Mainz 05,Alessio Castro-Montes,0.024392858147621155
+64,0.789000015258789,0.36700000762939455,Ragnar Ache,LeftFoot,BlockedShot,FC Cologne,Mainz 05,Marius Bülter,0.01824348233640194
+64,0.8640000152587891,0.485,Ragnar Ache,RightFoot,MissedShots,FC Cologne,Mainz 05,,0.07661150395870209
+67,0.845999984741211,0.529000015258789,Marius Bülter,RightFoot,BlockedShot,FC Cologne,Mainz 05,Ragnar Ache,0.0891512930393219
+68,0.749000015258789,0.514000015258789,Marius Bülter,LeftFoot,SavedShot,FC Cologne,Mainz 05,Ragnar Ache,0.02687058039009571
+84,0.950999984741211,0.3870000076293945,Marius Bülter,Head,MissedShots,FC Cologne,Mainz 05,Gian-Luca Waldschmidt,0.015184623189270496
+84,0.985999984741211,0.5420000076293945,Ragnar Ache,Head,Goal,FC Cologne,Mainz 05,,0.6966574192047119
+94,0.8769999694824219,0.5620000076293945,Said El Mala,RightFoot,SavedShot,FC Cologne,Mainz 05,Gian-Luca Waldschmidt,0.4101002812385559
+94,0.9280000305175782,0.6,Said El Mala,LeftFoot,MissedShots,FC Cologne,Mainz 05,,0.12856817245483398
+1,0.860999984741211,0.6869999694824219,Linton Maina,LeftFoot,MissedShots,Freiburg,FC Cologne,,0.05023851990699768
+5,0.7469999694824219,0.605999984741211,Marius Bülter,RightFoot,MissedShots,Freiburg,FC Cologne,,0.01872367411851883
+16,0.8669999694824219,0.44099998474121094,Linton Maina,RightFoot,BlockedShot,Freiburg,FC Cologne,Alessio Castro-Montes,0.10052184760570526
+20,0.8119999694824219,0.5970000076293945,Linton Maina,RightFoot,BlockedShot,Freiburg,FC Cologne,,0.04974381625652313
+33,0.8959999847412109,0.44799999237060545,Ragnar Ache,RightFoot,SavedShot,Freiburg,FC Cologne,Marius Bülter,0.08786952495574951
+36,0.9209999847412109,0.5259999847412109,Linton Maina,LeftFoot,SavedShot,Freiburg,FC Cologne,Ragnar Ache,0.11194852739572525
+45,0.9290000152587891,0.555,Ragnar Ache,Head,MissedShots,Freiburg,FC Cologne,Alessio Castro-Montes,0.4538211226463318
+46,0.895,0.41900001525878905,Ragnar Ache,Head,MissedShots,Freiburg,FC Cologne,Marius Bülter,0.04710925742983818
+48,0.9230000305175782,0.595,Marius Bülter,LeftFoot,BlockedShot,Freiburg,FC Cologne,Linton Maina,0.09040756523609161
+50,0.740999984741211,0.5429999923706055,Marius Bülter,RightFoot,SavedShot,Freiburg,FC Cologne,Alessio Castro-Montes,0.017058392986655235
+54,0.8640000152587891,0.590999984741211,Sebastian Sebulonsen,RightFoot,BlockedShot,Freiburg,FC Cologne,Alessio Castro-Montes,0.026982765644788742
+54,0.8159999847412109,0.5409999847412109,Marius Bülter,LeftFoot,BlockedShot,Freiburg,FC Cologne,,0.0450001135468483
+72,0.9080000305175782,0.44400001525878907,Ragnar Ache,Head,MissedShots,Freiburg,FC Cologne,Alessio Castro-Montes,0.06400206685066223
+73,0.8680000305175781,0.72,Said El Mala,RightFoot,BlockedShot,Freiburg,FC Cologne,Linton Maina,0.04048555716872215
+75,0.775,0.35700000762939454,Linton Maina,RightFoot,MissedShots,Freiburg,FC Cologne,Tom Krauß,0.02369977906346321
+77,0.8440000152587891,0.29399999618530276,Alessio Castro-Montes,LeftFoot,BlockedShot,Freiburg,FC Cologne,Marius Bülter,0.036311231553554535
+81,0.789000015258789,0.4809999847412109,Alessio Castro-Montes,RightFoot,MissedShots,Freiburg,FC Cologne,,0.11359788477420807
+83,0.9269999694824219,0.5559999847412109,Marius Bülter,Head,SavedShot,Freiburg,FC Cologne,Alessio Castro-Montes,0.28350335359573364
+95,0.7759999847412109,0.49599998474121093,Fynn Schenten,RightFoot,MissedShots,Freiburg,FC Cologne,,0.030162783339619637
+17,0.9290000152587891,0.5059999847412109,Ragnar Ache,Head,SavedShot,FC Cologne,Wolfsburg,Kristoffer Lund,0.44000884890556335
+17,0.8190000152587891,0.5359999847412109,Kristoffer Lund,RightFoot,BlockedShot,FC Cologne,Wolfsburg,,0.041914261877536774
+21,0.7830000305175782,0.5109999847412109,Eric Martel,LeftFoot,MissedShots,FC Cologne,Wolfsburg,Linton Maina,0.03318316116929054
+24,0.9059999847412109,0.64,Kristoffer Lund,Head,MissedShots,FC Cologne,Wolfsburg,Marius Bülter,0.01612723432481289
+25,0.88,0.64,Ragnar Ache,Head,MissedShots,FC Cologne,Wolfsburg,Alessio Castro-Montes,0.007878778502345085
+28,0.8019999694824219,0.43200000762939456,Linton Maina,LeftFoot,Goal,FC Cologne,Wolfsburg,Tom Krauß,0.04086679965257645
+32,0.87,0.3290000152587891,Linton Maina,RightFoot,BlockedShot,FC Cologne,Wolfsburg,,0.06770449131727219
+35,0.870999984741211,0.6769999694824219,Jakub Kaminski,RightFoot,BlockedShot,FC Cologne,Wolfsburg,Marius Bülter,0.0726425051689148
+38,0.895,0.73,Marius Bülter,RightFoot,BlockedShot,FC Cologne,Wolfsburg,Kristoffer Lund,0.04848799854516983
+38,0.8059999847412109,0.63,Kristoffer Lund,RightFoot,MissedShots,FC Cologne,Wolfsburg,,0.04202602058649063
+42,0.8669999694824219,0.36200000762939455,Tom Krauß,RightFoot,BlockedShot,FC Cologne,Wolfsburg,Sebastian Sebulonsen,0.08255375921726227
+60,0.9680000305175781,0.685,Marius Bülter,LeftFoot,MissedShots,FC Cologne,Wolfsburg,,0.07603196054697037
+67,0.87,0.32299999237060545,Linton Maina,RightFoot,MissedShots,FC Cologne,Wolfsburg,Ísak Bergmann Jóhannesson,0.11485811322927475
+79,0.8569999694824219,0.67,Said El Mala,RightFoot,MissedShots,FC Cologne,Wolfsburg,Tom Krauß,0.05501573532819748
+95,0.9080000305175782,0.5740000152587891,Said El Mala,LeftFoot,SavedShot,FC Cologne,Wolfsburg,,0.2983306646347046

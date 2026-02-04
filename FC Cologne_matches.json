@@ -448,5 +448,155 @@
             "l": 0.5640460228710749
         },
         "result": "l"
+    },
+    {
+        "id": "30364",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.14635",
+            "a": "2.75624"
+        },
+        "datetime": "2026-01-10 14:30:00",
+        "forecast": {
+            "w": 0.3044782425657708,
+            "d": 0.17929215846734298,
+            "l": 0.5162293535578286
+        },
+        "result": "d"
+    },
+    {
+        "id": "30370",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "0.714659",
+            "a": "2.11635"
+        },
+        "datetime": "2026-01-14 19:30:00",
+        "forecast": {
+            "w": 0.11351010438660909,
+            "d": 0.18806850082594084,
+            "l": 0.6984213866734071
+        },
+        "result": "l"
+    },
+    {
+        "id": "30379",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.41277",
+            "a": "1.91073"
+        },
+        "datetime": "2026-01-17 14:30:00",
+        "forecast": {
+            "w": 0.49597112408922095,
+            "d": 0.19342666659531962,
+            "l": 0.3106021631796826
+        },
+        "result": "w"
+    },
+    {
+        "id": "30390",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.56728",
+            "a": "1.69119"
+        },
+        "datetime": "2026-01-25 16:30:00",
+        "forecast": {
+            "w": 0.5679397483276536,
+            "d": 0.1848073672775244,
+            "l": 0.24725278721528263
+        },
+        "result": "l"
+    },
+    {
+        "id": "30398",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.43559",
+            "a": "1.34631"
+        },
+        "datetime": "2026-01-30 19:30:00",
+        "forecast": {
+            "w": 0.39356504346249505,
+            "d": 0.25346533217701206,
+            "l": 0.35296962429640494
+        },
+        "result": "w"
     }
 ]
