@@ -13,7 +13,7 @@ except ImportError:
     tqdm = None
 
 # --- Configuration ---
-CLUB = "St. Pauli"  # Default club
+CLUB = "Union Berlin"  # Default club
 DPI = 150                  # Resolution (100-150 is good for 1080p, 300 is overkill)
 FPS = 30                   # Standard video FPS
 FRAMES_PER_MINUTE = 10     # How many frames to animate one match-minute growth
@@ -97,8 +97,9 @@ def main():
     # The previous code animated the stem height for the current minute from 0 -> value
     
     # Setup Figure (Single Global Instance)
-    fig_width, fig_height = 12, 8
+    fig_width, fig_height = 16, 9
     fig, ax = plt.subplots(figsize=(fig_width, fig_height), dpi=DPI, facecolor='#f8f8fa')
+    fig.tight_layout()
     
     # Static Elements (Draw Once)
     # Background Image
@@ -176,7 +177,7 @@ def main():
     # frames = minutes * frames_per_minute
     total_frames = int((max_minute + 1) * FRAMES_PER_MINUTE)
     # Add freeze frames at end
-    freeze_frames = int(3 * FPS) # 3 seconds freeze
+    freeze_frames = int(7 * FPS) # 3 seconds freeze
     
     # Frame generator
     frames = np.linspace(0, max_minute, total_frames)
