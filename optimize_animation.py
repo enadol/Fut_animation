@@ -13,11 +13,11 @@ except ImportError:
     tqdm = None
 
 # --- Configuration ---
-CLUB = "Union Berlin"  # Default club
+CLUB = "St. Pauli"  # Default club
 DPI = 150                  # Resolution (100-150 is good for 1080p, 300 is overkill)
 FPS = 30                   # Standard video FPS
 FRAMES_PER_MINUTE = 10     # How many frames to animate one match-minute growth
-OUTPUT_FILENAME = f"{CLUB}_optimized_animation_hw.mp4"
+OUTPUT_FILENAME = f"{CLUB}_shots_animation_hw.mp4"
 
 # --- Setup Paths ---
 # Handle team name variations for image loading
@@ -99,7 +99,7 @@ def main():
     # Setup Figure (Single Global Instance)
     fig_width, fig_height = 16, 9
     fig, ax = plt.subplots(figsize=(fig_width, fig_height), dpi=DPI, facecolor='#f8f8fa')
-    fig.tight_layout()
+    fig.tight_layout(pad=2.08)
     
     # Static Elements (Draw Once)
     # Background Image
