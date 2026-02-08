@@ -13,7 +13,7 @@ except ImportError:
     tqdm = None
 
 # --- Configuration ---
-CLUB = "Hamburger SV"  # Default club
+CLUB = "Bayer Leverkusen"  # Default club
 DPI = 150                  # Resolution (100-150 is good for 1080p, 300 is overkill)
 FPS = 30                   # Standard video FPS
 FRAMES_PER_MINUTE = 10     # How many frames to animate one match-minute growth
@@ -205,8 +205,8 @@ def main():
         else:
             # Simple fallback
             def progress_callback(frame, total):
-                if frame % 50 == 0 or frame == total - 1:
-                    print(f"Rendering: {frame}/{total} frames ({(frame/total)*100:.1f}%)", end='\r')
+                if frame % 10 == 0 or frame == total - 1:
+                    print(f"Rendering: {frame}/{total} frames ({(frame/total)*100:.1f}%)", end='\r', flush=True)
             ani.save(OUTPUT_FILENAME, writer=writer, dpi=DPI, progress_callback=progress_callback)
             print("\nDone.")
 
