@@ -598,5 +598,35 @@
             "l": 0.35296962429640494
         },
         "result": "w"
+    },
+    {
+        "id": "30406",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.12167",
+            "a": "3.0577"
+        },
+        "datetime": "2026-02-08 14:30:00",
+        "forecast": {
+            "w": 0.10617898686044802,
+            "d": 0.1342174805529885,
+            "l": 0.7596026868347374
+        },
+        "result": "l"
     }
 ]

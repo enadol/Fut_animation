@@ -13,7 +13,7 @@ except ImportError:
     tqdm = None
 
 # --- Configuration ---
-CLUB = "Bayer Leverkusen"  # Default club
+CLUB = "Bayern Munich"  # Default club
 DPI = 150                  # Resolution (100-150 is good for 1080p, 300 is overkill)
 FPS = 30                   # Standard video FPS
 FRAMES_PER_MINUTE = 10     # How many frames to animate one match-minute growth
