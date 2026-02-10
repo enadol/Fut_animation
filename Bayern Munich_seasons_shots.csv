@@ -381,3 +381,30 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 89,0.805,0.5229999923706055,Jamal Musiala,LeftFoot,SavedShot,Hamburger SV,Bayern Munich,,0.05352209508419037
 90,0.905,0.4909999847412109,Joshua Kimmich,RightFoot,BlockedShot,Hamburger SV,Bayern Munich,,0.05063721537590027
 94,0.9019999694824219,0.35700000762939454,Luis Díaz,RightFoot,BlockedShot,Hamburger SV,Bayern Munich,,0.05887666344642639
+3,0.8180000305175781,0.43,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Hoffenheim,Michael Olise,0.05734838917851448
+8,0.8130000305175781,0.295,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Hoffenheim,Josip Stanisic,0.02706538699567318
+9,0.9459999847412109,0.5109999847412109,Aleksandar Pavlovic,Head,MissedShots,Bayern Munich,Hoffenheim,Harry Kane,0.06230086460709572
+11,0.8430000305175781,0.6519999694824219,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Hoffenheim,Luis Díaz,0.049933549016714096
+19,0.885,0.5,Harry Kane,RightFoot,Goal,Bayern Munich,Hoffenheim,,0.75777667760849
+21,0.889000015258789,0.7240000152587891,Alphonso Davies,LeftFoot,MissedShots,Bayern Munich,Hoffenheim,Joshua Kimmich,0.04619216173887253
+26,0.8440000152587891,0.5920000076293945,Luis Díaz,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Michael Olise,0.08484712988138199
+26,0.9169999694824219,0.47900001525878905,Harry Kane,RightFoot,MissedShots,Bayern Munich,Hoffenheim,,0.5045173764228821
+28,0.750999984741211,0.35900001525878905,Harry Kane,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Michael Olise,0.042942680418491364
+31,0.8869999694824219,0.705999984741211,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Hoffenheim,Luis Díaz,0.06477367877960205
+37,0.9219999694824219,0.46700000762939453,Harry Kane,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Serge Gnabry,0.37644609808921814
+44,0.885,0.5,Harry Kane,RightFoot,Goal,Bayern Munich,Hoffenheim,,0.75777667760849
+46,0.899000015258789,0.5729999923706055,Luis Díaz,RightFoot,Goal,Bayern Munich,Hoffenheim,Harry Kane,0.4863147437572479
+50,0.9230000305175782,0.509000015258789,Harry Kane,Head,SavedShot,Bayern Munich,Hoffenheim,Joshua Kimmich,0.42564937472343445
+61,0.9569999694824218,0.4329999923706055,Luis Díaz,RightFoot,Goal,Bayern Munich,Hoffenheim,Michael Olise,0.5882225632667542
+63,0.909000015258789,0.5590000152587891,Luis Díaz,Head,MissedShots,Bayern Munich,Hoffenheim,Harry Kane,0.32898759841918945
+66,0.9019999694824219,0.46599998474121096,Harry Kane,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Luis Díaz,0.45808497071266174
+68,0.8290000152587891,0.42900001525878906,Joshua Kimmich,RightFoot,MissedShots,Bayern Munich,Hoffenheim,Luis Díaz,0.08663469552993774
+76,0.9330000305175781,0.5590000152587891,Alphonso Davies,Head,MissedShots,Bayern Munich,Hoffenheim,Luis Díaz,0.05762684345245361
+78,0.7880000305175782,0.35700000762939454,Lennart Karl,LeftFoot,MissedShots,Bayern Munich,Hoffenheim,Jamal Musiala,0.02821432240307331
+81,0.884000015258789,0.45099998474121095,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,Hoffenheim,Nicolas Jackson,0.1271454095840454
+82,0.9369999694824219,0.72,Jamal Musiala,LeftFoot,SavedShot,Bayern Munich,Hoffenheim,Konrad Laimer,0.06909222900867462
+86,0.8090000152587891,0.4520000076293945,Jamal Musiala,RightFoot,MissedShots,Bayern Munich,Hoffenheim,Nicolas Jackson,0.07136579602956772
+87,0.7880000305175782,0.6680000305175782,Aleksandar Pavlovic,RightFoot,MissedShots,Bayern Munich,Hoffenheim,Luis Díaz,0.02794894017279148
+88,0.815,0.5059999847412109,Luis Díaz,RightFoot,Goal,Bayern Munich,Hoffenheim,Jamal Musiala,0.0747465044260025
+91,0.8080000305175781,0.3089999961853027,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Hoffenheim,Aleksandar Pavlovic,0.04227546602487564
+91,0.9690000152587891,0.5429999923706055,Nicolas Jackson,LeftFoot,BlockedShot,Bayern Munich,Hoffenheim,,0.748492956161499
