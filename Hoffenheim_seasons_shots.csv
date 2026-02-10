@@ -260,3 +260,12 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 82,0.8959999847412109,0.3270000076293945,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,Union Berlin,Max Moerstedt,0.11065694689750671
 89,0.9219999694824219,0.5379999923706055,Vladimir Coufal,Head,MissedShots,Hoffenheim,Union Berlin,Alexander Prass,0.06345879286527634
 96,0.865,0.5770000076293945,Ihlas Bebou,LeftFoot,SavedShot,Hoffenheim,Union Berlin,Grischa Prömel,0.10052204877138138
+24,0.9290000152587891,0.4909999847412109,Ozan Kabak,Head,MissedShots,Bayern Munich,Hoffenheim,Alexander Prass,0.35526183247566223
+28,0.9159999847412109,0.5529999923706055,Fisnik Asllani,Head,ShotOnPost,Bayern Munich,Hoffenheim,Vladimir Coufal,0.23587661981582642
+32,0.9030000305175782,0.44799999237060545,Andrej Kramaric,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Fisnik Asllani,0.44815245270729065
+32,0.96,0.5870000076293945,Bazoumana Touré,LeftFoot,MissedShots,Bayern Munich,Hoffenheim,,0.4523773491382599
+34,0.914000015258789,0.5,Andrej Kramaric,LeftFoot,Goal,Bayern Munich,Hoffenheim,Fisnik Asllani,0.5013388395309448
+56,0.96,0.6659999847412109,Fisnik Asllani,LeftFoot,SavedShot,Bayern Munich,Hoffenheim,Alexander Prass,0.2453007847070694
+74,0.8880000305175781,0.33099998474121095,Muhammed Damar,LeftFoot,BlockedShot,Bayern Munich,Hoffenheim,,0.044827237725257874
+85,0.8069999694824219,0.69,Max Moerstedt,RightFoot,BlockedShot,Bayern Munich,Hoffenheim,Muhammed Damar,0.058380626142024994
+85,0.909000015258789,0.515,Muhammed Damar,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Max Moerstedt,0.5623365640640259
