@@ -538,5 +538,95 @@
             "l": 0.624600218846034
         },
         "result": "w"
+    },
+    {
+        "id": "30365",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.33165",
+            "a": "2.05989"
+        },
+        "datetime": "2026-01-27 19:30:00",
+        "forecast": {
+            "w": 0.24518597677625228,
+            "d": 0.21228713731591106,
+            "l": 0.5425268801916464
+        },
+        "result": "d"
+    },
+    {
+        "id": "30401",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.09422",
+            "a": "2.57678"
+        },
+        "datetime": "2026-01-31 14:30:00",
+        "forecast": {
+            "w": 0.32090360239573257,
+            "d": 0.18618105080220954,
+            "l": 0.4929152383498336
+        },
+        "result": "l"
+    },
+    {
+        "id": "30406",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.12167",
+            "a": "3.0577"
+        },
+        "datetime": "2026-02-08 14:30:00",
+        "forecast": {
+            "w": 0.10617898686044802,
+            "d": 0.1342174805529885,
+            "l": 0.7596026868347374
+        },
+        "result": "w"
     }
 ]

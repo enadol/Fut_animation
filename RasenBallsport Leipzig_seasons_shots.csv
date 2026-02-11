@@ -294,3 +294,49 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 61,0.894000015258789,0.34,Bote Baku,LeftFoot,Goal,FC Heidenheim,RasenBallsport Leipzig,Yan Diomande,0.09082391858100891
 67,0.855,0.5729999923706055,Antonio Nusa,RightFoot,Goal,FC Heidenheim,RasenBallsport Leipzig,Nicolas Seiwald,0.12889647483825684
 69,0.9319999694824219,0.6919999694824219,David Raum,LeftFoot,Goal,FC Heidenheim,RasenBallsport Leipzig,Yan Diomande,0.08602164685726166
+7,0.794000015258789,0.33599998474121096,Xaver Schlager,LeftFoot,ShotOnPost,St. Pauli,RasenBallsport Leipzig,Yan Diomande,0.02436435967683792
+14,0.87,0.365,Xaver Schlager,LeftFoot,BlockedShot,St. Pauli,RasenBallsport Leipzig,Yan Diomande,0.07836049795150757
+14,0.9030000305175782,0.395,Yan Diomande,RightFoot,BlockedShot,St. Pauli,RasenBallsport Leipzig,Rômulo,0.09142395108938217
+20,0.84,0.40200000762939453,Nicolas Seiwald,RightFoot,MissedShots,St. Pauli,RasenBallsport Leipzig,Xaver Schlager,0.07225732505321503
+34,0.8859999847412109,0.68,Antonio Nusa,RightFoot,SavedShot,St. Pauli,RasenBallsport Leipzig,Yan Diomande,0.06385165452957153
+36,0.7969999694824219,0.6020000076293945,David Raum,LeftFoot,MissedShots,St. Pauli,RasenBallsport Leipzig,Christoph Baumgartner,0.03508484736084938
+43,0.8530000305175781,0.4879999923706055,Antonio Nusa,RightFoot,SavedShot,St. Pauli,RasenBallsport Leipzig,Yan Diomande,0.12852360308170319
+46,0.9280000305175782,0.34700000762939454,Rômulo,RightFoot,MissedShots,St. Pauli,RasenBallsport Leipzig,Christoph Baumgartner,0.2645425796508789
+56,0.9259999847412109,0.4979999923706055,Rômulo,Head,MissedShots,St. Pauli,RasenBallsport Leipzig,Bote Baku,0.7256914973258972
+65,0.815,0.48200000762939454,Yan Diomande,RightFoot,Goal,St. Pauli,RasenBallsport Leipzig,,0.040467943996191025
+70,0.914000015258789,0.5259999847412109,Antonio Nusa,RightFoot,SavedShot,St. Pauli,RasenBallsport Leipzig,Xaver Schlager,0.4995712637901306
+85,0.855999984741211,0.7269999694824218,Tidiam Gomis,RightFoot,SavedShot,St. Pauli,RasenBallsport Leipzig,Ezechiel Banzuzi,0.03575487807393074
+22,0.88,0.6990000152587891,Antonio Nusa,RightFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Nicolas Seiwald,0.046238597482442856
+27,0.8719999694824219,0.46900001525878904,Conrad Harder,Head,SavedShot,RasenBallsport Leipzig,Mainz 05,David Raum,0.012095660902559757
+33,0.8490000152587891,0.620999984741211,Conrad Harder,LeftFoot,MissedShots,RasenBallsport Leipzig,Mainz 05,Xaver Schlager,0.06640995293855667
+39,0.924000015258789,0.52,Conrad Harder,Head,Goal,RasenBallsport Leipzig,Mainz 05,Antonio Nusa,0.39424365758895874
+47,0.865999984741211,0.35400001525878905,Bote Baku,RightFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Yan Diomande,0.07450345903635025
+47,0.855,0.45299999237060545,Rômulo,LeftFoot,SavedShot,RasenBallsport Leipzig,Mainz 05,,0.07319946587085724
+49,0.8040000152587891,0.5109999847412109,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Mainz 05,Conrad Harder,0.050719086080789566
+61,0.8909999847412109,0.28299999237060547,Conrad Harder,LeftFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Yan Diomande,0.03956007957458496
+61,0.9519999694824218,0.45599998474121095,Rômulo,LeftFoot,ShotOnPost,RasenBallsport Leipzig,Mainz 05,Yan Diomande,0.5698162317276001
+70,0.8590000152587891,0.539000015258789,Conrad Harder,RightFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Antonio Nusa,0.10155776143074036
+78,0.8730000305175781,0.605999984741211,Antonio Nusa,LeftFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Tidiam Gomis,0.05824359133839607
+79,0.9540000152587891,0.45599998474121095,Willi Orban,Head,SavedShot,RasenBallsport Leipzig,Mainz 05,David Raum,0.43214645981788635
+84,0.870999984741211,0.6270000076293946,Tidiam Gomis,RightFoot,MissedShots,RasenBallsport Leipzig,Mainz 05,Antonio Nusa,0.06287247687578201
+85,0.894000015258789,0.5079999923706054,Ezechiel Banzuzi,Head,MissedShots,RasenBallsport Leipzig,Mainz 05,David Raum,0.06895340979099274
+87,0.9019999694824219,0.5070000076293946,Conrad Harder,Head,MissedShots,RasenBallsport Leipzig,Mainz 05,Willi Orban,0.04911305010318756
+6,0.960999984741211,0.5620000076293945,Christoph Baumgartner,LeftFoot,SavedShot,FC Cologne,RasenBallsport Leipzig,David Raum,0.5918374061584473
+6,0.9840000152587891,0.5579999923706055,Rômulo,RightFoot,ShotOnPost,FC Cologne,RasenBallsport Leipzig,,0.6468158960342407
+6,0.8780000305175781,0.5459999847412109,Yan Diomande,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,,0.09636029601097107
+6,0.9440000152587891,0.48900001525878906,Yan Diomande,RightFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,Antonio Nusa,0.512169361114502
+23,0.9119999694824219,0.47,Brajan Gruda,RightFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,,0.09380194544792175
+24,0.7469999694824219,0.534000015258789,Xaver Schlager,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Yan Diomande,0.021691301837563515
+25,0.8830000305175781,0.525,Xaver Schlager,LeftFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,David Raum,0.055457811802625656
+25,0.8069999694824219,0.5220000076293946,Xaver Schlager,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Christoph Baumgartner,0.04329998791217804
+28,0.9130000305175782,0.5059999847412109,Christoph Baumgartner,Head,Goal,FC Cologne,RasenBallsport Leipzig,David Raum,0.3459585905075073
+35,0.8630000305175781,0.6309999847412109,Brajan Gruda,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Rômulo,0.11535991728305817
+37,0.8080000305175781,0.3870000076293945,Benjamin Henrichs,RightFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,Yan Diomande,0.05311350151896477
+44,0.8959999847412109,0.634000015258789,Yan Diomande,RightFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Xaver Schlager,0.19286534190177917
+45,0.9219999694824219,0.5890000152587891,Rômulo,RightFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,David Raum,0.07585640251636505
+55,0.9059999847412109,0.3890000152587891,Christoph Baumgartner,RightFoot,Goal,FC Cologne,RasenBallsport Leipzig,Xaver Schlager,0.3686428964138031
+74,0.8240000152587891,0.5729999923706055,Yan Diomande,RightFoot,SavedShot,FC Cologne,RasenBallsport Leipzig,Antonio Nusa,0.10346878319978714
+83,0.85,0.7559999847412109,Antonio Nusa,RightFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,David Raum,0.03263848274946213
+83,0.765,0.5220000076293946,Ezechiel Banzuzi,LeftFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,,0.020483363419771194
+94,0.8059999847412109,0.5070000076293946,Conrad Harder,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Antonio Nusa,0.06233853101730347
+95,0.9119999694824219,0.66,Max Finkgrafe,LeftFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,Ezechiel Banzuzi,0.09081710875034332
