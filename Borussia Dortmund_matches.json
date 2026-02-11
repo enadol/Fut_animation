@@ -568,5 +568,65 @@
             "l": 0.66245145347488
         },
         "result": "w"
+    },
+    {
+        "id": "30396",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "4.13897",
+            "a": "3.04324"
+        },
+        "datetime": "2026-02-01 16:30:00",
+        "forecast": {
+            "w": 0.5862089932606237,
+            "d": 0.1403189837665969,
+            "l": 0.2734419498135738
+        },
+        "result": "w"
+    },
+    {
+        "id": "30412",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.02751",
+            "a": "1.70601"
+        },
+        "datetime": "2026-02-07 14:30:00",
+        "forecast": {
+            "w": 0.4575675567361201,
+            "d": 0.21245239602332888,
+            "l": 0.32998004214017324
+        },
+        "result": "w"
     }
 ]
