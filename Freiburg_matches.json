@@ -448,5 +448,185 @@
             "l": 0.6625361920501711
         },
         "result": "w"
+    },
+    {
+        "id": "30363",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.93517",
+            "a": "0.850812"
+        },
+        "datetime": "2026-01-10 14:30:00",
+        "forecast": {
+            "w": 0.7952491614831944,
+            "d": 0.12622237980448137,
+            "l": 0.07852794577388791
+        },
+        "result": "w"
+    },
+    {
+        "id": "30374",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.80289",
+            "a": "0.147682"
+        },
+        "datetime": "2026-01-14 19:30:00",
+        "forecast": {
+            "w": 0.9135666335344972,
+            "d": 0.07630919844189248,
+            "l": 0.010123877716912859
+        },
+        "result": "l"
+    },
+    {
+        "id": "30377",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.986653",
+            "a": "1.59107"
+        },
+        "datetime": "2026-01-18 16:30:00",
+        "forecast": {
+            "w": 0.23457408956587672,
+            "d": 0.2509756550756596,
+            "l": 0.5144502551749704
+        },
+        "result": "d"
+    },
+    {
+        "id": "30390",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.56728",
+            "a": "1.69119"
+        },
+        "datetime": "2026-01-25 16:30:00",
+        "forecast": {
+            "w": 0.5679397483276536,
+            "d": 0.1848073672775244,
+            "l": 0.24725278721528263
+        },
+        "result": "w"
+    },
+    {
+        "id": "30402",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.95203",
+            "a": "0.936187"
+        },
+        "datetime": "2026-02-01 14:30:00",
+        "forecast": {
+            "w": 0.7809679853578153,
+            "d": 0.1305269449646942,
+            "l": 0.08850451937720295
+        },
+        "result": "l"
+    },
+    {
+        "id": "30407",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.36452",
+            "a": "1.12332"
+        },
+        "datetime": "2026-02-07 14:30:00",
+        "forecast": {
+            "w": 0.11975011515474197,
+            "d": 0.3282527688569225,
+            "l": 0.5519971159868055
+        },
+        "result": "w"
     }
 ]

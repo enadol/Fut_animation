@@ -196,3 +196,70 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 80,0.9669999694824218,0.605,Nicolas Höfler,Head,SavedShot,Wolfsburg,Freiburg,Junior Adamu,0.0467279888689518
 80,0.975,0.4909999847412109,Maximilian Eggestein,RightFoot,SavedShot,Wolfsburg,Freiburg,,0.1950523406267166
 89,0.914000015258789,0.3220000076293945,Derry Scherhant,RightFoot,BlockedShot,Wolfsburg,Freiburg,Maximilian Eggestein,0.11995736509561539
+8,0.91,0.3160000038146973,Lukas Kübler,RightFoot,ShotOnPost,Freiburg,Hamburger SV,Yuito Suzuki,0.053382549434900284
+12,0.8930000305175781,0.6459999847412109,Maximilian Eggestein,Head,MissedShots,Freiburg,Hamburger SV,Christian Günter,0.020498136058449745
+13,0.7090000152587891,0.40200000762939453,Yuito Suzuki,RightFoot,SavedShot,Freiburg,Hamburger SV,Matthias Ginter,0.019205600023269653
+18,0.8780000305175781,0.36,Lucas Höler,RightFoot,SavedShot,Freiburg,Hamburger SV,Philipp Treu,0.3340089023113251
+22,0.9619999694824218,0.5740000152587891,Lucas Höler,RightFoot,SavedShot,Freiburg,Hamburger SV,Christian Günter,0.5494508147239685
+25,0.7119999694824218,0.39099998474121095,Johan Manzambi,RightFoot,BlockedShot,Freiburg,Hamburger SV,Vincenzo Grifo,0.01534978300333023
+26,0.8590000152587891,0.40900001525878904,Maximilian Eggestein,RightFoot,BlockedShot,Freiburg,Hamburger SV,Lucas Höler,0.06108611077070236
+26,0.7030000305175781,0.5359999847412109,Yuito Suzuki,RightFoot,BlockedShot,Freiburg,Hamburger SV,,0.011392221786081791
+34,0.7440000152587891,0.33599998474121096,Yuito Suzuki,RightFoot,MissedShots,Freiburg,Hamburger SV,Maximilian Eggestein,0.018261803314089775
+52,0.885,0.5,Vincenzo Grifo,RightFoot,Goal,Freiburg,Hamburger SV,,0.75777667760849
+55,0.8980000305175782,0.39299999237060546,Yuito Suzuki,Head,SavedShot,Freiburg,Hamburger SV,Philipp Treu,0.02850671298801899
+55,0.84,0.29399999618530276,Yuito Suzuki,LeftFoot,MissedShots,Freiburg,Hamburger SV,Johan Manzambi,0.016973691061139107
+68,0.7559999847412109,0.5820000076293945,Igor Matanovic,RightFoot,SavedShot,Freiburg,Hamburger SV,,0.02302785962820053
+71,0.9209999847412109,0.5429999923706055,Igor Matanovic,Head,MissedShots,Freiburg,Hamburger SV,Johan Manzambi,0.1301516443490982
+74,0.8819999694824219,0.6,Johan Manzambi,RightFoot,BlockedShot,Freiburg,Hamburger SV,Christian Günter,0.056154102087020874
+75,0.8869999694824219,0.40900001525878904,Igor Matanovic,RightFoot,BlockedShot,Freiburg,Hamburger SV,,0.07829219847917557
+75,0.749000015258789,0.4470000076293945,Maximilian Eggestein,RightFoot,BlockedShot,Freiburg,Hamburger SV,Philipp Treu,0.021525058895349503
+75,0.899000015258789,0.43900001525878907,Lukas Kübler,Head,MissedShots,Freiburg,Hamburger SV,Philipp Treu,0.033841218799352646
+82,0.904000015258789,0.49900001525878906,Johan Manzambi,Head,MissedShots,Freiburg,Hamburger SV,Christian Günter,0.055868107825517654
+82,0.9590000152587891,0.5179999923706055,Igor Matanovic,RightFoot,Goal,Freiburg,Hamburger SV,Jan-Niklas Beste,0.6511173248291016
+19,0.8980000305175782,0.34900001525878904,Maximilian Eggestein,Head,SavedShot,RasenBallsport Leipzig,Freiburg,Yuito Suzuki,0.021101385354995728
+47,0.9119999694824219,0.5670000076293945,Lukas Kübler,Head,MissedShots,RasenBallsport Leipzig,Freiburg,Yuito Suzuki,0.08742134273052216
+71,0.9030000305175782,0.535,Lukas Kübler,Head,BlockedShot,RasenBallsport Leipzig,Freiburg,Jan-Niklas Beste,0.03915927931666374
+3,0.81,0.4909999847412109,Vincenzo Grifo,RightFoot,MissedShots,Augsburg,Freiburg,Lucas Höler,0.0508296824991703
+16,0.76,0.36400001525878906,Bruno Ogbus,RightFoot,BlockedShot,Augsburg,Freiburg,,0.016541631892323494
+26,0.76,0.6029999923706054,Bruno Ogbus,RightFoot,MissedShots,Augsburg,Freiburg,,0.017632989212870598
+28,0.8159999847412109,0.5359999847412109,Igor Matanovic,RightFoot,BlockedShot,Augsburg,Freiburg,Maximilian Eggestein,0.048596177250146866
+48,0.8540000152587891,0.46099998474121096,Philipp Treu,RightFoot,MissedShots,Augsburg,Freiburg,,0.07153045386075974
+47,0.8580000305175781,0.39799999237060546,Igor Matanovic,RightFoot,MissedShots,Augsburg,Freiburg,,0.05753633379936218
+50,0.924000015258789,0.675,Lucas Höler,LeftFoot,BlockedShot,Augsburg,Freiburg,Maximilian Eggestein,0.04807821288704872
+58,0.769000015258789,0.3370000076293945,Maximilian Eggestein,LeftFoot,SavedShot,Augsburg,Freiburg,Lukas Kübler,0.0175347700715065
+58,0.955,0.6079999923706054,Yuito Suzuki,RightFoot,Goal,Augsburg,Freiburg,,0.4058516323566437
+61,0.9130000305175782,0.514000015258789,Johan Manzambi,Head,BlockedShot,Augsburg,Freiburg,Jan-Niklas Beste,0.09285134077072144
+61,0.9669999694824218,0.5059999847412109,Igor Matanovic,RightFoot,Goal,Augsburg,Freiburg,,0.7531967759132385
+72,0.8719999694824219,0.5270000076293946,Patrick Osterhage,LeftFoot,SavedShot,Augsburg,Freiburg,Jan-Niklas Beste,0.08082833141088486
+6,0.7069999694824218,0.45599998474121095,Maximilian Eggestein,LeftFoot,BlockedShot,Freiburg,FC Cologne,Igor Matanovic,0.013130316510796547
+6,0.9109999847412109,0.39,Jan-Niklas Beste,Head,BlockedShot,Freiburg,FC Cologne,Derry Scherhant,0.042156897485256195
+9,0.050999999046325684,0.495,Max Rosenfelder,RightFoot,OwnGoal,Freiburg,FC Cologne,,0
+10,0.9309999847412109,0.4209999847412109,Derry Scherhant,RightFoot,Goal,Freiburg,FC Cologne,Yuito Suzuki,0.45889994502067566
+19,0.9340000152587891,0.515,Igor Matanovic,LeftFoot,MissedShots,Freiburg,FC Cologne,Lukas Kübler,0.5000535249710083
+29,0.7469999694824219,0.5259999847412109,Max Rosenfelder,RightFoot,BlockedShot,Freiburg,FC Cologne,,0.017270773649215698
+39,0.9030000305175782,0.54,Igor Matanovic,Head,BlockedShot,Freiburg,FC Cologne,Jan-Niklas Beste,0.049139536917209625
+43,0.9069999694824219,0.4540000152587891,Igor Matanovic,Head,BlockedShot,Freiburg,FC Cologne,Jan-Niklas Beste,0.044632598757743835
+43,0.960999984741211,0.415,Igor Matanovic,RightFoot,Goal,Freiburg,FC Cologne,Matthias Ginter,0.4493105709552765
+62,0.7980000305175782,0.22899999618530273,Derry Scherhant,RightFoot,MissedShots,Freiburg,FC Cologne,,0.05024949088692665
+63,0.8519999694824218,0.46799999237060547,Igor Matanovic,RightFoot,BlockedShot,Freiburg,FC Cologne,Yuito Suzuki,0.10382270812988281
+65,0.885,0.5,Igor Matanovic,RightFoot,SavedShot,Freiburg,FC Cologne,,0.75777667760849
+78,0.7530000305175781,0.54,Jan-Niklas Beste,LeftFoot,SavedShot,Freiburg,FC Cologne,Yuito Suzuki,0.030803048983216286
+87,0.9619999694824218,0.40599998474121096,Lucas Höler,Head,SavedShot,Freiburg,FC Cologne,Jan-Niklas Beste,0.0700884684920311
+0,0.8019999694824219,0.6480000305175782,Derry Scherhant,LeftFoot,BlockedShot,VfB Stuttgart,Freiburg,Igor Matanovic,0.03686485439538956
+3,0.7430000305175781,0.6509999847412109,Yuito Suzuki,RightFoot,MissedShots,VfB Stuttgart,Freiburg,,0.010971003212034702
+42,0.875,0.610999984741211,Derry Scherhant,RightFoot,MissedShots,VfB Stuttgart,Freiburg,Igor Matanovic,0.287991464138031
+43,0.7430000305175781,0.46599998474121096,Philipp Treu,RightFoot,BlockedShot,VfB Stuttgart,Freiburg,,0.013602277263998985
+47,0.84,0.39099998474121095,Yuito Suzuki,RightFoot,BlockedShot,VfB Stuttgart,Freiburg,Jan-Niklas Beste,0.093299001455307
+48,0.840999984741211,0.34,Maximilian Eggestein,RightFoot,MissedShots,VfB Stuttgart,Freiburg,,0.017697980627417564
+49,0.8,0.5459999847412109,Johan Manzambi,LeftFoot,MissedShots,VfB Stuttgart,Freiburg,Jan-Niklas Beste,0.06484264135360718
+56,0.9359999847412109,0.5679999923706055,Matthias Ginter,Head,MissedShots,VfB Stuttgart,Freiburg,Derry Scherhant,0.04181969165802002
+68,0.7219999694824218,0.37599998474121094,Philipp Treu,RightFoot,MissedShots,VfB Stuttgart,Freiburg,Maximilian Eggestein,0.015854282304644585
+70,0.8690000152587891,0.705999984741211,Yuito Suzuki,RightFoot,SavedShot,VfB Stuttgart,Freiburg,,0.03738761693239212
+91,0.89,0.47700000762939454,Bruno Ogbus,LeftFoot,SavedShot,VfB Stuttgart,Freiburg,Vincenzo Grifo,0.3158559203147888
+12,0.895,0.32,Jan-Niklas Beste,LeftFoot,Goal,Freiburg,Werder Bremen,Igor Matanovic,0.0803484171628952
+16,0.9030000305175782,0.549000015258789,Igor Matanovic,Head,SavedShot,Freiburg,Werder Bremen,Christian Günter,0.050841327756643295
+29,0.9069999694824219,0.4640000152587891,Johan Manzambi,RightFoot,MissedShots,Freiburg,Werder Bremen,Vincenzo Grifo,0.07411134243011475
+44,0.815,0.5320000076293945,Patrick Osterhage,RightFoot,MissedShots,Freiburg,Werder Bremen,,0.02740691602230072
+57,0.8590000152587891,0.46299999237060546,Maximilian Eggestein,LeftFoot,MissedShots,Freiburg,Werder Bremen,,0.06788906455039978
+62,0.74,0.57,Igor Matanovic,RightFoot,MissedShots,Freiburg,Werder Bremen,Noah Atubolu,0.023468563333153725
+86,0.9169999694824219,0.24100000381469727,Derry Scherhant,RightFoot,BlockedShot,Freiburg,Werder Bremen,Yuito Suzuki,0.0404546745121479

@@ -13,7 +13,13 @@ except ImportError:
     tqdm = None
 
 # --- Configuration ---
-CLUB = "Bayern Munich"  # Default club
+#CLUB = "Augsburg"  # Default club
+with open('club_name.txt', 'r') as f:
+    CLUB = f.read().strip()
+    if not CLUB:
+        raise ValueError("club_name.txt is empty")
+print(CLUB)
+
 DPI = 150                  # Resolution (100-150 is good for 1080p, 300 is overkill)
 FPS = 30                   # Standard video FPS
 FRAMES_PER_MINUTE = 10     # How many frames to animate one match-minute growth

@@ -568,5 +568,65 @@
             "l": 0.66245145347488
         },
         "result": "l"
+    },
+    {
+        "id": "30400",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.50682",
+            "a": "1.23275"
+        },
+        "datetime": "2026-01-31 14:30:00",
+        "forecast": {
+            "w": 0.43593193191809565,
+            "d": 0.2532544506106339,
+            "l": 0.3108136173780594
+        },
+        "result": "l"
+    },
+    {
+        "id": "30411",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.27118",
+            "a": "0.296813"
+        },
+        "datetime": "2026-02-06 19:30:00",
+        "forecast": {
+            "w": 0.6193727904458526,
+            "d": 0.2948544057333453,
+            "l": 0.08577280381228476
+        },
+        "result": "d"
     }
 ]
