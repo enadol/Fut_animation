@@ -269,3 +269,28 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 74,0.8880000305175781,0.33099998474121095,Muhammed Damar,LeftFoot,BlockedShot,Bayern Munich,Hoffenheim,,0.044827237725257874
 85,0.8069999694824219,0.69,Max Moerstedt,RightFoot,BlockedShot,Bayern Munich,Hoffenheim,Muhammed Damar,0.058380626142024994
 85,0.909000015258789,0.515,Muhammed Damar,RightFoot,SavedShot,Bayern Munich,Hoffenheim,Max Moerstedt,0.5623365640640259
+10,0.8640000152587891,0.345,Vladimir Coufal,RightFoot,BlockedShot,Hoffenheim,Freiburg,Grischa Prömel,0.05077318102121353
+16,0.76,0.6190000152587891,Wouter Burger,LeftFoot,SavedShot,Hoffenheim,Freiburg,Andrej Kramaric,0.02207285910844803
+19,0.7419999694824219,0.6279999923706054,Ozan Kabak,RightFoot,BlockedShot,Hoffenheim,Freiburg,,0.01345774531364441
+21,0.9030000305175782,0.4640000152587891,Grischa Prömel,Head,MissedShots,Hoffenheim,Freiburg,Bazoumana Touré,0.0938011184334755
+24,0.8880000305175781,0.37599998474121094,Andrej Kramaric,RightFoot,SavedShot,Hoffenheim,Freiburg,Leon Avdullahu,0.08761977404356003
+28,0.835999984741211,0.3679999923706055,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,Freiburg,,0.04899214953184128
+35,0.9630000305175781,0.45599998474121095,Fisnik Asllani,Head,MissedShots,Hoffenheim,Freiburg,Wouter Burger,0.08574835956096649
+36,0.8069999694824219,0.735,Albian Hajdari,LeftFoot,BlockedShot,Hoffenheim,Freiburg,,0.011562967672944069
+36,0.774000015258789,0.6459999847412109,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,Freiburg,,0.01726948469877243
+37,0.8240000152587891,0.5640000152587891,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,Freiburg,Wouter Burger,0.05759679526090622
+42,0.9259999847412109,0.4909999847412109,Ozan Kabak,Head,SavedShot,Hoffenheim,Freiburg,Vladimir Coufal,0.3467505872249603
+42,0.9769999694824218,0.575999984741211,Robin Hranác,LeftFoot,ShotOnPost,Hoffenheim,Freiburg,,0.49069684743881226
+42,0.8330000305175781,0.3189999961853027,Bazoumana Touré,LeftFoot,MissedShots,Hoffenheim,Freiburg,,0.03871584311127663
+43,0.76,0.3940000152587891,Wouter Burger,LeftFoot,BlockedShot,Hoffenheim,Freiburg,Leon Avdullahu,0.023591764271259308
+43,0.8519999694824218,0.57,Andrej Kramaric,LeftFoot,BlockedShot,Hoffenheim,Freiburg,Ozan Kabak,0.05660727992653847
+45,0.93,0.48200000762939454,Fisnik Asllani,Head,Goal,Hoffenheim,Freiburg,Vladimir Coufal,0.08042924106121063
+48,0.9330000305175781,0.5129999923706055,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,Freiburg,,0.13046495616436005
+49,0.8640000152587891,0.3060000038146973,Andrej Kramaric,LeftFoot,BlockedShot,Hoffenheim,Freiburg,Leon Avdullahu,0.056268587708473206
+50,0.9669999694824218,0.5970000076293945,Ozan Kabak,Head,Goal,Hoffenheim,Freiburg,Vladimir Coufal,0.06127974018454552
+65,0.7619999694824219,0.5640000152587891,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,Freiburg,Bazoumana Touré,0.04471477493643761
+66,0.7609999847412109,0.29200000762939454,Vladimir Coufal,RightFoot,BlockedShot,Hoffenheim,Freiburg,,0.01429760828614235
+80,0.8180000305175781,0.6190000152587891,Andrej Kramaric,RightFoot,BlockedShot,Hoffenheim,Freiburg,Alexander Prass,0.06607198715209961
+83,0.850999984741211,0.7390000152587891,Alexander Prass,LeftFoot,MissedShots,Hoffenheim,Freiburg,Andrej Kramaric,0.08938341587781906
+93,0.8269999694824218,0.27899999618530275,Ihlas Bebou,RightFoot,BlockedShot,Hoffenheim,Freiburg,Valentin Gendrey,0.02857792004942894
+94,0.8190000152587891,0.46799999237060547,Valentin Gendrey,RightFoot,Goal,Hoffenheim,Freiburg,Alexander Prass,0.07995496690273285

@@ -39,7 +39,7 @@ data_path = f'{CLUB}_seasons_shots.csv'
 # --- 1. Efficient Image Processing ---
 def prepare_background_image(image_path, target_width, target_height):
     try:
-        img = Image.open(image_path).convert('RGB')
+        img = Image.open(image_path).convert('RGBA')
         img = img.resize((target_width, target_height), Image.LANCZOS)
         img = img.filter(ImageFilter.GaussianBlur(5)) # Blur
         img = ImageEnhance.Brightness(img).enhance(1.2) # Brighten
