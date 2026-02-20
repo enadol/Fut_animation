@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+transfer_server.py
+*.sqlite
+*.sqlite3
+*cfg
+*.log
+*.csv
+requirements.txt
+*.bat
+*.sh
+*.md
+*.mp4
