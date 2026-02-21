@@ -568,5 +568,95 @@
             "l": 0.3466240222885335
         },
         "result": "d"
+    },
+    {
+        "id": "30408",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.04614",
+            "a": "1.55106"
+        },
+        "datetime": "2026-02-07 14:30:00",
+        "forecast": {
+            "w": 0.2558461310425529,
+            "d": 0.2541603651695886,
+            "l": 0.4899935036574827
+        },
+        "result": "w"
+    },
+    {
+        "id": "30417",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.20339",
+            "a": "2.18966"
+        },
+        "datetime": "2026-02-14 14:30:00",
+        "forecast": {
+            "w": 0.4041702990940261,
+            "d": 0.19672967675029118,
+            "l": 0.3990999978247259
+        },
+        "result": "w"
+    },
+    {
+        "id": "30426",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.75215",
+            "a": "0.823398"
+        },
+        "datetime": "2026-02-20 19:30:00",
+        "forecast": {
+            "w": 0.594370280553441,
+            "d": 0.23248156334352688,
+            "l": 0.1731481554329492
+        },
+        "result": "d"
     }
 ]

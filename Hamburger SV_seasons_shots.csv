@@ -248,3 +248,44 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 58,0.8680000305175781,0.4520000076293945,Nicolás Capaldo,Head,MissedShots,Hamburger SV,Bayern Munich,Miro Muheim,0.03511988744139671
 58,0.9030000305175782,0.41900001525878905,Nicolás Capaldo,RightFoot,MissedShots,Hamburger SV,Bayern Munich,,0.08686498552560806
 74,0.8680000305175781,0.6519999694824219,Fábio Vieira,LeftFoot,BlockedShot,Hamburger SV,Bayern Munich,Rayan Philippe,0.2891986072063446
+24,0.785,0.67,Albert Sambi Lokonga,LeftFoot,SavedShot,FC Heidenheim,Hamburger SV,Fábio Vieira,0.024743210524320602
+32,0.8640000152587891,0.735999984741211,Philip Otele,RightFoot,BlockedShot,FC Heidenheim,Hamburger SV,Albert Sambi Lokonga,0.03068508207798004
+33,0.7619999694824219,0.33299999237060546,Bakery Jatta,RightFoot,MissedShots,FC Heidenheim,Hamburger SV,Miro Muheim,0.022211644798517227
+35,0.9259999847412109,0.40900001525878904,Fábio Vieira,LeftFoot,MissedShots,FC Heidenheim,Hamburger SV,,0.09302004426717758
+39,0.96,0.664000015258789,Luka Vuskovic,LeftFoot,BlockedShot,FC Heidenheim,Hamburger SV,Albert Sambi Lokonga,0.06946254521608353
+47,0.879000015258789,0.6780000305175782,Ransford Königsdörffer,LeftFoot,Goal,FC Heidenheim,Hamburger SV,Philip Otele,0.07838031649589539
+47,0.825,0.3039999961853027,Philip Otele,RightFoot,MissedShots,FC Heidenheim,Hamburger SV,,0.015732377767562866
+55,0.9119999694824219,0.634000015258789,Fábio Vieira,LeftFoot,BlockedShot,FC Heidenheim,Hamburger SV,,0.12017654627561569
+60,0.9269999694824219,0.4779999923706055,Luka Vuskovic,Head,MissedShots,FC Heidenheim,Hamburger SV,Miro Muheim,0.1148432195186615
+77,0.9840000152587891,0.565,Rayan Philippe,LeftFoot,Goal,FC Heidenheim,Hamburger SV,Fábio Vieira,0.6951280236244202
+80,0.8959999847412109,0.7,William Mikelbrencis,RightFoot,SavedShot,FC Heidenheim,Hamburger SV,Damion Downs,0.06629723310470581
+84,0.8930000305175781,0.61,Giorgi Gocholeishvili,RightFoot,BlockedShot,FC Heidenheim,Hamburger SV,William Mikelbrencis,0.07901527732610703
+84,0.769000015258789,0.4620000076293945,Nicolai Remberg,RightFoot,BlockedShot,FC Heidenheim,Hamburger SV,,0.037400830537080765
+85,0.8619999694824219,0.385,Rayan Philippe,LeftFoot,SavedShot,FC Heidenheim,Hamburger SV,Damion Downs,0.10395976155996323
+2,0.8769999694824219,0.664000015258789,Bakery Jatta,RightFoot,BlockedShot,Hamburger SV,Union Berlin,Philip Otele,0.08234477043151855
+2,0.9580000305175781,0.615,Ransford Königsdörffer,LeftFoot,BlockedShot,Hamburger SV,Union Berlin,Philip Otele,0.07022532820701599
+3,0.9340000152587891,0.504000015258789,Luka Vuskovic,RightFoot,BlockedShot,Hamburger SV,Union Berlin,Philip Otele,0.12275488674640656
+10,0.9259999847412109,0.44099998474121094,Ransford Königsdörffer,Head,MissedShots,Hamburger SV,Union Berlin,,0.05922188609838486
+12,0.799000015258789,0.6990000152587891,Fábio Vieira,LeftFoot,MissedShots,Hamburger SV,Union Berlin,Nicolai Remberg,0.02434779517352581
+15,0.9319999694824219,0.514000015258789,Ransford Königsdörffer,Head,MissedShots,Hamburger SV,Union Berlin,Philip Otele,0.08780687302350998
+34,0.924000015258789,0.405,Ransford Königsdörffer,RightFoot,Goal,Hamburger SV,Union Berlin,Robert Glatzel,0.5628488659858704
+46,0.9030000305175782,0.44799999237060545,Nicolás Capaldo,RightFoot,Goal,Hamburger SV,Union Berlin,Bakery Jatta,0.12811487913131714
+55,0.7919999694824219,0.43200000762939456,Ransford Königsdörffer,RightFoot,BlockedShot,Hamburger SV,Union Berlin,,0.05301954969763756
+57,0.8859999847412109,0.634000015258789,Ransford Königsdörffer,LeftFoot,MissedShots,Hamburger SV,Union Berlin,Fábio Vieira,0.13368794322013855
+79,0.84,0.7030000305175781,Jean-Luc Dompe,RightFoot,MissedShots,Hamburger SV,Union Berlin,Nicolai Remberg,0.3092683255672455
+81,0.9259999847412109,0.32799999237060545,Ransford Königsdörffer,RightFoot,Goal,Hamburger SV,Union Berlin,Giorgi Gocholeishvili,0.3327470123767853
+84,0.935,0.6809999847412109,Miro Muheim,LeftFoot,SavedShot,Hamburger SV,Union Berlin,Yussuf Poulsen,0.2370055764913559
+3,0.749000015258789,0.41900001525878905,Fábio Vieira,RightFoot,SavedShot,Mainz 05,Hamburger SV,Ransford Königsdörffer,0.03252558782696724
+19,0.9059999847412109,0.5990000152587891,Robert Glatzel,Head,MissedShots,Mainz 05,Hamburger SV,Nicolai Remberg,0.05041641741991043
+20,0.7780000305175782,0.44599998474121094,Warmed Omari,RightFoot,SavedShot,Mainz 05,Hamburger SV,Ransford Königsdörffer,0.03148496523499489
+20,0.8969999694824219,0.6419999694824219,Ransford Königsdörffer,LeftFoot,MissedShots,Mainz 05,Hamburger SV,,0.06668153405189514
+22,0.8090000152587891,0.624000015258789,Ransford Königsdörffer,RightFoot,BlockedShot,Mainz 05,Hamburger SV,,0.03441934660077095
+25,0.8969999694824219,0.6469999694824219,Robert Glatzel,LeftFoot,SavedShot,Mainz 05,Hamburger SV,Philip Otele,0.3256959915161133
+25,0.905,0.5520000076293945,Philip Otele,RightFoot,MissedShots,Mainz 05,Hamburger SV,Nicolás Capaldo,0.08859974145889282
+47,0.745999984741211,0.48700000762939455,Fábio Vieira,LeftFoot,MissedShots,Mainz 05,Hamburger SV,,0.014105451293289661
+56,0.7809999847412109,0.669000015258789,Nicolás Capaldo,RightFoot,MissedShots,Mainz 05,Hamburger SV,Ransford Königsdörffer,0.019672783091664314
+63,0.7369999694824219,0.5679999923706055,Fábio Vieira,LeftFoot,Goal,Mainz 05,Hamburger SV,,0.05697115883231163
+71,0.7909999847412109,0.405,Fábio Vieira,LeftFoot,SavedShot,Mainz 05,Hamburger SV,Ransford Königsdörffer,0.033528078347444534
+84,0.845999984741211,0.3110000038146973,Fábio Vieira,LeftFoot,BlockedShot,Mainz 05,Hamburger SV,,0.03861222788691521
+85,0.7730000305175782,0.6890000152587891,Rayan Philippe,LeftFoot,MissedShots,Mainz 05,Hamburger SV,,0.015891268849372864
+85,0.720999984741211,0.4229999923706055,William Mikelbrencis,RightFoot,MissedShots,Mainz 05,Hamburger SV,,0.017165588214993477

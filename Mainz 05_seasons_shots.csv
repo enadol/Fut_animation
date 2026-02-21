@@ -163,3 +163,102 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 66,0.874000015258789,0.6020000076293945,Silvan Widmer,LeftFoot,MissedShots,Mainz 05,St. Pauli,Danny da Costa,0.05651261284947395
 80,0.79,0.30100000381469727,Danny da Costa,LeftFoot,BlockedShot,Mainz 05,St. Pauli,Nadiem Amiri,0.03649388626217842
 91,0.9309999847412109,0.7169999694824218,Armindo Sieb,LeftFoot,SavedShot,Mainz 05,St. Pauli,Kaishu Sano,0.0768163651227951
+10,0.9019999694824219,0.47400001525878904,Phillip Tietz,Head,SavedShot,Union Berlin,Mainz 05,Jae-Sung Lee,0.29465538263320923
+15,0.899000015258789,0.30100000381469727,Benedict Hollerbach,LeftFoot,SavedShot,Union Berlin,Mainz 05,,0.05041957646608353
+24,0.924000015258789,0.23600000381469727,Phillip Tietz,RightFoot,SavedShot,Union Berlin,Mainz 05,Jae-Sung Lee,0.09110315144062042
+27,0.7130000305175781,0.46799999237060547,Nadiem Amiri,RightFoot,SavedShot,Union Berlin,Mainz 05,Kaishu Sano,0.019311923533678055
+29,0.8869999694824219,0.5279999923706055,Nadiem Amiri,LeftFoot,Goal,Union Berlin,Mainz 05,Jae-Sung Lee,0.3051240146160126
+36,0.9019999694824219,0.28200000762939453,Silvan Widmer,RightFoot,MissedShots,Union Berlin,Mainz 05,Jae-Sung Lee,0.05373607948422432
+55,0.8919999694824219,0.4540000152587891,Silvan Widmer,RightFoot,MissedShots,Union Berlin,Mainz 05,Nadiem Amiri,0.05773592367768288
+68,0.9390000152587891,0.4759999847412109,Benedict Hollerbach,RightFoot,Goal,Union Berlin,Mainz 05,Nikolas Veratschnig,0.6018481254577637
+71,0.9309999847412109,0.33599998474121096,Benedict Hollerbach,RightFoot,ShotOnPost,Union Berlin,Mainz 05,Nadiem Amiri,0.09098823368549347
+7,0.705999984741211,0.5970000076293945,Nikolas Veratschnig,RightFoot,SavedShot,Mainz 05,FC Heidenheim,Kaishu Sano,0.012826894409954548
+12,0.8880000305175781,0.4640000152587891,Phillip Tietz,Head,SavedShot,Mainz 05,FC Heidenheim,Jae-Sung Lee,0.05435957387089729
+29,0.9109999847412109,0.43900001525878907,Silvan Widmer,RightFoot,Goal,Mainz 05,FC Heidenheim,Jae-Sung Lee,0.31447839736938477
+36,0.955,0.44099998474121094,Phillip Tietz,Head,MissedShots,Mainz 05,FC Heidenheim,Dominik Kohr,0.48242995142936707
+47,0.8640000152587891,0.549000015258789,Nadiem Amiri,RightFoot,BlockedShot,Mainz 05,FC Heidenheim,Phillip Tietz,0.11653527617454529
+48,0.879000015258789,0.41900001525878905,Nadiem Amiri,RightFoot,Goal,Mainz 05,FC Heidenheim,Phillip Tietz,0.12125668674707413
+51,0.919000015258789,0.6379999923706055,Armindo Sieb,LeftFoot,SavedShot,Mainz 05,FC Heidenheim,Nadiem Amiri,0.4319543242454529
+51,0.965,0.40700000762939453,Silvan Widmer,RightFoot,MissedShots,Mainz 05,FC Heidenheim,Nadiem Amiri,0.0694228932261467
+51,0.794000015258789,0.7480000305175781,Nadiem Amiri,RightFoot,BlockedShot,Mainz 05,FC Heidenheim,Kaishu Sano,0.027523215860128403
+62,0.875999984741211,0.24100000381469727,Paul Nebel,RightFoot,MissedShots,Mainz 05,FC Heidenheim,Nadiem Amiri,0.04779078811407089
+73,0.9109999847412109,0.415,Kacper Potulski,Head,MissedShots,Mainz 05,FC Heidenheim,Nadiem Amiri,0.021060995757579803
+78,0.89,0.42700000762939455,Phillip Tietz,Head,MissedShots,Mainz 05,FC Heidenheim,Nadiem Amiri,0.21521231532096863
+79,0.915,0.485,Stefan Bell,Head,SavedShot,Mainz 05,FC Heidenheim,Nadiem Amiri,0.042011965066194534
+18,0.9280000305175782,0.3820000076293945,Silvan Widmer,RightFoot,MissedShots,FC Cologne,Mainz 05,Kaishu Sano,0.10251190513372421
+18,0.9340000152587891,0.46599998474121096,Kacper Potulski,LeftFoot,ShotOnPost,FC Cologne,Mainz 05,Silvan Widmer,0.5838443636894226
+28,0.9119999694824219,0.33,Stefan Bell,RightFoot,Goal,FC Cologne,Mainz 05,Danny da Costa,0.04112391546368599
+31,0.8809999847412109,0.31,Phillip Tietz,RightFoot,SavedShot,FC Cologne,Mainz 05,Paul Nebel,0.1522887945175171
+35,0.8269999694824218,0.46799999237060547,Silas Wamangituka,RightFoot,SavedShot,FC Cologne,Mainz 05,,0.45217493176460266
+38,0.7190000152587891,0.7290000152587891,Silas Wamangituka,RightFoot,BlockedShot,FC Cologne,Mainz 05,,0.27561256289482117
+44,0.7090000152587891,0.49599998474121093,Danny da Costa,RightFoot,SavedShot,FC Cologne,Mainz 05,,0.013581312261521816
+61,0.700999984741211,0.5990000152587891,Phillip Tietz,RightFoot,SavedShot,FC Cologne,Mainz 05,Paul Nebel,0.012633409351110458
+80,0.8780000305175781,0.3729999923706055,Armindo Sieb,RightFoot,SavedShot,FC Cologne,Mainz 05,Paul Nebel,0.33681440353393555
+3,0.845,0.7230000305175781,Silvan Widmer,LeftFoot,BlockedShot,Mainz 05,Wolfsburg,,0.028369659557938576
+4,0.8930000305175781,0.32,Phillip Tietz,RightFoot,SavedShot,Mainz 05,Wolfsburg,,0.23213984072208405
+16,0.8040000152587891,0.5109999847412109,Benedict Hollerbach,RightFoot,BlockedShot,Mainz 05,Wolfsburg,,0.03454289585351944
+21,0.885,0.5,Phillip Tietz,RightFoot,SavedShot,Mainz 05,Wolfsburg,,0.75777667760849
+22,0.899000015258789,0.5229999923706055,Stefan Bell,Head,MissedShots,Mainz 05,Wolfsburg,Paul Nebel,0.021585293114185333
+29,0.924000015258789,0.385,Benedict Hollerbach,RightFoot,SavedShot,Mainz 05,Wolfsburg,Stefan Bell,0.34440481662750244
+34,0.7809999847412109,0.509000015258789,Phillip Tietz,RightFoot,BlockedShot,Mainz 05,Wolfsburg,,0.013212847523391247
+37,0.9030000305175782,0.5609999847412109,Phillip Tietz,RightFoot,SavedShot,Mainz 05,Wolfsburg,Paul Nebel,0.2798349857330322
+39,0.93,0.4229999923706055,Benedict Hollerbach,Head,MissedShots,Mainz 05,Wolfsburg,Silvan Widmer,0.22641657292842865
+41,0.909000015258789,0.47900001525878905,Stefan Bell,Head,SavedShot,Mainz 05,Wolfsburg,Stefan Posch,0.10412350296974182
+45,0.914000015258789,0.385,Jae-Sung Lee,Head,BlockedShot,Mainz 05,Wolfsburg,Paul Nebel,0.02653137594461441
+49,0.9069999694824219,0.45,Benedict Hollerbach,RightFoot,BlockedShot,Mainz 05,Wolfsburg,,0.4543461203575134
+51,0.7569999694824219,0.35,Stefan Bell,RightFoot,MissedShots,Mainz 05,Wolfsburg,,0.01613919623196125
+54,0.8180000305175781,0.705999984741211,Kaishu Sano,RightFoot,BlockedShot,Mainz 05,Wolfsburg,Paul Nebel,0.027507388964295387
+67,0.9269999694824219,0.48400001525878905,Phillip Tietz,Head,Goal,Mainz 05,Wolfsburg,Nadiem Amiri,0.05764441937208176
+72,0.955,0.445,Benedict Hollerbach,Head,MissedShots,Mainz 05,Wolfsburg,,0.08031415194272995
+72,0.9780000305175781,0.534000015258789,Stefan Bell,LeftFoot,Goal,Mainz 05,Wolfsburg,Benedict Hollerbach,0.8283173441886902
+76,0.9290000152587891,0.45099998474121095,Stefan Bell,Head,MissedShots,Mainz 05,Wolfsburg,Phillip Tietz,0.07746188342571259
+79,0.9080000305175782,0.5020000076293946,Stefan Bell,Head,BlockedShot,Mainz 05,Wolfsburg,Nadiem Amiri,0.040074579417705536
+82,0.885,0.5,Nadiem Amiri,RightFoot,Goal,Mainz 05,Wolfsburg,,0.75777667760849
+3,0.8690000152587891,0.35200000762939454,Benedict Hollerbach,RightFoot,MissedShots,RasenBallsport Leipzig,Mainz 05,Jae-Sung Lee,0.10664493590593338
+15,0.7230000305175781,0.5609999847412109,Jae-Sung Lee,LeftFoot,MissedShots,RasenBallsport Leipzig,Mainz 05,Phillip Tietz,0.010128204710781574
+17,0.7090000152587891,0.49200000762939455,Silvan Widmer,RightFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Kaishu Sano,0.018932567909359932
+20,0.919000015258789,0.46900001525878904,Phillip Tietz,Head,MissedShots,RasenBallsport Leipzig,Mainz 05,Danny da Costa,0.31007489562034607
+34,0.85,0.6909999847412109,Nadiem Amiri,RightFoot,BlockedShot,RasenBallsport Leipzig,Mainz 05,Danny da Costa,0.03394849970936775
+37,0.875,0.47900001525878905,Phillip Tietz,RightFoot,MissedShots,RasenBallsport Leipzig,Mainz 05,Silas Wamangituka,0.10866660624742508
+44,0.8909999847412109,0.39099998474121095,Phillip Tietz,Head,MissedShots,RasenBallsport Leipzig,Mainz 05,Nadiem Amiri,0.03486817702651024
+50,0.885,0.5,Nadiem Amiri,RightFoot,Goal,RasenBallsport Leipzig,Mainz 05,,0.75777667760849
+48,0.92,0.5279999923706055,Silas Wamangituka,RightFoot,Goal,RasenBallsport Leipzig,Mainz 05,,0.7862030863761902
+73,0.955999984741211,0.6079999923706054,Kaishu Sano,RightFoot,SavedShot,RasenBallsport Leipzig,Mainz 05,Jae-Sung Lee,0.3957154154777527
+74,0.7230000305175781,0.39099998474121095,Silas Wamangituka,RightFoot,SavedShot,RasenBallsport Leipzig,Mainz 05,,0.013824251480400562
+7,0.885,0.5,Nadiem Amiri,RightFoot,Goal,Mainz 05,Augsburg,,0.75777667760849
+43,0.865,0.38,Jae-Sung Lee,LeftFoot,SavedShot,Mainz 05,Augsburg,,0.08075154572725296
+48,0.904000015258789,0.5320000076293945,Silas Wamangituka,Head,SavedShot,Mainz 05,Augsburg,Danny da Costa,0.3068840801715851
+46,0.915,0.48200000762939454,Dominik Kohr,Head,MissedShots,Mainz 05,Augsburg,Nadiem Amiri,0.0959017276763916
+48,0.870999984741211,0.37900001525878907,Silas Wamangituka,RightFoot,SavedShot,Mainz 05,Augsburg,Nadiem Amiri,0.3401850759983063
+51,0.8380000305175781,0.665,Silvan Widmer,RightFoot,BlockedShot,Mainz 05,Augsburg,Nadiem Amiri,0.04743386432528496
+65,0.9,0.6969999694824218,Sheraldo Becker,RightFoot,MissedShots,Mainz 05,Augsburg,Jae-Sung Lee,0.07233277708292007
+69,0.7959999847412109,0.36400001525878906,Kaishu Sano,RightFoot,BlockedShot,Mainz 05,Augsburg,,0.01304466649889946
+79,0.885,0.5,Nadiem Amiri,RightFoot,Goal,Mainz 05,Augsburg,,0.75777667760849
+94,0.909000015258789,0.495,Stefan Bell,RightFoot,SavedShot,Mainz 05,Augsburg,Danny da Costa,0.5344715714454651
+20,0.825,0.6170000076293946,Silas Wamangituka,RightFoot,MissedShots,Borussia Dortmund,Mainz 05,Jae-Sung Lee,0.12419888377189636
+43,0.9169999694824219,0.500999984741211,Kacper Potulski,Head,MissedShots,Borussia Dortmund,Mainz 05,Kaishu Sano,0.1260819286108017
+44,0.914000015258789,0.505,Kacper Potulski,Head,BlockedShot,Borussia Dortmund,Mainz 05,,0.0585087426006794
+50,0.6930000305175781,0.67,Nadiem Amiri,RightFoot,SavedShot,Borussia Dortmund,Mainz 05,Kacper Potulski,0.00968438945710659
+72,0.7969999694824219,0.41900001525878905,Nadiem Amiri,RightFoot,BlockedShot,Borussia Dortmund,Mainz 05,Paul Nebel,0.03893487527966499
+75,0.84,0.66,Sheraldo Becker,LeftFoot,SavedShot,Borussia Dortmund,Mainz 05,Nelson Weiper,0.04140479490160942
+86,0.855999984741211,0.47700000762939454,Stefan Posch,Head,SavedShot,Borussia Dortmund,Mainz 05,Nadiem Amiri,0.012775060720741749
+87,0.8590000152587891,0.5279999923706055,Kacper Potulski,Head,BlockedShot,Borussia Dortmund,Mainz 05,Nadiem Amiri,0.020301926881074905
+87,0.9580000305175781,0.5029999923706054,Nelson Weiper,RightFoot,SavedShot,Borussia Dortmund,Mainz 05,Kacper Potulski,0.6074398159980774
+87,0.9640000152587891,0.495,Nelson Weiper,RightFoot,SavedShot,Borussia Dortmund,Mainz 05,,0.6400389075279236
+0,0.8469999694824218,0.7519999694824219,Nadiem Amiri,RightFoot,BlockedShot,Mainz 05,Hamburger SV,Silas Wamangituka,0.026111610233783722
+26,0.915,0.500999984741211,Nadiem Amiri,RightFoot,MissedShots,Mainz 05,Hamburger SV,Danny da Costa,0.3532140552997589
+28,0.9169999694824219,0.544000015258789,Phillip Tietz,Head,MissedShots,Mainz 05,Hamburger SV,,0.05411389097571373
+29,0.8519999694824218,0.7230000305175781,Silas Wamangituka,RightFoot,SavedShot,Mainz 05,Hamburger SV,Nadiem Amiri,0.03384321928024292
+41,0.8980000305175782,0.4329999923706055,Nadiem Amiri,RightFoot,Goal,Mainz 05,Hamburger SV,Danny da Costa,0.0880390852689743
+46,0.775,0.5170000076293946,Phillip Tietz,RightFoot,BlockedShot,Mainz 05,Hamburger SV,Sheraldo Becker,0.040950957685709
+52,0.9030000305175782,0.5259999847412109,Stefan Posch,Head,MissedShots,Mainz 05,Hamburger SV,Nadiem Amiri,0.024392323568463326
+58,0.8930000305175781,0.505,Kacper Potulski,RightFoot,BlockedShot,Mainz 05,Hamburger SV,Stefan Posch,0.08749387413263321
+59,0.9480000305175781,0.415,Phillip Tietz,RightFoot,MissedShots,Mainz 05,Hamburger SV,,0.12151145190000534
+77,0.855,0.34200000762939453,Jae-Sung Lee,RightFoot,BlockedShot,Mainz 05,Hamburger SV,Phillip Tietz,0.05680280923843384
+79,0.7390000152587891,0.46299999237060546,Jae-Sung Lee,LeftFoot,MissedShots,Mainz 05,Hamburger SV,Stefan Posch,0.021053295582532883
+88,0.9319999694824219,0.6659999847412109,Sheraldo Becker,RightFoot,MissedShots,Mainz 05,Hamburger SV,Paul Nebel,0.03714684396982193
+89,0.7680000305175781,0.3370000076293945,Nikolas Veratschnig,RightFoot,BlockedShot,Mainz 05,Hamburger SV,,0.016629276797175407
+92,0.9259999847412109,0.519000015258789,Kacper Potulski,Head,SavedShot,Mainz 05,Hamburger SV,Nikolas Veratschnig,0.057362865656614304
+93,0.9180000305175782,0.4420000076293945,Phillip Tietz,Head,MissedShots,Mainz 05,Hamburger SV,Nadiem Amiri,0.07829608023166656
+94,0.950999984741211,0.33299999237060546,Paul Nebel,LeftFoot,MissedShots,Mainz 05,Hamburger SV,Philipp Mwene,0.03604515269398689
+94,0.9640000152587891,0.48700000762939455,Phillip Tietz,Head,MissedShots,Mainz 05,Hamburger SV,Paul Nebel,0.6422921419143677
