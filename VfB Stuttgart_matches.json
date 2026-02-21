@@ -538,5 +538,125 @@
             "l": 0.33966306415934455
         },
         "result": "d"
+    },
+    {
+        "id": "30388",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "0",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.22197",
+            "a": "2.72682"
+        },
+        "datetime": "2026-01-25 14:30:00",
+        "forecast": {
+            "w": 0.1475304301516884,
+            "d": 0.16156575290981692,
+            "l": 0.6909036107648937
+        },
+        "result": "w"
+    },
+    {
+        "id": "30402",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.95203",
+            "a": "0.936187"
+        },
+        "datetime": "2026-02-01 14:30:00",
+        "forecast": {
+            "w": 0.7809679853578153,
+            "d": 0.1305269449646942,
+            "l": 0.08850451937720295
+        },
+        "result": "w"
+    },
+    {
+        "id": "30410",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.66217",
+            "a": "0.912627"
+        },
+        "datetime": "2026-02-07 14:30:00",
+        "forecast": {
+            "w": 0.5503452954753689,
+            "d": 0.24366221188274756,
+            "l": 0.20599249231138353
+        },
+        "result": "l"
+    },
+    {
+        "id": "30420",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.56266",
+            "a": "1.13246"
+        },
+        "datetime": "2026-02-14 17:30:00",
+        "forecast": {
+            "w": 0.6824428949655599,
+            "d": 0.16957077026201275,
+            "l": 0.14798624018302758
+        },
+        "result": "w"
     }
 ]

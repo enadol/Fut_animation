@@ -340,3 +340,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 83,0.765,0.5220000076293946,Ezechiel Banzuzi,LeftFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,,0.020483363419771194
 94,0.8059999847412109,0.5070000076293946,Conrad Harder,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Antonio Nusa,0.06233853101730347
 95,0.9119999694824219,0.66,Max Finkgrafe,LeftFoot,MissedShots,FC Cologne,RasenBallsport Leipzig,Ezechiel Banzuzi,0.09081710875034332
+4,0.9080000305175782,0.45099998474121095,Conrad Harder,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Brajan Gruda,0.3326292037963867
+6,0.9619999694824218,0.5890000152587891,Christoph Baumgartner,Head,MissedShots,RasenBallsport Leipzig,Wolfsburg,Brajan Gruda,0.0790804922580719
+9,0.91,0.2520000076293945,Yan Diomande,RightFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Antonio Nusa,0.034574005752801895
+18,0.955999984741211,0.4929999923706055,Conrad Harder,LeftFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,,0.11659558117389679
+26,0.79,0.29100000381469726,Brajan Gruda,LeftFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Benjamin Henrichs,0.02370206080377102
+31,0.9030000305175782,0.48,Willi Orban,Head,MissedShots,RasenBallsport Leipzig,Wolfsburg,Yan Diomande,0.04543871805071831
+33,0.7859999847412109,0.34900001525878904,Benjamin Henrichs,LeftFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Yan Diomande,0.049294114112854004
+40,0.9,0.55,Brajan Gruda,LeftFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Antonio Nusa,0.43078941106796265
+40,0.8530000305175781,0.47700000762939454,Christoph Baumgartner,RightFoot,BlockedShot,RasenBallsport Leipzig,Wolfsburg,Conrad Harder,0.05652047321200371
+45,0.8419999694824218,0.7330000305175781,Antonio Nusa,RightFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Benjamin Henrichs,0.026712670922279358
+48,0.970999984741211,0.33,Yan Diomande,LeftFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Antonio Nusa,0.028031455352902412
+66,0.9069999694824219,0.5159999847412109,Rômulo,Head,SavedShot,RasenBallsport Leipzig,Wolfsburg,Bote Baku,0.08520258963108063
+69,0.9159999847412109,0.35,Yan Diomande,RightFoot,Goal,RasenBallsport Leipzig,Wolfsburg,Brajan Gruda,0.3144330680370331
+72,0.915,0.5309999847412109,Rômulo,Head,MissedShots,RasenBallsport Leipzig,Wolfsburg,Antonio Nusa,0.12526635825634003
+86,0.909000015258789,0.31799999237060544,Bote Baku,LeftFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Brajan Gruda,0.06007227301597595
+87,0.754000015258789,0.63,Brajan Gruda,LeftFoot,BlockedShot,RasenBallsport Leipzig,Wolfsburg,Xaver Schlager,0.020880986005067825
+88,0.845,0.3870000076293945,Brajan Gruda,LeftFoot,Goal,RasenBallsport Leipzig,Wolfsburg,,0.05050836130976677
+92,0.9019999694824219,0.5320000076293945,Christoph Baumgartner,LeftFoot,BlockedShot,RasenBallsport Leipzig,Wolfsburg,Xaver Schlager,0.09258506447076797
+95,0.9619999694824218,0.5590000152587891,Rômulo,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Brajan Gruda,0.538554310798645

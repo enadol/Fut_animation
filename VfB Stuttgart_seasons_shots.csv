@@ -1,4 +1,5 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+66,0.048000001907348634,0.4929999923706055,Joe Scally,OtherBodyPart,OwnGoal,Borussia M.Gladbach,VfB Stuttgart,,0
 11,0.9309999847412109,0.475,Julian Chabot,Head,SavedShot,Union Berlin,VfB Stuttgart,Maximilian Mittelstädt,0.11645007878541946
 11,0.8930000305175781,0.4109999847412109,Deniz Undav,RightFoot,BlockedShot,Union Berlin,VfB Stuttgart,Angelo Stiller,0.0640038549900055
 20,0.9309999847412109,0.49599998474121093,Ermedin Demirovic,Head,MissedShots,Union Berlin,VfB Stuttgart,Jamie Leweling,0.11944705992937088
@@ -276,3 +277,59 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 78,0.855999984741211,0.3729999923706055,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,Joshua Vagnoman,0.08396680653095245
 79,0.9,0.6090000152587891,Angelo Stiller,LeftFoot,MissedShots,VfB Stuttgart,Union Berlin,Deniz Undav,0.3497912585735321
 86,0.745,0.38,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Union Berlin,,0.05609242618083954
+9,0.7930000305175782,0.35200000762939454,Joshua Vagnoman,LeftFoot,MissedShots,Borussia M.Gladbach,VfB Stuttgart,Ermedin Demirovic,0.029145684093236923
+15,0.955999984741211,0.3920000076293945,Joshua Vagnoman,Head,BlockedShot,Borussia M.Gladbach,VfB Stuttgart,Jamie Leweling,0.2311539649963379
+16,0.7080000305175781,0.5970000076293945,Julian Chabot,LeftFoot,BlockedShot,Borussia M.Gladbach,VfB Stuttgart,Angelo Stiller,0.016373513266444206
+24,0.8880000305175781,0.649000015258789,Ermedin Demirovic,RightFoot,SavedShot,Borussia M.Gladbach,VfB Stuttgart,Nikolas Nartey,0.06873971968889236
+29,0.9119999694824219,0.504000015258789,Jamie Leweling,RightFoot,Goal,Borussia M.Gladbach,VfB Stuttgart,,0.5015358328819275
+48,0.7609999847412109,0.47099998474121096,Nikolas Nartey,LeftFoot,SavedShot,Borussia M.Gladbach,VfB Stuttgart,Badredine Bouanani,0.034661322832107544
+48,0.904000015258789,0.5070000076293946,Ermedin Demirovic,RightFoot,SavedShot,Borussia M.Gladbach,VfB Stuttgart,Atakan Karazor,0.4817943572998047
+54,0.6830000305175781,0.47299999237060547,Badredine Bouanani,LeftFoot,BlockedShot,Borussia M.Gladbach,VfB Stuttgart,Angelo Stiller,0.01109203789383173
+54,0.675,0.5890000152587891,Jamie Leweling,RightFoot,MissedShots,Borussia M.Gladbach,VfB Stuttgart,Angelo Stiller,0.012657281011343002
+58,0.7869999694824219,0.6790000152587891,Badredine Bouanani,LeftFoot,MissedShots,Borussia M.Gladbach,VfB Stuttgart,,0.07005573809146881
+61,0.8159999847412109,0.44,Badredine Bouanani,LeftFoot,BlockedShot,Borussia M.Gladbach,VfB Stuttgart,Deniz Undav,0.07296837121248245
+61,0.9669999694824218,0.590999984741211,Nikolas Nartey,LeftFoot,SavedShot,Borussia M.Gladbach,VfB Stuttgart,,0.4416853189468384
+65,0.9259999847412109,0.4829999923706055,Nikolas Nartey,Head,SavedShot,Borussia M.Gladbach,VfB Stuttgart,Joshua Vagnoman,0.4523632824420929
+65,0.950999984741211,0.519000015258789,Nikolas Nartey,LeftFoot,BlockedShot,Borussia M.Gladbach,VfB Stuttgart,Chris Führich,0.14262479543685913
+70,0.7119999694824218,0.6359999847412109,Ramon Hendriks,LeftFoot,MissedShots,Borussia M.Gladbach,VfB Stuttgart,Julian Chabot,0.023119453340768814
+73,0.845,0.5870000076293945,Deniz Undav,RightFoot,Goal,Borussia M.Gladbach,VfB Stuttgart,Angelo Stiller,0.0926721841096878
+83,0.7909999847412109,0.6609999847412109,Maximilian Mittelstädt,LeftFoot,SavedShot,Borussia M.Gladbach,VfB Stuttgart,Julian Chabot,0.04417327046394348
+6,0.8780000305175781,0.4379999923706055,Ramon Hendriks,Head,MissedShots,VfB Stuttgart,Freiburg,Bilal El Khannouss,0.016643760725855827
+19,0.9380000305175781,0.4420000076293945,Joshua Vagnoman,Head,SavedShot,VfB Stuttgart,Freiburg,Angelo Stiller,0.11109898239374161
+19,0.8859999847412109,0.3579999923706055,Joshua Vagnoman,Head,MissedShots,VfB Stuttgart,Freiburg,,0.020043689757585526
+21,0.749000015258789,0.23100000381469726,Bilal El Khannouss,RightFoot,BlockedShot,VfB Stuttgart,Freiburg,Jamie Leweling,0.012675486505031586
+27,0.9209999847412109,0.4829999923706055,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Freiburg,Bilal El Khannouss,0.5440014004707336
+30,0.860999984741211,0.5770000076293945,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Freiburg,Nikolas Nartey,0.3517863154411316
+33,0.9380000305175781,0.36,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Freiburg,Joshua Vagnoman,0.055504150688648224
+36,0.8019999694824219,0.65,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Freiburg,Nikolas Nartey,0.05376588553190231
+40,0.9080000305175782,0.53,Deniz Undav,Head,MissedShots,VfB Stuttgart,Freiburg,Jamie Leweling,0.0997520387172699
+41,0.97,0.44,Nikolas Nartey,Head,SavedShot,VfB Stuttgart,Freiburg,Deniz Undav,0.5949761271476746
+41,0.7819999694824219,0.445,Nikolas Nartey,LeftFoot,MissedShots,VfB Stuttgart,Freiburg,Bilal El Khannouss,0.038034867495298386
+50,0.95,0.61,Bilal El Khannouss,RightFoot,SavedShot,VfB Stuttgart,Freiburg,Nikolas Nartey,0.3776957094669342
+57,0.8980000305175782,0.4809999847412109,Deniz Undav,Head,SavedShot,VfB Stuttgart,Freiburg,Ramon Hendriks,0.08554676920175552
+72,0.9059999847412109,0.5259999847412109,Deniz Undav,Head,MissedShots,VfB Stuttgart,Freiburg,Angelo Stiller,0.07594356685876846
+80,0.8530000305175781,0.3970000076293945,Jamie Leweling,LeftFoot,BlockedShot,VfB Stuttgart,Freiburg,,0.05025440827012062
+83,0.9309999847412109,0.45299999237060545,Deniz Undav,Head,MissedShots,VfB Stuttgart,Freiburg,Maximilian Mittelstädt,0.409997820854187
+88,0.6819999694824219,0.5529999923706055,Julian Chabot,LeftFoot,MissedShots,VfB Stuttgart,Freiburg,Finn Jeltsch,0.012555515393614769
+88,0.8130000305175781,0.6190000152587891,Ermedin Demirovic,RightFoot,Goal,VfB Stuttgart,Freiburg,Deniz Undav,0.04175592213869095
+11,0.9740000152587891,0.40200000762939453,Chris Führich,RightFoot,SavedShot,St. Pauli,VfB Stuttgart,Maximilian Mittelstädt,0.30089712142944336
+23,0.9890000152587891,0.40099998474121096,Deniz Undav,Head,ShotOnPost,St. Pauli,VfB Stuttgart,Chris Führich,0.02577744610607624
+58,0.8019999694824219,0.4829999923706055,Deniz Undav,LeftFoot,MissedShots,St. Pauli,VfB Stuttgart,Ermedin Demirovic,0.29570361971855164
+79,0.8690000152587891,0.47099998474121096,Lorenz Assignon,LeftFoot,MissedShots,St. Pauli,VfB Stuttgart,,0.06688567996025085
+89,0.8190000152587891,0.4640000152587891,Chema Andres,RightFoot,BlockedShot,St. Pauli,VfB Stuttgart,,0.04479726403951645
+89,0.865,0.47400001525878904,Jeremy Arévalo,LeftFoot,BlockedShot,St. Pauli,VfB Stuttgart,Chema Andres,0.09644420444965363
+89,0.860999984741211,0.6719999694824219,Jamie Leweling,RightFoot,Goal,St. Pauli,VfB Stuttgart,Jeremy Arévalo,0.062080275267362595
+93,0.850999984741211,0.5320000076293945,Jeremy Arévalo,Head,SavedShot,St. Pauli,VfB Stuttgart,Maximilian Mittelstädt,0.0200409647077322
+1,0.83,0.4520000076293945,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,FC Cologne,Atakan Karazor,0.3320726454257965
+14,0.924000015258789,0.5259999847412109,Ermedin Demirovic,RightFoot,Goal,VfB Stuttgart,FC Cologne,Jamie Leweling,0.4812045395374298
+19,0.6840000152587891,0.45599998474121095,Lorenz Assignon,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,Atakan Karazor,0.01641768030822277
+22,0.9059999847412109,0.5579999923706055,Ermedin Demirovic,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,Maximilian Mittelstädt,0.443930447101593
+36,0.9019999694824219,0.3970000076293945,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,FC Cologne,Atakan Karazor,0.06929197162389755
+38,0.7630000305175781,0.4809999847412109,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,Jamie Leweling,0.04043539613485336
+39,0.9059999847412109,0.4909999847412109,Deniz Undav,Head,BlockedShot,VfB Stuttgart,FC Cologne,,0.06101397052407265
+45,0.8080000305175781,0.505,Ermedin Demirovic,RightFoot,BlockedShot,VfB Stuttgart,FC Cologne,Chris Führich,0.06233400106430054
+56,0.759000015258789,0.4779999923706055,Chema Andres,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,Jamie Leweling,0.03151042014360428
+57,0.8480000305175781,0.6459999847412109,Atakan Karazor,LeftFoot,BlockedShot,VfB Stuttgart,FC Cologne,,0.06697605550289154
+68,0.8590000152587891,0.4540000152587891,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,,0.09093911200761795
+83,0.91,0.52,Ermedin Demirovic,RightFoot,Goal,VfB Stuttgart,FC Cologne,Ramon Hendriks,0.33761289715766907
+91,0.9169999694824219,0.5359999847412109,Deniz Undav,RightFoot,Goal,VfB Stuttgart,FC Cologne,Angelo Stiller,0.528921365737915
