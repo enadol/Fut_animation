@@ -658,5 +658,35 @@
             "l": 0.6336462139113275
         },
         "result": "w"
+    },
+    {
+        "id": "30422",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.83518",
+            "a": "2.29258"
+        },
+        "datetime": "2026-02-21 14:30:00",
+        "forecast": {
+            "w": 0.5042002213516344,
+            "d": 0.17648012054041534,
+            "l": 0.31931930067250797
+        },
+        "result": "w"
     }
 ]

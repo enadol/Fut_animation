@@ -658,5 +658,35 @@
             "l": 0.3601345711937976
         },
         "result": "w"
+    },
+    {
+        "id": "30427",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.50934",
+            "a": "1.35347"
+        },
+        "datetime": "2026-02-21 17:30:00",
+        "forecast": {
+            "w": 0.7754361059034651,
+            "d": 0.11935089150251459,
+            "l": 0.10520860264568206
+        },
+        "result": "d"
     }
 ]

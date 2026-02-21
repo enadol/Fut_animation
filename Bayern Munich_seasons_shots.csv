@@ -419,3 +419,27 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 76,0.7369999694824219,0.539000015258789,Tom Bischof,LeftFoot,BlockedShot,Werder Bremen,Bayern Munich,,0.058850422501564026
 77,0.7880000305175782,0.5579999923706055,Lennart Karl,LeftFoot,MissedShots,Werder Bremen,Bayern Munich,Konrad Laimer,0.04574112221598625
 87,0.845999984741211,0.4979999923706055,Jamal Musiala,RightFoot,SavedShot,Werder Bremen,Bayern Munich,Luis Díaz,0.12886878848075867
+3,0.7519999694824219,0.5520000076293945,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,,0.023758720606565475
+13,0.9119999694824219,0.5459999847412109,Jamal Musiala,LeftFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,Luis Díaz,0.12952233850955963
+15,0.8069999694824219,0.495,Aleksandar Pavlovic,LeftFoot,Goal,Bayern Munich,Eintracht Frankfurt,,0.01961275190114975
+18,0.9569999694824218,0.6769999694824219,Harry Kane,LeftFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Luis Díaz,0.08460884541273117
+19,0.9730000305175781,0.495,Harry Kane,Head,Goal,Bayern Munich,Eintracht Frankfurt,Josip Stanisic,0.614041805267334
+25,0.875,0.2539999961853027,Josip Stanisic,RightFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Jamal Musiala,0.04755235090851784
+26,0.7769999694824219,0.2929999923706055,Harry Kane,RightFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,Luis Díaz,0.024309206753969193
+29,0.805,0.37599998474121094,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,,0.054402779787778854
+33,0.7869999694824219,0.5209999847412109,Harry Kane,RightFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Joshua Kimmich,0.04004456475377083
+37,0.815,0.6459999847412109,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,Luis Díaz,0.054969705641269684
+46,0.8119999694824219,0.6480000305175782,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,Alphonso Davies,0.04408641532063484
+47,0.9130000305175782,0.34900001525878904,Michael Olise,LeftFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Luis Díaz,0.11492003500461578
+47,0.8519999694824218,0.40900001525878904,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,,0.1180906742811203
+53,0.865999984741211,0.485,Luis Díaz,RightFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Dayotchanculle Upamecano,0.1380072981119156
+53,0.8490000152587891,0.35,Harry Kane,RightFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,,0.06986450403928757
+54,0.8780000305175781,0.31799999237060544,Michael Olise,LeftFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,Josip Stanisic,0.07102567702531815
+58,0.8119999694824219,0.40900001525878904,Harry Kane,RightFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Michael Olise,0.06649725884199142
+58,0.960999984741211,0.33799999237060546,Harry Kane,RightFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Michael Olise,0.11678634583950043
+67,0.7480000305175781,0.504000015258789,Harry Kane,LeftFoot,Goal,Bayern Munich,Eintracht Frankfurt,Joshua Kimmich,0.031250908970832825
+70,0.8669999694824219,0.44,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,Luis Díaz,0.12422335892915726
+71,0.7809999847412109,0.4420000076293945,Joshua Kimmich,RightFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,Michael Olise,0.042538464069366455
+80,0.8780000305175781,0.48,Serge Gnabry,Head,SavedShot,Bayern Munich,Eintracht Frankfurt,Dayotchanculle Upamecano,0.049152977764606476
+87,0.9680000305175781,0.505,Serge Gnabry,RightFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,Michael Olise,0.6849359273910522
+94,0.7819999694824219,0.33599998474121096,Tom Bischof,LeftFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,,0.07098077982664108
