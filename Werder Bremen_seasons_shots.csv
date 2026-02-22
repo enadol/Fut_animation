@@ -280,3 +280,17 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 79,0.7659999847412109,0.35400001525878905,Justin Njinmah,LeftFoot,SavedShot,Freiburg,Werder Bremen,,0.01853398233652115
 80,0.8059999847412109,0.7,Samuel Mbangula,RightFoot,SavedShot,Freiburg,Werder Bremen,,0.018962649628520012
 94,0.9169999694824219,0.47299999237060547,Keke Maximilian Topp,Head,MissedShots,Freiburg,Werder Bremen,Cameron Puertas,0.042115744203329086
+3,0.8730000305175781,0.6859999847412109,Romano Schmid,LeftFoot,MissedShots,Werder Bremen,Bayern Munich,Marco Grüll,0.07108604162931442
+5,0.875,0.2520000076293945,Cameron Puertas,RightFoot,MissedShots,Werder Bremen,Bayern Munich,Marco Grüll,0.0564311221241951
+28,0.965,0.3029999923706055,Justin Njinmah,RightFoot,MissedShots,Werder Bremen,Bayern Munich,Romano Schmid,0.03658979758620262
+32,0.9459999847412109,0.6790000152587891,Marco Grüll,LeftFoot,BlockedShot,Werder Bremen,Bayern Munich,Romano Schmid,0.08565327525138855
+39,0.870999984741211,0.6969999694824218,Felix Agu,RightFoot,MissedShots,Werder Bremen,Bayern Munich,Romano Schmid,0.074439138174057
+46,0.914000015258789,0.48900001525878906,Marco Grüll,Head,ShotOnPost,Werder Bremen,Bayern Munich,Felix Agu,0.12966148555278778
+46,0.93,0.25799999237060545,Justin Njinmah,LeftFoot,SavedShot,Werder Bremen,Bayern Munich,Romano Schmid,0.03324243798851967
+46,0.735,0.495,Jens Stage,RightFoot,MissedShots,Werder Bremen,Bayern Munich,,0.012578820809721947
+63,0.9009999847412109,0.485,Romano Schmid,RightFoot,SavedShot,Werder Bremen,Bayern Munich,Marco Grüll,0.1181492879986763
+63,0.8130000305175781,0.4909999847412109,Jens Stage,RightFoot,BlockedShot,Werder Bremen,Bayern Munich,,0.0320671983063221
+65,0.855999984741211,0.46799999237060547,Romano Schmid,RightFoot,MissedShots,Werder Bremen,Bayern Munich,Justin Njinmah,0.03722206503152847
+72,0.8419999694824218,0.47900001525878905,Marco Grüll,RightFoot,BlockedShot,Werder Bremen,Bayern Munich,,0.054902657866477966
+72,0.7880000305175782,0.4420000076293945,Cameron Puertas,RightFoot,BlockedShot,Werder Bremen,Bayern Munich,,0.019483326002955437
+82,0.8030000305175782,0.6930000305175781,Marco Grüll,RightFoot,SavedShot,Werder Bremen,Bayern Munich,,0.023001553490757942
