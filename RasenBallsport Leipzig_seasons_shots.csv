@@ -359,3 +359,18 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 88,0.845,0.3870000076293945,Brajan Gruda,LeftFoot,Goal,RasenBallsport Leipzig,Wolfsburg,,0.05050836130976677
 92,0.9019999694824219,0.5320000076293945,Christoph Baumgartner,LeftFoot,BlockedShot,RasenBallsport Leipzig,Wolfsburg,Xaver Schlager,0.09258506447076797
 95,0.9619999694824218,0.5590000152587891,Rômulo,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Brajan Gruda,0.538554310798645
+7,0.9030000305175782,0.5459999847412109,Rômulo,RightFoot,SavedShot,RasenBallsport Leipzig,Borussia Dortmund,Xaver Schlager,0.09571115672588348
+11,0.675,0.5170000076293946,Bote Baku,LeftFoot,BlockedShot,RasenBallsport Leipzig,Borussia Dortmund,Brajan Gruda,0.017264308407902718
+18,0.8969999694824219,0.5229999923706055,Nicolas Seiwald,Head,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,David Raum,0.08999224007129669
+19,0.9590000152587891,0.5590000152587891,Christoph Baumgartner,RightFoot,Goal,RasenBallsport Leipzig,Borussia Dortmund,Yan Diomande,0.6123014688491821
+27,0.9530000305175781,0.5229999923706055,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,Rômulo,0.667899489402771
+32,0.975,0.565,Nicolas Seiwald,Head,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,Yan Diomande,0.15227416157722473
+36,0.9669999694824218,0.5829999923706055,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,David Raum,0.11919796466827393
+38,0.855999984741211,0.6320000076293946,Yan Diomande,RightFoot,BlockedShot,RasenBallsport Leipzig,Borussia Dortmund,Christoph Baumgartner,0.07970310747623444
+38,0.9580000305175781,0.53,Christoph Baumgartner,RightFoot,Goal,RasenBallsport Leipzig,Borussia Dortmund,David Raum,0.6084828972816467
+49,0.030999999046325683,0.53,Rômulo,Head,OwnGoal,RasenBallsport Leipzig,Borussia Dortmund,,0
+66,0.9169999694824219,0.605999984741211,Antonio Nusa,RightFoot,BlockedShot,RasenBallsport Leipzig,Borussia Dortmund,Yan Diomande,0.12672284245491028
+67,0.8959999847412109,0.5420000076293945,Castello Lukeba,Head,BlockedShot,RasenBallsport Leipzig,Borussia Dortmund,David Raum,0.053689636290073395
+72,0.9640000152587891,0.32599998474121095,Bote Baku,RightFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,Yan Diomande,0.558142900466919
+82,0.8719999694824219,0.3039999961853027,Yan Diomande,RightFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,Antonio Nusa,0.2754139006137848
+92,0.9209999847412109,0.7559999847412109,Conrad Harder,LeftFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,,0.052547577768564224
