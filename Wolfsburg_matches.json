@@ -448,5 +448,275 @@
             "l": 0.6625361920501711
         },
         "result": "l"
+    },
+    {
+        "id": "30360",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "8",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.54931",
+            "a": "1.08515"
+        },
+        "datetime": "2026-01-11 16:30:00",
+        "forecast": {
+            "w": 0.8240353493381818,
+            "d": 0.10289093014387866,
+            "l": 0.0730686947471947
+        },
+        "result": "l"
+    },
+    {
+        "id": "30376",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.78032",
+            "a": "1.21171"
+        },
+        "datetime": "2026-01-14 17:30:00",
+        "forecast": {
+            "w": 0.5071825113056928,
+            "d": 0.2328881259277222,
+            "l": 0.2599293619330535
+        },
+        "result": "w"
+    },
+    {
+        "id": "30385",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.07653",
+            "a": "0.991172"
+        },
+        "datetime": "2026-01-17 14:30:00",
+        "forecast": {
+            "w": 0.37104423844326156,
+            "d": 0.3019943257531499,
+            "l": 0.3269614358024793
+        },
+        "result": "d"
+    },
+    {
+        "id": "30392",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "4.34199",
+            "a": "1.09338"
+        },
+        "datetime": "2026-01-24 14:30:00",
+        "forecast": {
+            "w": 0.8894427932793808,
+            "d": 0.06726005911992618,
+            "l": 0.0432473287830943
+        },
+        "result": "l"
+    },
+    {
+        "id": "30398",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.43559",
+            "a": "1.34631"
+        },
+        "datetime": "2026-01-30 19:30:00",
+        "forecast": {
+            "w": 0.39356504346249505,
+            "d": 0.25346533217701206,
+            "l": 0.35296962429640494
+        },
+        "result": "l"
+    },
+    {
+        "id": "30412",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.02751",
+            "a": "1.70601"
+        },
+        "datetime": "2026-02-07 14:30:00",
+        "forecast": {
+            "w": 0.4575675567361201,
+            "d": 0.21245239602332888,
+            "l": 0.32998004214017324
+        },
+        "result": "l"
+    },
+    {
+        "id": "30419",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.51087",
+            "a": "0.687761"
+        },
+        "datetime": "2026-02-15 16:30:00",
+        "forecast": {
+            "w": 0.7708439186660404,
+            "d": 0.14825166320623706,
+            "l": 0.08090434506501445
+        },
+        "result": "d"
+    },
+    {
+        "id": "30430",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "2",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.17584",
+            "a": "1.56427"
+        },
+        "datetime": "2026-02-21 14:30:00",
+        "forecast": {
+            "w": 0.5172806014914303,
+            "d": 0.20575686012774125,
+            "l": 0.2769625265987568
+        },
+        "result": "l"
+    },
+    {
+        "id": "30438",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.95189",
+            "a": "0.865739"
+        },
+        "datetime": "2026-03-01 14:30:00",
+        "forecast": {
+            "w": 0.7944906174681002,
+            "d": 0.1260346545970679,
+            "l": 0.07947417795469554
+        },
+        "result": "l"
     }
 ]

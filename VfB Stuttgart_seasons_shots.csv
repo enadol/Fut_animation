@@ -333,3 +333,39 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 68,0.8590000152587891,0.4540000152587891,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,,0.09093911200761795
 83,0.91,0.52,Ermedin Demirovic,RightFoot,Goal,VfB Stuttgart,FC Cologne,Ramon Hendriks,0.33761289715766907
 91,0.9169999694824219,0.5359999847412109,Deniz Undav,RightFoot,Goal,VfB Stuttgart,FC Cologne,Angelo Stiller,0.528921365737915
+4,0.8619999694824219,0.5129999923706055,Chris Führich,RightFoot,Goal,FC Heidenheim,VfB Stuttgart,,0.3744257092475891
+17,0.9319999694824219,0.61,Ermedin Demirovic,Head,SavedShot,FC Heidenheim,VfB Stuttgart,Lorenz Assignon,0.07318507879972458
+24,0.794000015258789,0.655,Bilal El Khannouss,RightFoot,MissedShots,FC Heidenheim,VfB Stuttgart,Chris Führich,0.04453672096133232
+26,0.815,0.555,Chris Führich,RightFoot,SavedShot,FC Heidenheim,VfB Stuttgart,Bilal El Khannouss,0.057995881885290146
+36,0.9690000152587891,0.34599998474121096,Bilal El Khannouss,RightFoot,MissedShots,FC Heidenheim,VfB Stuttgart,Chris Führich,0.03142213076353073
+43,0.885,0.5,Maximilian Mittelstädt,LeftFoot,Goal,FC Heidenheim,VfB Stuttgart,,0.75777667760849
+52,0.805,0.68,Maximilian Mittelstädt,LeftFoot,MissedShots,FC Heidenheim,VfB Stuttgart,Chema Andres,0.028226500377058983
+57,0.85,0.5840000152587891,Deniz Undav,RightFoot,BlockedShot,FC Heidenheim,VfB Stuttgart,Bilal El Khannouss,0.07713848352432251
+68,0.9669999694824218,0.41400001525878904,Deniz Undav,Head,SavedShot,FC Heidenheim,VfB Stuttgart,Jamie Leweling,0.2940240800380707
+87,0.8569999694824219,0.43099998474121093,Deniz Undav,RightFoot,Goal,FC Heidenheim,VfB Stuttgart,Nikolas Nartey,0.07667002826929092
+90,0.8959999847412109,0.539000015258789,Deniz Undav,RightFoot,SavedShot,FC Heidenheim,VfB Stuttgart,,0.44292184710502625
+94,0.725999984741211,0.64,Julian Chabot,LeftFoot,SavedShot,FC Heidenheim,VfB Stuttgart,Atakan Karazor,0.016726713627576828
+1,0.8630000305175781,0.4779999923706055,Atakan Karazor,RightFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Jamie Leweling,0.068868488073349
+5,0.894000015258789,0.4179999923706055,Ermedin Demirovic,RightFoot,SavedShot,VfB Stuttgart,Wolfsburg,,0.11499985307455063
+10,0.9159999847412109,0.46700000762939453,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Bilal El Khannouss,0.11020008474588394
+14,0.894000015258789,0.6509999847412109,Chris Führich,RightFoot,SavedShot,VfB Stuttgart,Wolfsburg,Jamie Leweling,0.033328328281641006
+14,0.8480000305175781,0.5609999847412109,Atakan Karazor,LeftFoot,MissedShots,VfB Stuttgart,Wolfsburg,,0.06422986835241318
+19,0.950999984741211,0.519000015258789,Ermedin Demirovic,Head,MissedShots,VfB Stuttgart,Wolfsburg,Chris Führich,0.12964004278182983
+20,0.9319999694824219,0.5320000076293945,Deniz Undav,RightFoot,Goal,VfB Stuttgart,Wolfsburg,Ermedin Demirovic,0.5240837931632996
+25,0.795,0.669000015258789,Angelo Stiller,LeftFoot,MissedShots,VfB Stuttgart,Wolfsburg,,0.03791828081011772
+29,0.9480000305175781,0.485,Jamie Leweling,LeftFoot,Goal,VfB Stuttgart,Wolfsburg,Chris Führich,0.6365270614624023
+32,0.91,0.45299999237060545,Ermedin Demirovic,Head,MissedShots,VfB Stuttgart,Wolfsburg,Bilal El Khannouss,0.10569950938224792
+40,0.769000015258789,0.33299999237060546,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Ermedin Demirovic,0.03621210902929306
+41,0.8440000152587891,0.37,Jamie Leweling,LeftFoot,Goal,VfB Stuttgart,Wolfsburg,,0.029307417571544647
+43,0.924000015258789,0.6609999847412109,Bilal El Khannouss,LeftFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Ermedin Demirovic,0.10522455722093582
+45,0.7719999694824219,0.33,Bilal El Khannouss,RightFoot,SavedShot,VfB Stuttgart,Wolfsburg,,0.016579339280724525
+56,0.9540000152587891,0.40400001525878904,Chris Führich,RightFoot,SavedShot,VfB Stuttgart,Wolfsburg,Ermedin Demirovic,0.14312361180782318
+56,0.9030000305175782,0.4929999923706055,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Wolfsburg,,0.1381172388792038
+57,0.9119999694824219,0.6969999694824218,Bilal El Khannouss,LeftFoot,SavedShot,VfB Stuttgart,Wolfsburg,Angelo Stiller,0.07658810913562775
+57,0.785,0.6869999694824219,Chris Führich,RightFoot,MissedShots,VfB Stuttgart,Wolfsburg,Angelo Stiller,0.027667060494422913
+60,0.8969999694824219,0.40599998474121096,Ermedin Demirovic,RightFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Deniz Undav,0.12545455992221832
+78,0.86,0.3220000076293945,Lorenz Assignon,RightFoot,MissedShots,VfB Stuttgart,Wolfsburg,Angelo Stiller,0.06766854971647263
+82,0.8919999694824219,0.6270000076293946,Ermedin Demirovic,LeftFoot,SavedShot,VfB Stuttgart,Wolfsburg,Nikolas Nartey,0.1157638356089592
+85,0.84,0.445,Nikolas Nartey,LeftFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Bilal El Khannouss,0.09572218358516693
+91,0.8109999847412109,0.3729999923706055,Jeremy Arévalo,LeftFoot,MissedShots,VfB Stuttgart,Wolfsburg,,0.041801199316978455
+94,0.9480000305175781,0.6090000152587891,Nikolas Nartey,LeftFoot,Goal,VfB Stuttgart,Wolfsburg,Tiago Tomás,0.12907062470912933

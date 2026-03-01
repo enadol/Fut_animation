@@ -181,3 +181,102 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 93,0.8440000152587891,0.5540000152587891,Dzenan Pejcinovic,RightFoot,MissedShots,Wolfsburg,Freiburg,Jan Bürger,0.05045847222208977
 93,0.855,0.500999984741211,Mattias Svanberg,LeftFoot,BlockedShot,Wolfsburg,Freiburg,,0.03293565288186073
 96,0.9030000305175782,0.47700000762939454,Dzenan Pejcinovic,Head,SavedShot,Wolfsburg,Freiburg,Aaron Zehnter,0.0996551513671875
+2,0.76,0.5570000076293945,Maximilian Arnold,LeftFoot,BlockedShot,Bayern Munich,Wolfsburg,,0.03718346357345581
+4,0.03,0.47200000762939454,Kilian Fischer,RightFoot,OwnGoal,Bayern Munich,Wolfsburg,,0
+12,0.8880000305175781,0.5690000152587891,Dzenan Pejcinovic,LeftFoot,Goal,Bayern Munich,Wolfsburg,Lovro Majer,0.39716845750808716
+16,0.8069999694824219,0.4620000076293945,Lovro Majer,RightFoot,BlockedShot,Bayern Munich,Wolfsburg,Christian Eriksen,0.046347856521606445
+22,0.8180000305175781,0.47700000762939454,Christian Eriksen,RightFoot,MissedShots,Bayern Munich,Wolfsburg,Dzenan Pejcinovic,0.05635731667280197
+22,0.7440000152587891,0.40299999237060546,Lovro Majer,LeftFoot,MissedShots,Bayern Munich,Wolfsburg,Mattias Svanberg,0.021838348358869553
+44,0.774000015258789,0.46599998474121096,Sael Kumbedi,RightFoot,MissedShots,Bayern Munich,Wolfsburg,,0.02866721712052822
+52,0.05400000095367432,0.47,Moritz Jenz,LeftFoot,OwnGoal,Bayern Munich,Wolfsburg,,0
+65,0.9369999694824219,0.5459999847412109,Dzenan Pejcinovic,LeftFoot,SavedShot,Bayern Munich,Wolfsburg,Maximilian Arnold,0.47287535667419434
+79,0.865999984741211,0.7480000305175781,Kevin Paredes,LeftFoot,SavedShot,Bayern Munich,Wolfsburg,Christian Eriksen,0.024707062169909477
+1,0.919000015258789,0.5029999923706054,Moritz Jenz,Head,BlockedShot,Wolfsburg,St. Pauli,Maximilian Arnold,0.05355033278465271
+3,0.845999984741211,0.6619999694824219,Dzenan Pejcinovic,LeftFoot,SavedShot,Wolfsburg,St. Pauli,Christian Eriksen,0.09849278628826141
+15,0.9159999847412109,0.40099998474121096,Yannick Gerhardt,Head,MissedShots,Wolfsburg,St. Pauli,Aaron Zehnter,0.030376680195331573
+21,0.81,0.495,Yannick Gerhardt,LeftFoot,BlockedShot,Wolfsburg,St. Pauli,Patrick Wimmer,0.0572965145111084
+24,0.885,0.5,Christian Eriksen,RightFoot,Goal,Wolfsburg,St. Pauli,,0.75777667760849
+28,0.884000015258789,0.6090000152587891,Christian Eriksen,RightFoot,MissedShots,Wolfsburg,St. Pauli,Lovro Majer,0.3121463358402252
+28,0.9230000305175782,0.57,Lovro Majer,Head,MissedShots,Wolfsburg,St. Pauli,Sael Kumbedi,0.05765529349446297
+46,0.875999984741211,0.5179999923706055,Dzenan Pejcinovic,RightFoot,MissedShots,Wolfsburg,St. Pauli,Yannick Gerhardt,0.1146731749176979
+58,0.7819999694824219,0.27899999618530275,Christian Eriksen,LeftFoot,SavedShot,Wolfsburg,St. Pauli,Maximilian Arnold,0.019384808838367462
+64,0.9369999694824219,0.6220000076293946,Konstantinos Koulierakis,Head,BlockedShot,Wolfsburg,St. Pauli,Christian Eriksen,0.014063110575079918
+74,0.8480000305175781,0.37400001525878906,Adam Daghim,LeftFoot,SavedShot,Wolfsburg,St. Pauli,Aaron Zehnter,0.05496465414762497
+87,0.9269999694824219,0.4759999847412109,Dzenan Pejcinovic,Head,Goal,Wolfsburg,St. Pauli,Adam Daghim,0.4307798445224762
+92,0.745,0.7,Dzenan Pejcinovic,LeftFoot,BlockedShot,Wolfsburg,St. Pauli,Adam Daghim,0.015693584457039833
+18,0.8469999694824218,0.6580000305175782,Lovro Majer,LeftFoot,MissedShots,Wolfsburg,FC Heidenheim,Patrick Wimmer,0.0465531200170517
+20,0.970999984741211,0.3920000076293945,Lovro Majer,RightFoot,MissedShots,Wolfsburg,FC Heidenheim,Christian Eriksen,0.07372027635574341
+23,0.81,0.5329999923706055,Yannick Gerhardt,LeftFoot,BlockedShot,Wolfsburg,FC Heidenheim,,0.0503179132938385
+41,0.960999984741211,0.30100000381469727,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,FC Heidenheim,Jan Bürger,0.07803167402744293
+48,0.86,0.47700000762939454,Mohammed Amoura,RightFoot,BlockedShot,Wolfsburg,FC Heidenheim,Christian Eriksen,0.06407853215932846
+72,0.6790000152587891,0.5820000076293945,Maximilian Arnold,LeftFoot,SavedShot,Wolfsburg,FC Heidenheim,,0.03228991478681564
+73,0.9109999847412109,0.5170000076293946,Moritz Jenz,Head,MissedShots,Wolfsburg,FC Heidenheim,Christian Eriksen,0.03575954586267471
+79,0.955,0.49200000762939455,Moritz Jenz,Head,Goal,Wolfsburg,FC Heidenheim,Christian Eriksen,0.4029775857925415
+80,0.79,0.6619999694824219,Kevin Paredes,LeftFoot,MissedShots,Wolfsburg,FC Heidenheim,Mohammed Amoura,0.03927448019385338
+82,0.8519999694824218,0.759000015258789,Mohammed Amoura,RightFoot,SavedShot,Wolfsburg,FC Heidenheim,Christian Eriksen,0.04855670779943466
+83,0.7980000305175782,0.285,Adam Daghim,LeftFoot,BlockedShot,Wolfsburg,FC Heidenheim,,0.021860826760530472
+83,0.8809999847412109,0.4759999847412109,Jesper Lindstrom,RightFoot,BlockedShot,Wolfsburg,FC Heidenheim,Sael Kumbedi,0.10502874106168747
+91,0.87,0.625999984741211,Jesper Lindstrom,LeftFoot,SavedShot,Wolfsburg,FC Heidenheim,Mohammed Amoura,0.08037547767162323
+2,0.9580000305175781,0.4979999923706055,Mohammed Amoura,RightFoot,Goal,Mainz 05,Wolfsburg,Sael Kumbedi,0.6829138398170471
+9,0.8240000152587891,0.745999984741211,Mohammed Amoura,RightFoot,MissedShots,Mainz 05,Wolfsburg,Dzenan Pejcinovic,0.043168459087610245
+34,0.7919999694824219,0.61,Christian Eriksen,RightFoot,BlockedShot,Mainz 05,Wolfsburg,,0.09680286049842834
+50,0.8640000152587891,0.30700000762939456,Christian Eriksen,RightFoot,MissedShots,Mainz 05,Wolfsburg,,0.10557691752910614
+88,0.8780000305175781,0.22899999618530273,Adam Daghim,RightFoot,BlockedShot,Mainz 05,Wolfsburg,,0.01767551526427269
+88,0.904000015258789,0.539000015258789,Dzenan Pejcinovic,LeftFoot,MissedShots,Mainz 05,Wolfsburg,,0.1087951585650444
+92,0.8090000152587891,0.5429999923706055,Jesper Lindstrom,RightFoot,SavedShot,Mainz 05,Wolfsburg,,0.040372878313064575
+2,0.9290000152587891,0.7419999694824219,Patrick Wimmer,LeftFoot,MissedShots,FC Cologne,Wolfsburg,Dzenan Pejcinovic,0.042402636259794235
+19,0.7030000305175781,0.6969999694824218,Maximilian Arnold,LeftFoot,MissedShots,FC Cologne,Wolfsburg,Yannick Gerhardt,0.012215396389365196
+23,0.5879999923706055,0.27299999237060546,Christian Eriksen,RightFoot,MissedShots,FC Cologne,Wolfsburg,,0.007797951344400644
+26,0.7880000305175782,0.580999984741211,Christian Eriksen,RightFoot,MissedShots,FC Cologne,Wolfsburg,,0.037456024438142776
+36,0.9569999694824218,0.6419999694824219,Patrick Wimmer,LeftFoot,MissedShots,FC Cologne,Wolfsburg,Christian Eriksen,0.09700065851211548
+52,0.9480000305175781,0.4490000152587891,Adam Daghim,Head,BlockedShot,FC Cologne,Wolfsburg,Christian Eriksen,0.06788930296897888
+72,0.88,0.45,Adam Daghim,LeftFoot,BlockedShot,FC Cologne,Wolfsburg,,0.07226833701133728
+75,0.895,0.5209999847412109,Yannick Gerhardt,Head,BlockedShot,FC Cologne,Wolfsburg,Sael Kumbedi,0.07084780931472778
+75,0.9269999694824219,0.4490000152587891,Adam Daghim,Head,MissedShots,FC Cologne,Wolfsburg,Yannick Gerhardt,0.04667651280760765
+81,0.865,0.5229999923706055,Yannick Gerhardt,RightFoot,MissedShots,FC Cologne,Wolfsburg,Adam Daghim,0.06901591271162033
+86,0.8119999694824219,0.3679999923706055,Dzenan Pejcinovic,LeftFoot,SavedShot,FC Cologne,Wolfsburg,Adam Daghim,0.13661551475524902
+87,0.805,0.3579999923706055,Kento Shiogai,RightFoot,MissedShots,FC Cologne,Wolfsburg,,0.07038051635026932
+91,0.9580000305175781,0.37,Kento Shiogai,RightFoot,SavedShot,FC Cologne,Wolfsburg,,0.3379930555820465
+94,0.905,0.38,Adam Daghim,RightFoot,SavedShot,FC Cologne,Wolfsburg,Jesper Lindstrom,0.2777503430843353
+2,0.7880000305175782,0.7290000152587891,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia Dortmund,,0.01470297109335661
+11,0.705,0.705,Jeanuël Belocian,LeftFoot,BlockedShot,Wolfsburg,Borussia Dortmund,Christian Eriksen,0.01272767037153244
+23,0.7269999694824218,0.5459999847412109,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia Dortmund,Adam Daghim,0.03698015585541725
+24,0.8369999694824218,0.524000015258789,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia Dortmund,Adam Daghim,0.07657960057258606
+51,0.9419999694824219,0.46799999237060547,Konstantinos Koulierakis,Head,Goal,Wolfsburg,Borussia Dortmund,Maximilian Arnold,0.4832797050476074
+53,0.909000015258789,0.5559999847412109,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia Dortmund,Adam Daghim,0.438963919878006
+61,0.8590000152587891,0.6780000305175782,Mohammed Amoura,LeftFoot,MissedShots,Wolfsburg,Borussia Dortmund,Kevin Paredes,0.04308099299669266
+64,0.8059999847412109,0.3160000038146973,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia Dortmund,Adam Daghim,0.3134380877017975
+66,0.8190000152587891,0.49900001525878906,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia Dortmund,Christian Eriksen,0.05847468972206116
+70,0.899000015258789,0.32799999237060545,Mohammed Amoura,RightFoot,SavedShot,Wolfsburg,Borussia Dortmund,Adam Daghim,0.48866984248161316
+79,0.94,0.4,Lovro Majer,Head,ShotOnPost,Wolfsburg,Borussia Dortmund,Jeanuël Belocian,0.038414351642131805
+90,0.7830000305175782,0.6819999694824219,Maximilian Arnold,LeftFoot,BlockedShot,Wolfsburg,Borussia Dortmund,Jesper Lindstrom,0.02219492383301258
+7,0.7719999694824219,0.24700000762939453,Christian Eriksen,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Jeanuël Belocian,0.017328884452581406
+35,0.7169999694824218,0.495,Mohammed Amoura,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Lovro Majer,0.015688426792621613
+51,0.8869999694824219,0.35,Mohammed Amoura,RightFoot,Goal,RasenBallsport Leipzig,Wolfsburg,Adam Daghim,0.11581967025995255
+55,0.8490000152587891,0.33799999237060546,Lovro Majer,LeftFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Mohammed Amoura,0.06615574657917023
+64,0.82,0.735,Mohammed Amoura,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,,0.015237715095281601
+65,0.8269999694824218,0.295,Mohammed Amoura,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,Denis Vavro,0.04469400271773338
+77,0.9019999694824219,0.6229999923706054,Mattias Svanberg,LeftFoot,Goal,RasenBallsport Leipzig,Wolfsburg,Jeanuël Belocian,0.305244117975235
+78,0.805,0.49700000762939456,Adam Daghim,LeftFoot,BlockedShot,RasenBallsport Leipzig,Wolfsburg,,0.06710641086101532
+78,0.595999984741211,0.435,Denis Vavro,RightFoot,MissedShots,RasenBallsport Leipzig,Wolfsburg,,0.009833624586462975
+97,0.7669999694824219,0.4420000076293945,Christian Eriksen,RightFoot,SavedShot,RasenBallsport Leipzig,Wolfsburg,Denis Vavro,0.03065257892012596
+3,0.4379999923706055,0.295,Denis Vavro,RightFoot,MissedShots,Wolfsburg,Augsburg,Kamil Grabara,0.006950703449547291
+27,0.9030000305175782,0.4520000076293945,Lovro Majer,RightFoot,MissedShots,Wolfsburg,Augsburg,Christian Eriksen,0.09302856028079987
+34,0.7419999694824219,0.39099998474121095,Christian Eriksen,LeftFoot,MissedShots,Wolfsburg,Augsburg,Adam Daghim,0.016636669635772705
+38,0.7230000305175781,0.425,Denis Vavro,RightFoot,SavedShot,Wolfsburg,Augsburg,Christian Eriksen,0.017274700105190277
+40,0.9690000152587891,0.549000015258789,Yannick Gerhardt,Head,Goal,Wolfsburg,Augsburg,Christian Eriksen,0.4927133321762085
+55,0.9630000305175781,0.5020000076293946,Denis Vavro,Head,MissedShots,Wolfsburg,Augsburg,Lovro Majer,0.6139277815818787
+70,0.9119999694824219,0.54,Kento Shiogai,RightFoot,Goal,Wolfsburg,Augsburg,Mohammed Amoura,0.5845046043395996
+82,0.909000015258789,0.6759999847412109,Kento Shiogai,LeftFoot,SavedShot,Wolfsburg,Augsburg,Dzenan Pejcinovic,0.26454630494117737
+82,0.8059999847412109,0.5109999847412109,Jeanuël Belocian,LeftFoot,MissedShots,Wolfsburg,Augsburg,,0.09980633854866028
+95,0.8630000305175781,0.58,Jonas Adjetey,Head,MissedShots,Wolfsburg,Augsburg,Christian Eriksen,0.012852858752012253
+14,0.7430000305175781,0.5929999923706055,Pharell Hensel,RightFoot,MissedShots,VfB Stuttgart,Wolfsburg,,0.018602386116981506
+16,0.9669999694824218,0.455,Mohammed Amoura,Head,MissedShots,VfB Stuttgart,Wolfsburg,,0.11360731720924377
+35,0.889000015258789,0.5129999923706055,Yannick Gerhardt,Head,MissedShots,VfB Stuttgart,Wolfsburg,Sael Kumbedi,0.07469165325164795
+46,0.845999984741211,0.5720000076293945,Lovro Majer,LeftFoot,MissedShots,VfB Stuttgart,Wolfsburg,Adam Daghim,0.28788554668426514
+49,0.8909999847412109,0.4879999923706055,Jonas Adjetey,Head,MissedShots,VfB Stuttgart,Wolfsburg,Christian Eriksen,0.053967978805303574
+56,0.745999984741211,0.34,Kento Shiogai,RightFoot,SavedShot,VfB Stuttgart,Wolfsburg,Christian Eriksen,0.041181184351444244
+69,0.815,0.534000015258789,Kento Shiogai,RightFoot,BlockedShot,VfB Stuttgart,Wolfsburg,Yannick Gerhardt,0.06496091187000275
+70,0.8130000305175781,0.6480000305175782,Jesper Lindstrom,LeftFoot,SavedShot,VfB Stuttgart,Wolfsburg,,0.020925316959619522
+89,0.835999984741211,0.54,Dzenan Pejcinovic,LeftFoot,MissedShots,VfB Stuttgart,Wolfsburg,Aaron Zehnter,0.08160262554883957
+90,0.884000015258789,0.4490000152587891,Kento Shiogai,LeftFoot,SavedShot,VfB Stuttgart,Wolfsburg,Dzenan Pejcinovic,0.10967330634593964
