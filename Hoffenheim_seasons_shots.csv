@@ -312,3 +312,24 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 78,0.78,0.7119999694824218,Bazoumana Touré,LeftFoot,BlockedShot,FC Cologne,Hoffenheim,,0.01218603178858757
 78,0.7730000305175782,0.5420000076293945,Alexander Prass,LeftFoot,MissedShots,FC Cologne,Hoffenheim,,0.019648239016532898
 91,0.9290000152587891,0.475,Ozan Kabak,Head,SavedShot,FC Cologne,Hoffenheim,Vladimir Coufal,0.07390318810939789
+0,0.9030000305175782,0.37,Ozan Kabak,Head,SavedShot,Hoffenheim,St. Pauli,Vladimir Coufal,0.01487683318555355
+3,0.8569999694824219,0.585,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,St. Pauli,Vladimir Coufal,0.08646292239427567
+7,0.8119999694824219,0.4540000152587891,Andrej Kramaric,RightFoot,SavedShot,Hoffenheim,St. Pauli,Grischa Prömel,0.3513314723968506
+7,0.8430000305175781,0.3579999923706055,Grischa Prömel,RightFoot,SavedShot,Hoffenheim,St. Pauli,,0.07463599741458893
+8,0.9059999847412109,0.3189999961853027,Vladimir Coufal,RightFoot,BlockedShot,Hoffenheim,St. Pauli,Robin Hranác,0.03664318844676018
+8,0.9230000305175782,0.4420000076293945,Grischa Prömel,Head,MissedShots,Hoffenheim,St. Pauli,Vladimir Coufal,0.12105147540569305
+8,0.9480000305175781,0.6790000152587891,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,St. Pauli,Grischa Prömel,0.05439932271838188
+18,0.8769999694824219,0.695,Bazoumana Touré,LeftFoot,MissedShots,Hoffenheim,St. Pauli,Leon Avdullahu,0.045020002871751785
+25,0.97,0.37900001525878907,Ozan Kabak,Head,SavedShot,Hoffenheim,St. Pauli,Vladimir Coufal,0.011899732053279877
+26,0.9830000305175781,0.4879999923706055,Robin Hranác,RightFoot,SavedShot,Hoffenheim,St. Pauli,,0.30677664279937744
+28,0.9119999694824219,0.49900001525878906,Grischa Prömel,LeftFoot,SavedShot,Hoffenheim,St. Pauli,,0.48129454255104065
+46,0.9590000152587891,0.385,Albian Hajdari,Head,MissedShots,Hoffenheim,St. Pauli,Vladimir Coufal,0.013412345200777054
+45,0.9740000152587891,0.5329999923706055,Ozan Kabak,Head,MissedShots,Hoffenheim,St. Pauli,Vladimir Coufal,0.11252528429031372
+50,0.7580000305175781,0.46,Grischa Prömel,RightFoot,MissedShots,Hoffenheim,St. Pauli,Ozan Kabak,0.02503613382577896
+58,0.955999984741211,0.415,Grischa Prömel,Head,MissedShots,Hoffenheim,St. Pauli,Wouter Burger,0.036450520157814026
+64,0.935,0.4859999847412109,Bazoumana Touré,Head,MissedShots,Hoffenheim,St. Pauli,Vladimir Coufal,0.43959030508995056
+79,0.9369999694824219,0.5740000152587891,Ozan Kabak,Head,SavedShot,Hoffenheim,St. Pauli,Vladimir Coufal,0.2879996597766876
+80,0.8109999847412109,0.7080000305175781,Tim Lemperle,RightFoot,SavedShot,Hoffenheim,St. Pauli,Leon Avdullahu,0.025446685031056404
+83,0.7580000305175781,0.544000015258789,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,St. Pauli,,0.02242378145456314
+84,0.7430000305175781,0.3990000152587891,Leon Avdullahu,RightFoot,MissedShots,Hoffenheim,St. Pauli,Alexander Prass,0.017737722024321556
+91,0.945,0.5729999923706055,Fisnik Asllani,Head,SavedShot,Hoffenheim,St. Pauli,Vladimir Coufal,0.045554716140031815

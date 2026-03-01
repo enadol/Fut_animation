@@ -688,5 +688,35 @@
             "l": 0.10520860264568206
         },
         "result": "d"
+    },
+    {
+        "id": "30434",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "2",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.39761",
+            "a": "1.89016"
+        },
+        "datetime": "2026-02-28 17:30:00",
+        "forecast": {
+            "w": 0.2851068184097922,
+            "d": 0.223747040283502,
+            "l": 0.49114613943773583
+        },
+        "result": "l"
     }
 ]

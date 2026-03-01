@@ -658,5 +658,65 @@
             "l": 0.1315898198226725
         },
         "result": "l"
+    },
+    {
+        "id": "30425",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.21575",
+            "a": "2.27505"
+        },
+        "datetime": "2026-02-22 18:30:00",
+        "forecast": {
+            "w": 0.3919910876341777,
+            "d": 0.19434546232341177,
+            "l": 0.41366341460138445
+        },
+        "result": "d"
+    },
+    {
+        "id": "30439",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.47889",
+            "a": "1.70919"
+        },
+        "datetime": "2026-02-28 14:30:00",
+        "forecast": {
+            "w": 0.7106451861332959,
+            "d": 0.1362616902001331,
+            "l": 0.1530891523565953
+        },
+        "result": "l"
     }
 ]

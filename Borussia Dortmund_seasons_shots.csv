@@ -302,3 +302,13 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 80,0.895,0.46299999237060546,Fabio Silva,RightFoot,BlockedShot,RasenBallsport Leipzig,Borussia Dortmund,Yan Couto,0.11152607947587967
 94,0.9519999694824218,0.610999984741211,Fabio Silva,LeftFoot,Goal,RasenBallsport Leipzig,Borussia Dortmund,Karim Adeyemi,0.3579132556915283
 97,0.9130000305175782,0.295,Julian Brandt,RightFoot,SavedShot,RasenBallsport Leipzig,Borussia Dortmund,Fabio Silva,0.10955306142568588
+25,0.9269999694824219,0.5159999847412109,Nico Schlotterbeck,Head,Goal,Borussia Dortmund,Bayern Munich,Daniel Svensson,0.4185781180858612
+33,0.905,0.43200000762939456,Maximilian Beier,LeftFoot,BlockedShot,Borussia Dortmund,Bayern Munich,Fabio Silva,0.13578850030899048
+49,0.9309999847412109,0.64,Daniel Svensson,RightFoot,BlockedShot,Borussia Dortmund,Bayern Munich,Felix Nmecha,0.1078876331448555
+54,0.815,0.4929999923706055,Maximilian Beier,RightFoot,MissedShots,Borussia Dortmund,Bayern Munich,Felix Nmecha,0.05345088243484497
+55,0.95,0.42400001525878905,Maximilian Beier,RightFoot,BlockedShot,Borussia Dortmund,Bayern Munich,Fabio Silva,0.10442575812339783
+64,0.8469999694824218,0.37200000762939456,Yan Couto,LeftFoot,MissedShots,Borussia Dortmund,Bayern Munich,Karim Adeyemi,0.06378063559532166
+82,0.889000015258789,0.5670000076293945,Daniel Svensson,RightFoot,Goal,Borussia Dortmund,Bayern Munich,Marcel Sabitzer,0.3034711480140686
+85,0.855,0.48700000762939455,Serhou Guirassy,RightFoot,MissedShots,Borussia Dortmund,Bayern Munich,Julian Brandt,0.13007575273513794
+90,0.835999984741211,0.519000015258789,Samuele Inácio,LeftFoot,BlockedShot,Borussia Dortmund,Bayern Munich,Julian Brandt,0.05087319016456604
+92,0.7930000305175782,0.624000015258789,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,Bayern Munich,,0.02928275242447853

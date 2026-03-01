@@ -264,3 +264,23 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 75,0.7830000305175782,0.34299999237060547,Arijon Ibrahimovic,RightFoot,BlockedShot,Augsburg,FC Heidenheim,,0.052628349512815475
 76,0.7469999694824219,0.39299999237060546,Arijon Ibrahimovic,RightFoot,BlockedShot,Augsburg,FC Heidenheim,,0.015846459195017815
 89,0.8,0.45599998474121095,Arijon Ibrahimovic,LeftFoot,MissedShots,Augsburg,FC Heidenheim,Adrian Beck,0.040344104170799255
+19,0.9030000305175782,0.40700000762939453,Eren Sami Dinkci,RightFoot,Goal,FC Heidenheim,VfB Stuttgart,,0.07287056744098663
+33,0.885,0.5,Arijon Ibrahimovic,RightFoot,Goal,FC Heidenheim,VfB Stuttgart,,0.75777667760849
+36,0.8440000152587891,0.34400001525878904,Eren Sami Dinkci,LeftFoot,MissedShots,FC Heidenheim,VfB Stuttgart,Patrick Mainka,0.06846106052398682
+46,0.850999984741211,0.54,Patrick Mainka,Head,MissedShots,FC Heidenheim,VfB Stuttgart,Arijon Ibrahimovic,0.03466901183128357
+49,0.8730000305175781,0.42200000762939455,Arijon Ibrahimovic,RightFoot,SavedShot,FC Heidenheim,VfB Stuttgart,Eren Sami Dinkci,0.10093072801828384
+68,0.8380000305175781,0.7230000305175781,Stefan Schimmer,LeftFoot,SavedShot,FC Heidenheim,VfB Stuttgart,Arijon Ibrahimovic,0.028025373816490173
+81,0.850999984741211,0.56,Arijon Ibrahimovic,RightFoot,SavedShot,FC Heidenheim,VfB Stuttgart,Stefan Schimmer,0.11990056186914444
+81,0.965999984741211,0.4329999923706055,Sirlord Conteh,RightFoot,Goal,FC Heidenheim,VfB Stuttgart,,0.6451201438903809
+93,0.91,0.3089999961853027,Patrick Mainka,RightFoot,BlockedShot,FC Heidenheim,VfB Stuttgart,Stefan Schimmer,0.059882715344429016
+94,0.955,0.5059999847412109,Adam Kölle,Head,MissedShots,FC Heidenheim,VfB Stuttgart,Hennes Behrens,0.40546274185180664
+33,0.8590000152587891,0.5820000076293945,Arijon Ibrahimovic,LeftFoot,MissedShots,Werder Bremen,FC Heidenheim,,0.06823210418224335
+36,0.9330000305175781,0.405,Arijon Ibrahimovic,RightFoot,MissedShots,Werder Bremen,FC Heidenheim,Jan Schöppner,0.08644278347492218
+40,0.855,0.49599998474121093,Arijon Ibrahimovic,RightFoot,MissedShots,Werder Bremen,FC Heidenheim,Jan Schöppner,0.3646993637084961
+43,0.9459999847412109,0.415,Omar Traoré,Head,MissedShots,Werder Bremen,FC Heidenheim,Hennes Behrens,0.297136127948761
+47,0.9569999694824218,0.67,Stefan Schimmer,LeftFoot,MissedShots,Werder Bremen,FC Heidenheim,Christian Conteh,0.32033398747444153
+49,0.9640000152587891,0.3659999847412109,Leonidas Stergiou,RightFoot,MissedShots,Werder Bremen,FC Heidenheim,Arijon Ibrahimovic,0.0463435985147953
+73,0.9290000152587891,0.5459999847412109,Patrick Mainka,Head,MissedShots,Werder Bremen,FC Heidenheim,Niklas Dorsch,0.1325748860836029
+89,0.9309999847412109,0.4929999923706055,Patrick Mainka,Head,MissedShots,Werder Bremen,FC Heidenheim,Marvin Pieringer,0.37483492493629456
+95,0.7569999694824219,0.6120000076293945,Mathias Honsak,LeftFoot,MissedShots,Werder Bremen,FC Heidenheim,,0.018593020737171173
+96,0.06699999809265136,0.4759999847412109,Hennes Behrens,Head,OwnGoal,Werder Bremen,FC Heidenheim,,0
