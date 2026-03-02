@@ -688,5 +688,35 @@
             "l": 0.10520860264568206
         },
         "result": "d"
+    },
+    {
+        "id": "30436",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.820585",
+            "a": "2.28997"
+        },
+        "datetime": "2026-03-01 18:30:00",
+        "forecast": {
+            "w": 0.11834479902824821,
+            "d": 0.1769478931149065,
+            "l": 0.7047072853236612
+        },
+        "result": "w"
     }
 ]

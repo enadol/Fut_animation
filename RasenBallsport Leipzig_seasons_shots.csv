@@ -374,3 +374,16 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 72,0.9640000152587891,0.32599998474121095,Bote Baku,RightFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,Yan Diomande,0.558142900466919
 82,0.8719999694824219,0.3039999961853027,Yan Diomande,RightFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,Antonio Nusa,0.2754139006137848
 92,0.9209999847412109,0.7559999847412109,Conrad Harder,LeftFoot,MissedShots,RasenBallsport Leipzig,Borussia Dortmund,,0.052547577768564224
+7,0.7630000305175781,0.5870000076293945,Rômulo,LeftFoot,SavedShot,Hamburger SV,RasenBallsport Leipzig,David Raum,0.02667885459959507
+23,0.9269999694824219,0.47200000762939454,Christoph Baumgartner,Head,MissedShots,Hamburger SV,RasenBallsport Leipzig,David Raum,0.10925851762294769
+25,0.865999984741211,0.40400001525878904,Brajan Gruda,LeftFoot,MissedShots,Hamburger SV,RasenBallsport Leipzig,Rômulo,0.0821034163236618
+26,0.7280000305175781,0.6170000076293946,Christoph Baumgartner,RightFoot,BlockedShot,Hamburger SV,RasenBallsport Leipzig,,0.013159052468836308
+26,0.9519999694824218,0.34099998474121096,Yan Diomande,RightFoot,MissedShots,Hamburger SV,RasenBallsport Leipzig,David Raum,0.04144945368170738
+30,0.794000015258789,0.66,Nicolas Seiwald,RightFoot,BlockedShot,Hamburger SV,RasenBallsport Leipzig,,0.02498994767665863
+35,0.965,0.45799999237060546,Rômulo,RightFoot,Goal,Hamburger SV,RasenBallsport Leipzig,Bote Baku,0.11873597651720047
+42,0.9130000305175782,0.48200000762939454,Rômulo,RightFoot,SavedShot,Hamburger SV,RasenBallsport Leipzig,Yan Diomande,0.36282601952552795
+43,0.8590000152587891,0.35200000762939454,Brajan Gruda,LeftFoot,BlockedShot,Hamburger SV,RasenBallsport Leipzig,Rômulo,0.06821471452713013
+49,0.9119999694824219,0.5790000152587891,Yan Diomande,LeftFoot,Goal,Hamburger SV,RasenBallsport Leipzig,Rômulo,0.4054942727088928
+61,0.885,0.5,Rômulo,RightFoot,SavedShot,Hamburger SV,RasenBallsport Leipzig,,0.75777667760849
+73,0.894000015258789,0.53,Ezechiel Banzuzi,RightFoot,MissedShots,Hamburger SV,RasenBallsport Leipzig,David Raum,0.14896678924560547
+77,0.9130000305175782,0.4129999923706055,Ezechiel Banzuzi,LeftFoot,BlockedShot,Hamburger SV,RasenBallsport Leipzig,Yan Diomande,0.13031311333179474
