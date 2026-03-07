@@ -598,5 +598,155 @@
             "l": 0.4239996612442875
         },
         "result": "d"
+    },
+    {
+        "id": "30405",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.783478",
+            "a": "0.741257"
+        },
+        "datetime": "2026-02-07 17:30:00",
+        "forecast": {
+            "w": 0.330463571331329,
+            "d": 0.3636806294321119,
+            "l": 0.30585579923654577
+        },
+        "result": "d"
+    },
+    {
+        "id": "30416",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "3",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.98736",
+            "a": "1.03155"
+        },
+        "datetime": "2026-02-14 14:30:00",
+        "forecast": {
+            "w": 0.5955129356083575,
+            "d": 0.2136604283226147,
+            "l": 0.19082663250690746
+        },
+        "result": "l"
+    },
+    {
+        "id": "30424",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.29234",
+            "a": "1.02855"
+        },
+        "datetime": "2026-02-22 14:30:00",
+        "forecast": {
+            "w": 0.4251847758280647,
+            "d": 0.2790363366806066,
+            "l": 0.2957788874801854
+        },
+        "result": "l"
+    },
+    {
+        "id": "30433",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.56014",
+            "a": "0.137598"
+        },
+        "datetime": "2026-02-28 14:30:00",
+        "forecast": {
+            "w": 0.8949924130829358,
+            "d": 0.09325910633559947,
+            "l": 0.01174838716132939
+        },
+        "result": "w"
+    },
+    {
+        "id": "30440",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.11976",
+            "a": "1.21993"
+        },
+        "datetime": "2026-03-06 19:30:00",
+        "forecast": {
+            "w": 0.7495588313452441,
+            "d": 0.13541922443702617,
+            "l": 0.11502086475582338
+        },
+        "result": "l"
     }
 ]
