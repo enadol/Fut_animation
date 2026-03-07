@@ -457,3 +457,21 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 80,0.8640000152587891,0.6140000152587891,Luis Díaz,RightFoot,MissedShots,Borussia Dortmund,Bayern Munich,Dayotchanculle Upamecano,0.08534903079271317
 83,0.8590000152587891,0.4540000152587891,Luis Díaz,RightFoot,MissedShots,Borussia Dortmund,Bayern Munich,Michael Olise,0.10164006054401398
 86,0.885,0.44299999237060544,Joshua Kimmich,LeftFoot,Goal,Borussia Dortmund,Bayern Munich,,0.0818871334195137
+12,0.774000015258789,0.3890000152587891,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Borussia M.Gladbach,Konrad Laimer,0.022122608497738838
+14,0.8130000305175781,0.495,Leon Goretzka,RightFoot,SavedShot,Bayern Munich,Borussia M.Gladbach,Nicolas Jackson,0.06427840888500214
+21,0.919000015258789,0.664000015258789,Tom Bischof,RightFoot,BlockedShot,Bayern Munich,Borussia M.Gladbach,Jamal Musiala,0.07934026420116425
+24,0.7719999694824219,0.42700000762939455,Lennart Karl,LeftFoot,SavedShot,Bayern Munich,Borussia M.Gladbach,Leon Goretzka,0.02910752035677433
+32,0.895,0.52,Luis Díaz,RightFoot,Goal,Bayern Munich,Borussia M.Gladbach,Leon Goretzka,0.12542691826820374
+35,0.8590000152587891,0.639000015258789,Nicolas Jackson,LeftFoot,SavedShot,Bayern Munich,Borussia M.Gladbach,Luis Díaz,0.0833526998758316
+35,0.8719999694824219,0.33099998474121095,Konrad Laimer,RightFoot,MissedShots,Bayern Munich,Borussia M.Gladbach,Lennart Karl,0.06627942621707916
+38,0.9319999694824219,0.445,Dayotchanculle Upamecano,Head,BlockedShot,Bayern Munich,Borussia M.Gladbach,Tom Bischof,0.04806017130613327
+43,0.8730000305175781,0.26299999237060545,Nicolas Jackson,RightFoot,MissedShots,Bayern Munich,Borussia M.Gladbach,Konrad Laimer,0.06429246813058853
+45,0.8980000305175782,0.3870000076293945,Konrad Laimer,RightFoot,Goal,Bayern Munich,Borussia M.Gladbach,Luis Díaz,0.4632773697376251
+51,0.8069999694824219,0.37799999237060544,Konrad Laimer,RightFoot,ShotOnPost,Bayern Munich,Borussia M.Gladbach,Joshua Kimmich,0.057645127177238464
+56,0.885,0.5,Jamal Musiala,RightFoot,Goal,Bayern Munich,Borussia M.Gladbach,,0.75777667760849
+69,0.8090000152587891,0.4209999847412109,Jamal Musiala,LeftFoot,MissedShots,Bayern Munich,Borussia M.Gladbach,Lennart Karl,0.03965909406542778
+73,0.9209999847412109,0.47400001525878904,Leon Goretzka,RightFoot,MissedShots,Bayern Munich,Borussia M.Gladbach,Joshua Kimmich,0.4187101721763611
+75,0.7440000152587891,0.6990000152587891,Tom Bischof,LeftFoot,SavedShot,Bayern Munich,Borussia M.Gladbach,Leon Goretzka,0.021240631118416786
+78,0.965999984741211,0.44400001525878907,Nicolas Jackson,LeftFoot,Goal,Bayern Munich,Borussia M.Gladbach,Lennart Karl,0.6299315690994263
+91,0.8030000305175782,0.664000015258789,David Santos,RightFoot,BlockedShot,Bayern Munich,Borussia M.Gladbach,,0.030350076034665108
+92,0.855,0.4829999923706055,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,Borussia M.Gladbach,Nicolas Jackson,0.11890526115894318

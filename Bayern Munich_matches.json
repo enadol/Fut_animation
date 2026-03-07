@@ -718,5 +718,35 @@
             "l": 0.49114613943773583
         },
         "result": "w"
+    },
+    {
+        "id": "30440",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.11976",
+            "a": "1.21993"
+        },
+        "datetime": "2026-03-06 19:30:00",
+        "forecast": {
+            "w": 0.7495588313452441,
+            "d": 0.13541922443702617,
+            "l": 0.11502086475582338
+        },
+        "result": "w"
     }
 ]
