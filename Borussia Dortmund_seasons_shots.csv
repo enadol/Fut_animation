@@ -312,3 +312,16 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 85,0.855,0.48700000762939455,Serhou Guirassy,RightFoot,MissedShots,Borussia Dortmund,Bayern Munich,Julian Brandt,0.13007575273513794
 90,0.835999984741211,0.519000015258789,Samuele Inácio,LeftFoot,BlockedShot,Borussia Dortmund,Bayern Munich,Julian Brandt,0.05087319016456604
 92,0.7930000305175782,0.624000015258789,Nico Schlotterbeck,LeftFoot,BlockedShot,Borussia Dortmund,Bayern Munich,,0.02928275242447853
+8,0.8830000305175781,0.5729999923706055,Daniel Svensson,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,,0.04974133148789406
+8,0.7709999847412109,0.4540000152587891,Marcel Sabitzer,LeftFoot,MissedShots,FC Cologne,Borussia Dortmund,,0.02112145535647869
+14,0.885,0.7,Maximilian Beier,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,Serhou Guirassy,0.07352330535650253
+15,0.93,0.5020000076293946,Serhou Guirassy,RightFoot,Goal,FC Cologne,Borussia Dortmund,Maximilian Beier,0.4726828932762146
+32,0.86,0.6430000305175781,Maximilian Beier,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,Serhou Guirassy,0.07437443733215332
+39,0.8959999847412109,0.555,Serhou Guirassy,RightFoot,SavedShot,FC Cologne,Borussia Dortmund,,0.41808825731277466
+46,0.9180000305175782,0.4859999847412109,Nico Schlotterbeck,Head,SavedShot,FC Cologne,Borussia Dortmund,Daniel Svensson,0.0465182401239872
+59,0.92,0.5829999923706055,Maximilian Beier,RightFoot,Goal,FC Cologne,Borussia Dortmund,Julian Brandt,0.44218891859054565
+65,0.885,0.3340000152587891,Fabio Silva,RightFoot,SavedShot,FC Cologne,Borussia Dortmund,Yan Couto,0.09024420380592346
+65,0.9069999694824219,0.38,Fabio Silva,RightFoot,MissedShots,FC Cologne,Borussia Dortmund,,0.0970240980386734
+74,0.785,0.38799999237060545,Felix Nmecha,RightFoot,MissedShots,FC Cologne,Borussia Dortmund,Daniel Svensson,0.031338345259428024
+79,0.8569999694824219,0.6270000076293946,Ramy Bensebaini,LeftFoot,MissedShots,FC Cologne,Borussia Dortmund,Daniel Svensson,0.08535528928041458
+88,0.870999984741211,0.705,Karim Adeyemi,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,Daniel Svensson,0.05624912679195404
