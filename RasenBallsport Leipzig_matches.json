@@ -718,5 +718,35 @@
             "l": 0.7047072853236612
         },
         "result": "w"
+    },
+    {
+        "id": "30445",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.19435",
+            "a": "3.6651"
+        },
+        "datetime": "2026-03-07 14:30:00",
+        "forecast": {
+            "w": 0.2035597102706567,
+            "d": 0.14230665856222127,
+            "l": 0.6541263077822526
+        },
+        "result": "w"
     }
 ]
