@@ -628,5 +628,125 @@
             "l": 0.7596026868347374
         },
         "result": "l"
+    },
+    {
+        "id": "30420",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.56266",
+            "a": "1.13246"
+        },
+        "datetime": "2026-02-14 17:30:00",
+        "forecast": {
+            "w": 0.6824428949655599,
+            "d": 0.16957077026201275,
+            "l": 0.14798624018302758
+        },
+        "result": "l"
+    },
+    {
+        "id": "30423",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.12252",
+            "a": "1.8243"
+        },
+        "datetime": "2026-02-21 14:30:00",
+        "forecast": {
+            "w": 0.23274096206439807,
+            "d": 0.22934391504366705,
+            "l": 0.5379151217427269
+        },
+        "result": "d"
+    },
+    {
+        "id": "30431",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.55844",
+            "a": "0.492698"
+        },
+        "datetime": "2026-02-27 19:30:00",
+        "forecast": {
+            "w": 0.6375209271368051,
+            "d": 0.2479742061677244,
+            "l": 0.1145048665570354
+        },
+        "result": "l"
+    },
+    {
+        "id": "30441",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.96405",
+            "a": "1.9574"
+        },
+        "datetime": "2026-03-07 17:30:00",
+        "forecast": {
+            "w": 0.1799935470622172,
+            "d": 0.2147582468886049,
+            "l": 0.6052482031329284
+        },
+        "result": "l"
     }
 ]

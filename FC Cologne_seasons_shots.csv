@@ -279,3 +279,46 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 67,0.9259999847412109,0.49200000762939455,Ragnar Ache,Head,MissedShots,FC Cologne,RasenBallsport Leipzig,Jakub Kaminski,0.057565540075302124
 68,0.879000015258789,0.5709999847412109,Sebastian Sebulonsen,LeftFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,Marius Bülter,0.0957394391298294
 92,0.8880000305175781,0.624000015258789,Said El Mala,RightFoot,BlockedShot,FC Cologne,RasenBallsport Leipzig,,0.029622403904795647
+2,0.9390000152587891,0.6419999694824219,Cenk Özkacar,Head,MissedShots,VfB Stuttgart,FC Cologne,Kristoffer Lund,0.01824517361819744
+7,0.9730000305175781,0.34599998474121096,Ragnar Ache,Head,MissedShots,VfB Stuttgart,FC Cologne,Sebastian Sebulonsen,0.011132234707474709
+8,0.919000015258789,0.6530000305175782,Jakub Kaminski,LeftFoot,MissedShots,VfB Stuttgart,FC Cologne,Ragnar Ache,0.2646315097808838
+37,0.8430000305175781,0.6519999694824219,Jan Thielmann,RightFoot,SavedShot,VfB Stuttgart,FC Cologne,Marius Bülter,0.03981487452983856
+58,0.9369999694824219,0.49700000762939456,Marius Bülter,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,,0.07928454130887985
+62,0.9569999694824218,0.590999984741211,Sebastian Sebulonsen,RightFoot,BlockedShot,VfB Stuttgart,FC Cologne,Kristoffer Lund,0.090129554271698
+64,0.924000015258789,0.55,Ragnar Ache,Head,SavedShot,VfB Stuttgart,FC Cologne,Jakub Kaminski,0.05800366774201393
+65,0.9069999694824219,0.624000015258789,Tom Krauß,LeftFoot,BlockedShot,VfB Stuttgart,FC Cologne,,0.0655512809753418
+77,0.8130000305175781,0.5,Said El Mala,RightFoot,MissedShots,VfB Stuttgart,FC Cologne,,0.047005269676446915
+78,0.9009999847412109,0.5,Ragnar Ache,LeftFoot,Goal,VfB Stuttgart,FC Cologne,Gian-Luca Waldschmidt,0.45866313576698303
+14,0.8980000305175782,0.4470000076293945,Ragnar Ache,RightFoot,Goal,FC Cologne,Hoffenheim,Said El Mala,0.0917358249425888
+16,0.855999984741211,0.345,Ragnar Ache,RightFoot,BlockedShot,FC Cologne,Hoffenheim,Jakub Kaminski,0.0685029923915863
+17,0.925,0.48200000762939454,Cenk Özkacar,Head,SavedShot,FC Cologne,Hoffenheim,Jakub Kaminski,0.05508723855018616
+20,0.875,0.31799999237060544,Jakub Kaminski,RightFoot,SavedShot,FC Cologne,Hoffenheim,Ragnar Ache,0.14881931245326996
+22,0.9119999694824219,0.465,Ragnar Ache,Head,MissedShots,FC Cologne,Hoffenheim,Jakub Kaminski,0.03226848691701889
+22,0.98,0.585999984741211,Eric Martel,Head,MissedShots,FC Cologne,Hoffenheim,Ragnar Ache,0.1957816183567047
+52,0.749000015258789,0.6969999694824218,Said El Mala,RightFoot,BlockedShot,FC Cologne,Hoffenheim,,0.0114118792116642
+62,0.875,0.575,Said El Mala,LeftFoot,Goal,FC Cologne,Hoffenheim,Jakub Kaminski,0.4616907238960266
+83,0.885,0.6680000305175782,Said El Mala,RightFoot,BlockedShot,FC Cologne,Hoffenheim,Kristoffer Lund,0.06354229152202606
+7,0.9080000305175782,0.47099998474121096,Cenk Özkacar,Head,MissedShots,Augsburg,FC Cologne,Jakub Kaminski,0.07844006270170212
+35,0.919000015258789,0.2670000076293945,Jakub Kaminski,LeftFoot,BlockedShot,Augsburg,FC Cologne,Tom Krauß,0.04759768769145012
+35,0.935,0.5359999847412109,Jahmai Simpson-Pusey,Head,MissedShots,Augsburg,FC Cologne,Gian-Luca Waldschmidt,0.12166443467140198
+36,0.8390000152587891,0.4779999923706055,Kristoffer Lund,LeftFoot,BlockedShot,Augsburg,FC Cologne,Eric Martel,0.06499121338129044
+37,0.88,0.5320000076293945,Eric Martel,Head,ShotOnPost,Augsburg,FC Cologne,Jakub Kaminski,0.03569154068827629
+47,0.924000015258789,0.625,Kristoffer Lund,Head,SavedShot,Augsburg,FC Cologne,Ísak Bergmann Jóhannesson,0.031000612303614616
+58,0.8490000152587891,0.514000015258789,Gian-Luca Waldschmidt,Head,MissedShots,Augsburg,FC Cologne,Marius Bülter,0.01851772889494896
+75,0.885,0.385,Jahmai Simpson-Pusey,Head,SavedShot,Augsburg,FC Cologne,,0.014238676056265831
+88,0.8190000152587891,0.575999984741211,Felipe Chávez,LeftFoot,BlockedShot,Augsburg,FC Cologne,,0.045923471450805664
+93,0.9169999694824219,0.6129999923706054,Cenk Özkacar,Head,BlockedShot,Augsburg,FC Cologne,Youssoupha Niang,0.04253934323787689
+0,0.9169999694824219,0.54,Ísak Bergmann Jóhannesson,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,Tom Krauß,0.13789179921150208
+0,0.9530000305175781,0.529000015258789,Ísak Bergmann Jóhannesson,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,,0.12758922576904297
+4,0.9019999694824219,0.4640000152587891,Youssoupha Niang,Head,SavedShot,FC Cologne,Borussia Dortmund,Said El Mala,0.09550980478525162
+14,0.86,0.6959999847412109,Kristoffer Lund,LeftFoot,BlockedShot,FC Cologne,Borussia Dortmund,,0.01796441525220871
+18,0.9069999694824219,0.24,Youssoupha Niang,RightFoot,MissedShots,FC Cologne,Borussia Dortmund,Jakub Kaminski,0.0810505822300911
+33,0.865,0.48900001525878906,Ragnar Ache,Head,MissedShots,FC Cologne,Borussia Dortmund,Jakub Kaminski,0.08171170949935913
+33,0.9330000305175781,0.675,Said El Mala,RightFoot,MissedShots,FC Cologne,Borussia Dortmund,Ragnar Ache,0.08652178943157196
+37,0.889000015258789,0.5890000152587891,Ragnar Ache,Head,BlockedShot,FC Cologne,Borussia Dortmund,Eric Martel,0.03570527955889702
+38,0.9219999694824219,0.4779999923706055,Youssoupha Niang,Head,MissedShots,FC Cologne,Borussia Dortmund,Said El Mala,0.051680583506822586
+53,0.710999984741211,0.585999984741211,Kristoffer Lund,LeftFoot,SavedShot,FC Cologne,Borussia Dortmund,Youssoupha Niang,0.016381017863750458
+55,0.8669999694824219,0.5320000076293945,Jakub Kaminski,RightFoot,SavedShot,FC Cologne,Borussia Dortmund,Said El Mala,0.09245076030492783
+56,0.975999984741211,0.38099998474121094,Youssoupha Niang,RightFoot,BlockedShot,FC Cologne,Borussia Dortmund,,0.06965190172195435
+56,0.74,0.445,Eric Martel,LeftFoot,MissedShots,FC Cologne,Borussia Dortmund,Tom Krauß,0.02046235464513302
+87,0.8530000305175781,0.5690000152587891,Jakub Kaminski,RightFoot,Goal,FC Cologne,Borussia Dortmund,,0.05591767653822899

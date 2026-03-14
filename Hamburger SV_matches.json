@@ -658,5 +658,95 @@
             "l": 0.1731481554329492
         },
         "result": "d"
+    },
+    {
+        "id": "30436",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.820585",
+            "a": "2.28997"
+        },
+        "datetime": "2026-03-01 18:30:00",
+        "forecast": {
+            "w": 0.11834479902824821,
+            "d": 0.1769478931149065,
+            "l": 0.7047072853236612
+        },
+        "result": "l"
+    },
+    {
+        "id": "30371",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.28692",
+            "a": "2.67874"
+        },
+        "datetime": "2026-03-04 19:30:00",
+        "forecast": {
+            "w": 0.16280384361532424,
+            "d": 0.1675444323578596,
+            "l": 0.6696515589397212
+        },
+        "result": "l"
+    },
+    {
+        "id": "30448",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.46612",
+            "a": "1.80445"
+        },
+        "datetime": "2026-03-07 14:30:00",
+        "forecast": {
+            "w": 0.526670103691045,
+            "d": 0.19097731019467906,
+            "l": 0.28235252696857316
+        },
+        "result": "w"
     }
 ]

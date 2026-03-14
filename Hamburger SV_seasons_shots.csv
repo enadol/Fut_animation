@@ -289,3 +289,30 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 84,0.845999984741211,0.3110000038146973,Fábio Vieira,LeftFoot,BlockedShot,Mainz 05,Hamburger SV,,0.03861222788691521
 85,0.7730000305175782,0.6890000152587891,Rayan Philippe,LeftFoot,MissedShots,Mainz 05,Hamburger SV,,0.015891268849372864
 85,0.720999984741211,0.4229999923706055,William Mikelbrencis,RightFoot,MissedShots,Mainz 05,Hamburger SV,,0.017165588214993477
+3,0.7680000305175781,0.24799999237060547,Ransford Königsdörffer,RightFoot,MissedShots,Hamburger SV,RasenBallsport Leipzig,Damion Downs,0.013930260203778744
+8,0.7030000305175781,0.5270000076293946,Luka Vuskovic,RightFoot,MissedShots,Hamburger SV,RasenBallsport Leipzig,,0.01030062511563301
+10,0.8569999694824219,0.32799999237060545,Damion Downs,RightFoot,SavedShot,Hamburger SV,RasenBallsport Leipzig,Luka Vuskovic,0.11199060827493668
+21,0.8969999694824219,0.4759999847412109,Fábio Vieira,LeftFoot,Goal,Hamburger SV,RasenBallsport Leipzig,William Mikelbrencis,0.5804635286331177
+37,0.755,0.3110000038146973,Damion Downs,RightFoot,SavedShot,Hamburger SV,RasenBallsport Leipzig,Ransford Königsdörffer,0.035083651542663574
+39,0.8730000305175781,0.44299999237060544,Nicolai Remberg,Head,BlockedShot,Hamburger SV,RasenBallsport Leipzig,William Mikelbrencis,0.032003626227378845
+94,0.7019999694824218,0.625,Luka Vuskovic,RightFoot,MissedShots,Hamburger SV,RasenBallsport Leipzig,,0.03681277483701706
+18,0.7659999847412109,0.37200000762939456,Ransford Königsdörffer,RightFoot,BlockedShot,Hamburger SV,Bayer Leverkusen,Damion Downs,0.0439513698220253
+19,0.9230000305175782,0.30700000762939456,Fábio Vieira,LeftFoot,MissedShots,Hamburger SV,Bayer Leverkusen,,0.041951440274715424
+29,0.735,0.44400001525878907,Fábio Vieira,LeftFoot,BlockedShot,Hamburger SV,Bayer Leverkusen,Warmed Omari,0.02093496359884739
+54,0.875,0.41700000762939454,Nicolai Remberg,RightFoot,SavedShot,Hamburger SV,Bayer Leverkusen,Damion Downs,0.08933892101049423
+90,0.8519999694824218,0.47,Otto Stange,RightFoot,SavedShot,Hamburger SV,Bayer Leverkusen,,0.08817468583583832
+90,0.87,0.495,Luka Vuskovic,Head,MissedShots,Hamburger SV,Bayer Leverkusen,Albert Sambi Lokonga,0.02006731554865837
+95,0.93,0.47400001525878904,Daniel Elfadli,Head,MissedShots,Hamburger SV,Bayer Leverkusen,Jean-Luc Dompe,0.11854535341262817
+97,0.9480000305175781,0.5620000076293945,Otto Stange,Head,BlockedShot,Hamburger SV,Bayer Leverkusen,William Mikelbrencis,0.06030344218015671
+97,0.9569999694824218,0.515,Luka Vuskovic,RightFoot,SavedShot,Hamburger SV,Bayer Leverkusen,,0.6713777780532837
+97,0.9630000305175781,0.514000015258789,Luka Vuskovic,Head,ShotOnPost,Hamburger SV,Bayer Leverkusen,,0.5594554543495178
+32,0.885,0.5,Luka Vuskovic,RightFoot,Goal,Wolfsburg,Hamburger SV,,0.75777667760849
+34,0.815,0.8769999694824219,Jean-Luc Dompe,RightFoot,SavedShot,Wolfsburg,Hamburger SV,,0.03378309682011604
+42,0.87,0.7709999847412109,Jean-Luc Dompe,RightFoot,SavedShot,Wolfsburg,Hamburger SV,Philip Otele,0.02179867960512638
+48,0.7930000305175782,0.7180000305175781,Jean-Luc Dompe,RightFoot,MissedShots,Wolfsburg,Hamburger SV,,0.01653781346976757
+48,0.775,0.69,Philip Otele,LeftFoot,SavedShot,Wolfsburg,Hamburger SV,Jean-Luc Dompe,0.03157608211040497
+55,0.8730000305175781,0.69,Ransford Königsdörffer,RightFoot,SavedShot,Wolfsburg,Hamburger SV,Albert Sambi Lokonga,0.07366840541362762
+57,0.885,0.5,Jean-Luc Dompe,RightFoot,Goal,Wolfsburg,Hamburger SV,,0.75777667760849
+88,0.7180000305175781,0.4829999923706055,Fábio Vieira,LeftFoot,SavedShot,Wolfsburg,Hamburger SV,Warmed Omari,0.04481324553489685
+89,0.7769999694824219,0.6719999694824219,Jordan Torunarigha,LeftFoot,BlockedShot,Wolfsburg,Hamburger SV,Albert Sambi Lokonga,0.030685223639011383
+89,0.8290000152587891,0.3820000076293945,Jordan Torunarigha,LeftFoot,MissedShots,Wolfsburg,Hamburger SV,,0.03603601083159447
