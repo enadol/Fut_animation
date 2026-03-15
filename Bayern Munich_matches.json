@@ -748,5 +748,35 @@
             "l": 0.11502086475582338
         },
         "result": "w"
+    },
+    {
+        "id": "30449",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.65255",
+            "a": "1.26817"
+        },
+        "datetime": "2026-03-14 14:30:00",
+        "forecast": {
+            "w": 0.6691211784680194,
+            "d": 0.16863456531190077,
+            "l": 0.16224411025468866
+        },
+        "result": "d"
     }
 ]

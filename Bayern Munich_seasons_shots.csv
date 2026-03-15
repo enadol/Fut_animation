@@ -475,3 +475,14 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 78,0.965999984741211,0.44400001525878907,Nicolas Jackson,LeftFoot,Goal,Bayern Munich,Borussia M.Gladbach,Lennart Karl,0.6299315690994263
 91,0.8030000305175782,0.664000015258789,David Santos,RightFoot,BlockedShot,Bayern Munich,Borussia M.Gladbach,,0.030350076034665108
 92,0.855,0.4829999923706055,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,Borussia M.Gladbach,Nicolas Jackson,0.11890526115894318
+8,0.88,0.38299999237060545,Nicolas Jackson,RightFoot,MissedShots,Bayer Leverkusen,Bayern Munich,Josip Stanisic,0.06723790615797043
+21,0.845,0.4520000076293945,Lennart Karl,LeftFoot,BlockedShot,Bayer Leverkusen,Bayern Munich,Michael Olise,0.06980791687965393
+23,0.870999984741211,0.5109999847412109,Nicolas Jackson,RightFoot,SavedShot,Bayer Leverkusen,Bayern Munich,Michael Olise,0.13453945517539978
+23,0.8580000305175781,0.64,Luis Díaz,RightFoot,MissedShots,Bayer Leverkusen,Bayern Munich,Nicolas Jackson,0.06075605750083923
+52,0.8519999694824218,0.605999984741211,Luis Díaz,RightFoot,MissedShots,Bayer Leverkusen,Bayern Munich,Michael Olise,0.30736982822418213
+57,0.8859999847412109,0.6769999694824219,Luis Díaz,RightFoot,BlockedShot,Bayer Leverkusen,Bayern Munich,Joshua Kimmich,0.04967702925205231
+68,0.884000015258789,0.580999984741211,Luis Díaz,RightFoot,Goal,Bayer Leverkusen,Bayern Munich,Michael Olise,0.3466930389404297
+70,0.34599998474121096,0.505,Harry Kane,RightFoot,SavedShot,Bayer Leverkusen,Bayern Munich,Leon Goretzka,0.009376662783324718
+70,0.85,0.6459999847412109,Michael Olise,LeftFoot,SavedShot,Bayer Leverkusen,Bayern Munich,Harry Kane,0.04602492228150368
+72,0.8819999694824219,0.5429999923706055,Michael Olise,LeftFoot,BlockedShot,Bayer Leverkusen,Bayern Munich,Luis Díaz,0.1180373802781105
+86,0.9390000152587891,0.3189999961853027,Josip Stanisic,RightFoot,SavedShot,Bayer Leverkusen,Bayern Munich,Harry Kane,0.058646705001592636

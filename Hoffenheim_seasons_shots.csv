@@ -349,3 +349,23 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.9730000305175781,0.45099998474121095,Tim Lemperle,RightFoot,Goal,FC Heidenheim,Hoffenheim,Bazoumana Touré,0.9127861261367798
 89,0.8590000152587891,0.6190000152587891,Alexander Prass,LeftFoot,SavedShot,FC Heidenheim,Hoffenheim,Muhammed Damar,0.09950799494981766
 91,0.905,0.34900001525878904,Valentin Gendrey,RightFoot,MissedShots,FC Heidenheim,Hoffenheim,Grischa Prömel,0.2682481110095978
+1,0.9059999847412109,0.3940000152587891,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,Wolfsburg,Robin Hranác,0.06709733605384827
+8,0.975,0.41400001525878904,Ozan Kabak,Head,BlockedShot,Hoffenheim,Wolfsburg,Vladimir Coufal,0.03015635907649994
+8,0.9540000152587891,0.49900001525878906,Robin Hranác,Head,BlockedShot,Hoffenheim,Wolfsburg,Alexander Prass,0.0872163251042366
+16,0.8880000305175781,0.5670000076293945,Ozan Kabak,Head,MissedShots,Hoffenheim,Wolfsburg,Alexander Prass,0.05089474841952324
+25,0.9730000305175781,0.535,Wouter Burger,Head,SavedShot,Hoffenheim,Wolfsburg,Andrej Kramaric,0.6626470685005188
+25,0.9630000305175781,0.580999984741211,Bazoumana Touré,RightFoot,BlockedShot,Hoffenheim,Wolfsburg,,0.13980355858802795
+29,0.8240000152587891,0.644000015258789,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,Wolfsburg,,0.04088399559259415
+39,0.7780000305175782,0.40900001525878904,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,Wolfsburg,Bazoumana Touré,0.02939649485051632
+39,0.7680000305175781,0.5409999847412109,Vladimir Coufal,LeftFoot,MissedShots,Hoffenheim,Wolfsburg,,0.02084718830883503
+45,0.8869999694824219,0.5229999923706055,Ozan Kabak,RightFoot,BlockedShot,Hoffenheim,Wolfsburg,Leon Avdullahu,0.08187609165906906
+54,0.784000015258789,0.654000015258789,Andrej Kramaric,LeftFoot,MissedShots,Hoffenheim,Wolfsburg,Fisnik Asllani,0.02542424015700817
+55,0.815,0.44400001525878907,Bazoumana Touré,LeftFoot,MissedShots,Hoffenheim,Wolfsburg,,0.03797975927591324
+58,0.9069999694824219,0.5220000076293946,Fisnik Asllani,Head,MissedShots,Hoffenheim,Wolfsburg,Bazoumana Touré,0.05509563907980919
+65,0.8590000152587891,0.544000015258789,Ozan Kabak,LeftFoot,MissedShots,Hoffenheim,Wolfsburg,Tim Lemperle,0.07979994267225266
+72,0.740999984741211,0.5120000076293946,Wouter Burger,LeftFoot,BlockedShot,Hoffenheim,Wolfsburg,,0.016539813950657845
+75,0.9580000305175781,0.43200000762939456,Andrej Kramaric,RightFoot,SavedShot,Hoffenheim,Wolfsburg,,0.5305370688438416
+82,0.9119999694824219,0.4620000076293945,Grischa Prömel,Head,Goal,Hoffenheim,Wolfsburg,Bazoumana Touré,0.2795315682888031
+86,0.7630000305175781,0.27899999618530275,Wouter Burger,LeftFoot,SavedShot,Hoffenheim,Wolfsburg,Bazoumana Touré,0.015062189660966396
+92,0.8119999694824219,0.4,Grischa Prömel,RightFoot,MissedShots,Hoffenheim,Wolfsburg,,0.06537806242704391
+97,0.8669999694824219,0.565,Ozan Kabak,Head,MissedShots,Hoffenheim,Wolfsburg,Vladimir Coufal,0.014604357071220875
