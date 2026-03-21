@@ -369,3 +369,11 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 86,0.7630000305175781,0.27899999618530275,Wouter Burger,LeftFoot,SavedShot,Hoffenheim,Wolfsburg,Bazoumana Touré,0.015062189660966396
 92,0.8119999694824219,0.4,Grischa Prömel,RightFoot,MissedShots,Hoffenheim,Wolfsburg,,0.06537806242704391
 97,0.8669999694824219,0.565,Ozan Kabak,Head,MissedShots,Hoffenheim,Wolfsburg,Vladimir Coufal,0.014604357071220875
+0,0.875,0.7630000305175781,Bazoumana Touré,LeftFoot,BlockedShot,RasenBallsport Leipzig,Hoffenheim,Ozan Kabak,0.027689451351761818
+8,0.9080000305175782,0.5640000152587891,Tim Lemperle,LeftFoot,MissedShots,RasenBallsport Leipzig,Hoffenheim,Bazoumana Touré,0.12711101770401
+14,0.7630000305175781,0.775,Vladimir Coufal,RightFoot,BlockedShot,RasenBallsport Leipzig,Hoffenheim,,0.03877069056034088
+47,0.9319999694824219,0.5979999923706054,Tim Lemperle,Head,MissedShots,RasenBallsport Leipzig,Hoffenheim,Alexander Prass,0.017056379467248917
+52,0.8280000305175781,0.45,Grischa Prömel,RightFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,Tim Lemperle,0.07441379874944687
+52,0.89,0.3940000152587891,Grischa Prömel,RightFoot,MissedShots,RasenBallsport Leipzig,Hoffenheim,,0.06787797808647156
+86,0.8819999694824219,0.445,Muhammed Damar,RightFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,,0.07025232166051865
+86,0.9430000305175781,0.5359999847412109,Grischa Prömel,RightFoot,BlockedShot,RasenBallsport Leipzig,Hoffenheim,Andrej Kramaric,0.10328321158885956

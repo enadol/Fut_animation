@@ -233,3 +233,37 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 83,0.775,0.575999984741211,Danel Sinani,LeftFoot,MissedShots,Bayer Leverkusen,St. Pauli,,0.08680974692106247
 85,0.7759999847412109,0.6880000305175781,Joel Chima Fujita,RightFoot,SavedShot,Bayer Leverkusen,St. Pauli,Lars Ritzka,0.016270270571112633
 87,0.9169999694824219,0.4540000152587891,Taichi Hara,Head,MissedShots,Bayer Leverkusen,St. Pauli,Arkadiusz Pyrka,0.2931467592716217
+9,0.8919999694824219,0.62,Martijn Kaars,RightFoot,SavedShot,St. Pauli,Werder Bremen,Arkadiusz Pyrka,0.08990529179573059
+54,0.8819999694824219,0.5629999923706055,Hauke Wahl,Head,Goal,St. Pauli,Werder Bremen,Danel Sinani,0.014566185884177685
+69,0.9130000305175782,0.36400001525878906,Joel Chima Fujita,RightFoot,Goal,St. Pauli,Werder Bremen,Manolis Saliakas,0.09887569397687912
+88,0.850999984741211,0.6809999847412109,Pereira Lage,RightFoot,SavedShot,St. Pauli,Werder Bremen,Danel Sinani,0.05735047534108162
+3,0.7569999694824219,0.3990000152587891,Danel Sinani,LeftFoot,SavedShot,Hoffenheim,St. Pauli,,0.01422959379851818
+9,0.8580000305175781,0.37599998474121094,Manolis Saliakas,LeftFoot,BlockedShot,Hoffenheim,St. Pauli,Joel Chima Fujita,0.06964641064405441
+10,0.8,0.33799999237060546,Manolis Saliakas,RightFoot,BlockedShot,Hoffenheim,St. Pauli,,0.02109825238585472
+21,0.9069999694824219,0.534000015258789,James Sands,Head,MissedShots,Hoffenheim,St. Pauli,Eric Smith,0.10794014483690262
+34,0.7530000305175781,0.595,Pereira Lage,LeftFoot,MissedShots,Hoffenheim,St. Pauli,,0.013764554634690285
+39,0.9580000305175781,0.33,Joel Chima Fujita,RightFoot,MissedShots,Hoffenheim,St. Pauli,,0.09335015714168549
+40,0.8719999694824219,0.27,Pereira Lage,RightFoot,MissedShots,Hoffenheim,St. Pauli,Manolis Saliakas,0.03647958114743233
+41,0.9030000305175782,0.5679999923706055,Jackson Irvine,Head,MissedShots,Hoffenheim,St. Pauli,Danel Sinani,0.04957672581076622
+48,0.9230000305175782,0.534000015258789,Pereira Lage,Head,Goal,Hoffenheim,St. Pauli,Manolis Saliakas,0.4314861297607422
+47,0.9669999694824218,0.700999984741211,Danel Sinani,LeftFoot,SavedShot,Hoffenheim,St. Pauli,Arkadiusz Pyrka,0.06670955568552017
+75,0.8619999694824219,0.695,Arkadiusz Pyrka,RightFoot,BlockedShot,Hoffenheim,St. Pauli,Eric Smith,0.04222333803772926
+7,0.815,0.6859999847412109,Arkadiusz Pyrka,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,,0.027317587286233902
+8,0.9219999694824219,0.37799999237060544,Pereira Lage,Head,MissedShots,St. Pauli,Eintracht Frankfurt,Manolis Saliakas,0.0216415636241436
+21,0.8030000305175782,0.529000015258789,Jackson Irvine,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,Danel Sinani,0.037465088069438934
+22,0.9230000305175782,0.5540000152587891,Tomoya Ando,Head,MissedShots,St. Pauli,Eintracht Frankfurt,Danel Sinani,0.04154389724135399
+22,0.95,0.585999984741211,Pereira Lage,RightFoot,ShotOnPost,St. Pauli,Eintracht Frankfurt,Tomoya Ando,0.10669194161891937
+30,0.8019999694824219,0.6790000152587891,Danel Sinani,LeftFoot,ShotOnPost,St. Pauli,Eintracht Frankfurt,Pereira Lage,0.03617658093571663
+66,0.860999984741211,0.6680000305175782,Danel Sinani,LeftFoot,SavedShot,St. Pauli,Eintracht Frankfurt,James Sands,0.04198246821761131
+78,0.710999984741211,0.5,Pereira Lage,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,,0.045195210725069046
+78,0.885,0.45099998474121095,Jackson Irvine,Head,BlockedShot,St. Pauli,Eintracht Frankfurt,Arkadiusz Pyrka,0.059267450124025345
+90,0.805,0.3139999961853027,Joel Chima Fujita,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,Connor Metcalfe,0.02805602364242077
+90,0.8430000305175781,0.27399999618530274,Danel Sinani,LeftFoot,SavedShot,St. Pauli,Eintracht Frankfurt,Joel Chima Fujita,0.026947245001792908
+15,0.8180000305175781,0.3129999923706055,Arkadiusz Pyrka,RightFoot,BlockedShot,Borussia M.Gladbach,St. Pauli,Danel Sinani,0.029949408024549484
+19,0.894000015258789,0.525,Adam Dzwigala,Head,MissedShots,Borussia M.Gladbach,St. Pauli,Danel Sinani,0.0187681932002306
+26,0.924000015258789,0.3729999923706055,Joel Chima Fujita,RightFoot,SavedShot,Borussia M.Gladbach,St. Pauli,Lars Ritzka,0.342034250497818
+31,0.8040000152587891,0.6930000305175781,Jackson Irvine,RightFoot,MissedShots,Borussia M.Gladbach,St. Pauli,Lars Ritzka,0.025046996772289276
+41,0.785,0.32099998474121094,Danel Sinani,LeftFoot,MissedShots,Borussia M.Gladbach,St. Pauli,Adam Dzwigala,0.021979613229632378
+59,0.769000015258789,0.5790000152587891,Eric Smith,RightFoot,MissedShots,Borussia M.Gladbach,St. Pauli,Danel Sinani,0.04035793989896774
+70,0.914000015258789,0.55,Danel Sinani,Head,MissedShots,Borussia M.Gladbach,St. Pauli,,0.05541178584098816
+91,0.9280000305175782,0.620999984741211,Jackson Irvine,LeftFoot,MissedShots,Borussia M.Gladbach,St. Pauli,Louis Oppie,0.09516464918851852

@@ -658,5 +658,125 @@
             "l": 0.09185946354340185
         },
         "result": "l"
+    },
+    {
+        "id": "30428",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.260698",
+            "a": "1.61141"
+        },
+        "datetime": "2026-02-22 16:30:00",
+        "forecast": {
+            "w": 0.05566321941018899,
+            "d": 0.22551946421789076,
+            "l": 0.7188173161543728
+        },
+        "result": "w"
+    },
+    {
+        "id": "30437",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.57411",
+            "a": "0.946504"
+        },
+        "datetime": "2026-02-28 14:30:00",
+        "forecast": {
+            "w": 0.7241982606670775,
+            "d": 0.15943491474844354,
+            "l": 0.1163667245234021
+        },
+        "result": "w"
+    },
+    {
+        "id": "30446",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "0",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.472285",
+            "a": "0.451537"
+        },
+        "datetime": "2026-03-08 14:30:00",
+        "forecast": {
+            "w": 0.26401641688689514,
+            "d": 0.48628245164827527,
+            "l": 0.24970113146482947
+        },
+        "result": "d"
+    },
+    {
+        "id": "30450",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.08342",
+            "a": "0.628713"
+        },
+        "datetime": "2026-03-13 19:30:00",
+        "forecast": {
+            "w": 0.4623757838656602,
+            "d": 0.32600505939746327,
+            "l": 0.21161915673595286
+        },
+        "result": "l"
     }
 ]

@@ -380,3 +380,16 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 75,0.85,0.5059999847412109,Ermedin Demirovic,RightFoot,Goal,Mainz 05,VfB Stuttgart,Deniz Undav,0.06605952978134155
 76,0.8169999694824219,0.4979999923706055,Deniz Undav,RightFoot,Goal,Mainz 05,VfB Stuttgart,Tiago Tomás,0.3283534049987793
 85,0.8480000305175781,0.49700000762939456,Tiago Tomás,RightFoot,BlockedShot,Mainz 05,VfB Stuttgart,Jamie Leweling,0.10352817177772522
+18,0.889000015258789,0.6780000305175782,Ermedin Demirovic,RightFoot,BlockedShot,VfB Stuttgart,RasenBallsport Leipzig,Angelo Stiller,0.048359401524066925
+19,0.8019999694824219,0.4620000076293945,Bilal El Khannouss,RightFoot,BlockedShot,VfB Stuttgart,RasenBallsport Leipzig,,0.018663685768842697
+19,0.9209999847412109,0.53,Deniz Undav,Head,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Angelo Stiller,0.37665680050849915
+20,0.9719999694824218,0.6940000152587891,Chris Führich,LeftFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Bilal El Khannouss,0.031111838296055794
+33,0.9109999847412109,0.4420000076293945,Ermedin Demirovic,Head,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Chris Führich,0.09495211392641068
+46,0.7119999694824218,0.5170000076293946,Jamie Leweling,RightFoot,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,,0.045547813177108765
+49,0.8469999694824218,0.64,Deniz Undav,LeftFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,,0.0805337205529213
+50,0.745,0.285,Jamie Leweling,RightFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Angelo Stiller,0.01722908578813076
+53,0.7469999694824219,0.4809999847412109,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,,0.02347153052687645
+54,0.95,0.45599998474121095,Deniz Undav,Head,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Angelo Stiller,0.4384187161922455
+55,0.8480000305175781,0.45799999237060546,Deniz Undav,RightFoot,Goal,VfB Stuttgart,RasenBallsport Leipzig,Chris Führich,0.30199000239372253
+85,0.8540000152587891,0.6630000305175782,Maximilian Mittelstädt,LeftFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Deniz Undav,0.06843259930610657
+95,0.8769999694824219,0.6430000305175781,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,Angelo Stiller,0.3863022029399872

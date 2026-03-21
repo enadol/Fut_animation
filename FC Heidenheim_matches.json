@@ -718,5 +718,65 @@
             "l": 0.1530891523565953
         },
         "result": "l"
+    },
+    {
+        "id": "30443",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "4"
+        },
+        "xG": {
+            "h": "0.966678",
+            "a": "2.79383"
+        },
+        "datetime": "2026-03-07 14:30:00",
+        "forecast": {
+            "w": 0.10304905644325384,
+            "d": 0.14369372457705376,
+            "l": 0.7532569401036675
+        },
+        "result": "l"
+    },
+    {
+        "id": "30452",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.725159",
+            "a": "0.136174"
+        },
+        "datetime": "2026-03-14 14:30:00",
+        "forecast": {
+            "w": 0.46995659937060064,
+            "d": 0.465370620531398,
+            "l": 0.06467278009799801
+        },
+        "result": "l"
     }
 ]

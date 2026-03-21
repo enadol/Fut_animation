@@ -284,3 +284,15 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 89,0.9309999847412109,0.4929999923706055,Patrick Mainka,Head,MissedShots,Werder Bremen,FC Heidenheim,Marvin Pieringer,0.37483492493629456
 95,0.7569999694824219,0.6120000076293945,Mathias Honsak,LeftFoot,MissedShots,Werder Bremen,FC Heidenheim,,0.018593020737171173
 96,0.06699999809265136,0.4759999847412109,Hennes Behrens,Head,OwnGoal,Werder Bremen,FC Heidenheim,,0
+1,0.889000015258789,0.46,Patrick Mainka,Head,MissedShots,FC Heidenheim,Hoffenheim,,0.02822272665798664
+15,0.78,0.4229999923706055,Mathias Honsak,RightFoot,MissedShots,FC Heidenheim,Hoffenheim,,0.029665429145097733
+31,0.889000015258789,0.29100000381469726,Budu Zivzivadze,LeftFoot,BlockedShot,FC Heidenheim,Hoffenheim,Omar Traoré,0.030397506430745125
+39,0.74,0.325,Budu Zivzivadze,LeftFoot,MissedShots,FC Heidenheim,Hoffenheim,Niklas Dorsch,0.013871408067643642
+58,0.8130000305175781,0.545,Jan Schöppner,RightFoot,BlockedShot,FC Heidenheim,Hoffenheim,Christian Conteh,0.05660095810890198
+61,0.9690000152587891,0.5059999847412109,Luca Kerber,RightFoot,Goal,FC Heidenheim,Hoffenheim,Hennes Behrens,0.6884974837303162
+83,0.960999984741211,0.405,Luca Kerber,Head,Goal,FC Heidenheim,Hoffenheim,Hennes Behrens,0.06829576939344406
+96,0.9569999694824218,0.6170000076293946,Budu Zivzivadze,Head,MissedShots,FC Heidenheim,Hoffenheim,Sirlord Conteh,0.05112681910395622
+65,0.9680000305175781,0.610999984741211,Luca Kerber,RightFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,Hennes Behrens,0.04965998977422714
+72,0.919000015258789,0.7090000152587891,Eren Sami Dinkci,RightFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,Hennes Behrens,0.0514470636844635
+78,0.8619999694824219,0.5529999923706055,Budu Zivzivadze,Head,MissedShots,Eintracht Frankfurt,FC Heidenheim,Hennes Behrens,0.026127733290195465
+86,0.7369999694824219,0.24899999618530275,Omar Traoré,RightFoot,SavedShot,Eintracht Frankfurt,FC Heidenheim,,0.008938997983932495

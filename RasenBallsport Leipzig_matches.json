@@ -748,5 +748,65 @@
             "l": 0.6541263077822526
         },
         "result": "w"
+    },
+    {
+        "id": "30456",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.93167",
+            "a": "1.12178"
+        },
+        "datetime": "2026-03-15 18:30:00",
+        "forecast": {
+            "w": 0.5622198966419798,
+            "d": 0.2201787149094889,
+            "l": 0.21760138599801362
+        },
+        "result": "l"
+    },
+    {
+        "id": "30464",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "5",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.90699",
+            "a": "0.521404"
+        },
+        "datetime": "2026-03-20 19:30:00",
+        "forecast": {
+            "w": 0.854536835633243,
+            "d": 0.10369241279170759,
+            "l": 0.04177029601064423
+        },
+        "result": "w"
     }
 ]

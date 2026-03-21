@@ -778,5 +778,35 @@
             "l": 0.026668305821437928
         },
         "result": "d"
+    },
+    {
+        "id": "30464",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "5",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.90699",
+            "a": "0.521404"
+        },
+        "datetime": "2026-03-20 19:30:00",
+        "forecast": {
+            "w": 0.854536835633243,
+            "d": 0.10369241279170759,
+            "l": 0.04177029601064423
+        },
+        "result": "l"
     }
 ]

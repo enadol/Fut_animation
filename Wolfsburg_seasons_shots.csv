@@ -280,3 +280,21 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 70,0.8130000305175781,0.6480000305175782,Jesper Lindstrom,LeftFoot,SavedShot,VfB Stuttgart,Wolfsburg,,0.020925316959619522
 89,0.835999984741211,0.54,Dzenan Pejcinovic,LeftFoot,MissedShots,VfB Stuttgart,Wolfsburg,Aaron Zehnter,0.08160262554883957
 90,0.884000015258789,0.4490000152587891,Kento Shiogai,LeftFoot,SavedShot,VfB Stuttgart,Wolfsburg,Dzenan Pejcinovic,0.10967330634593964
+13,0.8109999847412109,0.615,Dzenan Pejcinovic,LeftFoot,SavedShot,Wolfsburg,Hamburger SV,Christian Eriksen,0.11281543225049973
+13,0.9319999694824219,0.4490000152587891,Jesper Lindstrom,RightFoot,MissedShots,Wolfsburg,Hamburger SV,,0.5015485882759094
+19,0.799000015258789,0.35400001525878905,Jan Bürger,RightFoot,SavedShot,Wolfsburg,Hamburger SV,,0.03398847579956055
+21,0.885,0.5,Christian Eriksen,RightFoot,Goal,Wolfsburg,Hamburger SV,,0.75777667760849
+44,0.9180000305175782,0.45599998474121095,Konstantinos Koulierakis,Head,MissedShots,Wolfsburg,Hamburger SV,Christian Eriksen,0.05413204804062843
+50,0.9009999847412109,0.4520000076293945,Dzenan Pejcinovic,Head,MissedShots,Wolfsburg,Hamburger SV,Christian Eriksen,0.03002537228167057
+46,0.9740000152587891,0.5820000076293945,Konstantinos Koulierakis,Head,SavedShot,Wolfsburg,Hamburger SV,Christian Eriksen,0.09409518539905548
+62,0.8159999847412109,0.6830000305175781,Christian Eriksen,LeftFoot,BlockedShot,Wolfsburg,Hamburger SV,Mohammed Amoura,0.02664853259921074
+63,0.960999984741211,0.45799999237060546,Dzenan Pejcinovic,Head,ShotOnPost,Wolfsburg,Hamburger SV,,0.41174983978271484
+84,0.9409999847412109,0.639000015258789,Kento Shiogai,LeftFoot,MissedShots,Wolfsburg,Hamburger SV,,0.3511268198490143
+86,0.855999984741211,0.43,Adam Daghim,LeftFoot,MissedShots,Wolfsburg,Hamburger SV,Konstantinos Koulierakis,0.05014042183756828
+93,0.825,0.4979999923706055,Mohammed Amoura,RightFoot,BlockedShot,Wolfsburg,Hamburger SV,Konstantinos Koulierakis,0.04070815071463585
+94,0.8480000305175781,0.29200000762939454,Jonas Adjetey,RightFoot,BlockedShot,Wolfsburg,Hamburger SV,,0.02056550420820713
+96,0.92,0.5559999847412109,Konstantinos Koulierakis,Head,MissedShots,Wolfsburg,Hamburger SV,,0.03738544136285782
+17,0.825,0.6320000076293946,Christian Eriksen,LeftFoot,MissedShots,Hoffenheim,Wolfsburg,,0.04364271089434624
+63,0.970999984741211,0.580999984741211,Konstantinos Koulierakis,Head,Goal,Hoffenheim,Wolfsburg,Christian Eriksen,0.04464805871248245
+66,0.8419999694824218,0.47299999237060547,Vinicius Souza,Head,MissedShots,Hoffenheim,Wolfsburg,Christian Eriksen,0.008458718657493591
+78,0.884000015258789,0.5640000152587891,Jonas Wind,RightFoot,SavedShot,Hoffenheim,Wolfsburg,Christian Eriksen,0.12468164414167404

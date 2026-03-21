@@ -405,3 +405,26 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 78,0.745,0.49200000762939455,Yan Diomande,RightFoot,MissedShots,RasenBallsport Leipzig,Augsburg,Conrad Harder,0.04153921827673912
 83,0.7530000305175781,0.3129999923706055,Benjamin Henrichs,RightFoot,MissedShots,RasenBallsport Leipzig,Augsburg,Ezechiel Banzuzi,0.017999552190303802
 85,0.9330000305175781,0.5170000076293946,Conrad Harder,RightFoot,SavedShot,RasenBallsport Leipzig,Augsburg,Yan Diomande,0.14468471705913544
+4,0.9019999694824219,0.504000015258789,Rômulo,LeftFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Yan Diomande,0.4597347378730774
+10,0.8690000152587891,0.40200000762939453,Nicolas Seiwald,LeftFoot,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,,0.0791999027132988
+14,0.9290000152587891,0.575,Christoph Baumgartner,LeftFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,David Raum,0.07668019086122513
+32,0.8930000305175781,0.37900001525878907,Christoph Baumgartner,RightFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,David Raum,0.2991030216217041
+52,0.909000015258789,0.505,Nicolas Seiwald,Head,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,David Raum,0.03499748930335045
+58,0.6940000152587891,0.595,Castello Lukeba,LeftFoot,BlockedShot,VfB Stuttgart,RasenBallsport Leipzig,Willi Orban,0.013599114492535591
+63,0.8030000305175782,0.37200000762939456,Brajan Gruda,LeftFoot,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,Yan Diomande,0.032903410494327545
+82,0.9180000305175782,0.4929999923706055,Brajan Gruda,Head,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,David Raum,0.08557619154453278
+91,0.904000015258789,0.48700000762939455,Willi Orban,Head,ShotOnPost,VfB Stuttgart,RasenBallsport Leipzig,David Raum,0.03998197987675667
+5,0.9490000152587891,0.44,Xaver Schlager,Head,BlockedShot,RasenBallsport Leipzig,Hoffenheim,David Raum,0.07470633089542389
+16,0.9109999847412109,0.63,Rômulo,RightFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,Nicolas Seiwald,0.09510025382041931
+16,0.9569999694824218,0.5,Brajan Gruda,LeftFoot,Goal,RasenBallsport Leipzig,Hoffenheim,,0.6921347975730896
+20,0.955999984741211,0.47400001525878904,Christoph Baumgartner,Head,Goal,RasenBallsport Leipzig,Hoffenheim,David Raum,0.4995836615562439
+29,0.8819999694824219,0.5429999923706055,Christoph Baumgartner,RightFoot,Goal,RasenBallsport Leipzig,Hoffenheim,Brajan Gruda,0.47184839844703674
+35,0.73,0.4979999923706055,Brajan Gruda,LeftFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,Yan Diomande,0.05930590629577637
+43,0.9380000305175781,0.4570000076293945,Brajan Gruda,LeftFoot,Goal,RasenBallsport Leipzig,Hoffenheim,Yan Diomande,0.5747946500778198
+58,0.8059999847412109,0.48,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,Hoffenheim,Brajan Gruda,0.0756973847746849
+61,0.9180000305175782,0.30700000762939456,Bote Baku,RightFoot,BlockedShot,RasenBallsport Leipzig,Hoffenheim,Brajan Gruda,0.07330675423145294
+64,0.935,0.325,Rômulo,RightFoot,MissedShots,RasenBallsport Leipzig,Hoffenheim,Brajan Gruda,0.1132812425494194
+66,0.8140000152587891,0.47099998474121096,Ezechiel Banzuzi,RightFoot,BlockedShot,RasenBallsport Leipzig,Hoffenheim,,0.12735289335250854
+72,0.7190000152587891,0.49599998474121093,Ezechiel Banzuzi,RightFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,,0.0178859680891037
+77,0.919000015258789,0.6669999694824219,Benjamin Henrichs,LeftFoot,Goal,RasenBallsport Leipzig,Hoffenheim,,0.07483607530593872
+79,0.7819999694824219,0.6969999694824218,Antonio Nusa,RightFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,,0.022981496527791023
