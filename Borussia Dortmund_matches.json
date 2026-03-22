@@ -778,5 +778,35 @@
             "l": 0.09250481122904503
         },
         "result": "w"
+    },
+    {
+        "id": "30460",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "6.10187",
+            "a": "1.23049"
+        },
+        "datetime": "2026-03-21 17:30:00",
+        "forecast": {
+            "w": 0.9547612378691303,
+            "d": 0.027429627163343677,
+            "l": 0.01616583090368672
+        },
+        "result": "w"
     }
 ]

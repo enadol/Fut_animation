@@ -341,3 +341,27 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 87,0.7680000305175781,0.4520000076293945,Jobe Bellingham,LeftFoot,BlockedShot,Borussia Dortmund,Augsburg,Luca Reggiani,0.04038633406162262
 91,0.8769999694824219,0.575,Serhou Guirassy,LeftFoot,SavedShot,Borussia Dortmund,Augsburg,Julian Brandt,0.486442893743515
 92,0.9640000152587891,0.495,Serhou Guirassy,Head,MissedShots,Borussia Dortmund,Augsburg,Julian Ryerson,0.13956597447395325
+6,0.8869999694824219,0.5579999923706055,Maximilian Beier,LeftFoot,SavedShot,Borussia Dortmund,Hamburger SV,,0.39792051911354065
+7,0.965,0.5109999847412109,Waldemar Anton,Head,BlockedShot,Borussia Dortmund,Hamburger SV,Julian Ryerson,0.5343453288078308
+27,0.9580000305175781,0.5690000152587891,Karim Adeyemi,Head,MissedShots,Borussia Dortmund,Hamburger SV,Julian Ryerson,0.06029617786407471
+31,0.8430000305175781,0.425,Maximilian Beier,RightFoot,MissedShots,Borussia Dortmund,Hamburger SV,Marcel Sabitzer,0.040971823036670685
+32,0.915,0.44400001525878907,Maximilian Beier,Head,MissedShots,Borussia Dortmund,Hamburger SV,,0.03862438350915909
+35,0.9309999847412109,0.4229999923706055,Nico Schlotterbeck,Head,ShotOnPost,Borussia Dortmund,Hamburger SV,Julian Ryerson,0.0771169513463974
+35,0.9740000152587891,0.5790000152587891,Maximilian Beier,Head,MissedShots,Borussia Dortmund,Hamburger SV,,0.2969192564487457
+42,0.7290000152587891,0.6419999694824219,Julian Ryerson,RightFoot,MissedShots,Borussia Dortmund,Hamburger SV,,0.013716774061322212
+44,0.885,0.5,Felix Nmecha,RightFoot,MissedShots,Borussia Dortmund,Hamburger SV,,0.75777667760849
+48,0.9119999694824219,0.5359999847412109,Felix Nmecha,RightFoot,SavedShot,Borussia Dortmund,Hamburger SV,Maximilian Beier,0.381069540977478
+51,0.7769999694824219,0.4909999847412109,Felix Nmecha,RightFoot,BlockedShot,Borussia Dortmund,Hamburger SV,,0.04934863746166229
+54,0.8090000152587891,0.49900001525878906,Felix Nmecha,RightFoot,MissedShots,Borussia Dortmund,Hamburger SV,,0.0396311990916729
+57,0.924000015258789,0.49400001525878906,Serhou Guirassy,Head,MissedShots,Borussia Dortmund,Hamburger SV,Daniel Svensson,0.07516814023256302
+60,0.7709999847412109,0.6669999694824219,Maximilian Beier,RightFoot,MissedShots,Borussia Dortmund,Hamburger SV,Felix Nmecha,0.019883424043655396
+65,0.855999984741211,0.63,Fabio Silva,RightFoot,BlockedShot,Borussia Dortmund,Hamburger SV,,0.08367463946342468
+68,0.8640000152587891,0.395,Serhou Guirassy,LeftFoot,MissedShots,Borussia Dortmund,Hamburger SV,Ramy Bensebaini,0.03365528583526611
+72,0.885,0.5,Ramy Bensebaini,LeftFoot,Goal,Borussia Dortmund,Hamburger SV,,0.75777667760849
+77,0.9480000305175781,0.514000015258789,Serhou Guirassy,Head,SavedShot,Borussia Dortmund,Hamburger SV,Julian Ryerson,0.44774171710014343
+77,0.9580000305175781,0.5129999923706055,Serhou Guirassy,RightFoot,Goal,Borussia Dortmund,Hamburger SV,,0.5952564477920532
+79,0.8440000152587891,0.585,Fabio Silva,RightFoot,SavedShot,Borussia Dortmund,Hamburger SV,,0.06124814599752426
+80,0.8680000305175781,0.36200000762939455,Carney Chukwuemeka,RightFoot,BlockedShot,Borussia Dortmund,Hamburger SV,,0.060165904462337494
+81,0.8619999694824219,0.41700000762939454,Jobe Bellingham,RightFoot,BlockedShot,Borussia Dortmund,Hamburger SV,,0.03417728841304779
+83,0.885,0.5,Ramy Bensebaini,LeftFoot,Goal,Borussia Dortmund,Hamburger SV,,0.75777667760849
+92,0.9109999847412109,0.4490000152587891,Serhou Guirassy,RightFoot,SavedShot,Borussia Dortmund,Hamburger SV,Fabio Silva,0.4876079857349396

@@ -568,5 +568,245 @@
             "l": 0.423019315357031
         },
         "result": "w"
+    },
+    {
+        "id": "30405",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "0.783478",
+            "a": "0.741257"
+        },
+        "datetime": "2026-02-07 17:30:00",
+        "forecast": {
+            "w": 0.330463571331329,
+            "d": 0.3636806294321119,
+            "l": 0.30585579923654577
+        },
+        "result": "d"
+    },
+    {
+        "id": "30414",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.26044",
+            "a": "0.654783"
+        },
+        "datetime": "2026-02-14 14:30:00",
+        "forecast": {
+            "w": 0.7386994537243569,
+            "d": 0.16944106366971726,
+            "l": 0.09185946354340185
+        },
+        "result": "w"
+    },
+    {
+        "id": "30429",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.757702",
+            "a": "1.20274"
+        },
+        "datetime": "2026-02-21 14:30:00",
+        "forecast": {
+            "w": 0.23290112439774246,
+            "d": 0.3014741408648426,
+            "l": 0.4656247347334509
+        },
+        "result": "l"
+    },
+    {
+        "id": "30432",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.94817",
+            "a": "0.9714"
+        },
+        "datetime": "2026-02-28 14:30:00",
+        "forecast": {
+            "w": 0.6014860697715358,
+            "d": 0.21583336593407576,
+            "l": 0.1826805615542854
+        },
+        "result": "d"
+    },
+    {
+        "id": "30371",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.28692",
+            "a": "2.67874"
+        },
+        "datetime": "2026-03-04 19:30:00",
+        "forecast": {
+            "w": 0.16280384361532424,
+            "d": 0.1675444323578596,
+            "l": 0.6696515589397212
+        },
+        "result": "w"
+    },
+    {
+        "id": "30442",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.58409",
+            "a": "2.1863"
+        },
+        "datetime": "2026-03-07 14:30:00",
+        "forecast": {
+            "w": 0.4776268139414563,
+            "d": 0.1854535166935829,
+            "l": 0.33691955191769174
+        },
+        "result": "d"
+    },
+    {
+        "id": "30449",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.65255",
+            "a": "1.26817"
+        },
+        "datetime": "2026-03-14 14:30:00",
+        "forecast": {
+            "w": 0.6691211784680194,
+            "d": 0.16863456531190077,
+            "l": 0.16224411025468866
+        },
+        "result": "d"
+    },
+    {
+        "id": "30462",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.73738",
+            "a": "1.96287"
+        },
+        "datetime": "2026-03-21 14:30:00",
+        "forecast": {
+            "w": 0.3476030595631522,
+            "d": 0.21478109700736217,
+            "l": 0.43761583980585933
+        },
+        "result": "d"
     }
 ]
