@@ -393,3 +393,16 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 55,0.8480000305175781,0.45799999237060546,Deniz Undav,RightFoot,Goal,VfB Stuttgart,RasenBallsport Leipzig,Chris Führich,0.30199000239372253
 85,0.8540000152587891,0.6630000305175782,Maximilian Mittelstädt,LeftFoot,MissedShots,VfB Stuttgart,RasenBallsport Leipzig,Deniz Undav,0.06843259930610657
 95,0.8769999694824219,0.6430000305175781,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,RasenBallsport Leipzig,Angelo Stiller,0.3863022029399872
+2,0.8909999847412109,0.6859999847412109,Deniz Undav,LeftFoot,SavedShot,Augsburg,VfB Stuttgart,Maximilian Mittelstädt,0.05365924537181854
+6,0.9480000305175781,0.6379999923706055,Nikolas Nartey,LeftFoot,SavedShot,Augsburg,VfB Stuttgart,Chris Führich,0.35785090923309326
+7,0.975,0.4470000076293945,Julian Chabot,Head,MissedShots,Augsburg,VfB Stuttgart,Chris Führich,0.39241939783096313
+11,0.9669999694824218,0.4859999847412109,Deniz Undav,LeftFoot,Goal,Augsburg,VfB Stuttgart,,0.681706428527832
+18,0.7469999694824219,0.7090000152587891,Chris Führich,RightFoot,MissedShots,Augsburg,VfB Stuttgart,,0.015680694952607155
+28,0.8730000305175781,0.47099998474121096,Tiago Tomás,RightFoot,Goal,Augsburg,VfB Stuttgart,Nikolas Nartey,0.4067658483982086
+30,0.945,0.524000015258789,Nikolas Nartey,RightFoot,Goal,Augsburg,VfB Stuttgart,Maximilian Mittelstädt,0.5797443985939026
+35,0.855999984741211,0.47099998474121096,Tiago Tomás,Head,MissedShots,Augsburg,VfB Stuttgart,Maximilian Mittelstädt,0.028204696252942085
+57,0.9319999694824219,0.635,Chris Führich,RightFoot,SavedShot,Augsburg,VfB Stuttgart,Angelo Stiller,0.3336666524410248
+57,0.9359999847412109,0.44099998474121094,Deniz Undav,RightFoot,Goal,Augsburg,VfB Stuttgart,,0.5706084370613098
+66,0.8180000305175781,0.49,Tiago Tomás,RightFoot,MissedShots,Augsburg,VfB Stuttgart,Deniz Undav,0.07496171444654465
+68,0.8780000305175781,0.524000015258789,Deniz Undav,Head,MissedShots,Augsburg,VfB Stuttgart,Maximilian Mittelstädt,0.0453856997191906
+82,0.8909999847412109,0.534000015258789,Ermedin Demirovic,RightFoot,Goal,Augsburg,VfB Stuttgart,Deniz Undav,0.5206795930862427
