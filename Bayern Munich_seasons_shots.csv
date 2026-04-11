@@ -517,3 +517,24 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 78,0.8009999847412109,0.5209999847412109,Leon Goretzka,LeftFoot,MissedShots,Bayern Munich,Union Berlin,Harry Kane,0.06487587094306946
 83,0.965999984741211,0.585999984741211,Harry Kane,Head,BlockedShot,Bayern Munich,Union Berlin,Michael Olise,0.035624902695417404
 88,0.8380000305175781,0.4520000076293945,Harry Kane,RightFoot,MissedShots,Bayern Munich,Union Berlin,,0.40544962882995605
+5,0.78,0.625,Tom Bischof,LeftFoot,SavedShot,Freiburg,Bayern Munich,Leon Goretzka,0.027681924402713776
+11,0.8169999694824219,0.500999984741211,Tom Bischof,RightFoot,BlockedShot,Freiburg,Bayern Munich,Josip Stanisic,0.056943826377391815
+19,0.87,0.39599998474121095,Joshua Kimmich,LeftFoot,SavedShot,Freiburg,Bayern Munich,Luis Díaz,0.0497770793735981
+29,0.7719999694824219,0.620999984741211,Serge Gnabry,RightFoot,BlockedShot,Freiburg,Bayern Munich,,0.07440626621246338
+41,0.8830000305175781,0.47099998474121096,Luis Díaz,RightFoot,BlockedShot,Freiburg,Bayern Munich,Tom Bischof,0.11555036902427673
+42,0.86,0.28600000381469726,Lennart Karl,LeftFoot,SavedShot,Freiburg,Bayern Munich,Tom Bischof,0.058169230818748474
+42,0.86,0.5129999923706055,Luis Díaz,RightFoot,MissedShots,Freiburg,Bayern Munich,,0.13391849398612976
+42,0.970999984741211,0.43400001525878906,Tom Bischof,RightFoot,MissedShots,Freiburg,Bayern Munich,,0.6696773767471313
+43,0.8280000305175781,0.7140000152587891,Luis Díaz,RightFoot,BlockedShot,Freiburg,Bayern Munich,Leon Goretzka,0.027817895635962486
+44,0.7180000305175781,0.43900001525878907,Serge Gnabry,RightFoot,MissedShots,Freiburg,Bayern Munich,Joshua Kimmich,0.020343966782093048
+56,0.9319999694824219,0.4620000076293945,Michael Olise,LeftFoot,MissedShots,Freiburg,Bayern Munich,Tom Bischof,0.39932799339294434
+60,0.825,0.7330000305175781,Serge Gnabry,RightFoot,BlockedShot,Freiburg,Bayern Munich,Aleksandar Pavlovic,0.024365298449993134
+76,0.794000015258789,0.23200000762939454,Michael Olise,LeftFoot,SavedShot,Freiburg,Bayern Munich,Josip Stanisic,0.01565864123404026
+80,0.8280000305175781,0.61,Luis Díaz,RightFoot,SavedShot,Freiburg,Bayern Munich,,0.04901541396975517
+80,0.7669999694824219,0.4979999923706055,Tom Bischof,RightFoot,Goal,Freiburg,Bayern Munich,Lennart Karl,0.0370732881128788
+83,0.8019999694824219,0.5979999923706054,Jamal Musiala,RightFoot,BlockedShot,Freiburg,Bayern Munich,Aleksandar Pavlovic,0.0388125441968441
+83,0.7780000305175782,0.6220000076293946,Joshua Kimmich,RightFoot,SavedShot,Freiburg,Bayern Munich,Luis Díaz,0.025548338890075684
+84,0.7730000305175782,0.34299999237060547,Michael Olise,LeftFoot,BlockedShot,Freiburg,Bayern Munich,Joshua Kimmich,0.022719433531165123
+91,0.9309999847412109,0.509000015258789,Jamal Musiala,Head,MissedShots,Freiburg,Bayern Munich,Konrad Laimer,0.06613066792488098
+91,0.779000015258789,0.44299999237060544,Tom Bischof,LeftFoot,Goal,Freiburg,Bayern Munich,Michael Olise,0.03639575466513634
+98,0.960999984741211,0.4779999923706055,Lennart Karl,RightFoot,Goal,Freiburg,Bayern Munich,Alphonso Davies,0.6730352640151978

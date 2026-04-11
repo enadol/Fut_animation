@@ -267,3 +267,24 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 59,0.769000015258789,0.5790000152587891,Eric Smith,RightFoot,MissedShots,Borussia M.Gladbach,St. Pauli,Danel Sinani,0.04035793989896774
 70,0.914000015258789,0.55,Danel Sinani,Head,MissedShots,Borussia M.Gladbach,St. Pauli,,0.05541178584098816
 91,0.9280000305175782,0.620999984741211,Jackson Irvine,LeftFoot,MissedShots,Borussia M.Gladbach,St. Pauli,Louis Oppie,0.09516464918851852
+5,0.8830000305175781,0.4379999923706055,Mathias Rasmussen,RightFoot,SavedShot,St. Pauli,Freiburg,Eric Smith,0.07861721515655518
+17,0.6859999847412109,0.28,Joel Chima Fujita,RightFoot,SavedShot,St. Pauli,Freiburg,,0.010115479119122028
+20,0.8209999847412109,0.505,Mathias Rasmussen,LeftFoot,SavedShot,St. Pauli,Freiburg,Joel Chima Fujita,0.06727651506662369
+23,0.8730000305175781,0.465,Tomoya Ando,Head,BlockedShot,St. Pauli,Freiburg,Eric Smith,0.014026898890733719
+23,0.955999984741211,0.4859999847412109,Danel Sinani,LeftFoot,Goal,St. Pauli,Freiburg,Tomoya Ando,0.6330702304840088
+36,0.7669999694824219,0.37599998474121094,Hauke Wahl,RightFoot,MissedShots,St. Pauli,Freiburg,Arkadiusz Pyrka,0.030414260923862457
+53,0.835999984741211,0.29700000762939455,Hauke Wahl,RightFoot,MissedShots,St. Pauli,Freiburg,,0.04654386267066002
+62,0.7609999847412109,0.5459999847412109,Lars Ritzka,LeftFoot,MissedShots,St. Pauli,Freiburg,Joel Chima Fujita,0.033592186868190765
+68,0.9309999847412109,0.534000015258789,Pereira Lage,RightFoot,BlockedShot,St. Pauli,Freiburg,Louis Oppie,0.11406416445970535
+69,0.8069999694824219,0.7419999694824219,Tomoya Ando,LeftFoot,MissedShots,St. Pauli,Freiburg,Joel Chima Fujita,0.014972754754126072
+95,0.985999984741211,0.43099998474121093,Arkadiusz Pyrka,Head,MissedShots,St. Pauli,Freiburg,Louis Oppie,0.3211936354637146
+97,0.8440000152587891,0.6120000076293945,Danel Sinani,RightFoot,SavedShot,St. Pauli,Freiburg,Hauke Wahl,0.04151976481080055
+14,0.7559999847412109,0.27399999618530274,Danel Sinani,LeftFoot,BlockedShot,Union Berlin,St. Pauli,Martijn Kaars,0.014148741960525513
+21,0.895,0.5790000152587891,Karol Mets,LeftFoot,MissedShots,Union Berlin,St. Pauli,Danel Sinani,0.0529039092361927
+24,0.8469999694824218,0.4809999847412109,Jackson Irvine,RightFoot,BlockedShot,Union Berlin,St. Pauli,Karol Mets,0.06981750577688217
+24,0.7719999694824219,0.5829999923706055,Pereira Lage,RightFoot,Goal,Union Berlin,St. Pauli,,0.01812538132071495
+46,0.76,0.3629999923706055,Danel Sinani,LeftFoot,BlockedShot,Union Berlin,St. Pauli,,0.028759796172380447
+58,0.94,0.28399999618530275,Danel Sinani,RightFoot,MissedShots,Union Berlin,St. Pauli,Arkadiusz Pyrka,0.05452297627925873
+62,0.7469999694824219,0.49900001525878906,Arkadiusz Pyrka,RightFoot,MissedShots,Union Berlin,St. Pauli,Danel Sinani,0.028334368020296097
+88,0.8209999847412109,0.3820000076293945,Andréas Hountondji,RightFoot,BlockedShot,Union Berlin,St. Pauli,Arkadiusz Pyrka,0.03380211070179939
+89,0.7759999847412109,0.40900001525878904,Adam Dzwigala,LeftFoot,SavedShot,Union Berlin,St. Pauli,,0.02632814086973667
