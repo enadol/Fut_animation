@@ -808,5 +808,65 @@
             "l": 0.04177029601064423
         },
         "result": "w"
+    },
+    {
+        "id": "30475",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.898486",
+            "a": "1.61345"
+        },
+        "datetime": "2026-04-04 13:30:00",
+        "forecast": {
+            "w": 0.209270391594343,
+            "d": 0.24883230647503427,
+            "l": 0.5418973017092619
+        },
+        "result": "w"
+    },
+    {
+        "id": "30481",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.56843",
+            "a": "1.66258"
+        },
+        "datetime": "2026-04-11 13:30:00",
+        "forecast": {
+            "w": 0.5738312176300536,
+            "d": 0.18434580643030052,
+            "l": 0.2418228782971713
+        },
+        "result": "w"
     }
 ]

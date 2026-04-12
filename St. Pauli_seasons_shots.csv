@@ -288,3 +288,9 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 62,0.7469999694824219,0.49900001525878906,Arkadiusz Pyrka,RightFoot,MissedShots,Union Berlin,St. Pauli,Danel Sinani,0.028334368020296097
 88,0.8209999847412109,0.3820000076293945,Andréas Hountondji,RightFoot,BlockedShot,Union Berlin,St. Pauli,Arkadiusz Pyrka,0.03380211070179939
 89,0.7759999847412109,0.40900001525878904,Adam Dzwigala,LeftFoot,SavedShot,Union Berlin,St. Pauli,,0.02632814086973667
+24,0.874000015258789,0.28200000762939453,Hauke Wahl,RightFoot,MissedShots,St. Pauli,Bayern Munich,Danel Sinani,0.01632595621049404
+25,0.7090000152587891,0.48400001525878905,Joel Chima Fujita,RightFoot,MissedShots,St. Pauli,Bayern Munich,Mathias Rasmussen,0.016850290820002556
+28,0.9109999847412109,0.435,Pereira Lage,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Mathias Rasmussen,0.11884769052267075
+29,0.9109999847412109,0.43900001525878907,Tomoya Ando,Head,SavedShot,St. Pauli,Bayern Munich,Lars Ritzka,0.07422637939453125
+46,0.8730000305175781,0.36,Andréas Hountondji,LeftFoot,SavedShot,St. Pauli,Bayern Munich,Joel Chima Fujita,0.08919476717710495
+79,0.735,0.42400001525878905,Connor Metcalfe,RightFoot,SavedShot,St. Pauli,Bayern Munich,Arkadiusz Pyrka,0.0405377522110939

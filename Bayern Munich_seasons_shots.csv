@@ -538,3 +538,23 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 91,0.9309999847412109,0.509000015258789,Jamal Musiala,Head,MissedShots,Freiburg,Bayern Munich,Konrad Laimer,0.06613066792488098
 91,0.779000015258789,0.44299999237060544,Tom Bischof,LeftFoot,Goal,Freiburg,Bayern Munich,Michael Olise,0.03639575466513634
 98,0.960999984741211,0.4779999923706055,Lennart Karl,RightFoot,Goal,Freiburg,Bayern Munich,Alphonso Davies,0.6730352640151978
+8,0.774000015258789,0.639000015258789,Nicolas Jackson,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Joshua Kimmich,0.026098476722836494
+8,0.955999984741211,0.524000015258789,Jamal Musiala,Head,Goal,St. Pauli,Bayern Munich,Konrad Laimer,0.5516114234924316
+10,0.9059999847412109,0.3189999961853027,Nicolas Jackson,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Kim Min-Jae,0.0778060257434845
+15,0.955,0.62,Leon Goretzka,RightFoot,BlockedShot,St. Pauli,Bayern Munich,,0.07291437685489655
+16,0.9290000152587891,0.4,Michael Olise,RightFoot,MissedShots,St. Pauli,Bayern Munich,Jamal Musiala,0.3625429570674896
+17,0.919000015258789,0.46299999237060546,Nicolas Jackson,RightFoot,SavedShot,St. Pauli,Bayern Munich,Konrad Laimer,0.3655911386013031
+26,0.8819999694824219,0.5679999923706055,Jamal Musiala,RightFoot,ShotOnPost,St. Pauli,Bayern Munich,Raphael Guerreiro,0.3890947699546814
+33,0.755,0.7319999694824219,Tom Bischof,LeftFoot,SavedShot,St. Pauli,Bayern Munich,Konrad Laimer,0.021137531846761703
+41,0.830999984741211,0.4909999847412109,Jamal Musiala,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Raphael Guerreiro,0.08250162750482559
+42,0.935,0.5070000076293946,Raphael Guerreiro,Head,MissedShots,St. Pauli,Bayern Munich,Joshua Kimmich,0.06214934587478638
+42,0.8780000305175781,0.36700000762939455,Konrad Laimer,RightFoot,MissedShots,St. Pauli,Bayern Munich,,0.025701235979795456
+52,0.9230000305175782,0.5740000152587891,Leon Goretzka,LeftFoot,Goal,St. Pauli,Bayern Munich,,0.4799700677394867
+53,0.8040000152587891,0.4979999923706055,Michael Olise,LeftFoot,Goal,St. Pauli,Bayern Munich,Leon Goretzka,0.07013566046953201
+60,0.825,0.415,Nicolas Jackson,RightFoot,MissedShots,St. Pauli,Bayern Munich,Luis Díaz,0.08057426661252975
+61,0.914000015258789,0.605999984741211,Luis Díaz,LeftFoot,BlockedShot,St. Pauli,Bayern Munich,Jamal Musiala,0.11868218332529068
+64,0.8780000305175781,0.41200000762939454,Nicolas Jackson,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Josip Stanisic,0.12576134502887726
+64,0.905,0.4620000076293945,Nicolas Jackson,RightFoot,Goal,St. Pauli,Bayern Munich,Jamal Musiala,0.4690918028354645
+77,0.9019999694824219,0.33599998474121096,Luis Díaz,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Raphael Guerreiro,0.09231352061033249
+87,0.9119999694824219,0.40099998474121096,Raphael Guerreiro,LeftFoot,Goal,St. Pauli,Bayern Munich,Nicolas Jackson,0.44194579124450684
+91,0.9519999694824218,0.644000015258789,Nicolas Jackson,RightFoot,SavedShot,St. Pauli,Bayern Munich,Tom Bischof,0.23884819447994232

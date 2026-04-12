@@ -382,3 +382,39 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 91,0.8030000305175782,0.485,Jarell Quansah,RightFoot,BlockedShot,FC Heidenheim,Bayer Leverkusen,Montrell Culbreath,0.05216275900602341
 96,0.870999984741211,0.36,Ibrahim Maza,RightFoot,MissedShots,FC Heidenheim,Bayer Leverkusen,Tim Oermann,0.060562897473573685
 96,0.874000015258789,0.37799999237060544,Patrik Schick,LeftFoot,BlockedShot,FC Heidenheim,Bayer Leverkusen,,0.06537891924381256
+1,0.875999984741211,0.635,Nathan Tella,LeftFoot,MissedShots,Bayer Leverkusen,Wolfsburg,,0.11834534257650375
+6,0.9540000152587891,0.43599998474121093,Loic Bade,Head,MissedShots,Bayer Leverkusen,Wolfsburg,Álex Grimaldo,0.14009055495262146
+7,0.8580000305175781,0.34799999237060547,Robert Andrich,LeftFoot,MissedShots,Bayer Leverkusen,Wolfsburg,,0.05941230058670044
+7,0.8059999847412109,0.509000015258789,Álex Grimaldo,LeftFoot,BlockedShot,Bayer Leverkusen,Wolfsburg,Ibrahim Maza,0.041905246675014496
+21,0.8040000152587891,0.38799999237060545,Ezequiél Fernández,RightFoot,MissedShots,Bayer Leverkusen,Wolfsburg,,0.027020199224352837
+26,0.7619999694824219,0.5579999923706055,Álex Grimaldo,LeftFoot,SavedShot,Bayer Leverkusen,Wolfsburg,Christian Kofane,0.026156291365623474
+29,0.885,0.5,Álex Grimaldo,LeftFoot,Goal,Bayer Leverkusen,Wolfsburg,,0.75777667760849
+41,0.95,0.4979999923706055,Ibrahim Maza,Head,MissedShots,Bayer Leverkusen,Wolfsburg,Álex Grimaldo,0.6201927661895752
+43,0.845999984741211,0.43400001525878906,Álex Grimaldo,LeftFoot,Goal,Bayer Leverkusen,Wolfsburg,Ezequiél Fernández,0.07651858776807785
+48,0.845,0.35900001525878905,Ibrahim Maza,RightFoot,SavedShot,Bayer Leverkusen,Wolfsburg,Montrell Culbreath,0.044289328157901764
+52,0.885,0.5,Patrik Schick,LeftFoot,Goal,Bayer Leverkusen,Wolfsburg,,0.75777667760849
+58,0.9209999847412109,0.514000015258789,Christian Kofane,Head,BlockedShot,Bayer Leverkusen,Wolfsburg,Álex Grimaldo,0.06441514194011688
+59,0.9369999694824219,0.5740000152587891,Nathan Tella,Head,MissedShots,Bayer Leverkusen,Wolfsburg,Ibrahim Maza,0.047075822949409485
+61,0.7959999847412109,0.6359999847412109,Álex Grimaldo,LeftFoot,BlockedShot,Bayer Leverkusen,Wolfsburg,Ibrahim Maza,0.03203895688056946
+67,0.805,0.5579999923706055,Nathan Tella,LeftFoot,MissedShots,Bayer Leverkusen,Wolfsburg,,0.04541676864027977
+67,0.8769999694824219,0.45299999237060545,Loic Bade,LeftFoot,MissedShots,Bayer Leverkusen,Wolfsburg,Nathan Tella,0.09501945227384567
+67,0.9119999694824219,0.53,Edmond Tapsoba,RightFoot,Goal,Bayer Leverkusen,Wolfsburg,,0.13735061883926392
+72,0.7430000305175781,0.6859999847412109,Álex Grimaldo,LeftFoot,SavedShot,Bayer Leverkusen,Wolfsburg,,0.010133410803973675
+72,0.9259999847412109,0.695,Ibrahim Maza,RightFoot,Goal,Bayer Leverkusen,Wolfsburg,Exequiel Palacios,0.045763369649648666
+79,0.865999984741211,0.67,Patrik Schick,LeftFoot,SavedShot,Bayer Leverkusen,Wolfsburg,Álex Grimaldo,0.1355750411748886
+79,0.96,0.45299999237060545,Montrell Culbreath,RightFoot,ShotOnPost,Bayer Leverkusen,Wolfsburg,,0.6610403060913086
+82,0.8390000152587891,0.509000015258789,Christian Kofane,LeftFoot,BlockedShot,Bayer Leverkusen,Wolfsburg,Patrik Schick,0.10801742970943451
+90,0.7780000305175782,0.3129999923706055,Robert Andrich,RightFoot,MissedShots,Bayer Leverkusen,Wolfsburg,,0.02272341214120388
+90,0.799000015258789,0.5829999923706055,Exequiel Palacios,RightFoot,SavedShot,Bayer Leverkusen,Wolfsburg,,0.05130086839199066
+95,0.9290000152587891,0.534000015258789,Malik Tillman,RightFoot,Goal,Bayer Leverkusen,Wolfsburg,Ernest Poku,0.5849466919898987
+19,0.8209999847412109,0.7469999694824219,Nathan Tella,RightFoot,BlockedShot,Borussia Dortmund,Bayer Leverkusen,Ibrahim Maza,0.023998064920306206
+29,0.789000015258789,0.27600000381469725,Aleix García,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Exequiel Palacios,0.02068956568837166
+30,0.740999984741211,0.6379999923706055,Ibrahim Maza,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Álex Grimaldo,0.016341600567102432
+31,0.79,0.56,Christian Kofane,LeftFoot,SavedShot,Borussia Dortmund,Bayer Leverkusen,Exequiel Palacios,0.03579704836010933
+34,0.7909999847412109,0.745999984741211,Álex Grimaldo,LeftFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Exequiel Palacios,0.019972968846559525
+41,0.7469999694824219,0.38099998474121094,Robert Andrich,RightFoot,Goal,Borussia Dortmund,Bayer Leverkusen,,0.01866467483341694
+46,0.9419999694824219,0.5990000152587891,Robert Andrich,Head,MissedShots,Borussia Dortmund,Bayer Leverkusen,Álex Grimaldo,0.05812762677669525
+59,0.9330000305175781,0.674000015258789,Patrik Schick,LeftFoot,SavedShot,Borussia Dortmund,Bayer Leverkusen,Ibrahim Maza,0.30897584557533264
+63,0.88,0.659000015258789,Robert Andrich,LeftFoot,BlockedShot,Borussia Dortmund,Bayer Leverkusen,,0.05165233463048935
+86,0.9569999694824218,0.415,Patrik Schick,Head,SavedShot,Borussia Dortmund,Bayer Leverkusen,Álex Grimaldo,0.08927279710769653
+88,0.874000015258789,0.5890000152587891,Ernest Poku,RightFoot,BlockedShot,Borussia Dortmund,Bayer Leverkusen,Aleix García,0.08509375154972076

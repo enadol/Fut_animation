@@ -365,3 +365,22 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 81,0.8619999694824219,0.41700000762939454,Jobe Bellingham,RightFoot,BlockedShot,Borussia Dortmund,Hamburger SV,,0.03417728841304779
 83,0.885,0.5,Ramy Bensebaini,LeftFoot,Goal,Borussia Dortmund,Hamburger SV,,0.75777667760849
 92,0.9109999847412109,0.4490000152587891,Serhou Guirassy,RightFoot,SavedShot,Borussia Dortmund,Hamburger SV,Fabio Silva,0.4876079857349396
+20,0.9680000305175781,0.35900001525878905,Waldemar Anton,Head,SavedShot,VfB Stuttgart,Borussia Dortmund,Julian Ryerson,0.0219685398042202
+45,0.7959999847412109,0.5309999847412109,Carney Chukwuemeka,RightFoot,MissedShots,VfB Stuttgart,Borussia Dortmund,Serhou Guirassy,0.04189667850732803
+51,0.9780000305175781,0.6,Ramy Bensebaini,Head,BlockedShot,VfB Stuttgart,Borussia Dortmund,Daniel Svensson,0.04041460528969765
+93,0.8780000305175781,0.48200000762939454,Karim Adeyemi,RightFoot,Goal,VfB Stuttgart,Borussia Dortmund,,0.5367125868797302
+95,0.914000015258789,0.33799999237060546,Julian Brandt,RightFoot,Goal,VfB Stuttgart,Borussia Dortmund,Fabio Silva,0.12349792569875717
+1,0.754000015258789,0.5029999923706054,Ramy Bensebaini,LeftFoot,BlockedShot,Borussia Dortmund,Bayer Leverkusen,,0.021824853494763374
+2,0.955999984741211,0.3990000152587891,Nico Schlotterbeck,Head,MissedShots,Borussia Dortmund,Bayer Leverkusen,Daniel Svensson,0.05804470553994179
+16,0.8909999847412109,0.5979999923706054,Daniel Svensson,RightFoot,BlockedShot,Borussia Dortmund,Bayer Leverkusen,Marcel Sabitzer,0.06607819348573685
+16,0.8519999694824218,0.4979999923706055,Julian Brandt,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Waldemar Anton,0.07737158983945847
+20,0.8009999847412109,0.24399999618530274,Marcel Sabitzer,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Jobe Bellingham,0.019571086391806602
+37,0.7559999847412109,0.5479999923706055,Julian Brandt,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Ramy Bensebaini,0.02608022280037403
+42,0.8530000305175781,0.49900001525878906,Fabio Silva,RightFoot,BlockedShot,Borussia Dortmund,Bayer Leverkusen,Serhou Guirassy,0.07548387348651886
+52,0.7969999694824219,0.7269999694824218,Julian Brandt,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,,0.061542946845293045
+56,0.9309999847412109,0.4859999847412109,Serhou Guirassy,Head,MissedShots,Borussia Dortmund,Bayer Leverkusen,Julian Ryerson,0.3852938115596771
+65,0.749000015258789,0.35200000762939454,Serhou Guirassy,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Samuele Inácio,0.033609770238399506
+80,0.764000015258789,0.6990000152587891,Ramy Bensebaini,RightFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,Nico Schlotterbeck,0.01953316107392311
+82,0.9159999847412109,0.6759999847412109,Serhou Guirassy,LeftFoot,ShotOnPost,Borussia Dortmund,Bayer Leverkusen,Carney Chukwuemeka,0.05482202023267746
+82,0.9309999847412109,0.549000015258789,Almugera Kabar,Head,MissedShots,Borussia Dortmund,Bayer Leverkusen,Julian Brandt,0.04891660809516907
+92,0.894000015258789,0.39,Julian Brandt,LeftFoot,MissedShots,Borussia Dortmund,Bayer Leverkusen,,0.06605282425880432

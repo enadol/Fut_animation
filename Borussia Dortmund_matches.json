@@ -808,5 +808,65 @@
             "l": 0.01616583090368672
         },
         "result": "w"
+    },
+    {
+        "id": "30473",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.553248",
+            "a": "0.76449"
+        },
+        "datetime": "2026-04-04 16:30:00",
+        "forecast": {
+            "w": 0.23846943234417056,
+            "d": 0.3935334485384093,
+            "l": 0.36799711911741334
+        },
+        "result": "w"
+    },
+    {
+        "id": "30477",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.01423",
+            "a": "0.728586"
+        },
+        "datetime": "2026-04-11 13:30:00",
+        "forecast": {
+            "w": 0.41357828020223003,
+            "d": 0.3303121711638943,
+            "l": 0.25610954863350655
+        },
+        "result": "l"
     }
 ]
