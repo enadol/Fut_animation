@@ -187,3 +187,157 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 76,0.950999984741211,0.4640000152587891,Mahmoud Dahoud,RightFoot,BlockedShot,Hamburger SV,Eintracht Frankfurt,Can Uzun,0.14902083575725555
 76,0.975,0.515,Nathaniel Brown,RightFoot,BlockedShot,Hamburger SV,Eintracht Frankfurt,,0.19816048443317413
 96,0.8490000152587891,0.47099998474121096,Robin Koch,Head,MissedShots,Hamburger SV,Eintracht Frankfurt,Nnamdi Collins,0.01867416501045227
+0,0.8,0.47400001525878904,Can Uzun,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,Nathaniel Brown,0.04791659489274025
+16,0.8369999694824218,0.33599998474121096,Can Uzun,LeftFoot,SavedShot,Eintracht Frankfurt,Borussia Dortmund,Rasmus Kristensen,0.045868080109357834
+17,0.9209999847412109,0.6930000305175781,Ansgar Knauff,RightFoot,SavedShot,Eintracht Frankfurt,Borussia Dortmund,,0.04893936216831207
+21,0.885,0.5,Can Uzun,RightFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,,0.75777667760849
+41,0.9430000305175781,0.6969999694824218,Younes Ebnoutalib,LeftFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Can Uzun,0.051474280655384064
+46,0.87,0.4809999847412109,Younes Ebnoutalib,Head,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Hugo Larsson,0.039899397641420364
+48,0.8530000305175781,0.5890000152587891,Ansgar Knauff,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,Younes Ebnoutalib,0.082718126475811
+53,0.9159999847412109,0.30100000381469727,Ansgar Knauff,RightFoot,SavedShot,Eintracht Frankfurt,Borussia Dortmund,,0.05796419456601143
+55,0.8430000305175781,0.624000015258789,Ansgar Knauff,RightFoot,MissedShots,Eintracht Frankfurt,Borussia Dortmund,Younes Ebnoutalib,0.0621214285492897
+70,0.8590000152587891,0.5309999847412109,Younes Ebnoutalib,RightFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,Arnaud Kalimuendo Muinga,0.34979209303855896
+85,0.9269999694824219,0.32099998474121094,Arnaud Kalimuendo Muinga,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia Dortmund,Rasmus Kristensen,0.05928042531013489
+91,0.8680000305175781,0.6580000305175782,Mahmoud Dahoud,LeftFoot,Goal,Eintracht Frankfurt,Borussia Dortmund,,0.06051431596279144
+4,0.950999984741211,0.40700000762939453,Rasmus Kristensen,Head,Goal,VfB Stuttgart,Eintracht Frankfurt,Ritsu Doan,0.07112015038728714
+25,0.850999984741211,0.585999984741211,Ellyes Skhiri,LeftFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,Jean Négoce,0.09574364125728607
+50,0.9,0.7169999694824218,Ritsu Doan,LeftFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Ellyes Skhiri,0.04488810896873474
+57,0.855,0.3039999961853027,Ansgar Knauff,RightFoot,ShotOnPost,VfB Stuttgart,Eintracht Frankfurt,,0.03656327351927757
+63,0.7809999847412109,0.7330000305175781,Arthur Theate,LeftFoot,MissedShots,VfB Stuttgart,Eintracht Frankfurt,Jean Négoce,0.016703322529792786
+71,0.765,0.3039999961853027,Arnaud Kalimuendo Muinga,RightFoot,MissedShots,VfB Stuttgart,Eintracht Frankfurt,Mario Götze,0.01555030606687069
+79,0.8619999694824219,0.3240000152587891,Ayoube Amaimouni-Echghouyab,LeftFoot,Goal,VfB Stuttgart,Eintracht Frankfurt,Mahmoud Dahoud,0.044722821563482285
+81,0.8030000305175782,0.6609999847412109,Rasmus Kristensen,RightFoot,MissedShots,VfB Stuttgart,Eintracht Frankfurt,Arthur Theate,0.029994100332260132
+84,0.8590000152587891,0.7019999694824218,Arnaud Kalimuendo Muinga,RightFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,Arthur Theate,0.06616216152906418
+88,0.889000015258789,0.7290000152587891,Arnaud Kalimuendo Muinga,RightFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Arthur Theate,0.03737476095557213
+88,0.9459999847412109,0.5940000152587891,Arnaud Kalimuendo Muinga,LeftFoot,SavedShot,VfB Stuttgart,Eintracht Frankfurt,Jean Négoce,0.386771023273468
+94,0.7440000152587891,0.34700000762939454,Arthur Theate,LeftFoot,BlockedShot,VfB Stuttgart,Eintracht Frankfurt,,0.05087399482727051
+0,0.93,0.5509999847412109,Arnaud Kalimuendo Muinga,RightFoot,Goal,Werder Bremen,Eintracht Frankfurt,Nathaniel Brown,0.4379970133304596
+23,0.9280000305175782,0.565,Ellyes Skhiri,Head,MissedShots,Werder Bremen,Eintracht Frankfurt,Ritsu Doan,0.08664567768573761
+50,0.9080000305175782,0.28,Ritsu Doan,RightFoot,SavedShot,Werder Bremen,Eintracht Frankfurt,Mahmoud Dahoud,0.042038775980472565
+55,0.9119999694824219,0.595999984741211,Ellyes Skhiri,RightFoot,MissedShots,Werder Bremen,Eintracht Frankfurt,,0.05554724857211113
+55,0.914000015258789,0.4209999847412109,Nnamdi Collins,RightFoot,Goal,Werder Bremen,Eintracht Frankfurt,Farès Chaïbi,0.3125290274620056
+75,0.8919999694824219,0.26799999237060546,Farès Chaïbi,RightFoot,MissedShots,Werder Bremen,Eintracht Frankfurt,Can Uzun,0.17321111261844635
+87,0.7669999694824219,0.5379999923706055,Oscar Højlund,RightFoot,BlockedShot,Werder Bremen,Eintracht Frankfurt,Nathaniel Brown,0.028617074713110924
+93,0.8809999847412109,0.42900001525878906,Ansgar Knauff,RightFoot,Goal,Werder Bremen,Eintracht Frankfurt,Ayoube Amaimouni-Echghouyab,0.07113856822252274
+4,0.9640000152587891,0.34,Arnaud Kalimuendo Muinga,RightFoot,SavedShot,Eintracht Frankfurt,Hoffenheim,Ritsu Doan,0.3190256953239441
+17,0.9059999847412109,0.6480000305175782,Arnaud Kalimuendo Muinga,LeftFoot,Goal,Eintracht Frankfurt,Hoffenheim,,0.10615698248147964
+23,0.8269999694824218,0.47,Can Uzun,Head,BlockedShot,Eintracht Frankfurt,Hoffenheim,Ritsu Doan,0.00876646675169468
+47,0.7969999694824219,0.4379999923706055,Farès Chaïbi,LeftFoot,SavedShot,Eintracht Frankfurt,Hoffenheim,,0.028932681307196617
+50,0.9169999694824219,0.65,Arnaud Kalimuendo Muinga,RightFoot,BlockedShot,Eintracht Frankfurt,Hoffenheim,Nathaniel Brown,0.10182003676891327
+63,0.7669999694824219,0.40099998474121096,Hugo Larsson,RightFoot,MissedShots,Eintracht Frankfurt,Hoffenheim,Nathaniel Brown,0.03355637937784195
+64,0.02700000047683716,0.67,Aurèle Amenda,LeftFoot,OwnGoal,Eintracht Frankfurt,Hoffenheim,,0
+66,0.9019999694824219,0.3970000076293945,Rasmus Kristensen,RightFoot,MissedShots,Eintracht Frankfurt,Hoffenheim,Arnaud Kalimuendo Muinga,0.1009606122970581
+72,0.9280000305175782,0.43599998474121093,Jean Négoce,Head,MissedShots,Eintracht Frankfurt,Hoffenheim,Ritsu Doan,0.08765218406915665
+90,0.735,0.3160000038146973,Ritsu Doan,LeftFoot,MissedShots,Eintracht Frankfurt,Hoffenheim,,0.04278707131743431
+31,0.865999984741211,0.30100000381469727,Rasmus Kristensen,RightFoot,SavedShot,Eintracht Frankfurt,Bayer Leverkusen,,0.08311248570680618
+36,0.855999984741211,0.3089999961853027,Arnaud Kalimuendo Muinga,LeftFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Ellyes Skhiri,0.0444018580019474
+37,0.745999984741211,0.435,Nathaniel Brown,LeftFoot,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,,0.013600521720945835
+49,0.9580000305175781,0.45599998474121095,Aurèle Amenda,Head,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,Ritsu Doan,0.32491087913513184
+49,0.9130000305175782,0.47900001525878905,Robin Koch,RightFoot,SavedShot,Eintracht Frankfurt,Bayer Leverkusen,Aurèle Amenda,0.08957750350236893
+49,0.9330000305175781,0.46599998474121096,Robin Koch,RightFoot,Goal,Eintracht Frankfurt,Bayer Leverkusen,,0.5297710299491882
+50,0.8959999847412109,0.47900001525878905,Nathaniel Brown,RightFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Mario Götze,0.11607035994529724
+64,0.8780000305175781,0.3290000152587891,Arnaud Kalimuendo Muinga,LeftFoot,BlockedShot,Eintracht Frankfurt,Bayer Leverkusen,Oscar Højlund,0.06047064810991287
+66,0.705999984741211,0.515,Arthur Theate,LeftFoot,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,,0.012885854579508305
+86,0.905,0.6859999847412109,Ayoube Amaimouni-Echghouyab,LeftFoot,SavedShot,Eintracht Frankfurt,Bayer Leverkusen,Arthur Theate,0.033278290182352066
+88,0.9259999847412109,0.49700000762939456,Aurèle Amenda,Head,MissedShots,Eintracht Frankfurt,Bayer Leverkusen,Ayoube Amaimouni-Echghouyab,0.05787071958184242
+38,0.715,0.5409999847412109,Farès Chaïbi,RightFoot,MissedShots,Union Berlin,Eintracht Frankfurt,,0.012207979336380959
+55,0.965999984741211,0.32799999237060545,Oscar Højlund,RightFoot,MissedShots,Union Berlin,Eintracht Frankfurt,Arnaud Kalimuendo Muinga,0.21639429032802582
+82,0.845,0.49,Nathaniel Brown,LeftFoot,Goal,Union Berlin,Eintracht Frankfurt,Mahmoud Dahoud,0.06821051985025406
+3,0.8690000152587891,0.37900001525878907,Arnaud Kalimuendo Muinga,RightFoot,SavedShot,Eintracht Frankfurt,Borussia M.Gladbach,Ritsu Doan,0.2868584096431732
+23,0.8830000305175781,0.590999984741211,Nathaniel Brown,RightFoot,Goal,Eintracht Frankfurt,Borussia M.Gladbach,Jean Négoce,0.10298894345760345
+33,0.845,0.2510000038146973,Ayoube Amaimouni-Echghouyab,LeftFoot,Goal,Eintracht Frankfurt,Borussia M.Gladbach,Jean Négoce,0.03254934400320053
+49,0.795,0.545,Hugo Larsson,RightFoot,SavedShot,Eintracht Frankfurt,Borussia M.Gladbach,Jean Négoce,0.05345574766397476
+49,0.9490000152587891,0.5,Aurèle Amenda,Head,SavedShot,Eintracht Frankfurt,Borussia M.Gladbach,Hugo Larsson,0.413394957780838
+60,0.8090000152587891,0.6759999847412109,Jean Négoce,RightFoot,BlockedShot,Eintracht Frankfurt,Borussia M.Gladbach,Mario Götze,0.04554353654384613
+66,0.8090000152587891,0.5320000076293945,Ayoube Amaimouni-Echghouyab,LeftFoot,SavedShot,Eintracht Frankfurt,Borussia M.Gladbach,Ritsu Doan,0.07609927654266357
+74,0.8869999694824219,0.4490000152587891,Ansgar Knauff,RightFoot,Goal,Eintracht Frankfurt,Borussia M.Gladbach,,0.4617188572883606
+76,0.899000015258789,0.44799999237060545,Ansgar Knauff,RightFoot,SavedShot,Eintracht Frankfurt,Borussia M.Gladbach,Jean Négoce,0.3709750175476074
+81,0.8369999694824218,0.624000015258789,Mahmoud Dahoud,RightFoot,MissedShots,Eintracht Frankfurt,Borussia M.Gladbach,Jean Négoce,0.08300665020942688
+88,0.779000015258789,0.63,Nathaniel Brown,LeftFoot,BlockedShot,Eintracht Frankfurt,Borussia M.Gladbach,Mahmoud Dahoud,0.03693057969212532
+91,0.7759999847412109,0.3240000152587891,Ritsu Doan,LeftFoot,SavedShot,Eintracht Frankfurt,Borussia M.Gladbach,,0.023838235065340996
+38,0.865999984741211,0.644000015258789,Jean Négoce,LeftFoot,SavedShot,Bayern Munich,Eintracht Frankfurt,Hugo Larsson,0.0398322269320488
+39,0.82,0.7140000152587891,Ayoube Amaimouni-Echghouyab,RightFoot,BlockedShot,Bayern Munich,Eintracht Frankfurt,Nathaniel Brown,0.025187041610479355
+46,0.9030000305175782,0.44,Mahmoud Dahoud,Head,MissedShots,Bayern Munich,Eintracht Frankfurt,Ritsu Doan,0.08055125176906586
+61,0.9580000305175781,0.495,Jonathan Burkardt,RightFoot,ShotOnPost,Bayern Munich,Eintracht Frankfurt,Mario Götze,0.6648205518722534
+61,0.9290000152587891,0.6559999847412109,Nathaniel Brown,LeftFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,Jean Négoce,0.07282032817602158
+76,0.885,0.5,Jonathan Burkardt,RightFoot,Goal,Bayern Munich,Eintracht Frankfurt,,0.75777667760849
+80,0.8030000305175782,0.5029999923706054,Arnaud Kalimuendo Muinga,LeftFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,Hugo Larsson,0.05371325835585594
+85,0.9309999847412109,0.4809999847412109,Arnaud Kalimuendo Muinga,LeftFoot,Goal,Bayern Munich,Eintracht Frankfurt,,0.5274137854576111
+94,0.9309999847412109,0.6120000076293945,Mario Götze,RightFoot,MissedShots,Bayern Munich,Eintracht Frankfurt,Nathaniel Brown,0.07046488672494888
+11,0.9169999694824219,0.5,Robin Koch,Head,BlockedShot,Eintracht Frankfurt,Freiburg,Nathaniel Brown,0.04628952592611313
+23,0.759000015258789,0.34900001525878904,Nathaniel Brown,LeftFoot,SavedShot,Eintracht Frankfurt,Freiburg,Arnaud Kalimuendo Muinga,0.017512524500489235
+23,0.9540000152587891,0.5359999847412109,Jonathan Burkardt,RightFoot,SavedShot,Eintracht Frankfurt,Freiburg,,0.636366069316864
+28,0.9009999847412109,0.3559999847412109,Arnaud Kalimuendo Muinga,LeftFoot,SavedShot,Eintracht Frankfurt,Freiburg,Mario Götze,0.28353217244148254
+48,0.8980000305175782,0.28399999618530275,Jean Négoce,LeftFoot,BlockedShot,Eintracht Frankfurt,Freiburg,Aurèle Amenda,0.03566601872444153
+53,0.8080000305175781,0.29700000762939455,Arnaud Kalimuendo Muinga,LeftFoot,BlockedShot,Eintracht Frankfurt,Freiburg,Mario Götze,0.02719203010201454
+58,0.8419999694824218,0.5,Mario Götze,LeftFoot,BlockedShot,Eintracht Frankfurt,Freiburg,Arnaud Kalimuendo Muinga,0.08970287442207336
+63,0.87,0.65,Farès Chaïbi,LeftFoot,Goal,Eintracht Frankfurt,Freiburg,Nnamdi Collins,0.058382298797369
+69,0.7619999694824219,0.4779999923706055,Nathaniel Brown,LeftFoot,MissedShots,Eintracht Frankfurt,Freiburg,Arnaud Kalimuendo Muinga,0.029170988127589226
+73,0.870999984741211,0.43200000762939456,Arnaud Kalimuendo Muinga,LeftFoot,BlockedShot,Eintracht Frankfurt,Freiburg,Farès Chaïbi,0.11868839710950851
+80,0.8909999847412109,0.6840000152587891,Jean Négoce,LeftFoot,Goal,Eintracht Frankfurt,Freiburg,Farès Chaïbi,0.0718100517988205
+83,0.9590000152587891,0.3089999961853027,Ayoube Amaimouni-Echghouyab,RightFoot,MissedShots,Eintracht Frankfurt,Freiburg,Ritsu Doan,0.04734617844223976
+87,0.85,0.47200000762939454,Arnaud Kalimuendo Muinga,RightFoot,SavedShot,Eintracht Frankfurt,Freiburg,Jean Négoce,0.11862289160490036
+87,0.879000015258789,0.63,Jean Négoce,Head,SavedShot,Eintracht Frankfurt,Freiburg,Aurèle Amenda,0.026913238689303398
+93,0.8680000305175781,0.705,Jean Négoce,RightFoot,BlockedShot,Eintracht Frankfurt,Freiburg,Ritsu Doan,0.07489766925573349
+2,0.92,0.56,Jonathan Burkardt,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,,0.1105857715010643
+3,0.755,0.29700000762939455,Farès Chaïbi,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,,0.013134172186255455
+45,0.8569999694824219,0.7019999694824218,Jean Négoce,RightFoot,SavedShot,St. Pauli,Eintracht Frankfurt,Oscar Højlund,0.05837702378630638
+59,0.899000015258789,0.7080000305175781,Jean Négoce,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,Oscar Højlund,0.04379862919449806
+64,0.789000015258789,0.3270000076293945,Farès Chaïbi,RightFoot,MissedShots,St. Pauli,Eintracht Frankfurt,,0.07323071360588074
+83,0.8640000152587891,0.4590000152587891,Jonathan Burkardt,Head,SavedShot,St. Pauli,Eintracht Frankfurt,Farès Chaïbi,0.03734895959496498
+90,0.89,0.655,Jean Négoce,RightFoot,BlockedShot,St. Pauli,Eintracht Frankfurt,,0.06022157520055771
+93,0.915,0.46599998474121096,Aurèle Amenda,Head,MissedShots,St. Pauli,Eintracht Frankfurt,Jean Négoce,0.05483973026275635
+12,0.870999984741211,0.32299999237060545,Hugo Larsson,RightFoot,SavedShot,Eintracht Frankfurt,FC Heidenheim,Arnaud Kalimuendo Muinga,0.053834881633520126
+42,0.894000015258789,0.685,Jean Négoce,Head,BlockedShot,Eintracht Frankfurt,FC Heidenheim,Ayoube Amaimouni-Echghouyab,0.01081735547631979
+43,0.7190000152587891,0.49700000762939456,Jean Négoce,RightFoot,BlockedShot,Eintracht Frankfurt,FC Heidenheim,,0.012588657438755035
+43,0.8090000152587891,0.5129999923706055,Jean Négoce,RightFoot,BlockedShot,Eintracht Frankfurt,FC Heidenheim,,0.07198724895715714
+48,0.8580000305175781,0.37,Ritsu Doan,RightFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,Jean Négoce,0.07182852178812027
+49,0.9059999847412109,0.5820000076293945,Ritsu Doan,LeftFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,,0.08533453941345215
+52,0.9290000152587891,0.5120000076293946,Arnaud Kalimuendo Muinga,RightFoot,Goal,Eintracht Frankfurt,FC Heidenheim,Robin Koch,0.08595699071884155
+59,0.9159999847412109,0.5529999923706055,Farès Chaïbi,Head,SavedShot,Eintracht Frankfurt,FC Heidenheim,Ritsu Doan,0.07889458537101746
+71,0.9340000152587891,0.5529999923706055,Robin Koch,RightFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,Farès Chaïbi,0.0920599177479744
+74,0.93,0.3390000152587891,Ritsu Doan,RightFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,Jean Négoce,0.0894763246178627
+78,0.9219999694824219,0.29200000762939454,Ayoube Amaimouni-Echghouyab,RightFoot,SavedShot,Eintracht Frankfurt,FC Heidenheim,Arnaud Kalimuendo Muinga,0.059392232447862625
+78,0.710999984741211,0.35,Farès Chaïbi,RightFoot,MissedShots,Eintracht Frankfurt,FC Heidenheim,,0.012987720780074596
+10,0.8530000305175781,0.5820000076293945,Farès Chaïbi,RightFoot,BlockedShot,Mainz 05,Eintracht Frankfurt,Jean Négoce,0.07273782044649124
+18,0.889000015258789,0.529000015258789,Jonathan Burkardt,RightFoot,BlockedShot,Mainz 05,Eintracht Frankfurt,Ritsu Doan,0.07790400087833405
+19,0.9069999694824219,0.534000015258789,Nathaniel Brown,RightFoot,Goal,Mainz 05,Eintracht Frankfurt,Jean Négoce,0.45927169919013977
+23,0.779000015258789,0.7030000305175781,Farès Chaïbi,RightFoot,BlockedShot,Mainz 05,Eintracht Frankfurt,Jean Négoce,0.017010146751999855
+42,0.8959999847412109,0.5520000076293945,Arthur Theate,Head,SavedShot,Mainz 05,Eintracht Frankfurt,Farès Chaïbi,0.0502256341278553
+45,0.9269999694824219,0.534000015258789,Nnamdi Collins,Head,MissedShots,Mainz 05,Eintracht Frankfurt,Farès Chaïbi,0.3563423454761505
+50,0.85,0.5729999923706055,Arnaud Kalimuendo Muinga,RightFoot,SavedShot,Mainz 05,Eintracht Frankfurt,Jean Négoce,0.0858750194311142
+60,0.9269999694824219,0.509000015258789,Farès Chaïbi,Head,ShotOnPost,Mainz 05,Eintracht Frankfurt,Ritsu Doan,0.4288034439086914
+65,0.7719999694824219,0.5740000152587891,Jonathan Burkardt,RightFoot,MissedShots,Mainz 05,Eintracht Frankfurt,Hugo Larsson,0.029075786471366882
+67,0.9180000305175782,0.715,Ayoube Amaimouni-Echghouyab,LeftFoot,MissedShots,Mainz 05,Eintracht Frankfurt,Hugo Larsson,0.04398452490568161
+69,0.855999984741211,0.40599998474121096,Ritsu Doan,LeftFoot,SavedShot,Mainz 05,Eintracht Frankfurt,Jonathan Burkardt,0.07334224879741669
+95,0.8109999847412109,0.7419999694824219,Ansgar Knauff,RightFoot,BlockedShot,Mainz 05,Eintracht Frankfurt,Elias Baum,0.02290719375014305
+5,0.8780000305175781,0.5329999923706055,Jonathan Burkardt,Head,MissedShots,Eintracht Frankfurt,FC Cologne,Arnaud Kalimuendo Muinga,0.05872569978237152
+15,0.8159999847412109,0.519000015258789,Hugo Larsson,LeftFoot,BlockedShot,Eintracht Frankfurt,FC Cologne,Arnaud Kalimuendo Muinga,0.0599399209022522
+15,0.7809999847412109,0.4229999923706055,Ritsu Doan,LeftFoot,SavedShot,Eintracht Frankfurt,FC Cologne,,0.024672988802194595
+23,0.9,0.3120000076293945,Ansgar Knauff,RightFoot,MissedShots,Eintracht Frankfurt,FC Cologne,Hugo Larsson,0.057980168610811234
+33,0.9109999847412109,0.644000015258789,Arnaud Kalimuendo Muinga,LeftFoot,SavedShot,Eintracht Frankfurt,FC Cologne,Oscar Højlund,0.369671493768692
+42,0.784000015258789,0.53,Jonathan Burkardt,RightFoot,BlockedShot,Eintracht Frankfurt,FC Cologne,,0.10514776408672333
+43,0.904000015258789,0.620999984741211,Arthur Theate,LeftFoot,SavedShot,Eintracht Frankfurt,FC Cologne,Aurèle Amenda,0.07183735817670822
+48,0.905,0.39799999237060546,Hugo Larsson,RightFoot,MissedShots,Eintracht Frankfurt,FC Cologne,Robin Koch,0.06916717439889908
+54,0.815,0.5209999847412109,Ansgar Knauff,RightFoot,BlockedShot,Eintracht Frankfurt,FC Cologne,Hugo Larsson,0.061589837074279785
+58,0.8780000305175781,0.4,Arthur Theate,Head,SavedShot,Eintracht Frankfurt,FC Cologne,Ritsu Doan,0.022901369258761406
+59,0.960999984741211,0.40799999237060547,Arthur Theate,Head,MissedShots,Eintracht Frankfurt,FC Cologne,Farès Chaïbi,0.21908017992973328
+61,0.8069999694824219,0.5820000076293945,Farès Chaïbi,RightFoot,BlockedShot,Eintracht Frankfurt,FC Cologne,Arnaud Kalimuendo Muinga,0.04664799943566322
+63,0.754000015258789,0.3940000152587891,Ayoube Amaimouni-Echghouyab,LeftFoot,SavedShot,Eintracht Frankfurt,FC Cologne,Farès Chaïbi,0.014897375367581844
+65,0.955999984741211,0.5259999847412109,Jonathan Burkardt,RightFoot,Goal,Eintracht Frankfurt,FC Cologne,Farès Chaïbi,0.6487533450126648
+68,0.88,0.5259999847412109,Arnaud Kalimuendo Muinga,RightFoot,Goal,Eintracht Frankfurt,FC Cologne,,0.13578888773918152
+80,0.695,0.34799999237060547,Aurèle Amenda,RightFoot,MissedShots,Eintracht Frankfurt,FC Cologne,Arnaud Kalimuendo Muinga,0.014639554545283318
+87,0.9440000152587891,0.5509999847412109,Arnaud Kalimuendo Muinga,Head,BlockedShot,Eintracht Frankfurt,FC Cologne,Farès Chaïbi,0.05542466416954994
+88,0.9480000305175781,0.47900001525878905,Younes Ebnoutalib,Head,MissedShots,Eintracht Frankfurt,FC Cologne,Farès Chaïbi,0.07947392016649246
+93,0.87,0.4490000152587891,Aurèle Amenda,Head,MissedShots,Eintracht Frankfurt,FC Cologne,Arnaud Kalimuendo Muinga,0.021921982988715172
+97,0.89,0.5059999847412109,Arthur Theate,Head,MissedShots,Eintracht Frankfurt,FC Cologne,,0.033195436000823975
+11,0.924000015258789,0.6370000076293946,Arnaud Kalimuendo Muinga,RightFoot,SavedShot,Wolfsburg,Eintracht Frankfurt,Oscar Højlund,0.34235575795173645
+20,0.785,0.4470000076293945,Oscar Højlund,RightFoot,Goal,Wolfsburg,Eintracht Frankfurt,Ayoube Amaimouni-Echghouyab,0.036537278443574905
+31,0.9230000305175782,0.37599998474121094,Jonathan Burkardt,RightFoot,SavedShot,Wolfsburg,Eintracht Frankfurt,Farès Chaïbi,0.27985477447509766
+31,0.9230000305175782,0.45799999237060546,Arnaud Kalimuendo Muinga,RightFoot,Goal,Wolfsburg,Eintracht Frankfurt,,0.5350584387779236
+39,0.7959999847412109,0.37400001525878906,Farès Chaïbi,RightFoot,BlockedShot,Wolfsburg,Eintracht Frankfurt,Hugo Larsson,0.06729040294885635
+72,0.7230000305175781,0.63,Arthur Theate,LeftFoot,MissedShots,Wolfsburg,Eintracht Frankfurt,Nathaniel Brown,0.020106157287955284
+75,0.8969999694824219,0.7630000305175781,Farès Chaïbi,RightFoot,BlockedShot,Wolfsburg,Eintracht Frankfurt,Arnaud Kalimuendo Muinga,0.03835010528564453
+76,0.8090000152587891,0.5029999923706054,Ansgar Knauff,RightFoot,BlockedShot,Wolfsburg,Eintracht Frankfurt,,0.03731314837932587
+89,0.8640000152587891,0.5509999847412109,Ellyes Skhiri,RightFoot,BlockedShot,Wolfsburg,Eintracht Frankfurt,Arnaud Kalimuendo Muinga,0.12694640457630157
+89,0.8480000305175781,0.555,Ellyes Skhiri,RightFoot,BlockedShot,Wolfsburg,Eintracht Frankfurt,,0.06055222451686859
