@@ -868,5 +868,65 @@
             "l": 0.25610954863350655
         },
         "result": "w"
+    },
+    {
+        "id": "30485",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.73107",
+            "a": "1.29743"
+        },
+        "datetime": "2026-04-18 13:30:00",
+        "forecast": {
+            "w": 0.80937152181011,
+            "d": 0.10487989930703127,
+            "l": 0.08573958933417433
+        },
+        "result": "l"
+    },
+    {
+        "id": "30496",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.49945",
+            "a": "1.85749"
+        },
+        "datetime": "2026-04-25 13:30:00",
+        "forecast": {
+            "w": 0.6878542848502286,
+            "d": 0.14035001274782424,
+            "l": 0.17179144471160648
+        },
+        "result": "w"
     }
 ]

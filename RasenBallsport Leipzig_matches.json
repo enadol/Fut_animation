@@ -868,5 +868,65 @@
             "l": 0.2418228782971713
         },
         "result": "w"
+    },
+    {
+        "id": "30488",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.40341",
+            "a": "2.02122"
+        },
+        "datetime": "2026-04-18 16:30:00",
+        "forecast": {
+            "w": 0.2661609677201367,
+            "d": 0.21517826678273247,
+            "l": 0.518660761017251
+        },
+        "result": "w"
+    },
+    {
+        "id": "30500",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "240",
+            "title": "Union Berlin",
+            "short_title": "UNI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "4.53545",
+            "a": "0.372365"
+        },
+        "datetime": "2026-04-24 18:30:00",
+        "forecast": {
+            "w": 0.9668824175314363,
+            "d": 0.026235617958711696,
+            "l": 0.006801755415800645
+        },
+        "result": "w"
     }
 ]
