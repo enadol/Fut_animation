@@ -558,3 +558,65 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.9019999694824219,0.33599998474121096,Luis Díaz,RightFoot,BlockedShot,St. Pauli,Bayern Munich,Raphael Guerreiro,0.09231352061033249
 87,0.9119999694824219,0.40099998474121096,Raphael Guerreiro,LeftFoot,Goal,St. Pauli,Bayern Munich,Nicolas Jackson,0.44194579124450684
 91,0.9519999694824218,0.644000015258789,Nicolas Jackson,RightFoot,SavedShot,St. Pauli,Bayern Munich,Tom Bischof,0.23884819447994232
+8,0.9019999694824219,0.3340000152587891,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Raphael Guerreiro,0.08987721800804138
+9,0.9109999847412109,0.534000015258789,Kim Min-Jae,Head,SavedShot,Bayern Munich,VfB Stuttgart,Joshua Kimmich,0.03672730177640915
+16,0.8469999694824218,0.40400001525878904,Leon Goretzka,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Raphael Guerreiro,0.07813450694084167
+22,0.8490000152587891,0.5620000076293945,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Raphael Guerreiro,0.10775651782751083
+22,0.710999984741211,0.4929999923706055,Joshua Kimmich,RightFoot,MissedShots,Bayern Munich,VfB Stuttgart,,0.012528506107628345
+27,0.9,0.624000015258789,Jamal Musiala,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Joshua Kimmich,0.1047251746058464
+29,0.8490000152587891,0.529000015258789,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Joshua Kimmich,0.0684027448296547
+30,0.8230000305175781,0.47099998474121096,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,,0.04477386176586151
+30,0.975999984741211,0.48200000762939454,Raphael Guerreiro,RightFoot,Goal,Bayern Munich,VfB Stuttgart,Jamal Musiala,0.9011658430099487
+32,0.9159999847412109,0.5729999923706055,Nicolas Jackson,RightFoot,Goal,Bayern Munich,VfB Stuttgart,Luis Díaz,0.5564870238304138
+36,0.8590000152587891,0.5179999923706055,Alphonso Davies,LeftFoot,Goal,Bayern Munich,VfB Stuttgart,Luis Díaz,0.11284882575273514
+43,0.7859999847412109,0.5370000076293945,Luis Díaz,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Jamal Musiala,0.04452596604824066
+45,0.9580000305175781,0.3940000152587891,Jamal Musiala,RightFoot,MissedShots,Bayern Munich,VfB Stuttgart,Luis Díaz,0.45132365822792053
+47,0.8530000305175781,0.47200000762939454,Luis Díaz,RightFoot,MissedShots,Bayern Munich,VfB Stuttgart,,0.08879771083593369
+48,0.8969999694824219,0.544000015258789,Leon Goretzka,Head,BlockedShot,Bayern Munich,VfB Stuttgart,,0.041991088539361954
+48,0.9180000305175782,0.49599998474121093,Raphael Guerreiro,Head,MissedShots,Bayern Munich,VfB Stuttgart,Joshua Kimmich,0.12365460395812988
+51,0.914000015258789,0.4979999923706055,Leon Goretzka,LeftFoot,SavedShot,Bayern Munich,VfB Stuttgart,Hiroki Ito,0.45986104011535645
+51,0.9490000152587891,0.4879999923706055,Harry Kane,LeftFoot,Goal,Bayern Munich,VfB Stuttgart,,0.6018545627593994
+55,0.89,0.7319999694824219,Nicolas Jackson,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Alphonso Davies,0.05465535447001457
+58,0.9130000305175782,0.3970000076293945,Leon Goretzka,RightFoot,SavedShot,Bayern Munich,VfB Stuttgart,Michael Olise,0.4524279534816742
+64,0.7040000152587891,0.4809999847412109,Joshua Kimmich,RightFoot,MissedShots,Bayern Munich,VfB Stuttgart,Michael Olise,0.01990170031785965
+66,0.8619999694824219,0.5970000076293945,Michael Olise,LeftFoot,MissedShots,Bayern Munich,VfB Stuttgart,Nicolas Jackson,0.12484689056873322
+69,0.8090000152587891,0.5020000076293946,Leon Goretzka,LeftFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Raphael Guerreiro,0.0396687388420105
+71,0.7519999694824219,0.38099998474121094,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,VfB Stuttgart,,0.060459475964307785
+72,0.8619999694824219,0.34900001525878904,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,VfB Stuttgart,,0.042224571108818054
+79,0.86,0.4620000076293945,Josip Stanisic,LeftFoot,MissedShots,Bayern Munich,VfB Stuttgart,Michael Olise,0.4208851456642151
+89,0.955,0.32799999237060545,Michael Olise,RightFoot,SavedShot,Bayern Munich,VfB Stuttgart,Nicolas Jackson,0.22095425426959991
+89,0.93,0.28899999618530275,Harry Kane,RightFoot,MissedShots,Bayern Munich,VfB Stuttgart,,0.03267239034175873
+3,0.8880000305175781,0.445,Raphael Guerreiro,LeftFoot,MissedShots,Mainz 05,Bayern Munich,Konrad Laimer,0.08262671530246735
+39,0.97,0.63,Alphonso Davies,LeftFoot,MissedShots,Mainz 05,Bayern Munich,Aleksandar Pavlovic,0.22463484108448029
+48,0.924000015258789,0.6220000076293946,Nicolas Jackson,LeftFoot,SavedShot,Mainz 05,Bayern Munich,Alphonso Davies,0.26714271306991577
+52,0.9290000152587891,0.30700000762939456,Konrad Laimer,RightFoot,MissedShots,Mainz 05,Bayern Munich,Alphonso Davies,0.03804149106144905
+52,0.8730000305175781,0.549000015258789,Nicolas Jackson,RightFoot,Goal,Mainz 05,Bayern Munich,Konrad Laimer,0.2762565612792969
+61,0.9080000305175782,0.6509999847412109,Nicolas Jackson,LeftFoot,SavedShot,Mainz 05,Bayern Munich,Leon Goretzka,0.28815531730651855
+65,0.9569999694824218,0.6869999694824219,Jamal Musiala,LeftFoot,BlockedShot,Mainz 05,Bayern Munich,Josip Stanisic,0.051632825285196304
+67,0.754000015258789,0.5159999847412109,Jamal Musiala,RightFoot,MissedShots,Mainz 05,Bayern Munich,Harry Kane,0.0551292710006237
+72,0.850999984741211,0.24399999618530274,Michael Olise,LeftFoot,Goal,Mainz 05,Bayern Munich,Konrad Laimer,0.024576589465141296
+80,0.980999984741211,0.4759999847412109,Jamal Musiala,RightFoot,Goal,Mainz 05,Bayern Munich,,0.5739277601242065
+82,0.9569999694824218,0.41900001525878905,Harry Kane,RightFoot,Goal,Mainz 05,Bayern Munich,,0.4798209071159363
+3,0.865999984741211,0.37,Aleksandar Pavlovic,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,Josip Stanisic,0.07161694765090942
+8,0.7440000152587891,0.505,Leon Goretzka,RightFoot,SavedShot,Bayern Munich,FC Heidenheim,,0.020879827439785004
+19,0.749000015258789,0.5529999923706055,Hiroki Ito,LeftFoot,MissedShots,Bayern Munich,FC Heidenheim,Kim Min-Jae,0.032508108764886856
+34,0.8090000152587891,0.34900001525878904,Leon Goretzka,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,,0.0988868847489357
+34,0.7809999847412109,0.3729999923706055,Leon Goretzka,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,,0.02194952964782715
+43,0.759000015258789,0.67,Leon Goretzka,RightFoot,Goal,Bayern Munich,FC Heidenheim,,0.0556618757545948
+44,0.7780000305175782,0.66,Jamal Musiala,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,Konrad Laimer,0.020999077707529068
+47,0.7680000305175781,0.759000015258789,Nicolas Jackson,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,Aleksandar Pavlovic,0.02898891270160675
+51,0.8230000305175781,0.6630000305175782,Luis Díaz,RightFoot,SavedShot,Bayern Munich,FC Heidenheim,Hiroki Ito,0.039822593331336975
+54,0.924000015258789,0.5020000076293946,Nicolas Jackson,LeftFoot,SavedShot,Bayern Munich,FC Heidenheim,Harry Kane,0.43176165223121643
+55,0.9530000305175781,0.47700000762939454,Kim Min-Jae,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,,0.12319906800985336
+56,0.82,0.5459999847412109,Nicolas Jackson,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,,0.04889596998691559
+56,0.9719999694824218,0.5070000076293946,Leon Goretzka,RightFoot,Goal,Bayern Munich,FC Heidenheim,Michael Olise,0.550666332244873
+64,0.755,0.28600000381469726,Michael Olise,LeftFoot,MissedShots,Bayern Munich,FC Heidenheim,,0.011678451672196388
+65,0.750999984741211,0.5229999923706055,Joshua Kimmich,RightFoot,ShotOnPost,Bayern Munich,FC Heidenheim,Leon Goretzka,0.020004939287900925
+66,0.8469999694824218,0.43,Joshua Kimmich,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,,0.09676190465688705
+71,0.8009999847412109,0.37200000762939456,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,FC Heidenheim,Konrad Laimer,0.0386197604238987
+73,0.8230000305175781,0.48,Luis Díaz,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,Michael Olise,0.061887964606285095
+75,0.750999984741211,0.585999984741211,Michael Olise,LeftFoot,BlockedShot,Bayern Munich,FC Heidenheim,,0.016878468915820122
+78,0.7119999694824218,0.47400001525878904,Leon Goretzka,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,Joshua Kimmich,0.017288414761424065
+86,0.879000015258789,0.27600000381469725,Nicolas Jackson,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,Kim Min-Jae,0.03517520800232887
+98,0.894000015258789,0.46599998474121096,Kim Min-Jae,Head,BlockedShot,Bayern Munich,FC Heidenheim,Michael Olise,0.02039933204650879
+99,0.7569999694824219,0.37400001525878906,Michael Olise,LeftFoot,Goal,Bayern Munich,FC Heidenheim,Alphonso Davies,0.015202938579022884

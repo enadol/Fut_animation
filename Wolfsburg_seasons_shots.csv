@@ -342,3 +342,33 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 88,0.765,0.6359999847412109,Dzenan Pejcinovic,LeftFoot,MissedShots,Wolfsburg,Eintracht Frankfurt,Lovro Majer,0.020657194778323174
 94,0.8190000152587891,0.46700000762939453,Kento Shiogai,RightFoot,SavedShot,Wolfsburg,Eintracht Frankfurt,Joakim Maehle,0.057041194289922714
 96,0.9290000152587891,0.5059999847412109,Dzenan Pejcinovic,Head,Goal,Wolfsburg,Eintracht Frankfurt,Adam Daghim,0.37229299545288086
+10,0.7669999694824219,0.4640000152587891,Patrick Wimmer,RightFoot,Goal,Union Berlin,Wolfsburg,Joakim Maehle,0.02851118892431259
+18,0.875999984741211,0.6580000305175782,Christian Eriksen,RightFoot,SavedShot,Union Berlin,Wolfsburg,Patrick Wimmer,0.05146472528576851
+37,0.9180000305175782,0.21899999618530275,Aaron Zehnter,LeftFoot,SavedShot,Union Berlin,Wolfsburg,Vinicius Souza,0.020900622010231018
+45,0.779000015258789,0.69,Dzenan Pejcinovic,RightFoot,Goal,Union Berlin,Wolfsburg,Christian Eriksen,0.028548065572977066
+79,0.874000015258789,0.7030000305175781,Adam Daghim,LeftFoot,MissedShots,Union Berlin,Wolfsburg,Christian Eriksen,0.10550500452518463
+14,0.884000015258789,0.6609999847412109,Mohammed Amoura,RightFoot,SavedShot,Wolfsburg,Borussia M.Gladbach,Dzenan Pejcinovic,0.06412497907876968
+38,0.9419999694824219,0.645,Dzenan Pejcinovic,LeftFoot,SavedShot,Wolfsburg,Borussia M.Gladbach,Christian Eriksen,0.34016522765159607
+42,0.960999984741211,0.3820000076293945,Joakim Maehle,RightFoot,BlockedShot,Wolfsburg,Borussia M.Gladbach,Patrick Wimmer,0.11025315523147583
+43,0.765,0.5929999923706055,Mohammed Amoura,RightFoot,MissedShots,Wolfsburg,Borussia M.Gladbach,,0.021542517468333244
+46,0.894000015258789,0.545,Aaron Zehnter,LeftFoot,SavedShot,Wolfsburg,Borussia M.Gladbach,Christian Eriksen,0.4301014542579651
+60,0.8209999847412109,0.3370000076293945,Joakim Maehle,RightFoot,MissedShots,Wolfsburg,Borussia M.Gladbach,,0.025689588859677315
+67,0.7,0.6020000076293945,Mohammed Amoura,RightFoot,SavedShot,Wolfsburg,Borussia M.Gladbach,Dzenan Pejcinovic,0.04867163300514221
+75,0.965,0.6120000076293945,Konstantinos Koulierakis,Head,MissedShots,Wolfsburg,Borussia M.Gladbach,Christian Eriksen,0.035840392112731934
+78,0.9069999694824219,0.41200000762939454,Sael Kumbedi,RightFoot,MissedShots,Wolfsburg,Borussia M.Gladbach,Konstantinos Koulierakis,0.2887507379055023
+86,0.91,0.46,Dzenan Pejcinovic,RightFoot,BlockedShot,Wolfsburg,Borussia M.Gladbach,Sael Kumbedi,0.13792288303375244
+87,0.784000015258789,0.44599998474121094,Vinicius Souza,RightFoot,BlockedShot,Wolfsburg,Borussia M.Gladbach,Joakim Maehle,0.03306026756763458
+93,0.93,0.4759999847412109,Vinicius Souza,Head,MissedShots,Wolfsburg,Borussia M.Gladbach,Christian Eriksen,0.07503819465637207
+8,0.8090000152587891,0.31799999237060544,Christian Eriksen,RightFoot,ShotOnPost,Freiburg,Wolfsburg,Adam Daghim,0.025453126057982445
+15,0.7680000305175781,0.6,Dzenan Pejcinovic,LeftFoot,SavedShot,Freiburg,Wolfsburg,Christian Eriksen,0.08385543525218964
+22,0.825999984741211,0.624000015258789,Patrick Wimmer,LeftFoot,MissedShots,Freiburg,Wolfsburg,Vinicius Souza,0.06553170830011368
+32,0.8590000152587891,0.3240000152587891,Adam Daghim,LeftFoot,BlockedShot,Freiburg,Wolfsburg,Sael Kumbedi,0.047962259501218796
+41,0.875,0.4929999923706055,Adam Daghim,Head,MissedShots,Freiburg,Wolfsburg,Konstantinos Koulierakis,0.05416522175073624
+45,0.754000015258789,0.515,Jeanuël Belocian,LeftFoot,MissedShots,Freiburg,Wolfsburg,,0.020762037485837936
+46,0.8190000152587891,0.5309999847412109,Dzenan Pejcinovic,LeftFoot,MissedShots,Freiburg,Wolfsburg,Patrick Wimmer,0.062135808169841766
+50,0.7819999694824219,0.544000015258789,Adam Daghim,LeftFoot,SavedShot,Freiburg,Wolfsburg,Sael Kumbedi,0.04825115576386452
+54,0.8530000305175781,0.3729999923706055,Dzenan Pejcinovic,RightFoot,BlockedShot,Freiburg,Wolfsburg,Joakim Maehle,0.08636529743671417
+54,0.9480000305175781,0.5559999847412109,Konstantinos Koulierakis,Head,Goal,Freiburg,Wolfsburg,Christian Eriksen,0.11947202682495117
+60,0.865999984741211,0.5020000076293946,Dzenan Pejcinovic,RightFoot,SavedShot,Freiburg,Wolfsburg,Patrick Wimmer,0.38445034623146057
+75,0.79,0.649000015258789,Lovro Majer,RightFoot,MissedShots,Freiburg,Wolfsburg,,0.024603351950645447
+76,0.855,0.27600000381469725,Adam Daghim,LeftFoot,MissedShots,Freiburg,Wolfsburg,Dzenan Pejcinovic,0.0878494456410408

@@ -868,5 +868,95 @@
             "l": 0.9567673685283089
         },
         "result": "w"
+    },
+    {
+        "id": "30486",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "4",
+            "a": "2"
+        },
+        "xG": {
+            "h": "5.11014",
+            "a": "1.26038"
+        },
+        "datetime": "2026-04-19 15:30:00",
+        "forecast": {
+            "w": 0.9166126600364477,
+            "d": 0.04988021505696165,
+            "l": 0.033223473468718366
+        },
+        "result": "w"
+    },
+    {
+        "id": "30499",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "3",
+            "a": "4"
+        },
+        "xG": {
+            "h": "3.22403",
+            "a": "2.36194"
+        },
+        "datetime": "2026-04-25 13:30:00",
+        "forecast": {
+            "w": 0.5581091075040576,
+            "d": 0.1628900951427731,
+            "l": 0.2789991587234635
+        },
+        "result": "w"
+    },
+    {
+        "id": "30504",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.87973",
+            "a": "2.48197"
+        },
+        "datetime": "2026-05-02 13:30:00",
+        "forecast": {
+            "w": 0.29443135557041045,
+            "d": 0.19040313341273468,
+            "l": 0.5151654462244061
+        },
+        "result": "d"
     }
 ]
