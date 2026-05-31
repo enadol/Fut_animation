@@ -958,5 +958,65 @@
             "l": 0.5151654462244061
         },
         "result": "d"
+    },
+    {
+        "id": "30520",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "a": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "goals": {
+            "h": "0",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.26878",
+            "a": "1.9054"
+        },
+        "datetime": "2026-05-09 16:30:00",
+        "forecast": {
+            "w": 0.6455871150858534,
+            "d": 0.15301081125575275,
+            "l": 0.20140017779198185
+        },
+        "result": "w"
+    },
+    {
+        "id": "30522",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "5",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.81515",
+            "a": "0.880203"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.7736883318039617,
+            "d": 0.13680982063346042,
+            "l": 0.08950154111424481
+        },
+        "result": "w"
     }
 ]
