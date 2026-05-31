@@ -808,5 +808,215 @@
             "l": 0.7787557831717055
         },
         "result": "w"
+    },
+    {
+        "id": "30473",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.553248",
+            "a": "0.76449"
+        },
+        "datetime": "2026-04-04 16:30:00",
+        "forecast": {
+            "w": 0.23846943234417056,
+            "d": 0.3935334485384093,
+            "l": 0.36799711911741334
+        },
+        "result": "l"
+    },
+    {
+        "id": "30483",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.8645",
+            "a": "0.417554"
+        },
+        "datetime": "2026-04-12 15:30:00",
+        "forecast": {
+            "w": 0.9389754677852743,
+            "d": 0.04688381748619491,
+            "l": 0.01412724886052958
+        },
+        "result": "w"
+    },
+    {
+        "id": "30486",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "4",
+            "a": "2"
+        },
+        "xG": {
+            "h": "5.11014",
+            "a": "1.26038"
+        },
+        "datetime": "2026-04-19 15:30:00",
+        "forecast": {
+            "w": 0.9166126600364477,
+            "d": 0.04988021505696165,
+            "l": 0.033223473468718366
+        },
+        "result": "l"
+    },
+    {
+        "id": "30501",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "1.99681",
+            "a": "0.958992"
+        },
+        "datetime": "2026-04-26 13:30:00",
+        "forecast": {
+            "w": 0.6148546172140898,
+            "d": 0.21085062817753616,
+            "l": 0.1742947508173412
+        },
+        "result": "d"
+    },
+    {
+        "id": "30508",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.6399",
+            "a": "1.76153"
+        },
+        "datetime": "2026-05-02 13:30:00",
+        "forecast": {
+            "w": 0.5674412691053142,
+            "d": 0.1818651227870469,
+            "l": 0.25069346992782626
+        },
+        "result": "d"
+    },
+    {
+        "id": "30519",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "a": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "goals": {
+            "h": "3",
+            "a": "1"
+        },
+        "xG": {
+            "h": "3.42891",
+            "a": "0.631905"
+        },
+        "datetime": "2026-05-09 13:30:00",
+        "forecast": {
+            "w": 0.8836729679257467,
+            "d": 0.08039766348839142,
+            "l": 0.035926021610660046
+        },
+        "result": "w"
+    },
+    {
+        "id": "30524",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.99231",
+            "a": "1.81013"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.6191625403543994,
+            "d": 0.1645042322490413,
+            "l": 0.21633257668785152
+        },
+        "result": "d"
     }
 ]

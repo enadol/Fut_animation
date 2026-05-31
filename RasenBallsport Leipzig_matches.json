@@ -928,5 +928,95 @@
             "l": 0.006801755415800645
         },
         "result": "w"
+    },
+    {
+        "id": "30503",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "119",
+            "title": "Bayer Leverkusen",
+            "short_title": "LEV"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "5.41733",
+            "a": "1.49733"
+        },
+        "datetime": "2026-05-02 16:30:00",
+        "forecast": {
+            "w": 0.9108287284322938,
+            "d": 0.05064318253166519,
+            "l": 0.038013799811878815
+        },
+        "result": "l"
+    },
+    {
+        "id": "30518",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.32909",
+            "a": "0.945954"
+        },
+        "datetime": "2026-05-09 13:30:00",
+        "forecast": {
+            "w": 0.6827780411402348,
+            "d": 0.17994616753166132,
+            "l": 0.13727576331277067
+        },
+        "result": "w"
+    },
+    {
+        "id": "30525",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "goals": {
+            "h": "4",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.54392",
+            "a": "1.51341"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.5994079167371156,
+            "d": 0.18311680758718998,
+            "l": 0.21747518937025676
+        },
+        "result": "l"
     }
 ]

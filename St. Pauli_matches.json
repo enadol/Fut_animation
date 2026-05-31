@@ -868,5 +868,155 @@
             "l": 0.9567673685283089
         },
         "result": "l"
+    },
+    {
+        "id": "30491",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.2798",
+            "a": "1.26761"
+        },
+        "datetime": "2026-04-17 18:30:00",
+        "forecast": {
+            "w": 0.601443699639811,
+            "d": 0.1953868690835477,
+            "l": 0.20316940999057478
+        },
+        "result": "d"
+    },
+    {
+        "id": "30498",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.17234",
+            "a": "1.17753"
+        },
+        "datetime": "2026-04-25 13:30:00",
+        "forecast": {
+            "w": 0.6001368177357944,
+            "d": 0.20145522842376062,
+            "l": 0.19840794244167403
+        },
+        "result": "l"
+    },
+    {
+        "id": "30509",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.08664",
+            "a": "2.80672"
+        },
+        "datetime": "2026-05-03 13:30:00",
+        "forecast": {
+            "w": 0.11968271977115193,
+            "d": 0.14943504816443123,
+            "l": 0.7308819367986001
+        },
+        "result": "l"
+    },
+    {
+        "id": "30518",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "136",
+            "title": "RasenBallsport Leipzig",
+            "short_title": "RBL"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.32909",
+            "a": "0.945954"
+        },
+        "datetime": "2026-05-09 13:30:00",
+        "forecast": {
+            "w": 0.6827780411402348,
+            "d": 0.17994616753166132,
+            "l": 0.13727576331277067
+        },
+        "result": "l"
+    },
+    {
+        "id": "30527",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "a": {
+            "id": "131",
+            "title": "Wolfsburg",
+            "short_title": "WOL"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.98722",
+            "a": "4.0649"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.14154535162647933,
+            "d": 0.11870062660859887,
+            "l": 0.7397301151912681
+        },
+        "result": "l"
     }
 ]

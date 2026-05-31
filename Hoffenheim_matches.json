@@ -808,5 +808,215 @@
             "l": 0.04177029601064423
         },
         "result": "l"
+    },
+    {
+        "id": "30472",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.51732",
+            "a": "2.22893"
+        },
+        "datetime": "2026-04-04 13:30:00",
+        "forecast": {
+            "w": 0.25967020116852896,
+            "d": 0.20246864930852365,
+            "l": 0.5378611335249611
+        },
+        "result": "l"
+    },
+    {
+        "id": "30476",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "121",
+            "title": "Augsburg",
+            "short_title": "AUG"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "2",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.67199",
+            "a": "1.43152"
+        },
+        "datetime": "2026-04-10 18:30:00",
+        "forecast": {
+            "w": 0.6389181895272704,
+            "d": 0.17294455645619466,
+            "l": 0.18813709402900375
+        },
+        "result": "d"
+    },
+    {
+        "id": "30490",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.22458",
+            "a": "1.28292"
+        },
+        "datetime": "2026-04-18 13:30:00",
+        "forecast": {
+            "w": 0.5871758310466186,
+            "d": 0.19977291236632105,
+            "l": 0.21305124107239473
+        },
+        "result": "w"
+    },
+    {
+        "id": "30497",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "118",
+            "title": "Hamburger SV",
+            "short_title": "HAM"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "1",
+            "a": "2"
+        },
+        "xG": {
+            "h": "1.48261",
+            "a": "2.42862"
+        },
+        "datetime": "2026-04-25 16:30:00",
+        "forecast": {
+            "w": 0.2260456932526352,
+            "d": 0.1896921594641164,
+            "l": 0.5842620993643394
+        },
+        "result": "w"
+    },
+    {
+        "id": "30508",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "133",
+            "title": "VfB Stuttgart",
+            "short_title": "STU"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "2.6399",
+            "a": "1.76153"
+        },
+        "datetime": "2026-05-02 13:30:00",
+        "forecast": {
+            "w": 0.5674412691053142,
+            "d": 0.1818651227870469,
+            "l": 0.25069346992782626
+        },
+        "result": "d"
+    },
+    {
+        "id": "30516",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "1.28965",
+            "a": "1.45272"
+        },
+        "datetime": "2026-05-09 13:30:00",
+        "forecast": {
+            "w": 0.3352780656407631,
+            "d": 0.25488369774232345,
+            "l": 0.4098382365532582
+        },
+        "result": "w"
+    },
+    {
+        "id": "30523",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "0.845598",
+            "a": "1.77286"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.175792321446205,
+            "d": 0.23069465878734502,
+            "l": 0.593513018982468
+        },
+        "result": "l"
     }
 ]

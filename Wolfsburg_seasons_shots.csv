@@ -1,4 +1,5 @@
 minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
+63,0.01600000023841858,0.52,Nikola Vasilj,OtherBodyPart,OwnGoal,St. Pauli,Wolfsburg,,0
 1,0.8830000305175781,0.539000015258789,Dzenan Pejcinovic,LeftFoot,MissedShots,FC Heidenheim,Wolfsburg,Aaron Zehnter,0.11992887407541275
 9,0.7530000305175781,0.23299999237060548,Maximilian Arnold,LeftFoot,MissedShots,FC Heidenheim,Wolfsburg,Andreas Skov Olsen,0.012341576628386974
 14,0.725999984741211,0.3679999923706055,Lovro Majer,LeftFoot,BlockedShot,FC Heidenheim,Wolfsburg,Andreas Skov Olsen,0.014251750893890858
@@ -372,3 +373,39 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 60,0.865999984741211,0.5020000076293946,Dzenan Pejcinovic,RightFoot,SavedShot,Freiburg,Wolfsburg,Patrick Wimmer,0.38445034623146057
 75,0.79,0.649000015258789,Lovro Majer,RightFoot,MissedShots,Freiburg,Wolfsburg,,0.024603351950645447
 76,0.855,0.27600000381469725,Adam Daghim,LeftFoot,MissedShots,Freiburg,Wolfsburg,Dzenan Pejcinovic,0.0878494456410408
+6,0.9180000305175782,0.55,Dzenan Pejcinovic,OtherBodyPart,MissedShots,Wolfsburg,Bayern Munich,Joakim Maehle,0.06488138437271118
+6,0.9540000152587891,0.42700000762939455,Vinicius Souza,Head,SavedShot,Wolfsburg,Bayern Munich,Dzenan Pejcinovic,0.3859862983226776
+10,0.9580000305175781,0.6569999694824219,Adam Daghim,LeftFoot,BlockedShot,Wolfsburg,Bayern Munich,Patrick Wimmer,0.09509275108575821
+11,0.955,0.5729999923706055,Denis Vavro,Head,MissedShots,Wolfsburg,Bayern Munich,Christian Eriksen,0.3458503186702728
+14,0.9290000152587891,0.654000015258789,Dzenan Pejcinovic,LeftFoot,BlockedShot,Wolfsburg,Bayern Munich,Adam Daghim,0.08045339584350586
+23,0.9309999847412109,0.4520000076293945,Dzenan Pejcinovic,RightFoot,BlockedShot,Wolfsburg,Bayern Munich,Sael Kumbedi,0.5397190451622009
+23,0.905,0.4490000152587891,Christian Eriksen,LeftFoot,BlockedShot,Wolfsburg,Bayern Munich,,0.09342320263385773
+23,0.875,0.5529999923706055,Dzenan Pejcinovic,LeftFoot,BlockedShot,Wolfsburg,Bayern Munich,,0.09158357977867126
+25,0.9319999694824219,0.185,Konstantinos Koulierakis,LeftFoot,BlockedShot,Wolfsburg,Bayern Munich,,0.07050681859254837
+27,0.924000015258789,0.33599998474121096,Patrick Wimmer,Head,MissedShots,Wolfsburg,Bayern Munich,Sael Kumbedi,0.01366063579916954
+27,0.97,0.5029999923706054,Patrick Wimmer,RightFoot,MissedShots,Wolfsburg,Bayern Munich,,0.6779780387878418
+36,0.7230000305175781,0.4379999923706055,Denis Vavro,RightFoot,SavedShot,Wolfsburg,Bayern Munich,Joakim Maehle,0.017086712643504143
+37,0.894000015258789,0.649000015258789,Christian Eriksen,LeftFoot,SavedShot,Wolfsburg,Bayern Munich,Dzenan Pejcinovic,0.07064135372638702
+37,0.955,0.500999984741211,Dzenan Pejcinovic,LeftFoot,SavedShot,Wolfsburg,Bayern Munich,Patrick Wimmer,0.1471661627292633
+42,0.9259999847412109,0.6669999694824219,Dzenan Pejcinovic,LeftFoot,MissedShots,Wolfsburg,Bayern Munich,Adam Daghim,0.0757756158709526
+88,0.875999984741211,0.56,Mattias Svanberg,RightFoot,ShotOnPost,Wolfsburg,Bayern Munich,Kento Shiogai,0.5072187781333923
+94,0.785,0.3679999923706055,Jesper Lindstrom,LeftFoot,MissedShots,Wolfsburg,Bayern Munich,,0.02535780519247055
+6,0.8630000305175781,0.46700000762939453,Mattias Svanberg,RightFoot,BlockedShot,St. Pauli,Wolfsburg,,0.07722383737564087
+22,0.8469999694824218,0.590999984741211,Adam Daghim,LeftFoot,SavedShot,St. Pauli,Wolfsburg,Dzenan Pejcinovic,0.38781020045280457
+22,0.9540000152587891,0.4590000152587891,Vinicius Souza,Head,MissedShots,St. Pauli,Wolfsburg,Christian Eriksen,0.08028540015220642
+22,0.9590000152587891,0.545,Adam Daghim,LeftFoot,SavedShot,St. Pauli,Wolfsburg,Vinicius Souza,0.5956248044967651
+27,0.87,0.5420000076293945,Mattias Svanberg,LeftFoot,SavedShot,St. Pauli,Wolfsburg,Christian Eriksen,0.1109398901462555
+31,0.6659999847412109,0.6930000305175781,Christian Eriksen,RightFoot,SavedShot,St. Pauli,Wolfsburg,,0.02611072175204754
+32,0.9640000152587891,0.580999984741211,Vinicius Souza,Head,ShotOnPost,St. Pauli,Wolfsburg,Christian Eriksen,0.10045062005519867
+36,0.924000015258789,0.6669999694824219,Adam Daghim,LeftFoot,SavedShot,St. Pauli,Wolfsburg,Christian Eriksen,0.30744612216949463
+36,0.97,0.45299999237060545,Konstantinos Koulierakis,Head,Goal,St. Pauli,Wolfsburg,Christian Eriksen,0.5011225938796997
+45,0.91,0.34799999237060547,Mattias Svanberg,RightFoot,MissedShots,St. Pauli,Wolfsburg,,0.08480377495288849
+53,0.8440000152587891,0.700999984741211,Dzenan Pejcinovic,RightFoot,SavedShot,St. Pauli,Wolfsburg,Adam Daghim,0.04251188412308693
+58,0.8330000305175781,0.624000015258789,Dzenan Pejcinovic,LeftFoot,BlockedShot,St. Pauli,Wolfsburg,Konstantinos Koulierakis,0.04278344288468361
+62,0.8630000305175781,0.649000015258789,Dzenan Pejcinovic,LeftFoot,SavedShot,St. Pauli,Wolfsburg,,0.055470846593379974
+72,0.8769999694824219,0.544000015258789,Yannick Gerhardt,RightFoot,BlockedShot,St. Pauli,Wolfsburg,Dzenan Pejcinovic,0.08425576239824295
+76,0.885,0.5,Christian Eriksen,RightFoot,ShotOnPost,St. Pauli,Wolfsburg,,0.75777667760849
+79,0.9319999694824219,0.5509999847412109,Christian Eriksen,RightFoot,SavedShot,St. Pauli,Wolfsburg,Yannick Gerhardt,0.42127081751823425
+79,0.905,0.495,Dzenan Pejcinovic,RightFoot,Goal,St. Pauli,Wolfsburg,,0.4526119530200958
+92,0.8059999847412109,0.56,Joakim Maehle,RightFoot,BlockedShot,St. Pauli,Wolfsburg,Christian Eriksen,0.07160650193691254
+94,0.8730000305175781,0.38299999237060545,Sael Kumbedi,RightFoot,BlockedShot,St. Pauli,Wolfsburg,Yannick Gerhardt,0.10328339040279388

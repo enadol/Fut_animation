@@ -377,3 +377,108 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 52,0.89,0.3940000152587891,Grischa Prömel,RightFoot,MissedShots,RasenBallsport Leipzig,Hoffenheim,,0.06787797808647156
 86,0.8819999694824219,0.445,Muhammed Damar,RightFoot,SavedShot,RasenBallsport Leipzig,Hoffenheim,,0.07025232166051865
 86,0.9430000305175781,0.5359999847412109,Grischa Prömel,RightFoot,BlockedShot,RasenBallsport Leipzig,Hoffenheim,Andrej Kramaric,0.10328321158885956
+3,0.7280000305175781,0.4640000152587891,Fisnik Asllani,RightFoot,BlockedShot,Hoffenheim,Mainz 05,Tim Lemperle,0.013106709346175194
+8,0.7430000305175781,0.32299999237060545,Grischa Prömel,RightFoot,BlockedShot,Hoffenheim,Mainz 05,,0.013929355889558792
+9,0.9740000152587891,0.4929999923706055,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,Mainz 05,,0.7572154998779297
+10,0.9540000152587891,0.39799999237060546,Tim Lemperle,Head,SavedShot,Hoffenheim,Mainz 05,Vladimir Coufal,0.14517252147197723
+22,0.7930000305175782,0.40299999237060546,Fisnik Asllani,LeftFoot,Goal,Hoffenheim,Mainz 05,Bazoumana Touré,0.03205718472599983
+27,0.8419999694824218,0.315,Vladimir Coufal,RightFoot,SavedShot,Hoffenheim,Mainz 05,,0.03803102672100067
+30,0.8859999847412109,0.5459999847412109,Albian Hajdari,Head,SavedShot,Hoffenheim,Mainz 05,Wouter Burger,0.038470908999443054
+32,0.8440000152587891,0.624000015258789,Fisnik Asllani,RightFoot,BlockedShot,Hoffenheim,Mainz 05,Grischa Prömel,0.06241126358509064
+38,0.7040000152587891,0.3390000152587891,Albian Hajdari,LeftFoot,MissedShots,Hoffenheim,Mainz 05,,0.008978926576673985
+46,0.9,0.3579999923706055,Bazoumana Touré,LeftFoot,BlockedShot,Hoffenheim,Mainz 05,Tim Lemperle,0.10618089884519577
+46,0.9419999694824219,0.29200000762939454,Bazoumana Touré,LeftFoot,BlockedShot,Hoffenheim,Mainz 05,,0.07903742045164108
+54,0.91,0.26799999237060546,Tim Lemperle,RightFoot,MissedShots,Hoffenheim,Mainz 05,Alexander Prass,0.04015905782580376
+57,0.889000015258789,0.725999984741211,Bazoumana Touré,LeftFoot,BlockedShot,Hoffenheim,Mainz 05,Albian Hajdari,0.09672758728265762
+62,0.720999984741211,0.4329999923706055,Alexander Prass,LeftFoot,SavedShot,Hoffenheim,Mainz 05,,0.04814853146672249
+69,0.77,0.639000015258789,Albian Hajdari,LeftFoot,BlockedShot,Hoffenheim,Mainz 05,Wouter Burger,0.021979929879307747
+80,0.7580000305175781,0.5479999923706055,Wouter Burger,LeftFoot,ShotOnPost,Hoffenheim,Mainz 05,Bazoumana Touré,0.024105872958898544
+7,0.8630000305175781,0.6480000305175782,Bazoumana Touré,LeftFoot,MissedShots,Augsburg,Hoffenheim,Oliver Baumann,0.033280711621046066
+16,0.8130000305175781,0.3990000152587891,Andrej Kramaric,RightFoot,BlockedShot,Augsburg,Hoffenheim,,0.12937167286872864
+31,0.9769999694824218,0.40900001525878904,Ozan Kabak,Head,SavedShot,Augsburg,Hoffenheim,Vladimir Coufal,0.07204499840736389
+34,0.909000015258789,0.3129999923706055,Vladimir Coufal,RightFoot,BlockedShot,Augsburg,Hoffenheim,Bazoumana Touré,0.024070797488093376
+34,0.9119999694824219,0.5470000076293945,Robin Hranác,Head,Goal,Augsburg,Hoffenheim,Vladimir Coufal,0.26513731479644775
+41,0.9569999694824218,0.7140000152587891,Bazoumana Touré,LeftFoot,Goal,Augsburg,Hoffenheim,Fisnik Asllani,0.051172979176044464
+45,0.9440000152587891,0.4809999847412109,Tim Lemperle,Head,MissedShots,Augsburg,Hoffenheim,Grischa Prömel,0.5592684745788574
+53,0.865,0.46799999237060547,Tim Lemperle,RightFoot,SavedShot,Augsburg,Hoffenheim,Fisnik Asllani,0.07728361338376999
+59,0.745999984741211,0.5670000076293945,Andrej Kramaric,RightFoot,BlockedShot,Augsburg,Hoffenheim,,0.06298364698886871
+64,0.8869999694824219,0.445,Grischa Prömel,LeftFoot,BlockedShot,Augsburg,Hoffenheim,Albian Hajdari,0.08732873201370239
+65,0.91,0.5920000076293945,Fisnik Asllani,Head,MissedShots,Augsburg,Hoffenheim,Vladimir Coufal,0.029449887573719025
+89,0.77,0.5109999847412109,Leon Avdullahu,RightFoot,BlockedShot,Augsburg,Hoffenheim,,0.02484939806163311
+95,0.9230000305175782,0.605999984741211,Grischa Prömel,Head,MissedShots,Augsburg,Hoffenheim,Muhammed Damar,0.015277397818863392
+0,0.9119999694824219,0.3079999923706055,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,Borussia Dortmund,Ozan Kabak,0.057237546890974045
+0,0.6969999694824218,0.4259999847412109,Fisnik Asllani,LeftFoot,BlockedShot,Hoffenheim,Borussia Dortmund,Ozan Kabak,0.012644641101360321
+5,0.889000015258789,0.34,Tim Lemperle,RightFoot,ShotOnPost,Hoffenheim,Borussia Dortmund,Wouter Burger,0.0387108214199543
+13,0.715,0.4829999923706055,Albian Hajdari,LeftFoot,BlockedShot,Hoffenheim,Borussia Dortmund,,0.014866816811263561
+25,0.865999984741211,0.515,Andrej Kramaric,LeftFoot,SavedShot,Hoffenheim,Borussia Dortmund,Vladimir Coufal,0.30270615220069885
+30,0.8619999694824219,0.5359999847412109,Tim Lemperle,RightFoot,BlockedShot,Hoffenheim,Borussia Dortmund,Wouter Burger,0.08688241243362427
+36,0.7769999694824219,0.375,Andrej Kramaric,LeftFoot,BlockedShot,Hoffenheim,Borussia Dortmund,Fisnik Asllani,0.04407967999577522
+41,0.885,0.5,Andrej Kramaric,RightFoot,Goal,Hoffenheim,Borussia Dortmund,,0.75777667760849
+43,0.754000015258789,0.590999984741211,Bernardo,LeftFoot,BlockedShot,Hoffenheim,Borussia Dortmund,Bazoumana Touré,0.02102045901119709
+43,0.8490000152587891,0.315,Vladimir Coufal,RightFoot,MissedShots,Hoffenheim,Borussia Dortmund,,0.05298352241516113
+61,0.97,0.4,Ozan Kabak,Head,SavedShot,Hoffenheim,Borussia Dortmund,Vladimir Coufal,0.05201786756515503
+87,0.785,0.38299999237060545,Ozan Kabak,RightFoot,MissedShots,Hoffenheim,Borussia Dortmund,Fisnik Asllani,0.026995370164513588
+97,0.885,0.5,Andrej Kramaric,RightFoot,Goal,Hoffenheim,Borussia Dortmund,,0.75777667760849
+16,0.9530000305175781,0.42900001525878906,Ozan Kabak,OtherBodyPart,BlockedShot,Hamburger SV,Hoffenheim,Bazoumana Touré,0.31882035732269287
+16,0.7680000305175781,0.4420000076293945,Wouter Burger,LeftFoot,MissedShots,Hamburger SV,Hoffenheim,,0.02963678166270256
+18,0.9269999694824219,0.5279999923706055,Fisnik Asllani,LeftFoot,Goal,Hamburger SV,Hoffenheim,Vladimir Coufal,0.4128900170326233
+20,0.8519999694824218,0.425,Tim Lemperle,RightFoot,MissedShots,Hamburger SV,Hoffenheim,Albian Hajdari,0.08285274356603622
+35,0.9330000305175781,0.47200000762939454,Ozan Kabak,Head,SavedShot,Hamburger SV,Hoffenheim,Bazoumana Touré,0.4540858864784241
+38,0.83,0.654000015258789,Fisnik Asllani,RightFoot,SavedShot,Hamburger SV,Hoffenheim,Bazoumana Touré,0.03901829198002815
+43,0.9440000152587891,0.5520000076293945,Ozan Kabak,Head,MissedShots,Hamburger SV,Hoffenheim,Wouter Burger,0.06270894408226013
+44,0.9680000305175781,0.425,Tim Lemperle,RightFoot,Goal,Hamburger SV,Hoffenheim,Albian Hajdari,0.4753097891807556
+53,0.89,0.575,Bazoumana Touré,Head,SavedShot,Hamburger SV,Hoffenheim,Andrej Kramaric,0.2559733986854553
+54,0.7130000305175781,0.5129999923706055,Wouter Burger,LeftFoot,MissedShots,Hamburger SV,Hoffenheim,Ozan Kabak,0.021074261516332626
+58,0.815,0.4829999923706055,Fisnik Asllani,RightFoot,BlockedShot,Hamburger SV,Hoffenheim,Tim Lemperle,0.11413588374853134
+65,0.865,0.6790000152587891,Bazoumana Touré,LeftFoot,MissedShots,Hamburger SV,Hoffenheim,,0.035189829766750336
+77,0.7319999694824219,0.5679999923706055,Bazoumana Touré,LeftFoot,BlockedShot,Hamburger SV,Hoffenheim,Bernardo,0.026091329753398895
+86,0.8009999847412109,0.48400001525878905,Cole Campbell,LeftFoot,MissedShots,Hamburger SV,Hoffenheim,,0.06187010928988457
+93,0.774000015258789,0.505,Grischa Prömel,RightFoot,SavedShot,Hamburger SV,Hoffenheim,Cole Campbell,0.038964495062828064
+6,0.855,0.6480000305175782,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,VfB Stuttgart,Leon Avdullahu,0.0565485842525959
+7,0.955999984741211,0.4,Andrej Kramaric,RightFoot,Goal,Hoffenheim,VfB Stuttgart,Fisnik Asllani,0.38003355264663696
+14,0.705999984741211,0.4540000152587891,Andrej Kramaric,RightFoot,MissedShots,Hoffenheim,VfB Stuttgart,Wouter Burger,0.018482785671949387
+22,0.8019999694824219,0.45799999237060546,Bazoumana Touré,LeftFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Fisnik Asllani,0.0510985367000103
+22,0.855999984741211,0.615,Bazoumana Touré,RightFoot,Goal,Hoffenheim,VfB Stuttgart,,0.049791306257247925
+32,0.8219999694824218,0.5259999847412109,Ozan Kabak,LeftFoot,MissedShots,Hoffenheim,VfB Stuttgart,Leon Avdullahu,0.07757151871919632
+38,0.7469999694824219,0.505,Bernardo,LeftFoot,MissedShots,Hoffenheim,VfB Stuttgart,,0.015392561443150043
+38,0.8580000305175781,0.415,Bazoumana Touré,Head,MissedShots,Hoffenheim,VfB Stuttgart,Bernardo,0.01667764037847519
+41,0.8809999847412109,0.3290000152587891,Tim Lemperle,LeftFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Vladimir Coufal,0.07209435850381851
+41,0.8,0.4420000076293945,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,VfB Stuttgart,,0.04648846015334129
+44,0.9109999847412109,0.6029999923706054,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,VfB Stuttgart,Wouter Burger,0.09060287475585938
+48,0.93,0.47200000762939454,Andrej Kramaric,RightFoot,Goal,Hoffenheim,VfB Stuttgart,Bazoumana Touré,0.42257043719291687
+53,0.885,0.4229999923706055,Tim Lemperle,LeftFoot,ShotOnPost,Hoffenheim,VfB Stuttgart,Bazoumana Touré,0.321625292301178
+60,0.8190000152587891,0.735,Vladimir Coufal,RightFoot,SavedShot,Hoffenheim,VfB Stuttgart,,0.06996128708124161
+61,0.725999984741211,0.415,Leon Avdullahu,RightFoot,MissedShots,Hoffenheim,VfB Stuttgart,,0.014360533095896244
+61,0.805,0.625999984741211,Bazoumana Touré,RightFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Tim Lemperle,0.046420976519584656
+71,0.9059999847412109,0.41400001525878904,Albian Hajdari,RightFoot,ShotOnPost,Hoffenheim,VfB Stuttgart,,0.07650826871395111
+74,0.8619999694824219,0.64,Tim Lemperle,RightFoot,SavedShot,Hoffenheim,VfB Stuttgart,Wouter Burger,0.10006685554981232
+74,0.8980000305175782,0.5459999847412109,Wouter Burger,LeftFoot,SavedShot,Hoffenheim,VfB Stuttgart,,0.541467547416687
+78,0.7959999847412109,0.515,Andrej Kramaric,RightFoot,SavedShot,Hoffenheim,VfB Stuttgart,Leon Avdullahu,0.05816850811243057
+87,0.8530000305175781,0.48700000762939455,Bazoumana Touré,LeftFoot,SavedShot,Hoffenheim,VfB Stuttgart,Andrej Kramaric,0.13550536334514618
+92,0.8669999694824219,0.27299999237060546,Max Moerstedt,RightFoot,SavedShot,Hoffenheim,VfB Stuttgart,Bazoumana Touré,0.05774806812405586
+9,0.93,0.6220000076293946,Fisnik Asllani,LeftFoot,MissedShots,Hoffenheim,Werder Bremen,Leon Avdullahu,0.08360576629638672
+12,0.919000015258789,0.4540000152587891,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,Werder Bremen,Vladimir Coufal,0.11252295970916748
+18,0.8119999694824219,0.495,Vladimir Coufal,RightFoot,BlockedShot,Hoffenheim,Werder Bremen,,0.03899454325437546
+24,0.909000015258789,0.4829999923706055,Andrej Kramaric,Head,MissedShots,Hoffenheim,Werder Bremen,Vladimir Coufal,0.12261582911014557
+25,0.875,0.6659999847412109,Bazoumana Touré,LeftFoot,Goal,Hoffenheim,Werder Bremen,Andrej Kramaric,0.036517124623060226
+31,0.9330000305175781,0.36,Fisnik Asllani,RightFoot,SavedShot,Hoffenheim,Werder Bremen,Ozan Kabak,0.10809487849473953
+33,0.759000015258789,0.33799999237060546,Fisnik Asllani,RightFoot,MissedShots,Hoffenheim,Werder Bremen,Wouter Burger,0.04082188755273819
+37,0.730999984741211,0.48900001525878906,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,Werder Bremen,Tim Lemperle,0.024200156331062317
+46,0.8580000305175781,0.4909999847412109,Tim Lemperle,LeftFoot,SavedShot,Hoffenheim,Werder Bremen,Vladimir Coufal,0.1380133479833603
+45,0.924000015258789,0.524000015258789,Tim Lemperle,Head,MissedShots,Hoffenheim,Werder Bremen,Vladimir Coufal,0.39014801383018494
+60,0.7559999847412109,0.3110000038146973,Alexander Prass,LeftFoot,SavedShot,Hoffenheim,Werder Bremen,Wouter Burger,0.01866205222904682
+60,0.924000015258789,0.48900001525878906,Ozan Kabak,RightFoot,BlockedShot,Hoffenheim,Werder Bremen,,0.11001560837030411
+62,0.7130000305175781,0.385,Ozan Kabak,RightFoot,MissedShots,Hoffenheim,Werder Bremen,Leon Avdullahu,0.018971718847751617
+77,0.7969999694824219,0.6909999847412109,Albian Hajdari,LeftFoot,BlockedShot,Hoffenheim,Werder Bremen,Andrej Kramaric,0.026775458827614784
+93,0.7090000152587891,0.55,Wouter Burger,LeftFoot,MissedShots,Hoffenheim,Werder Bremen,Vladimir Coufal,0.01969270035624504
+5,0.8030000305175782,0.6320000076293946,Tim Lemperle,RightFoot,BlockedShot,Borussia M.Gladbach,Hoffenheim,Bazoumana Touré,0.05644545704126358
+6,0.924000015258789,0.5459999847412109,Andrej Kramaric,RightFoot,SavedShot,Borussia M.Gladbach,Hoffenheim,Fisnik Asllani,0.520703911781311
+38,0.8530000305175781,0.485,Bazoumana Touré,LeftFoot,MissedShots,Borussia M.Gladbach,Hoffenheim,,0.06475254893302917
+42,0.9730000305175781,0.4620000076293945,Bernardo,Head,BlockedShot,Borussia M.Gladbach,Hoffenheim,Wouter Burger,0.10208261758089066
+43,0.879000015258789,0.5690000152587891,Bazoumana Touré,RightFoot,MissedShots,Borussia M.Gladbach,Hoffenheim,,0.08602146059274673
+53,0.8640000152587891,0.664000015258789,Andrej Kramaric,RightFoot,SavedShot,Borussia M.Gladbach,Hoffenheim,Bernardo,0.034883204847574234
+55,0.745999984741211,0.485,Fisnik Asllani,RightFoot,SavedShot,Borussia M.Gladbach,Hoffenheim,Wouter Burger,0.02043110877275467
+77,0.8209999847412109,0.395,Adam Hlozek,RightFoot,BlockedShot,Borussia M.Gladbach,Hoffenheim,Wouter Burger,0.0807843804359436
+77,0.9159999847412109,0.4979999923706055,Ozan Kabak,RightFoot,MissedShots,Borussia M.Gladbach,Hoffenheim,Cole Campbell,0.09641063213348389
+89,0.9730000305175781,0.534000015258789,Adam Hlozek,Head,MissedShots,Borussia M.Gladbach,Hoffenheim,,0.6799266338348389
+90,0.7809999847412109,0.515,Wouter Burger,LeftFoot,BlockedShot,Borussia M.Gladbach,Hoffenheim,Alexander Prass,0.03920159488916397

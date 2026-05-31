@@ -868,5 +868,155 @@
             "l": 0.25610954863350655
         },
         "result": "l"
+    },
+    {
+        "id": "30490",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "120",
+            "title": "Hoffenheim",
+            "short_title": "HOF"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.22458",
+            "a": "1.28292"
+        },
+        "datetime": "2026-04-18 13:30:00",
+        "forecast": {
+            "w": 0.5871758310466186,
+            "d": 0.19977291236632105,
+            "l": 0.21305124107239473
+        },
+        "result": "l"
+    },
+    {
+        "id": "30495",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "goals": {
+            "h": "4",
+            "a": "0"
+        },
+        "xG": {
+            "h": "3.09306",
+            "a": "0.496971"
+        },
+        "datetime": "2026-04-26 15:30:00",
+        "forecast": {
+            "w": 0.8768288758601684,
+            "d": 0.08939054303411359,
+            "l": 0.033779608497260326
+        },
+        "result": "w"
+    },
+    {
+        "id": "30505",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "130",
+            "title": "Borussia M.Gladbach",
+            "short_title": "BMG"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "1",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.68245",
+            "a": "0.4281"
+        },
+        "datetime": "2026-05-03 15:30:00",
+        "forecast": {
+            "w": 0.8484249168387001,
+            "d": 0.11247818375830916,
+            "l": 0.039096731441702066
+        },
+        "result": "l"
+    },
+    {
+        "id": "30513",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "a": {
+            "id": "132",
+            "title": "Eintracht Frankfurt",
+            "short_title": "EIN"
+        },
+        "goals": {
+            "h": "3",
+            "a": "2"
+        },
+        "xG": {
+            "h": "2.94988",
+            "a": "0.942523"
+        },
+        "datetime": "2026-05-08 18:30:00",
+        "forecast": {
+            "w": 0.7794651191983564,
+            "d": 0.13106911946235733,
+            "l": 0.0894652159359181
+        },
+        "result": "w"
+    },
+    {
+        "id": "30529",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "123",
+            "title": "Werder Bremen",
+            "short_title": "WER"
+        },
+        "a": {
+            "id": "129",
+            "title": "Borussia Dortmund",
+            "short_title": "DOR"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "0.530615",
+            "a": "3.37413"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.029412476127996558,
+            "d": 0.07595697258798394,
+            "l": 0.8946277861922832
+        },
+        "result": "w"
     }
 ]

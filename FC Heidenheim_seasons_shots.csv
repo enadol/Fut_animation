@@ -327,3 +327,66 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 77,0.9309999847412109,0.5459999847412109,Patrick Mainka,Head,MissedShots,FC Heidenheim,Union Berlin,Arijon Ibrahimovic,0.13464543223381042
 78,0.9259999847412109,0.645,Budu Zivzivadze,LeftFoot,Goal,FC Heidenheim,Union Berlin,Jan Schöppner,0.16467884182929993
 97,0.8959999847412109,0.3990000152587891,Budu Zivzivadze,LeftFoot,MissedShots,FC Heidenheim,Union Berlin,Adrian Beck,0.37361404299736023
+15,0.9790000152587891,0.575,Marvin Pieringer,Head,MissedShots,Freiburg,FC Heidenheim,Arijon Ibrahimovic,0.4826129376888275
+34,0.815,0.4929999923706055,Mathias Honsak,LeftFoot,BlockedShot,Freiburg,FC Heidenheim,Hennes Behrens,0.06084311753511429
+41,0.8830000305175781,0.6279999923706054,Mathias Honsak,LeftFoot,SavedShot,Freiburg,FC Heidenheim,Jan Schöppner,0.07610008120536804
+42,0.855,0.634000015258789,Arijon Ibrahimovic,RightFoot,MissedShots,Freiburg,FC Heidenheim,,0.04417617991566658
+45,0.8809999847412109,0.445,Budu Zivzivadze,LeftFoot,BlockedShot,Freiburg,FC Heidenheim,Arijon Ibrahimovic,0.07090411335229874
+52,0.889000015258789,0.6129999923706054,Mathias Honsak,LeftFoot,MissedShots,Freiburg,FC Heidenheim,Hennes Behrens,0.08487355709075928
+58,0.835999984741211,0.36200000762939455,Budu Zivzivadze,LeftFoot,Goal,Freiburg,FC Heidenheim,Mathias Honsak,0.07108616083860397
+60,0.7969999694824219,0.43200000762939456,Niklas Dorsch,RightFoot,MissedShots,Freiburg,FC Heidenheim,Arijon Ibrahimovic,0.04041831195354462
+76,0.9490000152587891,0.47400001525878904,Patrick Mainka,RightFoot,BlockedShot,Freiburg,FC Heidenheim,Adrian Beck,0.13569022715091705
+77,0.870999984741211,0.624000015258789,Stefan Schimmer,RightFoot,MissedShots,Freiburg,FC Heidenheim,Budu Zivzivadze,0.07713756710290909
+87,0.9580000305175781,0.44,Stefan Schimmer,Head,MissedShots,Freiburg,FC Heidenheim,Christian Conteh,0.4507497251033783
+90,0.865,0.5170000076293946,Stefan Schimmer,LeftFoot,BlockedShot,Freiburg,FC Heidenheim,Christian Conteh,0.07282542437314987
+94,0.7830000305175782,0.35400001525878905,Marnon Busch,RightFoot,MissedShots,Freiburg,FC Heidenheim,,0.07683981955051422
+1,0.84,0.39299999237060546,Eren Sami Dinkci,RightFoot,SavedShot,FC Heidenheim,St. Pauli,Budu Zivzivadze,0.08738613873720169
+2,0.9619999694824218,0.5329999923706055,Marvin Pieringer,RightFoot,MissedShots,FC Heidenheim,St. Pauli,Adrian Beck,0.5192534923553467
+2,0.9730000305175781,0.5,Budu Zivzivadze,LeftFoot,Goal,FC Heidenheim,St. Pauli,Jan Schöppner,0.7447797060012817
+15,0.85,0.46299999237060546,Adrian Beck,RightFoot,BlockedShot,FC Heidenheim,St. Pauli,,0.08764386177062988
+38,0.7019999694824218,0.5070000076293946,Marvin Pieringer,RightFoot,MissedShots,FC Heidenheim,St. Pauli,,0.011863905005156994
+47,0.774000015258789,0.6459999847412109,Hennes Behrens,LeftFoot,SavedShot,FC Heidenheim,St. Pauli,,0.03177366405725479
+54,0.8730000305175781,0.3390000152587891,Marvin Pieringer,RightFoot,BlockedShot,FC Heidenheim,St. Pauli,Budu Zivzivadze,0.07523026317358017
+81,0.879000015258789,0.6070000076293945,Eren Sami Dinkci,RightFoot,Goal,FC Heidenheim,St. Pauli,Diant Ramaj,0.30300217866897583
+85,0.8619999694824219,0.7219999694824218,Marvin Pieringer,LeftFoot,MissedShots,FC Heidenheim,St. Pauli,,0.025628739967942238
+85,0.879000015258789,0.5979999923706054,Eren Sami Dinkci,LeftFoot,BlockedShot,FC Heidenheim,St. Pauli,Marvin Pieringer,0.14278042316436768
+86,0.8569999694824219,0.41700000762939454,Jan Schöppner,Head,BlockedShot,FC Heidenheim,St. Pauli,Hennes Behrens,0.012104254215955734
+94,0.8690000152587891,0.5370000076293945,Marnon Busch,LeftFoot,SavedShot,FC Heidenheim,St. Pauli,,0.13088847696781158
+12,0.8959999847412109,0.2589999961853027,Marnon Busch,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,Jan Schöppner,0.03638174384832382
+14,0.87,0.575999984741211,Patrick Mainka,Head,MissedShots,Bayern Munich,FC Heidenheim,Niklas Dorsch,0.04062804579734802
+21,0.945,0.4779999923706055,Budu Zivzivadze,LeftFoot,Goal,Bayern Munich,FC Heidenheim,Marnon Busch,0.4544387459754944
+26,0.7609999847412109,0.4470000076293945,Eren Sami Dinkci,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,Arijon Ibrahimovic,0.037665583193302155
+30,0.975,0.5279999923706055,Eren Sami Dinkci,RightFoot,Goal,Bayern Munich,FC Heidenheim,Marnon Busch,0.9582741260528564
+36,0.850999984741211,0.29100000381469726,Eren Sami Dinkci,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,Niklas Dorsch,0.054714471101760864
+59,0.8590000152587891,0.504000015258789,Patrick Mainka,Head,SavedShot,Bayern Munich,FC Heidenheim,Eren Sami Dinkci,0.036394137889146805
+62,0.7580000305175781,0.6430000305175781,Hennes Behrens,RightFoot,MissedShots,Bayern Munich,FC Heidenheim,,0.01609213463962078
+65,0.7340000152587891,0.28200000762939453,Jan Schöppner,RightFoot,BlockedShot,Bayern Munich,FC Heidenheim,Hennes Behrens,0.018266528844833374
+67,0.9540000152587891,0.539000015258789,Eren Sami Dinkci,RightFoot,SavedShot,Bayern Munich,FC Heidenheim,Arijon Ibrahimovic,0.7515438199043274
+68,0.71,0.48700000762939455,Budu Zivzivadze,LeftFoot,BlockedShot,Bayern Munich,FC Heidenheim,Eren Sami Dinkci,0.016076453030109406
+75,0.860999984741211,0.6940000152587891,Budu Zivzivadze,RightFoot,Goal,Bayern Munich,FC Heidenheim,Arijon Ibrahimovic,0.0614967979490757
+7,0.935,0.5020000076293946,Jan Schöppner,Head,Goal,FC Cologne,FC Heidenheim,Arijon Ibrahimovic,0.49420496821403503
+14,0.9419999694824219,0.65,Budu Zivzivadze,LeftFoot,BlockedShot,FC Cologne,FC Heidenheim,Hennes Behrens,0.0556335374712944
+21,0.8630000305175781,0.5020000076293946,Eren Sami Dinkci,RightFoot,MissedShots,FC Cologne,FC Heidenheim,,0.0790725126862526
+27,0.8780000305175781,0.6459999847412109,Arijon Ibrahimovic,RightFoot,Goal,FC Cologne,FC Heidenheim,,0.09409228712320328
+32,0.855999984741211,0.634000015258789,Hennes Behrens,LeftFoot,BlockedShot,FC Cologne,FC Heidenheim,Arijon Ibrahimovic,0.09435804933309555
+40,0.8590000152587891,0.29700000762939455,Marvin Pieringer,RightFoot,SavedShot,FC Cologne,FC Heidenheim,Jan Schöppner,0.04732081666588783
+47,0.9569999694824218,0.555,Marvin Pieringer,Head,MissedShots,FC Cologne,FC Heidenheim,Eren Sami Dinkci,0.12240194529294968
+61,0.8769999694824219,0.42,Jan Schöppner,RightFoot,MissedShots,FC Cologne,FC Heidenheim,Arijon Ibrahimovic,0.4724740982055664
+63,0.860999984741211,0.7230000305175781,Arijon Ibrahimovic,RightFoot,SavedShot,FC Cologne,FC Heidenheim,Hennes Behrens,0.04142393544316292
+71,0.9059999847412109,0.48400001525878905,Jan Schöppner,RightFoot,Goal,FC Cologne,FC Heidenheim,,0.48005804419517517
+85,0.899000015258789,0.47400001525878904,Marvin Pieringer,Head,MissedShots,FC Cologne,FC Heidenheim,Niklas Dorsch,0.06384643912315369
+13,0.8769999694824219,0.5790000152587891,Arijon Ibrahimovic,RightFoot,MissedShots,FC Heidenheim,Mainz 05,Marvin Pieringer,0.06632177531719208
+22,0.85,0.504000015258789,Eren Sami Dinkci,RightFoot,SavedShot,FC Heidenheim,Mainz 05,Arijon Ibrahimovic,0.08555881679058075
+29,0.9290000152587891,0.534000015258789,Marvin Pieringer,RightFoot,ShotOnPost,FC Heidenheim,Mainz 05,Budu Zivzivadze,0.5342476963996887
+29,0.8630000305175781,0.47900001525878905,Arijon Ibrahimovic,LeftFoot,BlockedShot,FC Heidenheim,Mainz 05,,0.3591417074203491
+39,0.815,0.6669999694824219,Eren Sami Dinkci,LeftFoot,BlockedShot,FC Heidenheim,Mainz 05,Jonas Föhrenbach,0.028383957222104073
+40,0.7819999694824219,0.3659999847412109,Eren Sami Dinkci,RightFoot,BlockedShot,FC Heidenheim,Mainz 05,Marvin Pieringer,0.04430079460144043
+49,0.9269999694824219,0.6120000076293945,Patrick Mainka,RightFoot,MissedShots,FC Heidenheim,Mainz 05,Niklas Dorsch,0.05180143937468529
+50,0.9269999694824219,0.5270000076293946,Jan Schöppner,Head,ShotOnPost,FC Heidenheim,Mainz 05,Eren Sami Dinkci,0.333261102437973
+61,0.855,0.3170000076293945,Arijon Ibrahimovic,LeftFoot,BlockedShot,FC Heidenheim,Mainz 05,Christian Conteh,0.07600365579128265
+66,0.835999984741211,0.4620000076293945,Budu Zivzivadze,LeftFoot,MissedShots,FC Heidenheim,Mainz 05,Jan Schöppner,0.0767337754368782
+75,0.9180000305175782,0.43599998474121093,Patrick Mainka,Head,SavedShot,FC Heidenheim,Mainz 05,Hennes Behrens,0.05549411103129387
+78,0.9309999847412109,0.600999984741211,Budu Zivzivadze,LeftFoot,SavedShot,FC Heidenheim,Mainz 05,Hennes Behrens,0.3186835050582886
+79,0.97,0.5620000076293945,Budu Zivzivadze,Head,SavedShot,FC Heidenheim,Mainz 05,,0.46806082129478455
+79,0.98,0.4229999923706055,Budu Zivzivadze,Head,MissedShots,FC Heidenheim,Mainz 05,Adrian Beck,0.27267783880233765
+92,0.915,0.36400001525878906,Stefan Schimmer,LeftFoot,SavedShot,FC Heidenheim,Mainz 05,,0.4593319594860077

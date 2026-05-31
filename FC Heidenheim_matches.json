@@ -868,5 +868,155 @@
             "l": 0.19378399437405797
         },
         "result": "w"
+    },
+    {
+        "id": "30489",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "135",
+            "title": "Freiburg",
+            "short_title": "FRE"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "2",
+            "a": "1"
+        },
+        "xG": {
+            "h": "2.13766",
+            "a": "1.74426"
+        },
+        "datetime": "2026-04-19 13:30:00",
+        "forecast": {
+            "w": 0.47312707375120233,
+            "d": 0.20684339022088127,
+            "l": 0.3200295261521729
+        },
+        "result": "l"
+    },
+    {
+        "id": "30498",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "288",
+            "title": "St. Pauli",
+            "short_title": "SPA"
+        },
+        "goals": {
+            "h": "2",
+            "a": "0"
+        },
+        "xG": {
+            "h": "2.17234",
+            "a": "1.17753"
+        },
+        "datetime": "2026-04-25 13:30:00",
+        "forecast": {
+            "w": 0.6001368177357944,
+            "d": 0.20145522842376062,
+            "l": 0.19840794244167403
+        },
+        "result": "w"
+    },
+    {
+        "id": "30504",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "117",
+            "title": "Bayern Munich",
+            "short_title": "BAY"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "3",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.87973",
+            "a": "2.48197"
+        },
+        "datetime": "2026-05-02 13:30:00",
+        "forecast": {
+            "w": 0.29443135557041045,
+            "d": 0.19040313341273468,
+            "l": 0.5151654462244061
+        },
+        "result": "d"
+    },
+    {
+        "id": "30514",
+        "isResult": true,
+        "side": "a",
+        "h": {
+            "id": "134",
+            "title": "FC Cologne",
+            "short_title": "COL"
+        },
+        "a": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "goals": {
+            "h": "1",
+            "a": "3"
+        },
+        "xG": {
+            "h": "1.51486",
+            "a": "2.04489"
+        },
+        "datetime": "2026-05-10 15:30:00",
+        "forecast": {
+            "w": 0.2864478208122463,
+            "d": 0.21345506318184382,
+            "l": 0.5000971107317898
+        },
+        "result": "w"
+    },
+    {
+        "id": "30526",
+        "isResult": true,
+        "side": "h",
+        "h": {
+            "id": "280",
+            "title": "FC Heidenheim",
+            "short_title": "HEI"
+        },
+        "a": {
+            "id": "125",
+            "title": "Mainz 05",
+            "short_title": "MAI"
+        },
+        "goals": {
+            "h": "0",
+            "a": "2"
+        },
+        "xG": {
+            "h": "3.03813",
+            "a": "3.90834"
+        },
+        "datetime": "2026-05-16 13:30:00",
+        "forecast": {
+            "w": 0.29935049378753864,
+            "d": 0.1467386272819421,
+            "l": 0.5538947795008763
+        },
+        "result": "l"
     }
 ]

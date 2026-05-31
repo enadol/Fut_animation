@@ -498,3 +498,44 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 83,0.8240000152587891,0.5429999923706055,Antonio Nusa,RightFoot,MissedShots,RasenBallsport Leipzig,Union Berlin,Brajan Gruda,0.09335241466760635
 90,0.8730000305175781,0.37099998474121093,Conrad Harder,LeftFoot,BlockedShot,RasenBallsport Leipzig,Union Berlin,Benjamin Henrichs,0.1157296821475029
 93,0.8680000305175781,0.3609999847412109,Johan Bakayoko,LeftFoot,SavedShot,RasenBallsport Leipzig,Union Berlin,Tidiam Gomis,0.39631834626197815
+2,0.8380000305175781,0.3529999923706055,Rômulo,RightFoot,MissedShots,Bayer Leverkusen,RasenBallsport Leipzig,Antonio Nusa,0.06616009771823883
+8,0.7619999694824219,0.5279999923706055,Antonio Nusa,RightFoot,SavedShot,Bayer Leverkusen,RasenBallsport Leipzig,Christoph Baumgartner,0.027364905923604965
+16,0.8819999694824219,0.45,Rômulo,RightFoot,BlockedShot,Bayer Leverkusen,RasenBallsport Leipzig,Nicolas Seiwald,0.39188122749328613
+24,0.8930000305175781,0.5259999847412109,Nicolas Seiwald,Head,MissedShots,Bayer Leverkusen,RasenBallsport Leipzig,Max Finkgrafe,0.08385555446147919
+38,0.8619999694824219,0.6919999694824219,Max Finkgrafe,LeftFoot,MissedShots,Bayer Leverkusen,RasenBallsport Leipzig,Xaver Schlager,0.04449125751852989
+40,0.8540000152587891,0.7430000305175781,Max Finkgrafe,LeftFoot,SavedShot,Bayer Leverkusen,RasenBallsport Leipzig,,0.02618546225130558
+40,0.7230000305175781,0.47299999237060547,Xaver Schlager,LeftFoot,MissedShots,Bayer Leverkusen,RasenBallsport Leipzig,Bote Baku,0.0168069489300251
+45,0.8180000305175781,0.32099998474121094,Brajan Gruda,LeftFoot,BlockedShot,Bayer Leverkusen,RasenBallsport Leipzig,Xaver Schlager,0.03246523067355156
+45,0.7659999847412109,0.5459999847412109,Yan Diomande,RightFoot,MissedShots,Bayer Leverkusen,RasenBallsport Leipzig,Xaver Schlager,0.027615869417786598
+48,0.894000015258789,0.2539999961853027,Rômulo,RightFoot,BlockedShot,Bayer Leverkusen,RasenBallsport Leipzig,Willi Orban,0.034988876432180405
+49,0.875,0.5259999847412109,Christoph Baumgartner,Head,BlockedShot,Bayer Leverkusen,RasenBallsport Leipzig,Max Finkgrafe,0.013953582383692265
+58,0.8059999847412109,0.3110000038146973,Bote Baku,LeftFoot,BlockedShot,Bayer Leverkusen,RasenBallsport Leipzig,Brajan Gruda,0.024543294683098793
+78,0.8690000152587891,0.40200000762939453,Brajan Gruda,LeftFoot,SavedShot,Bayer Leverkusen,RasenBallsport Leipzig,Xaver Schlager,0.08853376656770706
+79,0.9580000305175781,0.5420000076293945,Christoph Baumgartner,Head,Goal,Bayer Leverkusen,RasenBallsport Leipzig,Brajan Gruda,0.6184858679771423
+7,0.970999984741211,0.544000015258789,Christoph Baumgartner,LeftFoot,SavedShot,RasenBallsport Leipzig,St. Pauli,,0.640515923500061
+7,0.9740000152587891,0.5209999847412109,Brajan Gruda,LeftFoot,MissedShots,RasenBallsport Leipzig,St. Pauli,,0.7572481036186218
+10,0.8019999694824219,0.34400001525878904,Brajan Gruda,LeftFoot,BlockedShot,RasenBallsport Leipzig,St. Pauli,Assan Ouédraogo,0.03206263482570648
+26,0.8180000305175781,0.5770000076293945,Rômulo,RightFoot,MissedShots,RasenBallsport Leipzig,St. Pauli,Assan Ouédraogo,0.05076366290450096
+40,0.78,0.4809999847412109,Brajan Gruda,LeftFoot,MissedShots,RasenBallsport Leipzig,St. Pauli,,0.049051303416490555
+42,0.9109999847412109,0.47,Christoph Baumgartner,Head,MissedShots,RasenBallsport Leipzig,St. Pauli,Brajan Gruda,0.06420720368623734
+44,0.8830000305175781,0.5520000076293945,Christoph Baumgartner,Head,BlockedShot,RasenBallsport Leipzig,St. Pauli,David Raum,0.033026665449142456
+44,0.9230000305175782,0.5229999923706055,Xaver Schlager,RightFoot,Goal,RasenBallsport Leipzig,St. Pauli,Christoph Baumgartner,0.136949360370636
+53,0.8469999694824218,0.5379999923706055,Assan Ouédraogo,RightFoot,ShotOnPost,RasenBallsport Leipzig,St. Pauli,Yan Diomande,0.33901822566986084
+53,0.9080000305175782,0.4229999923706055,Willi Orban,Head,Goal,RasenBallsport Leipzig,St. Pauli,David Raum,0.049412764608860016
+76,0.860999984741211,0.4420000076293945,Christoph Baumgartner,RightFoot,MissedShots,RasenBallsport Leipzig,St. Pauli,,0.09040243178606033
+88,0.7869999694824219,0.6519999694824219,Antonio Nusa,RightFoot,SavedShot,RasenBallsport Leipzig,St. Pauli,Max Finkgrafe,0.03222435712814331
+90,0.8019999694824219,0.519000015258789,Antonio Nusa,RightFoot,SavedShot,RasenBallsport Leipzig,St. Pauli,Rômulo,0.058733098208904266
+1,0.9309999847412109,0.4979999923706055,Yan Diomande,LeftFoot,SavedShot,Freiburg,RasenBallsport Leipzig,Christoph Baumgartner,0.5932773351669312
+13,0.7980000305175782,0.605,Yan Diomande,RightFoot,MissedShots,Freiburg,RasenBallsport Leipzig,,0.01521807536482811
+32,0.81,0.47099998474121096,Assan Ouédraogo,LeftFoot,Goal,Freiburg,RasenBallsport Leipzig,Yan Diomande,0.06477061659097672
+33,0.9490000152587891,0.6430000305175781,Yan Diomande,LeftFoot,SavedShot,Freiburg,RasenBallsport Leipzig,,0.06245097517967224
+34,0.705999984741211,0.7030000305175781,Conrad Harder,LeftFoot,MissedShots,Freiburg,RasenBallsport Leipzig,Brajan Gruda,0.010232893750071526
+44,0.8569999694824219,0.305,Conrad Harder,LeftFoot,SavedShot,Freiburg,RasenBallsport Leipzig,Willi Orban,0.03480035439133644
+47,0.755,0.33799999237060546,Assan Ouédraogo,RightFoot,SavedShot,Freiburg,RasenBallsport Leipzig,Nicolas Seiwald,0.01953645795583725
+49,0.914000015258789,0.5,Conrad Harder,Head,BlockedShot,Freiburg,RasenBallsport Leipzig,Brajan Gruda,0.06668765097856522
+52,0.9009999847412109,0.5279999923706055,Christoph Baumgartner,Head,SavedShot,Freiburg,RasenBallsport Leipzig,Max Finkgrafe,0.06652490794658661
+55,0.8490000152587891,0.5879999923706055,Brajan Gruda,LeftFoot,BlockedShot,Freiburg,RasenBallsport Leipzig,Conrad Harder,0.07679522037506104
+58,0.9880000305175781,0.6680000305175782,Christoph Baumgartner,LeftFoot,MissedShots,Freiburg,RasenBallsport Leipzig,Willi Orban,0.03873229771852493
+63,0.8519999694824218,0.5079999923706054,Antonio Nusa,RightFoot,BlockedShot,Freiburg,RasenBallsport Leipzig,Bote Baku,0.0486648865044117
+87,0.8480000305175781,0.5279999923706055,Bote Baku,LeftFoot,MissedShots,Freiburg,RasenBallsport Leipzig,Antonio Nusa,0.08607816696166992
+93,0.9209999847412109,0.495,Rômulo,Head,MissedShots,Freiburg,RasenBallsport Leipzig,Johan Bakayoko,0.3296433985233307

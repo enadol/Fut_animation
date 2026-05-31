@@ -406,3 +406,117 @@ minute,X,Y,player,shotType,result,h_team,a_team,player_assisted,xG
 66,0.8180000305175781,0.49,Tiago Tomás,RightFoot,MissedShots,Augsburg,VfB Stuttgart,Deniz Undav,0.07496171444654465
 68,0.8780000305175781,0.524000015258789,Deniz Undav,Head,MissedShots,Augsburg,VfB Stuttgart,Maximilian Mittelstädt,0.0453856997191906
 82,0.8909999847412109,0.534000015258789,Ermedin Demirovic,RightFoot,Goal,Augsburg,VfB Stuttgart,Deniz Undav,0.5206795930862427
+7,0.7440000152587891,0.7440000152587891,Maximilian Mittelstädt,LeftFoot,BlockedShot,VfB Stuttgart,Borussia Dortmund,Angelo Stiller,0.01715795323252678
+12,0.7290000152587891,0.5109999847412109,Chris Führich,RightFoot,SavedShot,VfB Stuttgart,Borussia Dortmund,,0.014213953167200089
+18,0.8430000305175781,0.4329999923706055,Angelo Stiller,LeftFoot,SavedShot,VfB Stuttgart,Borussia Dortmund,,0.09821783751249313
+18,0.8490000152587891,0.6179999923706054,Chris Führich,RightFoot,BlockedShot,VfB Stuttgart,Borussia Dortmund,Deniz Undav,0.05890865996479988
+25,0.950999984741211,0.35700000762939454,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Borussia Dortmund,,0.03365170955657959
+27,0.7469999694824219,0.30100000381469727,Chris Führich,LeftFoot,BlockedShot,VfB Stuttgart,Borussia Dortmund,Maximilian Mittelstädt,0.01821291632950306
+33,0.7859999847412109,0.47200000762939454,Chris Führich,RightFoot,MissedShots,VfB Stuttgart,Borussia Dortmund,,0.1082342267036438
+42,0.8530000305175781,0.37599998474121094,Chris Führich,RightFoot,MissedShots,VfB Stuttgart,Borussia Dortmund,,0.045957185328006744
+54,0.8519999694824218,0.3270000076293945,Lorenz Assignon,RightFoot,SavedShot,VfB Stuttgart,Borussia Dortmund,Angelo Stiller,0.03410298004746437
+67,0.8930000305175781,0.49700000762939456,Deniz Undav,Head,BlockedShot,VfB Stuttgart,Borussia Dortmund,Lorenz Assignon,0.040083397179841995
+81,0.7809999847412109,0.37799999237060544,Angelo Stiller,LeftFoot,MissedShots,VfB Stuttgart,Borussia Dortmund,Atakan Karazor,0.023824861273169518
+83,0.7580000305175781,0.36900001525878906,Jamie Leweling,LeftFoot,MissedShots,VfB Stuttgart,Borussia Dortmund,Maximilian Mittelstädt,0.02154424786567688
+94,0.7969999694824219,0.47,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Borussia Dortmund,,0.03913843631744385
+9,0.8630000305175781,0.534000015258789,Deniz Undav,LeftFoot,MissedShots,VfB Stuttgart,Hamburger SV,,0.07774859666824341
+20,0.879000015258789,0.4640000152587891,Angelo Stiller,LeftFoot,Goal,VfB Stuttgart,Hamburger SV,Jamie Leweling,0.40347370505332947
+31,0.895,0.615,Chris Führich,LeftFoot,Goal,VfB Stuttgart,Hamburger SV,Ermedin Demirovic,0.3544144034385681
+38,0.815,0.4620000076293945,Ermedin Demirovic,RightFoot,BlockedShot,VfB Stuttgart,Hamburger SV,Deniz Undav,0.07882694154977798
+39,0.845,0.5679999923706055,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Hamburger SV,Julian Chabot,0.02263859286904335
+40,0.884000015258789,0.590999984741211,Chris Führich,RightFoot,BlockedShot,VfB Stuttgart,Hamburger SV,Deniz Undav,0.1187744066119194
+41,0.7730000305175782,0.41400001525878904,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Hamburger SV,Chris Führich,0.02665136568248272
+43,0.8769999694824219,0.544000015258789,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Hamburger SV,Jamie Leweling,0.44213616847991943
+45,0.904000015258789,0.4779999923706055,Julian Chabot,Head,MissedShots,VfB Stuttgart,Hamburger SV,Maximilian Mittelstädt,0.1046198308467865
+47,0.8869999694824219,0.38299999237060545,Chema Andres,RightFoot,MissedShots,VfB Stuttgart,Hamburger SV,,0.06363376975059509
+47,0.9290000152587891,0.5229999923706055,Ermedin Demirovic,RightFoot,SavedShot,VfB Stuttgart,Hamburger SV,Chema Andres,0.13936392962932587
+49,0.9569999694824218,0.8040000152587891,Chris Führich,RightFoot,MissedShots,VfB Stuttgart,Hamburger SV,,0.07752605527639389
+50,0.9630000305175781,0.6819999694824219,Maximilian Mittelstädt,LeftFoot,SavedShot,VfB Stuttgart,Hamburger SV,Chris Führich,0.0830192118883133
+52,0.8130000305175781,0.54,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Hamburger SV,Ermedin Demirovic,0.07957744598388672
+54,0.9080000305175782,0.605999984741211,Chris Führich,LeftFoot,SavedShot,VfB Stuttgart,Hamburger SV,Deniz Undav,0.364571213722229
+55,0.735,0.595,Maximilian Mittelstädt,LeftFoot,Goal,VfB Stuttgart,Hamburger SV,Chris Führich,0.024387452751398087
+58,0.795,0.35400001525878905,Maximilian Mittelstädt,LeftFoot,SavedShot,VfB Stuttgart,Hamburger SV,,0.08717141300439835
+59,0.9530000305175781,0.495,Deniz Undav,Head,BlockedShot,VfB Stuttgart,Hamburger SV,Chris Führich,0.08219015598297119
+62,0.909000015258789,0.6580000305175782,Chris Führich,LeftFoot,SavedShot,VfB Stuttgart,Hamburger SV,Chema Andres,0.11667986959218979
+62,0.875,0.44799999237060545,Angelo Stiller,LeftFoot,BlockedShot,VfB Stuttgart,Hamburger SV,Chema Andres,0.14398258924484253
+75,0.89,0.5620000076293945,Bilal El Khannouss,LeftFoot,BlockedShot,VfB Stuttgart,Hamburger SV,Deniz Undav,0.1223573237657547
+81,0.885,0.5,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Hamburger SV,,0.75777667760849
+85,0.825999984741211,0.49599998474121093,Bilal El Khannouss,RightFoot,Goal,VfB Stuttgart,Hamburger SV,Tiago Tomás,0.1018487885594368
+11,0.8490000152587891,0.47900001525878905,Bilal El Khannouss,RightFoot,SavedShot,Bayern Munich,VfB Stuttgart,,0.07120782136917114
+20,0.9,0.6680000305175782,Chris Führich,RightFoot,Goal,Bayern Munich,VfB Stuttgart,Bilal El Khannouss,0.328178346157074
+34,0.7480000305175781,0.5079999923706054,Jamie Leweling,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,,0.019752608612179756
+38,0.9180000305175782,0.5359999847412109,Tiago Tomás,Head,MissedShots,Bayern Munich,VfB Stuttgart,Chris Führich,0.1323314905166626
+42,0.7619999694824219,0.6329999923706054,Chris Führich,RightFoot,SavedShot,Bayern Munich,VfB Stuttgart,Ramon Hendriks,0.019062699750065804
+69,0.9030000305175782,0.5020000076293946,Bilal El Khannouss,LeftFoot,SavedShot,Bayern Munich,VfB Stuttgart,Chema Andres,0.38326922059059143
+87,0.9490000152587891,0.605999984741211,Ramon Hendriks,RightFoot,BlockedShot,Bayern Munich,VfB Stuttgart,Bilal El Khannouss,0.11326735466718674
+87,0.8980000305175782,0.46900001525878904,Badredine Bouanani,LeftFoot,BlockedShot,Bayern Munich,VfB Stuttgart,,0.10704843699932098
+87,0.8209999847412109,0.51,Chema Andres,RightFoot,Goal,Bayern Munich,VfB Stuttgart,Atakan Karazor,0.03837334364652634
+91,0.860999984741211,0.6940000152587891,Bilal El Khannouss,RightFoot,SavedShot,Bayern Munich,VfB Stuttgart,Ermedin Demirovic,0.04783780500292778
+92,0.7780000305175782,0.27,Badredine Bouanani,LeftFoot,SavedShot,Bayern Munich,VfB Stuttgart,,0.012172546237707138
+9,0.725,0.37799999237060544,Luca Jaquez,RightFoot,MissedShots,VfB Stuttgart,Werder Bremen,Chema Andres,0.017238371074199677
+11,0.7519999694824219,0.5259999847412109,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Werder Bremen,Angelo Stiller,0.028661465272307396
+13,0.9019999694824219,0.5070000076293946,Tiago Tomás,LeftFoot,MissedShots,VfB Stuttgart,Werder Bremen,Bilal El Khannouss,0.3373171389102936
+20,0.8230000305175781,0.6079999923706054,Tiago Tomás,LeftFoot,MissedShots,VfB Stuttgart,Werder Bremen,Deniz Undav,0.05309181660413742
+21,0.9159999847412109,0.4929999923706055,Bilal El Khannouss,Head,SavedShot,VfB Stuttgart,Werder Bremen,Lorenz Assignon,0.33684012293815613
+23,0.769000015258789,0.5070000076293946,Dan-Axel Zagadou,RightFoot,BlockedShot,VfB Stuttgart,Werder Bremen,Lorenz Assignon,0.032840535044670105
+30,0.7909999847412109,0.735,Maximilian Mittelstädt,LeftFoot,SavedShot,VfB Stuttgart,Werder Bremen,,0.056550294160842896
+43,0.9540000152587891,0.42700000762939455,Jamie Leweling,RightFoot,BlockedShot,VfB Stuttgart,Werder Bremen,Lorenz Assignon,0.1157088503241539
+44,0.759000015258789,0.35200000762939454,Bilal El Khannouss,RightFoot,MissedShots,VfB Stuttgart,Werder Bremen,Deniz Undav,0.029131820425391197
+45,0.8719999694824219,0.610999984741211,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Werder Bremen,Angelo Stiller,0.07329253107309341
+50,0.7930000305175782,0.5729999923706055,Bilal El Khannouss,RightFoot,MissedShots,VfB Stuttgart,Werder Bremen,Jamie Leweling,0.031942203640937805
+54,0.85,0.64,Deniz Undav,LeftFoot,BlockedShot,VfB Stuttgart,Werder Bremen,,0.06659134477376938
+58,0.8680000305175781,0.4209999847412109,Chris Führich,RightFoot,BlockedShot,VfB Stuttgart,Werder Bremen,,0.06678742915391922
+60,0.9209999847412109,0.49,Ermedin Demirovic,Head,Goal,VfB Stuttgart,Werder Bremen,Bilal El Khannouss,0.32601532340049744
+65,0.799000015258789,0.5370000076293945,Angelo Stiller,LeftFoot,BlockedShot,VfB Stuttgart,Werder Bremen,Chris Führich,0.04900696128606796
+81,0.795,0.28200000762939453,Badredine Bouanani,LeftFoot,SavedShot,VfB Stuttgart,Werder Bremen,,0.06317261606454849
+84,0.8909999847412109,0.539000015258789,Bilal El Khannouss,RightFoot,BlockedShot,VfB Stuttgart,Werder Bremen,Chris Führich,0.12429054081439972
+85,0.7480000305175781,0.4779999923706055,Luca Jaquez,RightFoot,BlockedShot,VfB Stuttgart,Werder Bremen,Chris Führich,0.02270231768488884
+88,0.96,0.4420000076293945,Ermedin Demirovic,Head,MissedShots,VfB Stuttgart,Werder Bremen,Chris Führich,0.11598294973373413
+92,0.8290000152587891,0.615999984741211,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Werder Bremen,Bilal El Khannouss,0.04964388906955719
+8,0.945,0.6990000152587891,Chris Führich,LeftFoot,SavedShot,Hoffenheim,VfB Stuttgart,,0.04731616750359535
+19,0.9590000152587891,0.6680000305175782,Chris Führich,LeftFoot,Goal,Hoffenheim,VfB Stuttgart,Ramon Hendriks,0.0624830424785614
+24,0.86,0.529000015258789,Deniz Undav,Head,MissedShots,Hoffenheim,VfB Stuttgart,Jamie Leweling,0.025781989097595215
+43,0.9469999694824218,0.3089999961853027,Bilal El Khannouss,RightFoot,MissedShots,Hoffenheim,VfB Stuttgart,Deniz Undav,0.05481390655040741
+51,0.8180000305175781,0.644000015258789,Chris Führich,RightFoot,MissedShots,Hoffenheim,VfB Stuttgart,Bilal El Khannouss,0.07002225518226624
+56,0.8040000152587891,0.3679999923706055,Jamie Leweling,LeftFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Angelo Stiller,0.03658773750066757
+57,0.7719999694824219,0.674000015258789,Bilal El Khannouss,RightFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Chris Führich,0.02278405800461769
+63,0.9669999694824218,0.6020000076293945,Ermedin Demirovic,LeftFoot,Goal,Hoffenheim,VfB Stuttgart,Jamie Leweling,0.3038112223148346
+76,0.7769999694824219,0.5259999847412109,Jamie Leweling,LeftFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Maximilian Mittelstädt,0.038234688341617584
+77,0.924000015258789,0.65,Angelo Stiller,Head,MissedShots,Hoffenheim,VfB Stuttgart,Lorenz Assignon,0.011835585348308086
+91,0.860999984741211,0.47299999237060547,Deniz Undav,RightFoot,BlockedShot,Hoffenheim,VfB Stuttgart,Ermedin Demirovic,0.06261657178401947
+93,0.9640000152587891,0.40799999237060547,Tiago Tomás,Head,MissedShots,Hoffenheim,VfB Stuttgart,Chris Führich,0.22308596968650818
+94,0.914000015258789,0.53,Angelo Stiller,LeftFoot,SavedShot,Hoffenheim,VfB Stuttgart,Deniz Undav,0.4559861421585083
+94,0.955999984741211,0.47,Tiago Tomás,RightFoot,Goal,Hoffenheim,VfB Stuttgart,,0.636321485042572
+2,0.79,0.605,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Bayer Leverkusen,Nikolas Nartey,0.031417980790138245
+4,0.9119999694824219,0.3890000152587891,Ermedin Demirovic,RightFoot,Goal,VfB Stuttgart,Bayer Leverkusen,Nikolas Nartey,0.3694588243961334
+6,0.7969999694824219,0.6029999923706054,Maximilian Mittelstädt,LeftFoot,MissedShots,VfB Stuttgart,Bayer Leverkusen,Angelo Stiller,0.03828476741909981
+10,0.8059999847412109,0.6359999847412109,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,Angelo Stiller,0.055728089064359665
+17,0.7630000305175781,0.3970000076293945,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,Ermedin Demirovic,0.02180151268839836
+23,0.914000015258789,0.46,Ermedin Demirovic,RightFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,,0.5002371668815613
+24,0.9109999847412109,0.6780000305175782,Deniz Undav,RightFoot,SavedShot,VfB Stuttgart,Bayer Leverkusen,Julian Chabot,0.040350448340177536
+26,0.91,0.2670000076293945,Ermedin Demirovic,RightFoot,MissedShots,VfB Stuttgart,Bayer Leverkusen,Chema Andres,0.10575136542320251
+30,0.8669999694824219,0.35200000762939454,Ermedin Demirovic,RightFoot,MissedShots,VfB Stuttgart,Bayer Leverkusen,,0.0571959987282753
+39,0.7340000152587891,0.4520000076293945,Deniz Undav,RightFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,Chris Führich,0.019401516765356064
+42,0.9080000305175782,0.5329999923706055,Ermedin Demirovic,RightFoot,SavedShot,VfB Stuttgart,Bayer Leverkusen,Angelo Stiller,0.12355516105890274
+43,0.92,0.6819999694824219,Deniz Undav,RightFoot,MissedShots,VfB Stuttgart,Bayer Leverkusen,,0.04593011364340782
+44,0.9290000152587891,0.4570000076293945,Ermedin Demirovic,Head,MissedShots,VfB Stuttgart,Bayer Leverkusen,Nikolas Nartey,0.0765267163515091
+51,0.885,0.5,Maximilian Mittelstädt,LeftFoot,Goal,VfB Stuttgart,Bayer Leverkusen,,0.75777667760849
+52,0.879000015258789,0.6919999694824219,Angelo Stiller,LeftFoot,SavedShot,VfB Stuttgart,Bayer Leverkusen,Chris Führich,0.05825771763920784
+53,0.919000015258789,0.6079999923706054,Maximilian Mittelstädt,LeftFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,Chris Führich,0.38324472308158875
+55,0.9330000305175781,0.5740000152587891,Julian Chabot,Head,SavedShot,VfB Stuttgart,Bayer Leverkusen,Maximilian Mittelstädt,0.08309287577867508
+57,0.9359999847412109,0.514000015258789,Deniz Undav,RightFoot,Goal,VfB Stuttgart,Bayer Leverkusen,Jamie Leweling,0.6096271872520447
+62,0.745999984741211,0.67,Chris Führich,RightFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,Nikolas Nartey,0.027696464210748672
+62,0.789000015258789,0.42700000762939455,Jamie Leweling,RightFoot,BlockedShot,VfB Stuttgart,Bayer Leverkusen,,0.024250052869319916
+7,0.955999984741211,0.6680000305175782,Chris Führich,LeftFoot,SavedShot,Eintracht Frankfurt,VfB Stuttgart,Alexander Nübel,0.08446722477674484
+8,0.93,0.68,Chris Führich,RightFoot,BlockedShot,Eintracht Frankfurt,VfB Stuttgart,Jamie Leweling,0.05290095880627632
+9,0.960999984741211,0.4570000076293945,Chema Andres,Head,Goal,Eintracht Frankfurt,VfB Stuttgart,Chris Führich,0.33989349007606506
+30,0.7480000305175781,0.445,Jamie Leweling,LeftFoot,MissedShots,Eintracht Frankfurt,VfB Stuttgart,Chris Führich,0.02722637914121151
+33,0.889000015258789,0.45299999237060545,Nikolas Nartey,Head,SavedShot,Eintracht Frankfurt,VfB Stuttgart,Chris Führich,0.04239693284034729
+36,0.8390000152587891,0.37400001525878906,Ramon Hendriks,LeftFoot,MissedShots,Eintracht Frankfurt,VfB Stuttgart,Deniz Undav,0.036305226385593414
+44,0.7630000305175781,0.39099998474121095,Jamie Leweling,RightFoot,BlockedShot,Eintracht Frankfurt,VfB Stuttgart,Deniz Undav,0.029895642772316933
+48,0.894000015258789,0.514000015258789,Nikolas Nartey,LeftFoot,Goal,Eintracht Frankfurt,VfB Stuttgart,Deniz Undav,0.4532553553581238
+51,0.700999984741211,0.5479999923706055,Deniz Undav,RightFoot,MissedShots,Eintracht Frankfurt,VfB Stuttgart,Julian Chabot,0.018158936873078346
+58,0.9619999694824218,0.55,Chema Andres,Head,SavedShot,Eintracht Frankfurt,VfB Stuttgart,Maximilian Mittelstädt,0.54749596118927
+60,0.914000015258789,0.5609999847412109,Ermedin Demirovic,Head,SavedShot,Eintracht Frankfurt,VfB Stuttgart,Angelo Stiller,0.10038047283887863
+78,0.8390000152587891,0.36,Jamie Leweling,RightFoot,SavedShot,Eintracht Frankfurt,VfB Stuttgart,Deniz Undav,0.06349341571331024
+78,0.7380000305175781,0.3559999847412109,Chema Andres,RightFoot,MissedShots,Eintracht Frankfurt,VfB Stuttgart,,0.015226863324642181
